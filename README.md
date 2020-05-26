@@ -44,13 +44,20 @@ Some handy home-made Python 2.7 scripts were made to help beautify the translati
 
 These scripts can be upgraded eventually, and are not perfect, so checking with a diff tool is required. (Like WinMerge)
 
-## Import and test translation
+## Test translation
 
-- Have the original game in version 0.990m
-- Replace archive.rpa by the repo's if not done already
-- Generate translations for "french" OR add this repo's "french" folder in /game/tl
-- Open renpy-ttk in Ren'Py SDK and import your MO file. (Compiled PO file) with mo2tl
+- Get the original game in version 0.990m
+- Replace archive.rpa from the releases
 - Launch game normally
+
+## I want to contribute!
+
+- Cool! Open the fr_FR.po file with a text editor / PO editor
+- Translate / Check (Remove "#fuzzy" lines)
+- Test your own translation by first extracting the archive.rpa to have all files (You can use rpatool.py)
+- Use renpy-ttk to with Ren'Py SDK and import your compiled PO file (fr_FR.mo) with mo2tl
+- Launch the game normally after the process to see the results
+- Commit if you're satisfied
 
 ---
 
@@ -98,13 +105,20 @@ Des scripts Python 2.7 maison ont été faits pour optimiser / embellir la tradu
 
 Ces scripts peuvent être améliorés, et ne sont jamais parfaits, donc il est prudent de toujours vérifier la différence avec les fichiers sortants des scripts. (On peut utiliser WinMerge)
 
-## Importer et tester la traduction
+## Tester la traduction
 
 - Avoir une version du jeu Rogue Like: Evolution 0.990m
-- Remplacer archive.rpa par celui du dépôt si ce n'est pas déjà fait
-- Générer les traductions pour "french" ou bien coller le dossier "french" du dépôt dans /game/tl
-- Ouvrir renpy-ttk avec le SDK Ren'Py et importer le fichier MO (Fichier PO compilé) avec mo2tl
+- Remplacer archive.rpa par celui de la release
 - Lancer le jeu normalement
+
+## Je veux contribuer !
+
+- Cool! Ouvrez le fichier fr_FR.po avec un éditeur de texte / éditeur PO
+- Traduisez / Vérifier (Enlevez les lignes "#fuzzy")
+- Testez votre propre traduction en décompressant d'abord l'archive rpa pour avoir tous les fichiers (/game/tl/french, et les sources, utilisez rpatool.py)
+- Utilisez renpy-ttk avec le SDK Ren'Py et importez votre fichier PO compilé (fr_FR.mo) avec mo2tl
+- Lancez le jeu normalement après le traitement pour voir les résultats
+- Commit si satisfaits
 
 ## Liens utiles - Useful links
 
