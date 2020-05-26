@@ -39,6 +39,7 @@ Some handy home-made Python 2.7 scripts were made to help beautify the translati
 - addTranslatableStrings.py: Will add "__()" around text defined in $line variable.
 - removeBlankLines.py: Remove blank entries in PO file
 - removeUselessStrings.py: Remove metadata entry added by POEdit
+- rpatool.py: Tool to handle rpa archives (https://github.com/Shizmob/rpatool)
 - unfuzzyDuplicates.py: If an entry is duplicated but has already been translated, it's useful to be able to unfuzzy all duplicates of same original text, and replace their translation with the first unfuzzy translation of original text it finds.
 
 These scripts can be upgraded eventually, and are not perfect, so checking with a diff tool is required. (Like WinMerge)
@@ -92,6 +93,7 @@ Des scripts Python 2.7 maison ont été faits pour optimiser / embellir la tradu
 - addTranslatableStrings.py: Ajoute "__()" autour des chaînes de texte de la variable $line pour les rendre traduisibles.
 - removeBlankLines.py: Enlève les entrées vides d'un fichier PO
 - removeUselessStrings.py: Enlève l'entrée de métadonnées rajoutée par POEdit
+- rpatool.py: Outil pour manipuler les archives rpa (https://github.com/Shizmob/rpatool)
 - unfuzzyDuplicates.py: Si une entrée est dupliquée et "fuzzy" (à vérifier) a déjà été traduite auparavant dans une entrée avec texte original identique, il est pratique de rendre toutes les autres entrées de texte original identique "unfuzzy" (traduction vérifiée) avec sa traduction remplacée par la première traduction vérifiée qu'il trouve pour cette même entrée de texte original identique.
 
 Ces scripts peuvent être améliorés, et ne sont jamais parfaits, donc il est prudent de toujours vérifier la différence avec les fichiers sortants des scripts. (On peut utiliser WinMerge)
