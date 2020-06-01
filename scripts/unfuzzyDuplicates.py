@@ -12,23 +12,26 @@ class Translatable:
 	msgstr = ""
 
 def usage():
-	print 'Usage: unfuzzyDuplicates.py -i <inputFile> -o <outputFile>'
+	print 'Usage: unfuzzyDuplicates.py -i <inputFile> -o <outputFile> [-v]'
 	
 def main(argv):
 	try:
-		opts, args = getopt.getopt(argv, "i:o:")
+		opts, args = getopt.getopt(argv, "i:o:v")
 		if len(sys.argv) < 4:
 			usage()
 			sys.exit(2)
 	except getopt.GetoptError:
 		usage()
 		sys.exit(2)
+	verbose = False
 	for opt, arg in opts:
 		if opt == '-h':
 			usage()
 			sys.exit()
 		elif opt in ("-i"):
 			inputFile = arg 
+		elif opt in ("-v"):
+			verbose = True
 		elif opt in ("-o"):
 			outputFile = arg
 	print "Stocking translatables..."
@@ -92,15 +95,20 @@ def main(argv):
 				# Write fuzzy line only if msgid was parsed earlier
 				if trans.fuzzy != "" and not trans.msgid in alreadyParsedMsgIds:
 					f.write(trans.fuzzy)
+				if trans.fuzzy != "" and trans.msgid in alreadyParsedMsgIds and verbose:
+					print trans.msgid.strip() + " unfuzzied."
 				if trans.msgctxt != "":
 					f.write(trans.msgctxt)
 				f.write(trans.msgid)
 				# Writing translation stored in unfuzzy array if available
 				if trans.msgid in alreadyParsedMsgIds:
 					f.write(unfuzzyTranslations[trans.msgid])
+					if verbose and trans.fuzzy != "" and trans.msgstr != unfuzzyTranslations[trans.msgid]:
+						print trans.msgstr + "replaced by: " + unfuzzyTranslations[trans.msgid].strip()
 				else:
 					f.write(trans.msgstr)
 				f.write("\n")
+			f.write("\n")
 	print "Finished."
 
 if __name__ == "__main__":
