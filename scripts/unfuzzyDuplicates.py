@@ -91,6 +91,7 @@ def main(argv):
 		print "Writing new files in unix format..."
 		with open(outputFile, 'wb') as f:
 			for trans in translatables:
+				f.write("\n")
 				f.write(trans.ref)
 				# Write fuzzy line only if msgid was parsed earlier
 				if trans.fuzzy != "" and not trans.msgid in alreadyParsedMsgIds:
@@ -107,8 +108,6 @@ def main(argv):
 						print trans.msgstr + "replaced by: " + unfuzzyTranslations[trans.msgid].strip()
 				else:
 					f.write(trans.msgstr)
-				f.write("\n")
-			f.write("\n")
 	print "Finished."
 
 if __name__ == "__main__":
