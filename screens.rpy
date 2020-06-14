@@ -37,10 +37,7 @@ screen say(who, what, side_image=None, two_window=False, CountWords = 0): #Count
             if who:
                 text who id "who"
 
-            if _preferences.language == "french":
-                text what id "what" color "#000000" font "CrimeFighterBBA.ttf"
-            else:
-                text what id "what" color "#000000" font "CRIMFBRG.ttf"
+            text what id "what" color "#000000" font "CRIMFBRG.ttf"
             #text what id "what" 
     else:
         # The two window variant. Used for character dialog
@@ -86,11 +83,8 @@ screen say(who, what, side_image=None, two_window=False, CountWords = 0): #Count
 
 #                    has vbox:
 #                            style "say_balloon"   
-      
-                    if _preferences.language == "french":
-                        text what id "what" color "#000000" font "CrimeFighterBBA.ttf" text_align 0.5
-                    else:
-                        text what id "what" color "#000000" font "CRIMFBRG.ttf" text_align 0.5
+
+                    text what id "what" color "#000000" font "CRIMFBRG.ttf" text_align 0.5
             
             if who == RogueX.Name: #"Rogue":                      
                     if RogueX.Loc != bg_current or RogueX.SpriteLoc == StageFarLeft:
@@ -136,16 +130,10 @@ screen say(who, what, side_image=None, two_window=False, CountWords = 0): #Count
                     anchor (0.5,0)#(0.5,0.5)
                     style "say_who_window"
 #                    background Frame("images/WordballoonG.png", 50, 50)  
-                    if _preferences.language == "french":
-                        text who:
-                            size 15
-                            id "who" 
-                            font "CrimeFighterBBA.ttf"
-                    else:
-                        text who:
-                            size 15
-                            id "who" 
-                            font "CRIMFBRG.ttf" 
+                    text who:
+                        size 15
+                        id "who" 
+                        font "CRIMFBRG.ttf" 
          
     # Use the quick menu.
     use quick_menu
@@ -1101,10 +1089,7 @@ screen Status_Screen:
             pos (90,-40)#(-15,-8)
             anchor (0,0)
             style "say_who_window"
-            if _preferences.language == "french":
-                text "[Ch_Focus.Name]" size 12 font "CrimeFighterBBA.ttf" color "#000000" #id "Ch_Focus"
-            else:
-                text "[Ch_Focus.Name]" size 12 font "CRIMFBRG.ttf" color "#000000" #id "Ch_Focus"            
+            text "[Ch_Focus.Name]" size 12 font "CRIMFBRG.ttf" color "#000000" #id "Ch_Focus"            
                     
     frame:
         #Clock
