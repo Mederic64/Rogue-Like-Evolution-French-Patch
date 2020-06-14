@@ -10,13 +10,13 @@ translate french Laura_Handjob_d7723a20:
 translate french Laura_Handjob_99f3a057:
 
     # ch_l "You'd like that. . ."
-    ch_l "You'd like that. . ."
+    ch_l "Tu aimerais bien..."
 
 # game/Laura_HJ.rpy:54
 translate french Laura_Handjob_f2921d28:
 
     # ch_l "If you want, [LauraX.Petname]. . ."
-    ch_l "If you want, [LauraX.Petname]. . ."
+    ch_l "Si tu veux, [LauraX.Petname].."
 
 # game/Laura_HJ.rpy:57
 translate french Laura_Handjob_41e543e0:
@@ -88,19 +88,19 @@ translate french Laura_Handjob_0b349e0f:
 translate french Laura_Handjob_ed13f9a5:
 
     # ch_l "I said not in public."
-    ch_l "I said not in public."
+    ch_l "J'ai dit pas en public."
 
 # game/Laura_HJ.rpy:126
 translate french Laura_Handjob_676d549c:
 
     # ch_l "I told you \"no,\" [LauraX.Petname]."
-    ch_l "I told you \"no,\" [LauraX.Petname]."
+    ch_l "Je t'ai dit \"non\", [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:128
 translate french Laura_Handjob_ed13f9a5_1:
 
     # ch_l "I said not in public."
-    ch_l "I said not in public."
+    ch_l "J'ai dit pas en public."
 
 # game/Laura_HJ.rpy:131
 translate french Laura_Handjob_6f50af37:
@@ -154,7 +154,7 @@ translate french Laura_Handjob_0175b6e5:
 translate french Laura_Handjob_d7f27e60:
 
     # ch_l "This area's too exposed."
-    ch_l "This area's too exposed."
+    ch_l "Cette zone est trop exposée."
 
 # game/Laura_HJ.rpy:212
 translate french Laura_Handjob_b9fd13db:
@@ -184,43 +184,43 @@ translate french Laura_HJ_Prep_6d06df17:
 translate french Laura_HJ_Prep_7b0c12d8:
 
     # "[LauraX.Name] continues her actions."
-    "[LauraX.Name] continues her actions."
+    "[LauraX.Name] poursuit ses actions."
 
 # game/Laura_HJ.rpy:257
 translate french Laura_HJ_Prep_42a9bd80:
 
     # ch_p "Oooh, that's good, [LauraX.Pet]."
-    ch_p "Oooh, that's good, [LauraX.Pet]."
+    ch_p "Oooh, c'est bien, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:259
 translate french Laura_HJ_Prep_7b0c12d8_1:
 
     # "[LauraX.Name] continues her actions."
-    "[LauraX.Name] continues her actions."
+    "[LauraX.Name] poursuit ses actions."
 
 # game/Laura_HJ.rpy:266
 translate french Laura_HJ_Prep_b0f9182b:
 
     # ch_p "Let's not do that for now, [LauraX.Pet]."
-    ch_p "Let's not do that for now, [LauraX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:268
 translate french Laura_HJ_Prep_95c15b52:
 
     # "[LauraX.Name] puts it down."
-    "[LauraX.Name] puts it down."
+    "[LauraX.Name] le pose."
 
 # game/Laura_HJ.rpy:314
 translate french Laura_HJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Laura_HJ.rpy:320
 translate french Laura_HJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Laura_HJ.rpy:326
 translate french Laura_HJ_Cycle_dbab1d12:
@@ -238,7 +238,7 @@ translate french Laura_HJ_Cycle_b032f1d0:
 translate french Laura_HJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Laura_HJ.rpy:401
 translate french Laura_HJ_Cycle_83673efb:
@@ -256,13 +256,13 @@ translate french Laura_HJ_Cycle_2c55fb6c:
 translate french Laura_HJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Laura_HJ.rpy:453
 translate french Laura_HJ_Cycle_6d886d06:
 
     # "[LauraX.Name] still seems a bit unsatisfied with the experience."
-    "[LauraX.Name] still seems a bit unsatisfied with the experience."
+    "[LauraX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Laura_HJ.rpy:459
 translate french Laura_HJ_Cycle_054b65ff:
@@ -286,13 +286,13 @@ translate french Laura_HJ_Cycle_b032f1d0_1:
 translate french Laura_HJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Laura_HJ.rpy:494
 translate french Laura_HJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Laura_HJ.rpy:495
 translate french Laura_HJ_Cycle_ce72fe29:
@@ -310,19 +310,19 @@ translate french Laura_HJ_Cycle_4562c390:
 translate french Laura_HJ_Cycle_b9152619:
 
     # ch_l "It's getting late, we should wrap this up."
-    ch_l "It's getting late, we should wrap this up."
+    ch_l "Il se fait tard, on devrait conclure."
 
 # game/Laura_HJ.rpy:513
 translate french Laura_HJ_Cycle_44156af4:
 
     # ch_l "Tic tock, [LauraX.Petname]."
-    ch_l "Tic tock, [LauraX.Petname]."
+    ch_l "Tic toc, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:518
 translate french Laura_HJ_Cycle_b1de526b:
 
     # ch_l "Ok, [LauraX.Petname], breaktime."
-    ch_l "Ok, [LauraX.Petname], breaktime."
+    ch_l "Ok, [LauraX.Petname], pause."
 
 # game/Laura_HJ.rpy:536
 translate french Laura_HJ_After_6ca25925:
@@ -340,7 +340,7 @@ translate french Laura_HJ_After_035da073:
 translate french Laura_HJ_After_23e61b0a:
 
     # ch_l "Did that do it for you?"
-    ch_l "Did that do it for you?"
+    ch_l "Ca t'a allumé ?"
 
 # game/Laura_HJ.rpy:548
 translate french Laura_HJ_After_3297263d:
@@ -352,13 +352,13 @@ translate french Laura_HJ_After_3297263d:
 translate french Laura_HJ_After_b31c9451:
 
     # ch_l "Ok, so what did you have in mind?"
-    ch_l "Ok, so what did you have in mind?"
+    ch_l "Ok, alors qu'est-ce que tu avais en tête ?"
 
 # game/Laura_HJ.rpy:606
 translate french Laura_Titjob_996e83cd:
 
     # ch_l "You want a titjob, huh?"
-    ch_l "You want a titjob, huh?"
+    ch_l "Tu veux une branlette espagnole, hein ?"
 
 # game/Laura_HJ.rpy:617
 translate french Laura_Titjob_b69c28a9:
@@ -382,7 +382,7 @@ translate french Laura_Titjob_230d25dc:
 translate french Laura_Titjob_791fd057:
 
     # ch_l "Sounds fun. . ."
-    ch_l "Sounds fun. . ."
+    ch_l "Ça a l'air amusant..."
 
 # game/Laura_HJ.rpy:633
 translate french Laura_Titjob_1fb3dcd6:
@@ -424,13 +424,13 @@ translate french Laura_Titjob_8c3790d2_1:
 translate french Laura_Titjob_a0823851:
 
     # ch_l "Well, could be worse. . ."
-    ch_l "Well, could be worse. . ."
+    ch_l "Eh ben, ça pourrait être pire..."
 
 # game/Laura_HJ.rpy:671
 translate french Laura_Titjob_0368d514:
 
     # ch_l "Hmm, I guess. . ."
-    ch_l "Hmm, I guess. . ."
+    ch_l "Hmm, je suppose..."
 
 # game/Laura_HJ.rpy:682
 translate french Laura_Titjob_8c3790d2_2:
@@ -454,7 +454,7 @@ translate french Laura_Titjob_00a2c45f:
 translate french Laura_Titjob_89734cbc:
 
     # ch_l "I already told you \"no,\" [LauraX.Petname]."
-    ch_l "I already told you \"no,\" [LauraX.Petname]."
+    ch_l "Je t'ai déjà dit \"non\", [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:698
 translate french Laura_Titjob_00a2c45f_1:
@@ -478,7 +478,7 @@ translate french Laura_Titjob_a3d86e18:
 translate french Laura_Titjob_51e5f3ca:
 
     # ch_l "Yeah, ok, [LauraX.Petname]."
-    ch_l "Yeah, ok, [LauraX.Petname]."
+    ch_l "Ouais, ok, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:714
 translate french Laura_Titjob_33ce1903:
@@ -514,7 +514,7 @@ translate french Laura_Titjob_e9aa5fc1:
 translate french Laura_Titjob_9fc39c90:
 
     # ch_l "What do you say?" nointeract
-    ch_l "What do you say?" nointeract
+    ch_l "Qu'en dis-tu ?" nointeract
 
 # game/Laura_HJ.rpy:772
 translate french Laura_Titjob_efa1d487:
@@ -580,13 +580,13 @@ translate french Laura_TJ_Prep_a2b1b1ed:
 translate french Laura_TJ_Prep_7b0c12d8:
 
     # "[LauraX.Name] continues her actions."
-    "[LauraX.Name] continues her actions."
+    "[LauraX.Name] poursuit ses actions."
 
 # game/Laura_HJ.rpy:866
 translate french Laura_TJ_Prep_b0f9182b:
 
     # ch_p "Let's not do that for now, [LauraX.Pet]."
-    ch_p "Let's not do that for now, [LauraX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:868
 translate french Laura_TJ_Prep_9d73f9fe:
@@ -598,13 +598,13 @@ translate french Laura_TJ_Prep_9d73f9fe:
 translate french Laura_TJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Laura_HJ.rpy:921
 translate french Laura_TJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Laura_HJ.rpy:929
 translate french Laura_TJ_Cycle_dbab1d12:
@@ -622,7 +622,7 @@ translate french Laura_TJ_Cycle_b032f1d0:
 translate french Laura_TJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Laura_HJ.rpy:1004
 translate french Laura_TJ_Cycle_83673efb:
@@ -640,13 +640,13 @@ translate french Laura_TJ_Cycle_2c55fb6c:
 translate french Laura_TJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Laura_HJ.rpy:1056
 translate french Laura_TJ_Cycle_6d886d06:
 
     # "[LauraX.Name] still seems a bit unsatisfied with the experience."
-    "[LauraX.Name] still seems a bit unsatisfied with the experience."
+    "[LauraX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Laura_HJ.rpy:1062
 translate french Laura_TJ_Cycle_054b65ff:
@@ -658,7 +658,7 @@ translate french Laura_TJ_Cycle_054b65ff:
 translate french Laura_TJ_Cycle_4ea4ab61:
 
     # ch_l "Are you getting close here? I'm getting bored."
-    ch_l "Are you getting close here? I'm getting bored."
+    ch_l "Tu vas bientôt jouir ? Je commence à m'ennuyer."
 
 # game/Laura_HJ.rpy:1080
 translate french Laura_TJ_Cycle_969dfe45:
@@ -676,13 +676,13 @@ translate french Laura_TJ_Cycle_b032f1d0_1:
 translate french Laura_TJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Laura_HJ.rpy:1105
 translate french Laura_TJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Laura_HJ.rpy:1106
 translate french Laura_TJ_Cycle_759eba9c:
@@ -694,19 +694,19 @@ translate french Laura_TJ_Cycle_759eba9c:
 translate french Laura_TJ_Cycle_8761d71d:
 
     # ch_l "It's kinda time to get moving."
-    ch_l "It's kinda time to get moving."
+    ch_l "Il est temps de se mettre en mouvement."
 
 # game/Laura_HJ.rpy:1121
 translate french Laura_TJ_Cycle_44156af4:
 
     # ch_l "Tic tock, [LauraX.Petname]."
-    ch_l "Tic tock, [LauraX.Petname]."
+    ch_l "Tic toc, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:1126
 translate french Laura_TJ_Cycle_b1de526b:
 
     # ch_l "Ok, [LauraX.Petname], breaktime."
-    ch_l "Ok, [LauraX.Petname], breaktime."
+    ch_l "Ok, [LauraX.Petname], pause."
 
 # game/Laura_HJ.rpy:1145
 translate french Laura_TJ_After_8ff7664a:
@@ -718,7 +718,7 @@ translate french Laura_TJ_After_8ff7664a:
 translate french Laura_TJ_After_a4ba1e11:
 
     # ch_l "Well I hope you got something out of that."
-    ch_l "Well I hope you got something out of that."
+    ch_l "J'espère que t'en as tiré quelque chose."
 
 # game/Laura_HJ.rpy:1150
 translate french Laura_TJ_After_47d4e432:
@@ -730,13 +730,13 @@ translate french Laura_TJ_After_47d4e432:
 translate french Laura_TJ_After_0e359e34:
 
     # ch_l "Mmm, so what else did you have in mind?"
-    ch_l "Mmm, so what else did you have in mind?"
+    ch_l "Mmm, alors qu'as-tu d'autre à l'esprit ?"
 
 # game/Laura_HJ.rpy:1205
 translate french Laura_Blowjob_e85e9af6:
 
     # ch_l "You want me to suck your cock?"
-    ch_l "Tu veux que je te suce la bite ?"
+    ch_l "Tu veux que je te suce la queue ?"
 
 # game/Laura_HJ.rpy:1208
 translate french Laura_Blowjob_40e7c107:
@@ -754,7 +754,7 @@ translate french Laura_Blowjob_24ae57af:
 translate french Laura_Blowjob_1c1f0488:
 
     # ch_l "If that's what you want. . ."
-    ch_l "If that's what you want. . ."
+    ch_l "Si c'est ce que tu veux..."
 
 # game/Laura_HJ.rpy:1226
 translate french Laura_Blowjob_9ae5882a:
@@ -796,7 +796,7 @@ translate french Laura_Blowjob_8c3790d2:
 translate french Laura_Blowjob_74909b7e:
 
     # ch_l "You'd like another blowjob?"
-    ch_l "You'd like another blowjob?"
+    ch_l "Tu veux une autre pipe ?"
 
 # game/Laura_HJ.rpy:1264
 translate french Laura_Blowjob_8c3790d2_1:
@@ -922,7 +922,7 @@ translate french Laura_Blowjob_ac6a67b1:
 translate french Laura_Blowjob_d7f27e60:
 
     # ch_l "This area's too exposed."
-    ch_l "This area's too exposed."
+    ch_l "Cette zone est trop exposée."
 
 # game/Laura_HJ.rpy:1415
 translate french Laura_Blowjob_abab8919:
@@ -946,7 +946,7 @@ translate french Laura_BJ_Prep_be3c8b69:
 translate french Laura_BJ_Prep_96a84e0f:
 
     # "[LauraX.Name] continues licking at it."
-    "[LauraX.Name] continues licking at it."
+    "[LauraX.Name] continue de le lécher."
 
 # game/Laura_HJ.rpy:1455
 translate french Laura_BJ_Prep_4cd6d7e6:
@@ -958,37 +958,37 @@ translate french Laura_BJ_Prep_4cd6d7e6:
 translate french Laura_BJ_Prep_7b0c12d8:
 
     # "[LauraX.Name] continues her actions."
-    "[LauraX.Name] continues her actions."
+    "[LauraX.Name] poursuit ses actions."
 
 # game/Laura_HJ.rpy:1464
 translate french Laura_BJ_Prep_b0f9182b:
 
     # ch_p "Let's not do that for now, [LauraX.Pet]."
-    ch_p "Let's not do that for now, [LauraX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:1466
 translate french Laura_BJ_Prep_95c15b52:
 
     # "[LauraX.Name] puts it down."
-    "[LauraX.Name] puts it down."
+    "[LauraX.Name] le pose."
 
 # game/Laura_HJ.rpy:1518
 translate french Laura_BJ_Cycle_461eea98:
 
     # "She dips her head a bit lower, and you move your hand out of the way."
-    "She dips her head a bit lower, and you move your hand out of the way."
+    "Elle enfonce sa tête plus profondément, et tu enlèves ta main."
 
 # game/Laura_HJ.rpy:1528
 translate french Laura_BJ_Cycle_1ab4ed67:
 
     # "She takes it to the root, and you move your hand out of the way."
-    "She takes it to the root, and you move your hand out of the way."
+    "Elle le prend à la base, et tu dégages ta main."
 
 # game/Laura_HJ.rpy:1534
 translate french Laura_BJ_Cycle_09c1f201:
 
     # "[LauraX.Name] hums contentedly."
-    "[LauraX.Name] hums contentedly."
+    "[LauraX.Name] fredonne avec satisfaction."
 
 # game/Laura_HJ.rpy:1558
 translate french Laura_BJ_Cycle_dbab1d12:
@@ -1006,7 +1006,7 @@ translate french Laura_BJ_Cycle_b032f1d0:
 translate french Laura_BJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Laura_HJ.rpy:1583
 translate french Laura_BJ_Cycle_1216986f:
@@ -1030,13 +1030,13 @@ translate french Laura_BJ_Cycle_2c55fb6c:
 translate french Laura_BJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Laura_HJ.rpy:1686
 translate french Laura_BJ_Cycle_6d886d06:
 
     # "[LauraX.Name] still seems a bit unsatisfied with the experience."
-    "[LauraX.Name] still seems a bit unsatisfied with the experience."
+    "[LauraX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Laura_HJ.rpy:1692
 translate french Laura_BJ_Cycle_054b65ff:
@@ -1060,13 +1060,13 @@ translate french Laura_BJ_Cycle_b032f1d0_1:
 translate french Laura_BJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Laura_HJ.rpy:1730
 translate french Laura_BJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Laura_HJ.rpy:1731
 translate french Laura_BJ_Cycle_759eba9c:
@@ -1078,19 +1078,19 @@ translate french Laura_BJ_Cycle_759eba9c:
 translate french Laura_BJ_Cycle_a256a4a4:
 
     # ch_l "Are you getting close here? I'm bored."
-    ch_l "Are you getting close here? I'm bored."
+    ch_l "Tu vas bientôt jouir ? Je m'ennuie."
 
 # game/Laura_HJ.rpy:1747
 translate french Laura_BJ_Cycle_b9152619:
 
     # ch_l "It's getting late, we should wrap this up."
-    ch_l "It's getting late, we should wrap this up."
+    ch_l "Il se fait tard, on devrait conclure."
 
 # game/Laura_HJ.rpy:1749
 translate french Laura_BJ_Cycle_44156af4:
 
     # ch_l "Tic tock, [LauraX.Petname]."
-    ch_l "Tic tock, [LauraX.Petname]."
+    ch_l "Tic toc, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:1754
 translate french Laura_BJ_Cycle_ed5e63b6:
@@ -1108,13 +1108,13 @@ translate french Laura_BJ_After_00ae96bf:
 translate french Laura_BJ_After_b281fc1e:
 
     # ch_l "Hey, whaddaya know, that wasn't bad."
-    ch_l "Hey, whaddaya know, that wasn't bad."
+    ch_l "Hé, tu sais, c'était pas mal."
 
 # game/Laura_HJ.rpy:1783
 translate french Laura_BJ_After_70610f55:
 
     # ch_l "I hope you enjoyed that."
-    ch_l "I hope you enjoyed that."
+    ch_l "J'espère que tu as apprécié."
 
 # game/Laura_HJ.rpy:1785
 translate french Laura_BJ_After_3fc92862:
@@ -1132,7 +1132,7 @@ translate french Laura_BJ_After_7f079c3d:
 translate french Laura_Dildo_Check_9e6339e4:
 
     # "You pull out a large rubber dildo. Lucky you remembered to keep it handy."
-    "You pull out a large rubber dildo. Lucky you remembered to keep it handy."
+    "Tu sors un gros gode en caoutchouc. Heureusement, tu as pensé à le garder à portée de main."
 
 # game/Laura_HJ.rpy:1818
 translate french Laura_Dildo_Check_8528875f:
@@ -1144,19 +1144,19 @@ translate french Laura_Dildo_Check_8528875f:
 translate french Laura_Dildo_Check_2fdc9bd4:
 
     # "You don't have one of those on you."
-    "You don't have one of those on you."
+    "Tu n'en as pas sur vous."
 
 # game/Laura_HJ.rpy:1864
 translate french Laura_Dildo_Pussy_c3b24418:
 
     # "[LauraX.Name] grabs her dildo, hiking up her skirt as she does."
-    "[LauraX.Name] grabs her dildo, hiking up her skirt as she does."
+    "[LauraX.Name] attrape son gode, en remontant sa jupe."
 
 # game/Laura_HJ.rpy:1867
 translate french Laura_Dildo_Pussy_db8c4fd4:
 
     # "[LauraX.Name] grabs her dildo, pulling down her pants as she does."
-    "[LauraX.Name] grabs her dildo, pulling down her pants as she does."
+    "[LauraX.Name] attrape son gode, en baissant son pantalon."
 
 # game/Laura_HJ.rpy:1870
 translate french Laura_Dildo_Pussy_2f06f024:
@@ -1168,97 +1168,97 @@ translate french Laura_Dildo_Pussy_2f06f024:
 translate french Laura_Dildo_Pussy_9543a6a5:
 
     # "She slides the tip along her pussy and seems to want you to insert it."
-    "She slides the tip along her pussy and seems to want you to insert it."
+    "Elle fait glisser le bout le long de sa chatte et semble vouloir que tu l'insères."
 
 # game/Laura_HJ.rpy:1879
 translate french Laura_Dildo_Pussy_50adbcfc:
 
     # "[LauraX.Name] slides it in."
-    "[LauraX.Name] slides it in."
+    "[LauraX.Name] le fait glisser."
 
 # game/Laura_HJ.rpy:1883
 translate french Laura_Dildo_Pussy_cf9df181:
 
     # ch_p "Oh yeah, [LauraX.Pet], let's do this."
-    ch_p "Oh yeah, [LauraX.Pet], let's do this."
+    ch_p "Oh ouais, [LauraX.Pet], allons-y."
 
 # game/Laura_HJ.rpy:1885
 translate french Laura_Dildo_Pussy_fcbebfeb:
 
     # "You grab the dildo and slide it in."
-    "You grab the dildo and slide it in."
+    "Tu attrapes le gode et tu le fais glisser."
 
 # game/Laura_HJ.rpy:1892
 translate french Laura_Dildo_Pussy_41db4a04:
 
     # ch_p "Let's not do that right now, [LauraX.Pet]."
-    ch_p "Let's not do that right now, [LauraX.Pet]."
+    ch_p "On fait pas ça maintenant, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:1894
 translate french Laura_Dildo_Pussy_8f65683a:
 
     # "[LauraX.Name] sets the dildo down."
-    "[LauraX.Name] sets the dildo down."
+    "[LauraX.Name] pose le gode."
 
 # game/Laura_HJ.rpy:1907
 translate french Laura_Dildo_Pussy_3c872f9b:
 
     # "You rub the dildo across her body, and along her moist slit."
-    "You rub the dildo across her body, and along her moist slit."
+    "Tu frottes le gode sur son corps, et le long de sa fente humide."
 
 # game/Laura_HJ.rpy:1911
 translate french Laura_Dildo_Pussy_5b87dbfe:
 
     # "[LauraX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
-    "[LauraX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
+    "[LauraX.Name] est brièvement surprise et se tourne vers toi, mais elle sourit et fredonne."
 
 # game/Laura_HJ.rpy:1916
 translate french Laura_Dildo_Pussy_32707491:
 
     # ch_l "Ooo, [LauraX.Petname], toys!"
-    ch_l "Ooo, [LauraX.Petname], toys!"
+    ch_l "Ooo, [LauraX.Petname], des jouets !"
 
 # game/Laura_HJ.rpy:1920
 translate french Laura_Dildo_Pussy_4a8b5182:
 
     # ch_l "Hey, what are you planning to do with that?!" nointeract
-    ch_l "Hey, what are you planning to do with that?!" nointeract
+    ch_l "Hé, qu'est-ce que tu comptes faire avec ça ? !" nointeract
 
 # game/Laura_HJ.rpy:1928
 translate french Laura_Dildo_Pussy_1f86ac99:
 
     # ch_l "Well, now that you mention it. . ."
-    ch_l "Well, now that you mention it. . ."
+    ch_l "Eh bien, maintenant que tu le dis.."
 
 # game/Laura_HJ.rpy:1930
 translate french Laura_Dildo_Pussy_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Laura_HJ.rpy:1933
 translate french Laura_Dildo_Pussy_96812ffb:
 
     # ch_l "Well ok, [LauraX.Petname], maybe warn me next time?"
-    ch_l "Well ok, [LauraX.Petname], maybe warn me next time?"
+    ch_l "Bon, d'accord, [LauraX.Petname], tu me préviendras peut-être la prochaine fois ?"
 
 # game/Laura_HJ.rpy:1935
 translate french Laura_Dildo_Pussy_c940d26f:
 
     # ch_l "Well ok, [LauraX.Petname], that's a little much. . . for now . . ."
-    ch_l "Well ok, [LauraX.Petname], that's a little much. . . for now . . ."
+    ch_l "Bon, d'accord, [LauraX.Petname], c'est un peu trop.... pour l'instant..."
 
 # game/Laura_HJ.rpy:1939
 translate french Laura_Dildo_Pussy_3957e7ff:
 
     # "You press it inside some more."
-    "You press it inside some more."
+    "Tu l'enfonces encore un peu plus."
 
 # game/Laura_HJ.rpy:1944
 translate french Laura_Dildo_Pussy_49441f1e:
 
     # "[LauraX.Name] shoves you away and slaps you in the face."
-    "[LauraX.Name] shoves you away and slaps you in the face."
+    "[LauraX.Name] te pousse et te gifle."
 
 # game/Laura_HJ.rpy:1945
 translate french Laura_Dildo_Pussy_fcc5eaf0:
@@ -1270,61 +1270,61 @@ translate french Laura_Dildo_Pussy_fcc5eaf0:
 translate french Laura_Dildo_Pussy_8c45cd74:
 
     # ch_l "Ask nice if you want to stick something in my pussy!"
-    ch_l "Ask nice if you want to stick something in my pussy!"
+    ch_l "Demande gentiment si tu veux me mettre quelque chose dans la chatte !"
 
 # game/Laura_HJ.rpy:1958
 translate french Laura_Dildo_Pussy_1277b6ce:
 
     # "[LauraX.Name] doesn't seem to be into this, you're lucky she's so obedient."
-    "[LauraX.Name] doesn't seem to be into this, you're lucky she's so obedient."
+    "[LauraX.Name] ne semble pas être excitée, tu as de la chance qu'elle soit si obéissante."
 
 # game/Laura_HJ.rpy:1967
 translate french Laura_Dildo_Pussy_0bb32bc4:
 
     # ch_l "Hmmm, so you'd like to try out some toys?"
-    ch_l "Hmmm, so you'd like to try out some toys?"
+    ch_l "Hmmm, alors tu veux essayer quelques jouets ?"
 
 # game/Laura_HJ.rpy:1970
 translate french Laura_Dildo_Pussy_645a4dc9:
 
     # ch_l "I suppose there are worst things you could ask for."
-    ch_l "I suppose there are worst things you could ask for."
+    ch_l "Je suppose qu'il y a de pires choses que l'on puisse demander."
 
 # game/Laura_HJ.rpy:1982
 translate french Laura_Dildo_Pussy_60997be9:
 
     # ch_l "I've had a reasonable amount of experience with these, you know. . ."
-    ch_l "I've had a reasonable amount of experience with these, you know. . ."
+    ch_l "J'ai une expérience raisonnable avec ceux-là, tu sais..."
 
 # game/Laura_HJ.rpy:1985
 translate french Laura_Dildo_Pussy_15f289e9:
 
     # ch_l "If that's what you want, [LauraX.Petname]. . ."
-    ch_l "If that's what you want, [LauraX.Petname]. . ."
+    ch_l "Si c'est ce que tu veux, [LauraX.Petname].."
 
 # game/Laura_HJ.rpy:1989
 translate french Laura_Dildo_Pussy_bdba48aa:
 
     # ch_l "I guess it could be fun with a partner. . ."
-    ch_l "I guess it could be fun with a partner. . ."
+    ch_l "Je suppose que ça pourrait être amusant avec un partenaire..."
 
 # game/Laura_HJ.rpy:1997
 translate french Laura_Dildo_Pussy_effb0857:
 
     # ch_l "The toys again?"
-    ch_l "The toys again?"
+    ch_l "Encore les jouets ?"
 
 # game/Laura_HJ.rpy:1999
 translate french Laura_Dildo_Pussy_dbc210e3:
 
     # ch_l "Well, at least you got us some privacy this time. . ."
-    ch_l "Well, at least you got us some privacy this time. . ."
+    ch_l "Au moins, tu nous as donné un peu d'intimité cette fois..."
 
 # game/Laura_HJ.rpy:2002
 translate french Laura_Dildo_Pussy_f552c9ed:
 
     # ch_l "Mmm, again? Ok, let's get to it."
-    ch_l "Mmm, again? Ok, let's get to it."
+    ch_l "Mmm, encore ? Ok, allons-y."
 
 # game/Laura_HJ.rpy:2009
 translate french Laura_Dildo_Pussy_8c3790d2:
@@ -1336,7 +1336,7 @@ translate french Laura_Dildo_Pussy_8c3790d2:
 translate french Laura_Dildo_Pussy_a5dd8596:
 
     # ch_l "You want to stick it in my pussy again?"
-    ch_l "You want to stick it in my pussy again?"
+    ch_l "Tu veux encore me la fourrer dans la chatte ?"
 
 # game/Laura_HJ.rpy:2022
 translate french Laura_Dildo_Pussy_8c3790d2_1:
@@ -1360,49 +1360,49 @@ translate french Laura_Dildo_Pussy_8c3790d2_2:
 translate french Laura_Dildo_Pussy_0c79e3fa:
 
     # ch_l "What part of \"no,\" did you not get, [LauraX.Petname]?"
-    ch_l "What part of \"no,\" did you not get, [LauraX.Petname]?"
+    ch_l "Qu'est-ce t'as pas compris dans \"non\", [LauraX.Petname] ?"
 
 # game/Laura_HJ.rpy:2055
 translate french Laura_Dildo_Pussy_5c3a2be8:
 
     # ch_l "Stop swinging that thing around in public!"
-    ch_l "Stop swinging that thing around in public!"
+    ch_l "Arrête de brandir ce truc en public !"
 
 # game/Laura_HJ.rpy:2057
 translate french Laura_Dildo_Pussy_89734cbc:
 
     # ch_l "I already told you \"no,\" [LauraX.Petname]."
-    ch_l "I already told you \"no,\" [LauraX.Petname]."
+    ch_l "Je t'ai déjà dit \"non\", [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2059
 translate french Laura_Dildo_Pussy_5c3a2be8_1:
 
     # ch_l "Stop swinging that thing around in public!"
-    ch_l "Stop swinging that thing around in public!"
+    ch_l "Arrête de brandir ce truc en public !"
 
 # game/Laura_HJ.rpy:2062
 translate french Laura_Dildo_Pussy_241454c9:
 
     # ch_l "I'm just not into toys, [LauraX.Petname]. . ."
-    ch_l "I'm just not into toys, [LauraX.Petname]. . ."
+    ch_l "Je n'aime pas les jouets, [LauraX.Petname]..."
 
 # game/Laura_HJ.rpy:2065
 translate french Laura_Dildo_Pussy_1628de5e:
 
     # ch_l "I don't think we need any toys, [LauraX.Petname]."
-    ch_l "I don't think we need any toys, [LauraX.Petname]."
+    ch_l "Je ne pense pas qu'on ait besoin de jouets, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2070
 translate french Laura_Dildo_Pussy_51e5f3ca:
 
     # ch_l "Yeah, ok, [LauraX.Petname]."
-    ch_l "Yeah, ok, [LauraX.Petname]."
+    ch_l "Ouais, ok, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2074
 translate french Laura_Dildo_Pussy_46c88883:
 
     # ch_l "Maybe I'll practice on my own time, [LauraX.Petname]."
-    ch_l "Maybe I'll practice on my own time, [LauraX.Petname]."
+    ch_l "Je vais peut-être m'entraîner sur mon temps libre, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2093
 translate french Laura_Dildo_Pussy_8c3790d2_3:
@@ -1414,19 +1414,19 @@ translate french Laura_Dildo_Pussy_8c3790d2_3:
 translate french Laura_Dildo_Pussy_6837eca9:
 
     # ch_l "Ok, fine. If we're going to do this, stick it in already."
-    ch_l "Ok, fine. If we're going to do this, stick it in already."
+    ch_l "Ok, très bien. Si tu veux qu'on le fasse, mets-la moi vite."
 
 # game/Laura_HJ.rpy:2119
 translate french Laura_Dildo_Pussy_7ab3a673:
 
     # ch_l "Learn to take \"no\" for an answer, [LauraX.Petname]."
-    ch_l "Learn to take \"no\" for an answer, [LauraX.Petname]."
+    ch_l "Apprends à accepter que je dise \"non\", [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2124
 translate french Laura_Dildo_Pussy_f3b5526c:
 
     # ch_l "I'm not going to let you use that on me."
-    ch_l "I'm not going to let you use that on me."
+    ch_l "Je ne vais pas te laisser utiliser ça sur moi."
 
 # game/Laura_HJ.rpy:2135
 translate french Laura_Dildo_Pussy_0479f2cd:
@@ -1438,7 +1438,7 @@ translate french Laura_Dildo_Pussy_0479f2cd:
 translate french Laura_Dildo_Pussy_bc2e2f12:
 
     # ch_l "Sorry, you can keep your toys to yourself."
-    ch_l "Sorry, you can keep your toys to yourself."
+    ch_l "Désolé, tu peux garder tes jouets pour toi."
 
 # game/Laura_HJ.rpy:2143
 translate french Laura_Dildo_Pussy_5c0ff36a:
@@ -1474,13 +1474,13 @@ translate french Laura_DP_Cycle_2c55fb6c:
 translate french Laura_DP_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Laura_HJ.rpy:2338
 translate french Laura_DP_Cycle_6d886d06:
 
     # "[LauraX.Name] still seems a bit unsatisfied with the experience."
-    "[LauraX.Name] still seems a bit unsatisfied with the experience."
+    "[LauraX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Laura_HJ.rpy:2344
 translate french Laura_DP_Cycle_054b65ff:
@@ -1492,79 +1492,79 @@ translate french Laura_DP_Cycle_054b65ff:
 translate french Laura_DP_Cycle_3881b2bb:
 
     # ch_l "What are you even doing down there?"
-    ch_l "What are you even doing down there?"
+    ch_l "Qu'est-ce que tu fais là en bas ?"
 
 # game/Laura_HJ.rpy:2362
 translate french Laura_DP_Cycle_0c82798e:
 
     # ch_l "[LauraX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
-    ch_l "[LauraX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
+    ch_l "[LauraX.Petname], cela devient inconfortable, peut-être que nous pourrions essayer autre chose." nointeract
 
 # game/Laura_HJ.rpy:2365
 translate french Laura_DP_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Laura_HJ.rpy:2376
 translate french Laura_DP_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Laura_HJ.rpy:2380
 translate french Laura_DP_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Laura_HJ.rpy:2381
 translate french Laura_DP_Cycle_22a858eb:
 
     # ch_l "Well if that's your attitude, I don't need your \"help\"."
-    ch_l "Well if that's your attitude, I don't need your \"help\"."
+    ch_l "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Laura_HJ.rpy:2392
 translate french Laura_DP_Cycle_b9152619:
 
     # ch_l "It's getting late, we should wrap this up."
-    ch_l "It's getting late, we should wrap this up."
+    ch_l "Il se fait tard, on devrait conclure."
 
 # game/Laura_HJ.rpy:2394
 translate french Laura_DP_Cycle_44156af4:
 
     # ch_l "Tic tock, [LauraX.Petname]."
-    ch_l "Tic tock, [LauraX.Petname]."
+    ch_l "Tic toc, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2399
 translate french Laura_DP_Cycle_b1de526b:
 
     # ch_l "Ok, [LauraX.Petname], breaktime."
-    ch_l "Ok, [LauraX.Petname], breaktime."
+    ch_l "Ok, [LauraX.Petname], pause."
 
 # game/Laura_HJ.rpy:2417
 translate french Laura_DP_After_d9ab4948:
 
     # ch_l "Thanks for the extra hand. . ."
-    ch_l "Thanks for the extra hand. . ."
+    ch_l "Merci pour le coup de main supplémentaire..."
 
 # game/Laura_HJ.rpy:2420
 translate french Laura_DP_After_e7f347c8:
 
     # ch_l "Did you like that?"
-    ch_l "Cela t'a plu ?.."
+    ch_l "Cela t'a plu ?"
 
 # game/Laura_HJ.rpy:2481
 translate french Laura_Dildo_Ass_c3b24418:
 
     # "[LauraX.Name] grabs her dildo, hiking up her skirt as she does."
-    "[LauraX.Name] grabs her dildo, hiking up her skirt as she does."
+    "[LauraX.Name] attrape son gode, en remontant sa jupe."
 
 # game/Laura_HJ.rpy:2484
 translate french Laura_Dildo_Ass_db8c4fd4:
 
     # "[LauraX.Name] grabs her dildo, pulling down her pants as she does."
-    "[LauraX.Name] grabs her dildo, pulling down her pants as she does."
+    "[LauraX.Name] attrape son gode, en baissant son pantalon."
 
 # game/Laura_HJ.rpy:2487
 translate french Laura_Dildo_Ass_c5695323:
@@ -1576,97 +1576,97 @@ translate french Laura_Dildo_Ass_c5695323:
 translate french Laura_Dildo_Ass_a6c2f9a3:
 
     # "She slides the tip against her asshole, and seems to want you to insert it."
-    "She slides the tip against her asshole, and seems to want you to insert it."
+    "Elle fait glisser le bout contre son trou de cul, et semble vouloir que tu l'insères."
 
 # game/Laura_HJ.rpy:2496
 translate french Laura_Dildo_Ass_50adbcfc:
 
     # "[LauraX.Name] slides it in."
-    "[LauraX.Name] slides it in."
+    "[LauraX.Name] le fait glisser."
 
 # game/Laura_HJ.rpy:2500
 translate french Laura_Dildo_Ass_cf9df181:
 
     # ch_p "Oh yeah, [LauraX.Pet], let's do this."
-    ch_p "Oh yeah, [LauraX.Pet], let's do this."
+    ch_p "Oh ouais, [LauraX.Pet], allons-y."
 
 # game/Laura_HJ.rpy:2502
 translate french Laura_Dildo_Ass_fcbebfeb:
 
     # "You grab the dildo and slide it in."
-    "You grab the dildo and slide it in."
+    "Tu attrapes le gode et tu le fais glisser."
 
 # game/Laura_HJ.rpy:2509
 translate french Laura_Dildo_Ass_41db4a04:
 
     # ch_p "Let's not do that right now, [LauraX.Pet]."
-    ch_p "Let's not do that right now, [LauraX.Pet]."
+    ch_p "On fait pas ça maintenant, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:2511
 translate french Laura_Dildo_Ass_8f65683a:
 
     # "[LauraX.Name] sets the dildo down."
-    "[LauraX.Name] sets the dildo down."
+    "[LauraX.Name] pose le gode."
 
 # game/Laura_HJ.rpy:2524
 translate french Laura_Dildo_Ass_5a1e83f7:
 
     # "You rub the dildo across her body, and against her tight anus."
-    "You rub the dildo across her body, and against her tight anus."
+    "Tu frottes le gode sur son corps, et contre son anus serré."
 
 # game/Laura_HJ.rpy:2529
 translate french Laura_Dildo_Ass_5b87dbfe:
 
     # "[LauraX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
-    "[LauraX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
+    "[LauraX.Name] est brièvement surprise et se tourne vers toi, mais elle sourit et fredonne."
 
 # game/Laura_HJ.rpy:2534
 translate french Laura_Dildo_Ass_32707491:
 
     # ch_l "Ooo, [LauraX.Petname], toys!"
-    ch_l "Ooo, [LauraX.Petname], toys!"
+    ch_l "Ooo, [LauraX.Petname], des jouets !"
 
 # game/Laura_HJ.rpy:2539
 translate french Laura_Dildo_Ass_4a8b5182:
 
     # ch_l "Hey, what are you planning to do with that?!" nointeract
-    ch_l "Hey, what are you planning to do with that?!" nointeract
+    ch_l "Hé, qu'est-ce que tu comptes faire avec ça ? !" nointeract
 
 # game/Laura_HJ.rpy:2547
 translate french Laura_Dildo_Ass_1f86ac99:
 
     # ch_l "Well, now that you mention it. . ."
-    ch_l "Well, now that you mention it. . ."
+    ch_l "Eh bien, maintenant que tu le dis.."
 
 # game/Laura_HJ.rpy:2549
 translate french Laura_Dildo_Ass_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Laura_HJ.rpy:2552
 translate french Laura_Dildo_Ass_96812ffb:
 
     # ch_l "Well ok, [LauraX.Petname], maybe warn me next time?"
-    ch_l "Well ok, [LauraX.Petname], maybe warn me next time?"
+    ch_l "Bon, d'accord, [LauraX.Petname], tu me préviendras peut-être la prochaine fois ?"
 
 # game/Laura_HJ.rpy:2554
 translate french Laura_Dildo_Ass_c940d26f:
 
     # ch_l "Well ok, [LauraX.Petname], that's a little much. . . for now . . ."
-    ch_l "Well ok, [LauraX.Petname], that's a little much. . . for now . . ."
+    ch_l "Bon, d'accord, [LauraX.Petname], c'est un peu trop.... pour l'instant..."
 
 # game/Laura_HJ.rpy:2558
 translate french Laura_Dildo_Ass_3957e7ff:
 
     # "You press it inside some more."
-    "You press it inside some more."
+    "Tu l'enfonces encore un peu plus."
 
 # game/Laura_HJ.rpy:2563
 translate french Laura_Dildo_Ass_49441f1e:
 
     # "[LauraX.Name] shoves you away and slaps you in the face."
-    "[LauraX.Name] shoves you away and slaps you in the face."
+    "[LauraX.Name] te pousse et te gifle."
 
 # game/Laura_HJ.rpy:2564
 translate french Laura_Dildo_Ass_fcc5eaf0:
@@ -1678,25 +1678,25 @@ translate french Laura_Dildo_Ass_fcc5eaf0:
 translate french Laura_Dildo_Ass_145a8cff:
 
     # ch_l "Ask nice if you want to stick something in my ass!"
-    ch_l "Ask nice if you want to stick something in my ass!"
+    ch_l "Demande gentiment si tu veux me mettre quelque chose dans le cul !"
 
 # game/Laura_HJ.rpy:2577
 translate french Laura_Dildo_Ass_1277b6ce:
 
     # "[LauraX.Name] doesn't seem to be into this, you're lucky she's so obedient."
-    "[LauraX.Name] doesn't seem to be into this, you're lucky she's so obedient."
+    "[LauraX.Name] ne semble pas être excitée, tu as de la chance qu'elle soit si obéissante."
 
 # game/Laura_HJ.rpy:2586
 translate french Laura_Dildo_Ass_d30c7a85:
 
     # ch_l "You want to try and fit that. . .?"
-    ch_l "You want to try and fit that. . .?"
+    ch_l "Tu veux essayer me faire rentrer ça... ?"
 
 # game/Laura_HJ.rpy:2589
 translate french Laura_Dildo_Ass_8ba23c12:
 
     # ch_l "Always about the butt, huh?"
-    ch_l "Always about the butt, huh?"
+    ch_l "Toujours avec mes fesses, hein ?"
 
 # game/Laura_HJ.rpy:2593
 translate french Laura_Dildo_Ass_f3ccf4ea:
@@ -1708,31 +1708,31 @@ translate french Laura_Dildo_Ass_f3ccf4ea:
 translate french Laura_Dildo_Ass_2b5aa872:
 
     # ch_l "I haven't actually used one of these, back there before. . ."
-    ch_l "I haven't actually used one of these, back there before. . ."
+    ch_l "J'ai jamais vraiment utilisé un de ces trucs avant, dans mon cul..."
 
 # game/Laura_HJ.rpy:2608
 translate french Laura_Dildo_Ass_15f289e9:
 
     # ch_l "If that's what you want, [LauraX.Petname]. . ."
-    ch_l "If that's what you want, [LauraX.Petname]. . ."
+    ch_l "Si c'est ce que tu veux, [LauraX.Petname].."
 
 # game/Laura_HJ.rpy:2612
 translate french Laura_Dildo_Ass_ca05a447:
 
     # ch_l "I guess it could be fun two-player. . ."
-    ch_l "I guess it could be fun two-player. . ."
+    ch_l "Je suppose que ça pourrait être amusant à deux..."
 
 # game/Laura_HJ.rpy:2620
 translate french Laura_Dildo_Ass_effb0857:
 
     # ch_l "The toys again?"
-    ch_l "The toys again?"
+    ch_l "Encore les jouets ?"
 
 # game/Laura_HJ.rpy:2622
 translate french Laura_Dildo_Ass_dbc210e3:
 
     # ch_l "Well, at least you got us some privacy this time. . ."
-    ch_l "Well, at least you got us some privacy this time. . ."
+    ch_l "Au moins, tu nous as donné un peu d'intimité cette fois..."
 
 # game/Laura_HJ.rpy:2631
 translate french Laura_Dildo_Ass_8c3790d2:
@@ -1744,7 +1744,7 @@ translate french Laura_Dildo_Ass_8c3790d2:
 translate french Laura_Dildo_Ass_1474ce90:
 
     # ch_l "You want to stick it in my ass again?"
-    ch_l "You want to stick it in my ass again?"
+    ch_l "Tu veux me la fourrer dans le cul encore une fois ?"
 
 # game/Laura_HJ.rpy:2644
 translate french Laura_Dildo_Ass_8c3790d2_1:
@@ -1768,31 +1768,31 @@ translate french Laura_Dildo_Ass_8c3790d2_2:
 translate french Laura_Dildo_Ass_0c79e3fa:
 
     # ch_l "What part of \"no,\" did you not get, [LauraX.Petname]?"
-    ch_l "What part of \"no,\" did you not get, [LauraX.Petname]?"
+    ch_l "Qu'est-ce t'as pas compris dans \"non\", [LauraX.Petname] ?"
 
 # game/Laura_HJ.rpy:2677
 translate french Laura_Dildo_Ass_5c3a2be8:
 
     # ch_l "Stop swinging that thing around in public!"
-    ch_l "Stop swinging that thing around in public!"
+    ch_l "Arrête de brandir ce truc en public !"
 
 # game/Laura_HJ.rpy:2679
 translate french Laura_Dildo_Ass_89734cbc:
 
     # ch_l "I already told you \"no,\" [LauraX.Petname]."
-    ch_l "I already told you \"no,\" [LauraX.Petname]."
+    ch_l "Je t'ai déjà dit \"non\", [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2681
 translate french Laura_Dildo_Ass_30c8b2a4:
 
     # ch_l "I already told you that I wouldn't do that out here!"
-    ch_l "I already told you that I wouldn't do that out here!"
+    ch_l "Je t'ai déjà dit que je ne ferais pas ça ici !"
 
 # game/Laura_HJ.rpy:2684
 translate french Laura_Dildo_Ass_241454c9:
 
     # ch_l "I'm just not into toys, [LauraX.Petname]. . ."
-    ch_l "I'm just not into toys, [LauraX.Petname]. . ."
+    ch_l "Je n'aime pas les jouets, [LauraX.Petname]..."
 
 # game/Laura_HJ.rpy:2687
 translate french Laura_Dildo_Ass_7945b881:
@@ -1804,19 +1804,19 @@ translate french Laura_Dildo_Ass_7945b881:
 translate french Laura_Dildo_Ass_1628de5e:
 
     # ch_l "I don't think we need any toys, [LauraX.Petname]."
-    ch_l "I don't think we need any toys, [LauraX.Petname]."
+    ch_l "Je ne pense pas qu'on ait besoin de jouets, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2695
 translate french Laura_Dildo_Ass_51e5f3ca:
 
     # ch_l "Yeah, ok, [LauraX.Petname]."
-    ch_l "Yeah, ok, [LauraX.Petname]."
+    ch_l "Ouais, ok, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2699
 translate french Laura_Dildo_Ass_46c88883:
 
     # ch_l "Maybe I'll practice on my own time, [LauraX.Petname]."
-    ch_l "Maybe I'll practice on my own time, [LauraX.Petname]."
+    ch_l "Je vais peut-être m'entraîner sur mon temps libre, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2718
 translate french Laura_Dildo_Ass_8c3790d2_3:
@@ -1828,19 +1828,19 @@ translate french Laura_Dildo_Ass_8c3790d2_3:
 translate french Laura_Dildo_Ass_6837eca9:
 
     # ch_l "Ok, fine. If we're going to do this, stick it in already."
-    ch_l "Ok, fine. If we're going to do this, stick it in already."
+    ch_l "Ok, très bien. Si tu veux qu'on le fasse, mets-la moi vite."
 
 # game/Laura_HJ.rpy:2744
 translate french Laura_Dildo_Ass_7ab3a673:
 
     # ch_l "Learn to take \"no\" for an answer, [LauraX.Petname]."
-    ch_l "Learn to take \"no\" for an answer, [LauraX.Petname]."
+    ch_l "Apprends à accepter que je dise \"non\", [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:2749
 translate french Laura_Dildo_Ass_f3b5526c:
 
     # ch_l "I'm not going to let you use that on me."
-    ch_l "I'm not going to let you use that on me."
+    ch_l "Je ne vais pas te laisser utiliser ça sur moi."
 
 # game/Laura_HJ.rpy:2760
 translate french Laura_Dildo_Ass_0479f2cd:
@@ -1858,7 +1858,7 @@ translate french Laura_Dildo_Ass_01b30ba2:
 translate french Laura_Dildo_Ass_8cc54ba1:
 
     # ch_l "Sorry, you can keep your toys out of there."
-    ch_l "Sorry, you can keep your toys out of there."
+    ch_l "Désolé, tu peux garder tes jouets."
 
 # game/Laura_HJ.rpy:2771
 translate french Laura_Dildo_Ass_5c0ff36a:
@@ -1894,13 +1894,13 @@ translate french Laura_DA_Cycle_2c55fb6c:
 translate french Laura_DA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Laura_HJ.rpy:2958
 translate french Laura_DA_Cycle_6d886d06:
 
     # "[LauraX.Name] still seems a bit unsatisfied with the experience."
-    "[LauraX.Name] still seems a bit unsatisfied with the experience."
+    "[LauraX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Laura_HJ.rpy:2964
 translate french Laura_DA_Cycle_054b65ff:
@@ -1912,61 +1912,61 @@ translate french Laura_DA_Cycle_054b65ff:
 translate french Laura_DA_Cycle_3881b2bb:
 
     # ch_l "What are you even doing down there?"
-    ch_l "What are you even doing down there?"
+    ch_l "Qu'est-ce que tu fais là en bas ?"
 
 # game/Laura_HJ.rpy:2982
 translate french Laura_DA_Cycle_0c82798e:
 
     # ch_l "[LauraX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
-    ch_l "[LauraX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
+    ch_l "[LauraX.Petname], cela devient inconfortable, peut-être que nous pourrions essayer autre chose." nointeract
 
 # game/Laura_HJ.rpy:2985
 translate french Laura_DA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Laura_HJ.rpy:2996
 translate french Laura_DA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Laura_HJ.rpy:3000
 translate french Laura_DA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Laura_HJ.rpy:3001
 translate french Laura_DA_Cycle_22a858eb:
 
     # ch_l "Well if that's your attitude, I don't need your \"help\"."
-    ch_l "Well if that's your attitude, I don't need your \"help\"."
+    ch_l "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Laura_HJ.rpy:3012
 translate french Laura_DA_Cycle_b9152619:
 
     # ch_l "It's getting late, we should wrap this up."
-    ch_l "It's getting late, we should wrap this up."
+    ch_l "Il se fait tard, on devrait conclure."
 
 # game/Laura_HJ.rpy:3014
 translate french Laura_DA_Cycle_44156af4:
 
     # ch_l "Tic tock, [LauraX.Petname]."
-    ch_l "Tic tock, [LauraX.Petname]."
+    ch_l "Tic toc, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:3019
 translate french Laura_DA_Cycle_b1de526b:
 
     # ch_l "Ok, [LauraX.Petname], breaktime."
-    ch_l "Ok, [LauraX.Petname], breaktime."
+    ch_l "Ok, [LauraX.Petname], pause."
 
 # game/Laura_HJ.rpy:3037
 translate french Laura_DA_After_fed526a6:
 
     # ch_l "That was. . . interesting. . ."
-    ch_l "That was. . . interesting. . ."
+    ch_l "C'était.... intéressant..."
 
 # game/Laura_HJ.rpy:3039
 translate french Laura_DA_After_92d8ea83:
@@ -1978,13 +1978,13 @@ translate french Laura_DA_After_92d8ea83:
 translate french Laura_DA_After_e7f347c8:
 
     # ch_l "Did you like that?"
-    ch_l "Cela t'a plu ?.."
+    ch_l "Cela t'a plu ?"
 
 # game/Laura_HJ.rpy:3054
 translate french Laura_Vibrator_Check_f6f216ee:
 
     # "You pull out the \"shocker\" vibrator, handy."
-    "You pull out the \"shocker\" vibrator, handy."
+    "Tu sors le vibrateur \"shocker\", pratique."
 
 # game/Laura_HJ.rpy:3056
 translate french Laura_Vibrator_Check_92241def:
@@ -1996,7 +1996,7 @@ translate french Laura_Vibrator_Check_92241def:
 translate french Laura_Vibrator_Check_2fdc9bd4:
 
     # "You don't have one of those on you."
-    "You don't have one of those on you."
+    "Tu n'en as pas sur vous."
 
 # game/Laura_HJ.rpy:3100
 translate french Laura_Footjob_7c3457bb:
@@ -2008,31 +2008,31 @@ translate french Laura_Footjob_7c3457bb:
 translate french Laura_Footjob_7b0c12d8:
 
     # "[LauraX.Name] continues her actions."
-    "[LauraX.Name] continues her actions."
+    "[LauraX.Name] poursuit ses actions."
 
 # game/Laura_HJ.rpy:3110
 translate french Laura_Footjob_42a9bd80:
 
     # ch_p "Oooh, that's good, [LauraX.Pet]."
-    ch_p "Oooh, that's good, [LauraX.Pet]."
+    ch_p "Oooh, c'est bien, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:3112
 translate french Laura_Footjob_7b0c12d8_1:
 
     # "[LauraX.Name] continues her actions."
-    "[LauraX.Name] continues her actions."
+    "[LauraX.Name] poursuit ses actions."
 
 # game/Laura_HJ.rpy:3119
 translate french Laura_Footjob_b0f9182b:
 
     # ch_p "Let's not do that for now, [LauraX.Pet]."
-    ch_p "Let's not do that for now, [LauraX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [LauraX.Pet]."
 
 # game/Laura_HJ.rpy:3121
 translate french Laura_Footjob_95c15b52:
 
     # "[LauraX.Name] puts it down."
-    "[LauraX.Name] puts it down."
+    "[LauraX.Name] le pose."
 
 # game/Laura_HJ.rpy:3137
 translate french Laura_Footjob_1538e371:
@@ -2044,13 +2044,13 @@ translate french Laura_Footjob_1538e371:
 translate french Laura_Footjob_2d438cae:
 
     # ch_l "I guess it couldn't hurt. . ."
-    ch_l "I guess it couldn't hurt. . ."
+    ch_l "Je suppose que ça ferait pas de mal..."
 
 # game/Laura_HJ.rpy:3152
 translate french Laura_Footjob_f2921d28:
 
     # ch_l "If you want, [LauraX.Petname]. . ."
-    ch_l "If you want, [LauraX.Petname]. . ."
+    ch_l "Si tu veux, [LauraX.Petname].."
 
 # game/Laura_HJ.rpy:3155
 translate french Laura_Footjob_70952979:
@@ -2086,7 +2086,7 @@ translate french Laura_Footjob_56fc55eb:
 translate french Laura_Footjob_35feb339:
 
     # ch_l "Hmm, magic toes. . ."
-    ch_l "Hmm, magic toes. . ."
+    ch_l "Hmm, les orteils magiques..."
 
 # game/Laura_HJ.rpy:3191
 translate french Laura_Footjob_8c3790d2:
@@ -2122,13 +2122,13 @@ translate french Laura_Footjob_019baf4b:
 translate french Laura_Footjob_ed13f9a5:
 
     # ch_l "I said not in public."
-    ch_l "I said not in public."
+    ch_l "J'ai dit pas en public."
 
 # game/Laura_HJ.rpy:3226
 translate french Laura_Footjob_676d549c:
 
     # ch_l "I told you \"no,\" [LauraX.Petname]."
-    ch_l "I told you \"no,\" [LauraX.Petname]."
+    ch_l "Je t'ai dit \"non\", [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:3228
 translate french Laura_Footjob_f81913c9:
@@ -2182,7 +2182,7 @@ translate french Laura_Footjob_f258f724_1:
 translate french Laura_Footjob_2cf1a073:
 
     # ch_l "I'm not telling you again."
-    ch_l "I'm not telling you again."
+    ch_l "Je ne te le répèterai pas."
 
 # game/Laura_HJ.rpy:3298
 translate french Laura_Footjob_3db98a2e:
@@ -2212,13 +2212,13 @@ translate french Laura_Footjob_3ef31a99:
 translate french Laura_FJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Laura_HJ.rpy:3385
 translate french Laura_FJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Laura_HJ.rpy:3391
 translate french Laura_FJ_Cycle_dbab1d12:
@@ -2248,13 +2248,13 @@ translate french Laura_FJ_Cycle_2c55fb6c:
 translate french Laura_FJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Laura_HJ.rpy:3528
 translate french Laura_FJ_Cycle_6d886d06:
 
     # "[LauraX.Name] still seems a bit unsatisfied with the experience."
-    "[LauraX.Name] still seems a bit unsatisfied with the experience."
+    "[LauraX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Laura_HJ.rpy:3534
 translate french Laura_FJ_Cycle_054b65ff:
@@ -2284,13 +2284,13 @@ translate french Laura_FJ_Cycle_fbde5ef7:
 translate french Laura_FJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Laura_HJ.rpy:3575
 translate french Laura_FJ_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Laura_HJ.rpy:3576
 translate french Laura_FJ_Cycle_6d6cfc3c:
@@ -2308,19 +2308,19 @@ translate french Laura_FJ_Cycle_27e8bedb:
 translate french Laura_FJ_Cycle_b9152619:
 
     # ch_l "It's getting late, we should wrap this up."
-    ch_l "It's getting late, we should wrap this up."
+    ch_l "Il se fait tard, on devrait conclure."
 
 # game/Laura_HJ.rpy:3594
 translate french Laura_FJ_Cycle_44156af4:
 
     # ch_l "Tic tock, [LauraX.Petname]."
-    ch_l "Tic tock, [LauraX.Petname]."
+    ch_l "Tic toc, [LauraX.Petname]."
 
 # game/Laura_HJ.rpy:3599
 translate french Laura_FJ_Cycle_b1de526b:
 
     # ch_l "Ok, [LauraX.Petname], breaktime."
-    ch_l "Ok, [LauraX.Petname], breaktime."
+    ch_l "Ok, [LauraX.Petname], pause."
 
 # game/Laura_HJ.rpy:3617
 translate french Laura_FJ_After_b72036ad:
@@ -2332,13 +2332,13 @@ translate french Laura_FJ_After_b72036ad:
 translate french Laura_FJ_After_5fbc7031:
 
     # ch_l "Did you like that? . ."
-    ch_l "Cela t'a plu ?.."
+    ch_l "Ca t'a plu ?"
 
 # game/Laura_HJ.rpy:3627
 translate french Laura_FJ_After_23e61b0a:
 
     # ch_l "Did that do it for you?"
-    ch_l "Did that do it for you?"
+    ch_l "Ca t'a allumé ?"
 
 # game/Laura_HJ.rpy:3629
 translate french Laura_FJ_After_1c1abdc9:
@@ -2350,7 +2350,7 @@ translate french Laura_FJ_After_1c1abdc9:
 translate french Laura_FJ_After_b31c9451:
 
     # ch_l "Ok, so what did you have in mind?"
-    ch_l "Ok, so what did you have in mind?"
+    ch_l "Ok, alors qu'est-ce que tu avais en tête ?"
 
 translate french strings:
 
@@ -2360,7 +2360,7 @@ translate french strings:
 
     # game/Laura_HJ.rpy:73
     old "Again the with handjobs, huh?"
-    new "Again the with handjobs, huh?"
+    new "Encore avec les branlettes, hein ?"
 
     # game/Laura_HJ.rpy:73
     old "I guess you want more."
@@ -2368,7 +2368,7 @@ translate french strings:
 
     # game/Laura_HJ.rpy:87
     old "You want some more?"
-    new "You want some more?"
+    new "Tu en veux plus ?"
 
     # game/Laura_HJ.rpy:87
     old "You want a. . . [fist pumping hand gestures]?"
@@ -2388,7 +2388,7 @@ translate french strings:
 
     # game/Laura_HJ.rpy:706
     old "Come on, let me fuck those titties, [LauraX.Pet]"
-    new "Come on, let me fuck those titties, [LauraX.Pet]"
+    new "Allez, laisse-moi baiser ces nichons, [LauraX.Pet]"
 
     # game/Laura_HJ.rpy:1245
     old "Wear'in me out here."
@@ -2404,7 +2404,7 @@ translate french strings:
 
     # game/Laura_HJ.rpy:1279
     old "Well. . . alright."
-    new "Well. . . alright."
+    new "Bah... d'accord."
 
     # game/Laura_HJ.rpy:1308
     old "Suck it, [LauraX.Pet]"
@@ -2417,4 +2417,8 @@ translate french strings:
     # game/Laura_HJ.rpy:3206
     old "Fine, lemme see it."
     new "Fine, lemme see it."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

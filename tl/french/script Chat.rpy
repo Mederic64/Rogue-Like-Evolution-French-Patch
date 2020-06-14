@@ -52,7 +52,7 @@ translate french Chat_f63d1ab5:
 translate french Chat_bd3d1929:
 
     # ch_k "Ah! One minute. . ."
-    ch_k "Ah! One minute. . ."
+    ch_k "Ah ! Une minute.."
 
 # game/script Chat.rpy:70
 translate french Chat_6b23a43e_1:
@@ -334,7 +334,7 @@ translate french Chat_Menu_aef8bfae:
 translate french Chat_Menu_a2720daf:
 
     # ch_e "No thank you, [Girl.Petname]."
-    ch_e "No thank you, [Girl.Petname]."
+    ch_e "Non merci, [Girl.Petname]."
 
 # game/script Chat.rpy:239
 translate french Chat_Menu_dd9924ec:
@@ -418,7 +418,7 @@ translate french Chat_Menu_45c5ba04:
 translate french Chat_Menu_3af4f1dd:
 
     # ch_e "I don't see why not."
-    ch_e "I don't see why not."
+    ch_e "Je ne vois aucune raison de refuser."
 
 # game/script Chat.rpy:302
 translate french Chat_Menu_fb6bd96d:
@@ -670,7 +670,7 @@ translate french Switch_Chat_4ff0ab38:
 translate french Switch_Chat_c55bcf49:
 
     # "You don't have her number."
-    "You don't have her number."
+    "Tu n'as pas son numéro."
 
 # game/script Chat.rpy:452
 translate french Switch_Chat_3e6cd885:
@@ -1132,7 +1132,7 @@ translate french Flirt_8e35028a:
 translate french Flirt_ce429401:
 
     # ch_k "Heh, sorry, I'm out at right now."
-    ch_k "Heh, sorry, I'm out at right now."
+    ch_k "Héhé, désolé, je suis vidée."
 
 # game/script Chat.rpy:748
 translate french Flirt_06b53ef1:
@@ -1156,7 +1156,7 @@ translate french Flirt_7fbc944f:
 translate french Flirt_5aa85462:
 
     # ch_k "Heh, heh, um, I don't think I could. . ."
-    ch_k "Heh, heh, um, je ne pense pas que je pourrais..."
+    ch_k "Héhé, heh, um, je ne pense pas que je pourrais..."
 
 # game/script Chat.rpy:759
 translate french Flirt_5ae2e3dc:
@@ -1180,7 +1180,7 @@ translate french Flirt_94066eee:
 translate french Flirt_b0f0ca60:
 
     # ch_r "That was real sweet, [Girl.Petname]."
-    ch_r "That was real sweet, [Girl.Petname]."
+    ch_r "C'était vraiment gentil, [Girl.Petname]."
 
 # game/script Chat.rpy:802
 translate french Flirt_fe4132a4:
@@ -1282,7 +1282,7 @@ translate french Flirt_e3dae8e1:
 translate french Flirt_d9960fcc:
 
     # ch_r "Hey, back off!"
-    ch_r "Hey, back off!"
+    ch_r "Hé, recule !"
 
 # game/script Chat.rpy:847
 translate french Flirt_9f39ff22:
@@ -1312,7 +1312,7 @@ translate french Flirt_fbde5ef7:
 translate french Flirt_ad84e033:
 
     # "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
-    "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te met la main au visage et te repousse."
 
 # game/script Chat.rpy:869
 translate french Flirt_3f7a6561:
@@ -1324,7 +1324,7 @@ translate french Flirt_3f7a6561:
 translate french Flirt_b16de7f9:
 
     # "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
-    "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te donne un léger coup de coude sur les côtes."
 
 # game/script Chat.rpy:872
 translate french Flirt_d9ef3918:
@@ -1336,7 +1336,7 @@ translate french Flirt_d9ef3918:
 translate french Flirt_ad84e033_1:
 
     # "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
-    "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te met la main au visage et te repousse."
 
 # game/script Chat.rpy:875
 translate french Flirt_59fc6404:
@@ -1348,7 +1348,7 @@ translate french Flirt_59fc6404:
 translate french Flirt_b16de7f9_1:
 
     # "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
-    "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te donne un léger coup de coude sur les côtes."
 
 # game/script Chat.rpy:878
 translate french Flirt_1f35f371:
@@ -1360,7 +1360,7 @@ translate french Flirt_1f35f371:
 translate french Flirt_ad84e033_2:
 
     # "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
-    "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te met la main au visage et te repousse."
 
 # game/script Chat.rpy:887
 translate french Flirt_7e172082:
@@ -1372,7 +1372,7 @@ translate french Flirt_7e172082:
 translate french Flirt_b16de7f9_2:
 
     # "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
-    "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te donne un léger coup de coude sur les côtes."
 
 # game/script Chat.rpy:890
 translate french Flirt_ddef1be2:
@@ -1384,7 +1384,7 @@ translate french Flirt_ddef1be2:
 translate french Flirt_ad84e033_3:
 
     # "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
-    "You lean close for a kiss, but [Girl.Name] plants a hand on your face and pushes you back."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te met la main au visage et te repousse."
 
 # game/script Chat.rpy:893
 translate french Flirt_dde8af42:
@@ -1396,7 +1396,7 @@ translate french Flirt_dde8af42:
 translate french Flirt_b16de7f9_3:
 
     # "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
-    "You lean close for a kiss, but [Girl.Name] gently elbows your ribs."
+    "Tu te penches pour un baiser, mais [Girl.Petname] te donne un léger coup de coude sur les côtes."
 
 # game/script Chat.rpy:896
 translate french Flirt_1f941abf:
@@ -1432,13 +1432,13 @@ translate french Flirt_75fbe234:
 translate french Flirt_a2e7dbe8:
 
     # ch_l "Hmm, that's nice. . ."
-    ch_l "Hmm, that's nice. . ."
+    ch_l "Hmm, c'est bien..."
 
 # game/script Chat.rpy:925
 translate french Flirt_0c371d90:
 
     # ch_r "Hey, what do you think you're doing, [Girl.Petname]?"
-    ch_r "Hey, what do you think you're doing, [Girl.Petname]?"
+    ch_r "Hé, qu'est-ce que tu crois faire, [Girl.Petname] ?"
 
 # game/script Chat.rpy:927
 translate french Flirt_e2b2ba3a:
@@ -1450,7 +1450,7 @@ translate french Flirt_e2b2ba3a:
 translate french Flirt_3a70e91d:
 
     # ch_e "You're incorrigible."
-    ch_e "You're incorrigible."
+    ch_e "Tu es incorrigible."
 
 # game/script Chat.rpy:931
 translate french Flirt_66159af9:
@@ -1600,7 +1600,7 @@ translate french Flirt_6e0aad0c:
 translate french Flirt_da663cea:
 
     # ch_e "Hmm?"
-    ch_e "Hmm?"
+    ch_e "Hmm ?"
 
 # game/script Chat.rpy:1000
 translate french Flirt_8ae33949:
@@ -1624,7 +1624,7 @@ translate french Flirt_b61ae048:
 translate french Flirt_0c371d90_1:
 
     # ch_r "Hey, what do you think you're doing, [Girl.Petname]?"
-    ch_r "Hey, what do you think you're doing, [Girl.Petname]?"
+    ch_r "Hé, qu'est-ce que tu crois faire, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1011
 translate french Flirt_0d4a89be:
@@ -1696,7 +1696,7 @@ translate french Flirt_b935f72b_1:
 translate french Flirt_1ff4601e:
 
     # ch_r "Gimme some more sugar, [Girl.Petname]."
-    ch_r "Gimme some more sugar, [Girl.Petname]."
+    ch_r "Fais-moi plus de câlins, [Girl.Petname]."
 
 # game/script Chat.rpy:1057
 translate french Flirt_2ec59290:
@@ -1750,7 +1750,7 @@ translate french Flirt_f8f16aed:
 translate french Flirt_bb5dd5d5:
 
     # ch_k "We could keep going, [Girl.Petname]."
-    ch_k "We could keep going, [Girl.Petname]."
+    ch_k "On pourrait continuer, [Girl.Petname]."
 
 # game/script Chat.rpy:1077
 translate french Flirt_be431522:
@@ -1762,7 +1762,7 @@ translate french Flirt_be431522:
 translate french Flirt_a3dd3e06:
 
     # ch_l "We could keep going, [Girl.Petname]."
-    ch_l "We could keep going, [Girl.Petname]."
+    ch_l "On pourrait continuer, [Girl.Petname]."
 
 # game/script Chat.rpy:1097
 translate french Flirt_6dc42806:
@@ -1786,7 +1786,7 @@ translate french Flirt_947b00e0:
 translate french Flirt_359261c1:
 
     # ch_l "Ah, you were kidding."
-    ch_l "Ah, you were kidding."
+    ch_l "Ah, tu plaisantais."
 
 # game/script Chat.rpy:1110
 translate french Flirt_6790b0db:
@@ -1810,7 +1810,7 @@ translate french Flirt_f1a596e0:
 translate french Flirt_359261c1_1:
 
     # ch_l "Ah, you were kidding."
-    ch_l "Ah, you were kidding."
+    ch_l "Ah, tu plaisantais."
 
 # game/script Chat.rpy:1119
 translate french Flirt_8ca58ce6:
@@ -1846,7 +1846,7 @@ translate french Flirt_0ac9123b:
 translate french Flirt_d3843774:
 
     # ch_l "Don't push me."
-    ch_l "Don't push me."
+    ch_l "Ne me cherche pas."
 
 # game/script Chat.rpy:1134
 translate french Flirt_64f4ff05:
@@ -1870,7 +1870,7 @@ translate french Flirt_f9378867:
 translate french Flirt_0e83e747:
 
     # ch_k "What's the deal, [Girl.Petname]?"
-    ch_k "What's the deal, [Girl.Petname]?"
+    ch_k "C'est quoi le problème, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1143
 translate french Flirt_6701b7bc:
@@ -1888,7 +1888,7 @@ translate french Flirt_07ac14fa:
 translate french Flirt_4081bd4b:
 
     # ch_r "Hmm, are you hinting at something there, [Girl.Petname]?"
-    ch_r "Hmm, are you hinting at something there, [Girl.Petname]?"
+    ch_r "Hmm, tu fais allusion à quelque chose là, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1156
 translate french Flirt_f7eae7ff:
@@ -1912,7 +1912,7 @@ translate french Flirt_ea99f0a8:
 translate french Flirt_797f7bc4:
 
     # ch_r "Hmm, nice to see you too, [Girl.Petname]?"
-    ch_r "Hmm, nice to see you too, [Girl.Petname]?"
+    ch_r "Hmm, content de te voir aussi, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1169
 translate french Flirt_f371e81d:
@@ -1990,19 +1990,19 @@ translate french Flirt_6023726a:
 translate french Flirt_5a2bdd5b:
 
     # ch_k "What was that about, [Girl.Petname]?"
-    ch_k "What was that about, [Girl.Petname]?"
+    ch_k "Qu'y a t-il, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1213
 translate french Flirt_a2efab0a:
 
     # ch_e "What was that about, [Girl.Petname]?"
-    ch_e "What was that about, [Girl.Petname]?"
+    ch_e "Qu'y a t-il, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1215
 translate french Flirt_b92fbfc5:
 
     # ch_l "Hey, back off."
-    ch_l "Hey, back off."
+    ch_l "Hé, recule."
 
 # game/script Chat.rpy:1224
 translate french Flirt_5a36e421:
@@ -2026,7 +2026,7 @@ translate french Flirt_f9378867_1:
 translate french Flirt_f472490d:
 
     # ch_k "Hey! Bad touch!"
-    ch_k "Hey! Bad touch!"
+    ch_k "Hé ! Pas touche !"
 
 # game/script Chat.rpy:1232
 translate french Flirt_dbeede5f:
@@ -2044,7 +2044,7 @@ translate french Flirt_bcfc3ff0:
 translate french Flirt_9822be2b:
 
     # ch_r "Ooh! Are you hinting at something there, [Girl.Petname]?"
-    ch_r "Ooh! Are you hinting at something there, [Girl.Petname]?"
+    ch_r "Ooh ! Tu fais allusion à quelque chose là, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1246
 translate french Flirt_2bb29c08:
@@ -2068,7 +2068,7 @@ translate french Flirt_a0bfff0b:
 translate french Flirt_797f7bc4_1:
 
     # ch_r "Hmm, nice to see you too, [Girl.Petname]?"
-    ch_r "Hmm, nice to see you too, [Girl.Petname]?"
+    ch_r "Hmm, content de te voir aussi, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1260
 translate french Flirt_41f60d3f:
@@ -2170,13 +2170,13 @@ translate french Flirt_9d27eaf4:
 translate french Flirt_38e3cfee:
 
     # ch_r "Oh, naughty, [Girl.Petname]!"
-    ch_r "Oh, naughty, [Girl.Petname]!"
+    ch_r "Oh, vilain garçon, [Girl.Petname] !"
 
 # game/script Chat.rpy:1324
 translate french Flirt_a1ff4996:
 
     # ch_r "You could have just asked, you know. . ."
-    ch_r "You could have just asked, you know. . ."
+    ch_r "Tu aurais pu simplement demander, tu sais..."
 
 # game/script Chat.rpy:1326
 translate french Flirt_739d9784:
@@ -2188,7 +2188,7 @@ translate french Flirt_739d9784:
 translate french Flirt_633f11ca:
 
     # ch_e "You couldn't[Girl.like]ask? . ."
-    ch_e "You couldn't[Girl.like]ask? . ."
+    ch_e "Tu pouvais pas[Girl.like]demander ?..."
 
 # game/script Chat.rpy:1329
 translate french Flirt_c57f8870:
@@ -2236,7 +2236,7 @@ translate french Flirt_4379c458:
 translate french Flirt_d29dff6a:
 
     # ch_l "What's the deal, [Girl.Petname]?"
-    ch_l "What's the deal, [Girl.Petname]?"
+    ch_l "C'est quoi le problème, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1348
 translate french Flirt_a0ebb398:
@@ -2290,13 +2290,13 @@ translate french Flirt_3d728673:
 translate french Flirt_38e3cfee_1:
 
     # ch_r "Oh, naughty, [Girl.Petname]!"
-    ch_r "Oh, naughty, [Girl.Petname]!"
+    ch_r "Oh, vilain garçon, [Girl.Petname] !"
 
 # game/script Chat.rpy:1385
 translate french Flirt_a1ff4996_1:
 
     # ch_r "You could have just asked, you know. . ."
-    ch_r "You could have just asked, you know. . ."
+    ch_r "Tu aurais pu simplement demander, tu sais..."
 
 # game/script Chat.rpy:1387
 translate french Flirt_739d9784_1:
@@ -2308,7 +2308,7 @@ translate french Flirt_739d9784_1:
 translate french Flirt_633f11ca_1:
 
     # ch_e "You couldn't[Girl.like]ask? . ."
-    ch_e "You couldn't[Girl.like]ask? . ."
+    ch_e "Tu pouvais pas[Girl.like]demander ?..."
 
 # game/script Chat.rpy:1390
 translate french Flirt_c57f8870_1:
@@ -2338,13 +2338,13 @@ translate french Flirt_c5fe5d07_1:
 translate french Flirt_c03dccd3:
 
     # ch_r "[Girl.Petname]! A little warning!"
-    ch_r "[Girl.Petname]! A little warning!"
+    ch_r "[Girl.Petname] ! Tu pourrais m'avertir !"
 
 # game/script Chat.rpy:1401
 translate french Flirt_d83e69a0:
 
     # ch_k "[Girl.Petname]! A head's up wouldn't hurt."
-    ch_k "[Girl.Petname]! A head's up wouldn't hurt."
+    ch_k "[Girl.Petname] ! M'avertir ne ferait pas de mal."
 
 # game/script Chat.rpy:1403
 translate french Flirt_11686ba8:
@@ -2374,13 +2374,13 @@ translate french Flirt_ecf36d12:
 translate french Flirt_ba5e3490:
 
     # ch_k "[Girl.Petname]! Not in public!"
-    ch_k "[Girl.Petname]! Not in public!"
+    ch_k "[Girl.Petname] ! Pas en public !"
 
 # game/script Chat.rpy:1416
 translate french Flirt_8ee1fd31:
 
     # ch_e "[Girl.Petname]! I do have a reputation to maintain."
-    ch_e "[Girl.Petname]! I do have a reputation to maintain."
+    ch_e "[Girl.Petname] ! J'ai une réputation à maintenir."
 
 # game/script Chat.rpy:1418
 translate french Flirt_58ba712d:
@@ -2392,7 +2392,7 @@ translate french Flirt_58ba712d:
 translate french Flirt_ae990440:
 
     # ch_e "Are you out of your mind, [Girl.Petname]?"
-    ch_e "Are you out of your mind, [Girl.Petname]?"
+    ch_e "Tu as perdu l'esprit, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1426
 translate french Flirt_5607b575_3:
@@ -2404,7 +2404,7 @@ translate french Flirt_5607b575_3:
 translate french Flirt_ae990440_1:
 
     # ch_e "Are you out of your mind, [Girl.Petname]?"
-    ch_e "Are you out of your mind, [Girl.Petname]?"
+    ch_e "Tu as perdu l'esprit, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1437
 translate french Flirt_2d3040b2:
@@ -2416,13 +2416,13 @@ translate french Flirt_2d3040b2:
 translate french Flirt_38e3cfee_2:
 
     # ch_r "Oh, naughty, [Girl.Petname]!"
-    ch_r "Oh, naughty, [Girl.Petname]!"
+    ch_r "Oh, vilain garçon, [Girl.Petname] !"
 
 # game/script Chat.rpy:1452
 translate french Flirt_a1ff4996_2:
 
     # ch_r "You could have just asked, you know. . ."
-    ch_r "You could have just asked, you know. . ."
+    ch_r "Tu aurais pu simplement demander, tu sais..."
 
 # game/script Chat.rpy:1454
 translate french Flirt_739d9784_2:
@@ -2434,7 +2434,7 @@ translate french Flirt_739d9784_2:
 translate french Flirt_633f11ca_2:
 
     # ch_e "You couldn't[Girl.like]ask? . ."
-    ch_e "You couldn't[Girl.like]ask? . ."
+    ch_e "Tu pouvais pas[Girl.like]demander ?..."
 
 # game/script Chat.rpy:1457
 translate french Flirt_c57f8870_2:
@@ -2458,19 +2458,19 @@ translate french Flirt_5607b575_4:
 translate french Flirt_1f4ee314:
 
     # ch_l "Like what you see?"
-    ch_l "Like what you see?"
+    ch_l "Tu aimes ce que tu vois ?"
 
 # game/script Chat.rpy:1465
 translate french Flirt_c03dccd3_1:
 
     # ch_r "[Girl.Petname]! A little warning!"
-    ch_r "[Girl.Petname]! A little warning!"
+    ch_r "[Girl.Petname] ! Tu pourrais m'avertir !"
 
 # game/script Chat.rpy:1467
 translate french Flirt_d83e69a0_1:
 
     # ch_k "[Girl.Petname]! A head's up wouldn't hurt."
-    ch_k "[Girl.Petname]! A head's up wouldn't hurt."
+    ch_k "[Girl.Petname] ! M'avertir ne ferait pas de mal."
 
 # game/script Chat.rpy:1469
 translate french Flirt_11686ba8_1:
@@ -2530,7 +2530,7 @@ translate french Flirt_3882ed40:
 translate french Flirt_ae990440_2:
 
     # ch_e "Are you out of your mind, [Girl.Petname]?"
-    ch_e "Are you out of your mind, [Girl.Petname]?"
+    ch_e "Tu as perdu l'esprit, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1494
 translate french Flirt_5607b575_5:
@@ -2542,13 +2542,13 @@ translate french Flirt_5607b575_5:
 translate french Flirt_ae990440_3:
 
     # ch_e "Are you out of your mind, [Girl.Petname]?"
-    ch_e "Are you out of your mind, [Girl.Petname]?"
+    ch_e "Tu as perdu l'esprit, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1504
 translate french Flirt_ddb90606:
 
     # ch_e "Even if I had been wearing panties. . ."
-    ch_e "Even if I had been wearing panties. . ."
+    ch_e "Même si j'avais porté une culotte..."
 
 # game/script Chat.rpy:1506
 translate french Flirt_2d3040b2_1:
@@ -2560,13 +2560,13 @@ translate french Flirt_2d3040b2_1:
 translate french Flirt_38e3cfee_3:
 
     # ch_r "Oh, naughty, [Girl.Petname]!"
-    ch_r "Oh, naughty, [Girl.Petname]!"
+    ch_r "Oh, vilain garçon, [Girl.Petname] !"
 
 # game/script Chat.rpy:1522
 translate french Flirt_a1ff4996_3:
 
     # ch_r "You could have just asked, you know. . ."
-    ch_r "You could have just asked, you know. . ."
+    ch_r "Tu aurais pu simplement demander, tu sais..."
 
 # game/script Chat.rpy:1524
 translate french Flirt_739d9784_3:
@@ -2578,7 +2578,7 @@ translate french Flirt_739d9784_3:
 translate french Flirt_633f11ca_3:
 
     # ch_e "You couldn't[Girl.like]ask? . ."
-    ch_e "You couldn't[Girl.like]ask? . ."
+    ch_e "Tu pouvais pas[Girl.like]demander ?..."
 
 # game/script Chat.rpy:1527
 translate french Flirt_c57f8870_3:
@@ -2602,19 +2602,19 @@ translate french Flirt_5607b575_6:
 translate french Flirt_1f4ee314_1:
 
     # ch_l "Like what you see?"
-    ch_l "Like what you see?"
+    ch_l "Tu aimes ce que tu vois ?"
 
 # game/script Chat.rpy:1535
 translate french Flirt_c03dccd3_2:
 
     # ch_r "[Girl.Petname]! A little warning!"
-    ch_r "[Girl.Petname]! A little warning!"
+    ch_r "[Girl.Petname] ! Tu pourrais m'avertir !"
 
 # game/script Chat.rpy:1537
 translate french Flirt_d83e69a0_2:
 
     # ch_k "[Girl.Petname]! A head's up wouldn't hurt."
-    ch_k "[Girl.Petname]! A head's up wouldn't hurt."
+    ch_k "[Girl.Petname] ! M'avertir ne ferait pas de mal."
 
 # game/script Chat.rpy:1539
 translate french Flirt_11686ba8_2:
@@ -2644,13 +2644,13 @@ translate french Flirt_ecf36d12_1:
 translate french Flirt_ba5e3490_1:
 
     # ch_k "[Girl.Petname]! Not in public!"
-    ch_k "[Girl.Petname]! Not in public!"
+    ch_k "[Girl.Petname] ! Pas en public !"
 
 # game/script Chat.rpy:1552
 translate french Flirt_8ee1fd31_1:
 
     # ch_e "[Girl.Petname]! I do have a reputation to maintain."
-    ch_e "[Girl.Petname]! I do have a reputation to maintain."
+    ch_e "[Girl.Petname] ! J'ai une réputation à maintenir."
 
 # game/script Chat.rpy:1554
 translate french Flirt_58ba712d_1:
@@ -2662,7 +2662,7 @@ translate french Flirt_58ba712d_1:
 translate french Flirt_ae990440_4:
 
     # ch_e "Are you out of your mind, [Girl.Petname]?"
-    ch_e "Are you out of your mind, [Girl.Petname]?"
+    ch_e "Tu as perdu l'esprit, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1562
 translate french Flirt_5607b575_7:
@@ -2674,13 +2674,13 @@ translate french Flirt_5607b575_7:
 translate french Flirt_ae990440_5:
 
     # ch_e "Are you out of your mind, [Girl.Petname]?"
-    ch_e "Are you out of your mind, [Girl.Petname]?"
+    ch_e "Tu as perdu l'esprit, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1572
 translate french Flirt_ddb90606_1:
 
     # ch_e "Even if I had been wearing panties. . ."
-    ch_e "Even if I had been wearing panties. . ."
+    ch_e "Même si j'avais porté une culotte..."
 
 # game/script Chat.rpy:1574
 translate french Flirt_2d3040b2_2:
@@ -2692,19 +2692,19 @@ translate french Flirt_2d3040b2_2:
 translate french Flirt_dd1d9989:
 
     # "You come up to [Girl.Name] and quickly honk her boob."
-    "You come up to [Girl.Name] and quickly honk her boob."
+    "Tu t'approches de [Girl.Name] et tu lui presses rapidement un sein."
 
 # game/script Chat.rpy:1592
 translate french Flirt_dd1d9989_1:
 
     # "You come up to [Girl.Name] and quickly honk her boob."
-    "You come up to [Girl.Name] and quickly honk her boob."
+    "Tu t'approches de [Girl.Name] et tu lui presses rapidement un sein."
 
 # game/script Chat.rpy:1597
 translate french Flirt_a3d718f1:
 
     # "She slaps your hand away and smacks your face."
-    "She slaps your hand away and smacks your face."
+    "Elle dégage ta main et te gifle le visage."
 
 # game/script Chat.rpy:1598
 translate french Flirt_e3dc6fb0:
@@ -2716,7 +2716,7 @@ translate french Flirt_e3dc6fb0:
 translate french Flirt_ddae8654:
 
     # "She slaps your hand away and elbows you in the ribs."
-    "She slaps your hand away and elbows you in the ribs."
+    "Elle te gifle la main et te donne un coup de coude dans les côtes."
 
 # game/script Chat.rpy:1603
 translate french Flirt_86ba6d5c:
@@ -2728,7 +2728,7 @@ translate french Flirt_86ba6d5c:
 translate french Flirt_ddae8654_1:
 
     # "She slaps your hand away and elbows you in the ribs."
-    "She slaps your hand away and elbows you in the ribs."
+    "Elle te gifle la main et te donne un coup de coude dans les côtes."
 
 # game/script Chat.rpy:1608
 translate french Flirt_824d71f2:
@@ -2752,7 +2752,7 @@ translate french Flirt_d0085e1c:
 translate french Flirt_9822be2b_1:
 
     # ch_r "Ooh! Are you hinting at something there, [Girl.Petname]?"
-    ch_r "Ooh! Are you hinting at something there, [Girl.Petname]?"
+    ch_r "Ooh ! Tu fais allusion à quelque chose là, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1622
 translate french Flirt_d7ae7116:
@@ -2770,7 +2770,7 @@ translate french Flirt_7c4ae0f2:
 translate french Flirt_a96157ad:
 
     # ch_l "Hmm, that's pleasant."
-    ch_l "Hmm, that's pleasant."
+    ch_l "Hmm, c'est agréable."
 
 # game/script Chat.rpy:1633
 translate french Flirt_2095f28d:
@@ -2818,7 +2818,7 @@ translate french Flirt_51678185:
 translate french Flirt_3d561afb:
 
     # ch_l "That's a bit inappropriate, [Girl.Petname]."
-    ch_l "That's a bit inappropriate, [Girl.Petname]."
+    ch_l "C'est un peu inapproprié, [Girl.Petname]."
 
 # game/script Chat.rpy:1659
 translate french Flirt_63d300a7:
@@ -2884,7 +2884,7 @@ translate french Flirt_d0cf5ead:
 translate french Flirt_722bdc95:
 
     # ch_e "Had enough?"
-    ch_e "Had enough?"
+    ch_e "T'en as eu assez ?"
 
 # game/script Chat.rpy:1692
 translate french Flirt_03aa6a2a:
@@ -2974,7 +2974,7 @@ translate french Flirt_3ed9594d:
 translate french Flirt_a3d718f1_1:
 
     # "She slaps your hand away and smacks your face."
-    "She slaps your hand away and smacks your face."
+    "Elle dégage ta main et te gifle le visage."
 
 # game/script Chat.rpy:1736
 translate french Flirt_e3dc6fb0_1:
@@ -2992,7 +2992,7 @@ translate french Flirt_8afa7076:
 translate french Flirt_7cadac15:
 
     # "She elbows you in the ribs."
-    "She elbows you in the ribs."
+    "Elle te donne un coup de coude dans les côtes."
 
 # game/script Chat.rpy:1742
 translate french Flirt_fbc7f381:
@@ -3010,7 +3010,7 @@ translate french Flirt_09185e83:
 translate french Flirt_7cadac15_1:
 
     # "She elbows you in the ribs."
-    "She elbows you in the ribs."
+    "Elle te donne un coup de coude dans les côtes."
 
 # game/script Chat.rpy:1748
 translate french Flirt_d1f0ac4c:
@@ -3034,7 +3034,7 @@ translate french Flirt_4a6615be:
 translate french Flirt_90b44397:
 
     # ch_r "Aw, can't say I'm not a {i}little{/i} disappointed. . ."
-    ch_r "Aw, can't say I'm not a {i}little{/i} disappointed. . ."
+    ch_r "Aw, je ne peux pas dire que je suis {i}un peu{/i} déçu..."
 
 # game/script Chat.rpy:1765
 translate french Flirt_233a8144:
@@ -3130,7 +3130,7 @@ translate french Flirt_2b58bc6f:
 translate french Flirt_ab3abbfd:
 
     # ch_r "Dick move."
-    ch_r "Dick move."
+    ch_r "C'était débile."
 
 # game/script Chat.rpy:1809
 translate french Flirt_894f35c8:
@@ -3244,19 +3244,19 @@ translate french Flirt_72df0710:
 translate french Flirt_79383d8a:
 
     # ch_k "You enjoy that?"
-    ch_k "You enjoy that?"
+    ch_k "Ca te plaît ?"
 
 # game/script Chat.rpy:1906
 translate french Flirt_d5a1f6d3:
 
     # ch_e "Did you enjoy that?"
-    ch_e "Did you enjoy that?"
+    ch_e "T'as aimé ça ?"
 
 # game/script Chat.rpy:1908
 translate french Flirt_a5ed01e7:
 
     # ch_l "You enjoyed that?"
-    ch_l "You enjoyed that?"
+    ch_l "T'as aimé ?"
 
 # game/script Chat.rpy:1912
 translate french Flirt_dde8c059:
@@ -3280,7 +3280,7 @@ translate french Flirt_5b19d512:
 translate french Flirt_ac48d632:
 
     # ch_l "You do that in public?"
-    ch_l "You do that in public?"
+    ch_l "Tu fais ça en public ?"
 
 # game/script Chat.rpy:1922
 translate french Flirt_ec15774f:
@@ -3322,7 +3322,7 @@ translate french Flirt_aa3064b9:
 translate french Flirt_4081bd4b_1:
 
     # ch_r "Hmm, are you hinting at something there, [Girl.Petname]?"
-    ch_r "Hmm, are you hinting at something there, [Girl.Petname]?"
+    ch_r "Hmm, tu fais allusion à quelque chose là, [Girl.Petname] ?"
 
 # game/script Chat.rpy:1941
 translate french Flirt_d50fbffe:
@@ -3538,7 +3538,7 @@ translate french Compliment_ea4c97aa:
 translate french Compliment_c571ec5f:
 
     # ch_k "Aw, that's sweet of you to say."
-    ch_k "Aw, that's sweet of you to say."
+    ch_k "Aw, c'est gentil à toi de dire ça."
 
 # game/script Chat.rpy:2152
 translate french Compliment_35963a27:
@@ -3574,7 +3574,7 @@ translate french Compliment_2f28a31d:
 translate french Compliment_59bd2473:
 
     # ch_r "\"Hey there\" yourself."
-    ch_r "\"Hey there\" yourself."
+    ch_r "\"Salut\" toi-même."
 
 # game/script Chat.rpy:2188
 translate french Compliment_c43897c8:
@@ -3586,7 +3586,7 @@ translate french Compliment_c43897c8:
 translate french Compliment_37d70a49:
 
     # ch_e "Yes. . . hello to you as well."
-    ch_e "Yes. . . hello to you as well."
+    ch_e "Oui.... bonjour à toi aussi."
 
 # game/script Chat.rpy:2198
 translate french Compliment_92c1afa0:
@@ -3622,7 +3622,7 @@ translate french Compliment_bc4ed904:
 translate french Compliment_3510ff6c:
 
     # ch_k "Heh. . . you don't say. . ."
-    ch_k "Heh. . . you don't say. . ."
+    ch_k "Héhé... tu l'as dis..."
 
 # game/script Chat.rpy:2230
 translate french Compliment_2f635e0a:
@@ -3970,7 +3970,7 @@ translate french Love_You_ee7ec669:
 translate french Love_You_1a64de8e:
 
     # ch_l "Fuck off with this. . ."
-    ch_l "Fuck off with this. . ."
+    ch_l "Va te faire foutre avec ça..."
 
 # game/script Chat.rpy:2562
 translate french Love_You_3395c4e1:
@@ -4096,7 +4096,7 @@ translate french Love_You_d440c337:
 translate french Love_You_a7170810:
 
     # ch_k "Awwww! I love you too, [KittyX.Petname]."
-    ch_k "Awwww! I love you too, [KittyX.Petname]."
+    ch_k "Awwww ! Je t'aime aussi, [KittyX.Petname]."
 
 # game/script Chat.rpy:2649
 translate french Love_You_12bce7fd:
@@ -4132,7 +4132,7 @@ translate french Love_You_0c872efb:
 translate french Love_You_e5c3911e:
 
     # ch_l "You blew it."
-    ch_l "You blew it."
+    ch_l "Tu as tout gâché."
 
 # game/script Chat.rpy:2680
 translate french TouchCheek_6a3017d2:
@@ -4198,7 +4198,7 @@ translate french TouchCheek_1c11c0b7:
 translate french TouchCheek_25665815:
 
     # ch_r "A. . . little warning maybe next time?"
-    ch_r "A. . . little warning maybe next time?"
+    ch_r "A... petit avertissement peut-être la prochaine fois ?"
 
 # game/script Chat.rpy:2735
 translate french TouchCheek_d6a0a487:
@@ -4288,7 +4288,7 @@ translate french TouchCheek_67745fa4:
 translate french TouchCheek_a7923c50:
 
     # ch_r "Aw, you're sweet."
-    ch_r "Aw, you're sweet."
+    ch_r "Tu es gentil."
 
 # game/script Chat.rpy:2818
 translate french TouchCheek_336c7075:
@@ -4390,7 +4390,7 @@ translate french TouchCheek_0072e766:
 translate french Hold_Hands_d7db624e:
 
     # ch_p "Hey, could you lose the gloves for a second?"
-    ch_p "Hey, could you lose the gloves for a second?"
+    ch_p "Hé, tu peux enlever tes gants une seconde ?"
 
 # game/script Chat.rpy:2918
 translate french Hold_Hands_ac10526b:
@@ -4498,7 +4498,7 @@ translate french Girl_Headpat_ecff5643_1:
 translate french Girl_Headpat_8db7cb5c:
 
     # ch_k "Hey, cut it out."
-    ch_k "Hey, cut it out."
+    ch_k "Hé, arrête ça."
 
 # game/script Chat.rpy:3053
 translate french Girl_Headpat_87816255:
@@ -4582,7 +4582,7 @@ translate french Girl_Headpat_801f1450:
 translate french Girl_Headpat_9230a2b1:
 
     # ch_l "Get away from me."
-    ch_l "Get away from me."
+    ch_l "Eloigne-toi de moi."
 
 # game/script Chat.rpy:3093
 translate french Girl_Headpat_13d635d7:
@@ -4894,7 +4894,7 @@ translate french Girl_Headpat_25ce7f4f:
 translate french Girl_Headpat_350cb033:
 
     # ch_e "Ah. . . no, no. A lady must have some secrets."
-    ch_e "Ah. . . no, no. A lady must have some secrets."
+    ch_e "Ah.... non, non. Une dame doit avoir des secrets."
 
 # game/script Chat.rpy:3260
 translate french Girl_Headpat_c858a2b7:
@@ -5254,7 +5254,7 @@ translate french AskPanties_a8d6bcc5:
 translate french AskPanties_df9063f2:
 
     # ch_k "Apparently so."
-    ch_k "Apparently so."
+    ch_k "Apparemment, oui."
 
 # game/script Chat.rpy:3574
 translate french AskPanties_7cbff6ee:
@@ -5338,7 +5338,7 @@ translate french AskPanties_056f120e:
 translate french AskPanties_d5ac0b6a:
 
     # ch_k "You think I'd do that?"
-    ch_k "You think I'd do that?"
+    ch_k "Tu penses que je ferais ça ?"
 
 # game/script Chat.rpy:3651
 translate french AskPanties_e7fea446:
@@ -5410,7 +5410,7 @@ translate french AskPanties_51e71f9b:
 translate french AskPanties_34877398:
 
     # ch_k "You're nasty, [Girl.Petname]."
-    ch_k "You're nasty, [Girl.Petname]."
+    ch_k "Tu es méchant, [Girl.Petname]."
 
 # game/script Chat.rpy:3693
 translate french AskPanties_37de59be:
@@ -5554,13 +5554,13 @@ translate french Remove_Panties_927b3e77:
 translate french Gifts_c8f2e948:
 
     # "You don't have anything to give her."
-    "You don't have anything to give her."
+    "Tu n'as rien à lui donner."
 
 # game/script Chat.rpy:3926
 translate french Gifts_274140e0:
 
     # "You give [Girl.Name] the dildo."
-    "You give [Girl.Name] the dildo."
+    "Tu donnes le gode à [Girl.Name]."
 
 # game/script Chat.rpy:3938
 translate french Gifts_6be7c5c9:
@@ -5578,13 +5578,13 @@ translate french Gifts_017e6072:
 translate french Gifts_15f45460:
 
     # ch_k "I'm sure I can find some place to store it. . ."
-    ch_k "I'm sure I can find some place to store it. . ."
+    ch_k "Je suis sûr que je peux trouver un endroit pour le stocker..."
 
 # game/script Chat.rpy:3943
 translate french Gifts_9895b4fd:
 
     # ch_e "I'm sure I can find some place to store it. . ."
-    ch_e "I'm sure I can find some place to store it. . ."
+    ch_e "Je suis sûr que je peux trouver un endroit pour le stocker..."
 
 # game/script Chat.rpy:3954
 translate french Gifts_c6dec9f1:
@@ -5626,7 +5626,7 @@ translate french Gifts_5a26ccc1:
 translate french Gifts_804d2094:
 
     # ch_e "Hm. . ."
-    ch_e "Hm. . ."
+    ch_e "Hm..."
 
 # game/script Chat.rpy:3975
 translate french Gifts_602788a9:
@@ -5668,7 +5668,7 @@ translate french Gifts_3c62b5f9:
 translate french Gifts_1e94ef41:
 
     # ch_e "I think I have made myself clear about inappropriate gifts?"
-    ch_e "I think I have made myself clear about inappropriate gifts?"
+    ch_e "Je crois que j'ai été clair sur les cadeaux inappropriés ?"
 
 # game/script Chat.rpy:3993
 translate french Gifts_0c3a01c9:
@@ -5680,7 +5680,7 @@ translate french Gifts_0c3a01c9:
 translate french Gifts_0dbbb3d5:
 
     # ch_r "That's a pretty forward gift to be giving a lady. . ."
-    ch_r "That's a pretty forward gift to be giving a lady. . ."
+    ch_r "C'est un beau cadeau à offrir à une dame..."
 
 # game/script Chat.rpy:4002
 translate french Gifts_c6f3851d:
@@ -5782,7 +5782,7 @@ translate french Gifts_78de3c22:
 translate french Gifts_fdfb2f61:
 
     # ch_e "How very thoughtful of you. . ."
-    ch_e "How very thoughtful of you. . ."
+    ch_e "C'est très gentil de ta part..."
 
 # game/script Chat.rpy:4056
 translate french Gifts_ff39741a:
@@ -5800,7 +5800,7 @@ translate french Gifts_bc92c69f:
 translate french Gifts_b9e9aad3:
 
     # ch_l "-some kind of sex thing, huh. . ."
-    ch_l "-some kind of sex thing, huh. . ."
+    ch_l "-une sorte de truc sexuel, hein..."
 
 # game/script Chat.rpy:4071
 translate french Gifts_450a1aa1:
@@ -5830,7 +5830,7 @@ translate french Gifts_09bc2819:
 translate french Gifts_fdfb2f61_1:
 
     # ch_e "How very thoughtful of you. . ."
-    ch_e "How very thoughtful of you. . ."
+    ch_e "C'est très gentil de ta part..."
 
 # game/script Chat.rpy:4084
 translate french Gifts_2e66a091:
@@ -5872,7 +5872,7 @@ translate french Gifts_3c62b5f9_1:
 translate french Gifts_1e94ef41_1:
 
     # ch_e "I think I have made myself clear about inappropriate gifts?"
-    ch_e "I think I have made myself clear about inappropriate gifts?"
+    ch_e "Je crois que j'ai été clair sur les cadeaux inappropriés ?"
 
 # game/script Chat.rpy:4101
 translate french Gifts_864df089:
@@ -5926,7 +5926,7 @@ translate french Gifts_ca440a9a:
 translate french Gifts_56d28237:
 
     # "You give [Girl.Name] the butt plug."
-    "You give [Girl.Name] the butt plug."
+    "Tu donnes à [Girl.Name] le plug anal."
 
 # game/script Chat.rpy:4134
 translate french Gifts_5ab5984e:
@@ -5968,7 +5968,7 @@ translate french Gifts_73fbf51a:
 translate french Gifts_916b6127:
 
     # ch_l "A love story?"
-    ch_l "A love story?"
+    ch_l "Une histoire d'amour ?"
 
 # game/script Chat.rpy:4158
 translate french Gifts_67d54d7e:
@@ -6148,7 +6148,7 @@ translate french Gifts_d3c4e781:
 translate french Gifts_489aed36:
 
     # "You give [Girl.Name] the corset."
-    "You give [Girl.Name] the corset."
+    "Tu donnes le corset à [Girl.Name]."
 
 # game/script Chat.rpy:4299
 translate french Gifts_2d174fe5:
@@ -6166,7 +6166,7 @@ translate french Gifts_d1a38987:
 translate french Gifts_c0ab8ac6:
 
     # ch_l "I don't know why you'd give me this, it's not like I'd wear it. . ."
-    ch_l "I don't know why you'd give me this, it's not like I'd wear it. . ."
+    ch_l "Je ne sais pas pourquoi tu me donnes ça, ce n'est pas comme si je le porterais..."
 
 # game/script Chat.rpy:4321
 translate french Gifts_31e1cc72:
@@ -6196,7 +6196,7 @@ translate french Gifts_3f4375af_4:
 translate french Gifts_4c8d60c5:
 
     # "You give [Girl.Name] the lace corset."
-    "You give [Girl.Name] the lace corset."
+    "Tu donnes à [Girl.Name] le corset en dentelle."
 
 # game/script Chat.rpy:4351
 translate french Gifts_65e51d94:
@@ -6214,7 +6214,7 @@ translate french Gifts_fbdbed49:
 translate french Gifts_c0ab8ac6_1:
 
     # ch_l "I don't know why you'd give me this, it's not like I'd wear it. . ."
-    ch_l "I don't know why you'd give me this, it's not like I'd wear it. . ."
+    ch_l "Je ne sais pas pourquoi tu me donnes ça, ce n'est pas comme si je le porterais..."
 
 # game/script Chat.rpy:4373
 translate french Gifts_31e1cc72_1:
@@ -6244,7 +6244,7 @@ translate french Gifts_3f4375af_5:
 translate french Gifts_fa9996c6:
 
     # "You give [Girl.Name] the lace bra."
-    "You give [Girl.Name] the lace bra."
+    "Tu donnes à [Girl.Name] le soutien-gorge en dentelle."
 
 # game/script Chat.rpy:4405
 translate french Gifts_b69ebf86:
@@ -6280,7 +6280,7 @@ translate french Gifts_28f73ddb:
 translate french Gifts_1cefb0f9:
 
     # ch_k "I don't know why you'd give me this, it's not like I'd wear it. . ."
-    ch_k "I don't know why you'd give me this, it's not like I'd wear it. . ."
+    ch_k "Je ne sais pas pourquoi tu me donnes ça, ce n'est pas comme si je le porterais..."
 
 # game/script Chat.rpy:4425
 translate french Gifts_90570945:
@@ -6316,7 +6316,7 @@ translate french Gifts_4263bebb:
 translate french Gifts_81d6bf3c:
 
     # ch_r "I don't want these neither!"
-    ch_r "I don't want these neither!"
+    ch_r "Je n'en veux pas non plus !"
 
 # game/script Chat.rpy:4445
 translate french Gifts_7c953ebd:
@@ -6328,7 +6328,7 @@ translate french Gifts_7c953ebd:
 translate french Gifts_f5969efb:
 
     # ch_k "I don't want these either!"
-    ch_k "I don't want these either!"
+    ch_k "Je n'en veux pas non plus !"
 
 # game/script Chat.rpy:4450
 translate french Gifts_6bf53943:
@@ -6358,7 +6358,7 @@ translate french Gifts_3f4375af_6:
 translate french Gifts_7521a6bf:
 
     # "You give [Girl.Name] the lace panties."
-    "You give [Girl.Name] the lace panties."
+    "Tu donnes à [Girl.Name] la culotte en dentelle."
 
 # game/script Chat.rpy:4478
 translate french Gifts_58e05fc1:
@@ -6454,7 +6454,7 @@ translate french Gifts_a0a47442:
 translate french Gifts_81d6bf3c_1:
 
     # ch_r "I don't want these neither!"
-    ch_r "I don't want these neither!"
+    ch_r "Je n'en veux pas non plus !"
 
 # game/script Chat.rpy:4526
 translate french Gifts_c8393ddb:
@@ -6466,7 +6466,7 @@ translate french Gifts_c8393ddb:
 translate french Gifts_f5969efb_1:
 
     # ch_k "I don't want these either!"
-    ch_k "I don't want these either!"
+    ch_k "Je n'en veux pas non plus !"
 
 # game/script Chat.rpy:4531
 translate french Gifts_794d0188:
@@ -6502,7 +6502,7 @@ translate french Gifts_85ad746c:
 translate french Gifts_84f843f6:
 
     # ch_l "I don't want these either!"
-    ch_l "I don't want these either!"
+    ch_l "Je n'en veux pas non plus !"
 
 # game/script Chat.rpy:4545
 translate french Gifts_d33247a3:
@@ -6544,7 +6544,7 @@ translate french Gifts_bacb5123:
 translate french Gifts_d4f68c5b:
 
     # "You give [Girl.Name] the bikini top."
-    "You give [Girl.Name] the bikini top."
+    "Tu donnes à [Girl.Name] le haut du bikini."
 
 # game/script Chat.rpy:4603
 translate french Gifts_d790ecdf:
@@ -6574,7 +6574,7 @@ translate french Gifts_c9406e7b:
 translate french Gifts_244037c9:
 
     # ch_r "A little skimpy. . ."
-    ch_r "A little skimpy. . ."
+    ch_r "Un peu pute..."
 
 # game/script Chat.rpy:4620
 translate french Gifts_f2ec8fab:
@@ -6592,25 +6592,25 @@ translate french Gifts_9e90b1e6:
 translate french Gifts_9bcec75e:
 
     # ch_l "Ok, cool. . ."
-    ch_l "Ok, cool. . ."
+    ch_l "Ok, cool..."
 
 # game/script Chat.rpy:4634
 translate french Gifts_f270fe8c:
 
     # ch_r "I was thinking about a tan. . ."
-    ch_r "I was thinking about a tan. . ."
+    ch_r "Je pensais à un bronzage..."
 
 # game/script Chat.rpy:4636
 translate french Gifts_510467cd:
 
     # ch_k "Aw, a cute Kitty. . . hole. . ."
-    ch_k "Aw, a cute Kitty. . . hole. . ."
+    ch_k "Aw, un joli trou... de chaton..."
 
 # game/script Chat.rpy:4638
 translate french Gifts_161b8a64:
 
     # ch_e "An interesting. . . gift. . ."
-    ch_e "An interesting. . . gift. . ."
+    ch_e "Un cadeau... intéressant..."
 
 # game/script Chat.rpy:4640
 translate french Gifts_510b9f64:
@@ -6676,7 +6676,7 @@ translate french Gifts_3f4375af_7:
 translate french Gifts_96dadcbf:
 
     # "You give [Girl.Name] the bikini bottoms."
-    "You give [Girl.Name] the bikini bottoms."
+    "Tu donnes à [Girl.Name] le bas de son bikini."
 
 # game/script Chat.rpy:4696
 translate french Gifts_020312d8:
@@ -6724,13 +6724,13 @@ translate french Gifts_de4b8972:
 translate french Gifts_9bcec75e_1:
 
     # ch_l "Ok, cool. . ."
-    ch_l "Ok, cool. . ."
+    ch_l "Ok, cool..."
 
 # game/script Chat.rpy:4727
 translate french Gifts_f270fe8c_1:
 
     # ch_r "I was thinking about a tan. . ."
-    ch_r "I was thinking about a tan. . ."
+    ch_r "Je pensais à un bronzage..."
 
 # game/script Chat.rpy:4729
 translate french Gifts_015c3067:
@@ -6808,7 +6808,7 @@ translate french Gifts_4dbd5796_1:
 translate french Gifts_1a4d1b12:
 
     # "You give [Girl.Name] the blue skirt."
-    "You give [Girl.Name] the blue skirt."
+    "Tu donnes la jupe bleue à [Girl.Petname]."
 
 # game/script Chat.rpy:4787
 translate french Gifts_71d000d7:
@@ -6982,7 +6982,7 @@ translate french Girl_Settings_71339ca8:
 translate french Girl_Settings_fa8c9816:
 
     # ch_k "Aw, you miss me when I'm not around!"
-    ch_k "Aw, you miss me when I'm not around!"
+    ch_k "Aw, je te manque quand je ne suis pas là !"
 
 # game/script Chat.rpy:4928
 translate french Girl_Settings_fa9a4f30:
@@ -7110,15 +7110,15 @@ translate french strings:
 
     # game/script Chat.rpy:172
     old "Add her to party"
-    new "Add her to party"
+    new "L'ajouter au groupe"
 
     # game/script Chat.rpy:186
     old "Flirt with her (locked)"
-    new "Flirt with her (locked)"
+    new "Flirter avec elle (verrouillé)"
 
     # game/script Chat.rpy:186
     old "Flirt with her"
-    new "Flirt with her"
+    new "Flirter avec elle"
 
     # game/script Chat.rpy:186
     old "Sex Menu (locked)"
@@ -7126,11 +7126,11 @@ translate french strings:
 
     # game/script Chat.rpy:186
     old "Dirty Talk (locked)"
-    new "Dirty Talk (locked)"
+    new "Vulgarités (verrouillé)"
 
     # game/script Chat.rpy:186
     old "Dirty Talk"
-    new "Dirty Talk"
+    new "Vulgarités"
 
     # game/script Chat.rpy:186
     old "Gifts (locked)"
@@ -7158,7 +7158,7 @@ translate french strings:
 
     # game/script Chat.rpy:282
     old "About hooking up with other girls. . ."
-    new "About hooking up with other girls. . ."
+    new "A propos de la drague avec d'autres filles.."
 
     # game/script Chat.rpy:474
     old "You can leave if you like."
@@ -7170,7 +7170,7 @@ translate french strings:
 
     # game/script Chat.rpy:474
     old "You can go now."
-    new "You can go now."
+    new "Tu peux y aller maintenant."
 
     # game/script Chat.rpy:571
     old "I insist, get going."
@@ -7230,11 +7230,11 @@ translate french strings:
 
     # game/script Chat.rpy:777
     old "Flip her skirt up"
-    new "Flip her skirt up"
+    new "Remonter sa jupe"
 
     # game/script Chat.rpy:777
     old "Grab her tit"
-    new "Grab her tit"
+    new "Attrape son sein"
 
     # game/script Chat.rpy:777
     old "Rub her shoulders"
@@ -7282,7 +7282,7 @@ translate french strings:
 
     # game/script Chat.rpy:1758
     old "Your hand is still on her chest."
-    new "Your hand is still on her chest."
+    new "Ta main est toujours sur sa poitrine."
 
     # game/script Chat.rpy:1758
     old "Let go immediately"
@@ -7294,7 +7294,7 @@ translate french strings:
 
     # game/script Chat.rpy:1758
     old "Fondle it a little"
-    new "Fondle it a little"
+    new "Caresser un peu"
 
     # game/script Chat.rpy:1758
     old "Just leave it there."
@@ -7346,19 +7346,19 @@ translate french strings:
 
     # game/script Chat.rpy:2911
     old "Gloves or no Gloves?"
-    new "Gloves or no Gloves?"
+    new "Gants ou pas ?"
 
     # game/script Chat.rpy:2911
     old "Gloves"
-    new "Gloves"
+    new "Gants"
 
     # game/script Chat.rpy:2911
     old "No Gloves"
-    new "No Gloves"
+    new "Pas de gants"
 
     # game/script Chat.rpy:2921
     old "gloves"
-    new "gloves"
+    new "gants"
 
     # game/script Chat.rpy:2982
     old "Keep holding hands."
@@ -7418,7 +7418,7 @@ translate french strings:
 
     # game/script Chat.rpy:3922
     old "Give her a butt plug."
-    new "Give her a butt plug."
+    new "Donne-lui un plug anal."
 
     # game/script Chat.rpy:3922
     old "Give her the \"Dazzler and Longshot\" book."
@@ -7519,4 +7519,8 @@ translate french strings:
     # game/script Chat.rpy:4938
     old "lock"
     new "lock"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

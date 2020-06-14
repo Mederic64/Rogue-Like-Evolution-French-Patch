@@ -4,13 +4,13 @@
 translate french Kitty_Relationship_5a77c1a2:
 
     # ch_k "What did you want to talk about?" nointeract
-    ch_k "What did you want to talk about?" nointeract
+    ch_k "De quoi voulais-tu parler ?" nointeract
 
 # game/Kitty_Chat.rpy:13
 translate french Kitty_Relationship_271f5eaf:
 
     # ch_k "For real, buzz off."
-    ch_k "For real, buzz off."
+    ch_k "Pour de vrai, casse-toi."
 
 # game/Kitty_Chat.rpy:17
 translate french Kitty_Relationship_256146bc:
@@ -28,19 +28,19 @@ translate french Kitty_Relationship_96d590b4:
 translate french Kitty_Relationship_8c864eed:
 
     # ch_p "I'm not anymore."
-    ch_p "I'm not anymore."
+    ch_p "Je ne le suis plus."
 
 # game/Kitty_Chat.rpy:32
 translate french Kitty_Relationship_83666fe6:
 
     # ch_k "I don't think they'd be ok with that, [KittyX.Petname]."
-    ch_k "I don't think they'd be ok with that, [KittyX.Petname]."
+    ch_k "Je ne pense pas qu'elles seraient d'accord avec ça, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:34
 translate french Kitty_Relationship_46d364d1:
 
     # ch_k "I don't think [Player.Harem[0].Name] would be ok with that, [KittyX.Petname]."
-    ch_k "I don't think [Player.Harem[0].Name] would be ok with that, [KittyX.Petname]."
+    ch_k "Je ne pense pas que [Player.Harem[0].Name] serait d'accord avec ça, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:39
 translate french Kitty_Relationship_7e38e63a:
@@ -52,43 +52,43 @@ translate french Kitty_Relationship_7e38e63a:
 translate french Kitty_Relationship_5f84e2fd:
 
     # ch_k "I don't know, [KittyX.Petname]. . ."
-    ch_k "I don't know, [KittyX.Petname]. . ."
+    ch_k "Je ne sais pas, [KittyX.Petname]..."
 
 # game/Kitty_Chat.rpy:51
 translate french Kitty_Relationship_e9d277e6:
 
     # ch_k "YES!"
-    ch_k "YES !"
+    ch_k "OUI !"
 
 # game/Kitty_Chat.rpy:59
 translate french Kitty_Relationship_f5c700fe:
 
     # "[KittyX.Name] leaps in and kisses you deeply."
-    "[KittyX.Name] leaps in and kisses you deeply."
+    "[KittyX.Name] se lance et t'embrasse profondément."
 
 # game/Kitty_Chat.rpy:64
 translate french Kitty_Relationship_93d88481:
 
     # ch_k "Maybe not so much \"dating\". . ."
-    ch_k "Maybe not so much \"dating\". . ."
+    ch_k "Peut-être pas autant \"sortir ensemble\"..."
 
 # game/Kitty_Chat.rpy:67
 translate french Kitty_Relationship_0b0b5236:
 
     # ch_k "That's not[KittyX.like]where I'm at right now?"
-    ch_k "That's not[KittyX.like]where I'm at right now?"
+    ch_k "Ce n'est pas[KittyX.like]là où j'en suis en ce moment ?"
 
 # game/Kitty_Chat.rpy:70
 translate french Kitty_Relationship_dfef76f4:
 
     # ch_k "I don't really feel that way about you right now, [KittyX.Petname]."
-    ch_k "I don't really feel that way about you right now, [KittyX.Petname]."
+    ch_k "Je ne ressens pas vraiment cela pour toi en ce moment, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:76
 translate french Kitty_Relationship_40ecb5e5:
 
     # ch_k "Seriously, buzz off."
-    ch_k "Seriously, buzz off."
+    ch_k "Sérieusement, dégage."
 
 # game/Kitty_Chat.rpy:80
 translate french Kitty_Relationship_e97623e7:
@@ -100,97 +100,97 @@ translate french Kitty_Relationship_e97623e7:
 translate french Kitty_Relationship_83666fe6_1:
 
     # ch_k "I don't think they'd be ok with that, [KittyX.Petname]."
-    ch_k "I don't think they'd be ok with that, [KittyX.Petname]."
+    ch_k "Je ne pense pas qu'elles seraient d'accord avec ça, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:89
 translate french Kitty_Relationship_46d364d1_1:
 
     # ch_k "I don't think [Player.Harem[0].Name] would be ok with that, [KittyX.Petname]."
-    ch_k "I don't think [Player.Harem[0].Name] would be ok with that, [KittyX.Petname]."
+    ch_k "Je ne pense pas que [Player.Harem[0].Name] serait d'accord avec ça, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:99
 translate french Kitty_Relationship_9e35b12f:
 
     # ch_k "Well, I guess, sure!"
-    ch_k "Well, I guess, sure!"
+    ch_k "Eh bien, je suppose, bien sûr !"
 
 # game/Kitty_Chat.rpy:108
 translate french Kitty_Relationship_f5c700fe_1:
 
     # "[KittyX.Name] leaps in and kisses you deeply."
-    "[KittyX.Name] leaps in and kisses you deeply."
+    "[KittyX.Name] se lance et t'embrasse profondément."
 
 # game/Kitty_Chat.rpy:114
 translate french Kitty_Relationship_f4706ea8:
 
     # ch_k "Um, ok, I guess."
-    ch_k "Um, ok, I guess."
+    ch_k "Hum, ok, je suppose."
 
 # game/Kitty_Chat.rpy:124
 translate french Kitty_Relationship_91daa0ba:
 
     # "[KittyX.Name] gives you a quick kiss."
-    "[KittyX.Name] gives you a quick kiss."
+    "[KittyX.Name] te donne un baiser rapide."
 
 # game/Kitty_Chat.rpy:129
 translate french Kitty_Relationship_ec558942:
 
     # ch_k "I think we're better like this."
-    ch_k "I think we're better like this."
+    ch_k "Je pense que nous sommes mieux comme ça."
 
 # game/Kitty_Chat.rpy:132
 translate french Kitty_Relationship_5acb19f3:
 
     # ch_k "I kind of like what we have right now."
-    ch_k "I kind of like what we have right now."
+    ch_k "J'aime bien ce que nous avons en ce moment."
 
 # game/Kitty_Chat.rpy:135
 translate french Kitty_Relationship_25ea7d0a:
 
     # ch_k "I'm not ready to get burned again."
-    ch_k "I'm not ready to get burned again."
+    ch_k "Je ne suis pas prête à me faire brûler à nouveau."
 
 # game/Kitty_Chat.rpy:153
 translate french Kitty_Relationship_d0fcb2a9:
 
     # ch_k "We were {i}just{/i} over this, not even funny."
-    ch_k "We were {i}just{/i} over this, not even funny."
+    ch_k "On vient {i}juste{/i} d'en parler, même pas drôle."
 
 # game/Kitty_Chat.rpy:155
 translate french Kitty_Relationship_9c6ebcea:
 
     # ch_k "I don't want to do this again today, [KittyX.Petname]."
-    ch_k "I don't want to do this again today, [KittyX.Petname]."
+    ch_k "Je ne veux pas recommencer aujourd'hui, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:167
 translate french Kitty_Relationship_ef8f564f:
 
     # ch_k "We[KittyX.like]{i}just{/i} went over this."
-    ch_k "We[KittyX.like]{i}just{/i} went over this."
+    ch_k "Nous venons[KittyX.like]{i}juste{/i} de passer cela en revue."
 
 # game/Kitty_Chat.rpy:169
 translate french Kitty_Relationship_ade33a92:
 
     # ch_k "I think you made yourself {i}perfectly{/i} clear earlier. . ."
-    ch_k "I think you made yourself {i}perfectly{/i} clear earlier. . ."
+    ch_k "Je pense que tu as été {i}parfaitement{/i} clair tout à l'heure..."
 
 # game/Kitty_Chat.rpy:174
 translate french Kitty_Relationship_ef8f564f_1:
 
     # ch_k "We[KittyX.like]{i}just{/i} went over this."
-    ch_k "We[KittyX.like]{i}just{/i} went over this."
+    ch_k "Nous venons[KittyX.like]{i}juste{/i} de passer cela en revue."
 
 # game/Kitty_Chat.rpy:176
 translate french Kitty_Relationship_ade33a92_1:
 
     # ch_k "I think you made yourself {i}perfectly{/i} clear earlier. . ."
-    ch_k "I think you made yourself {i}perfectly{/i} clear earlier. . ."
+    ch_k "Je pense que tu as été {i}parfaitement{/i} clair tout à l'heure..."
 
 # game/Kitty_Chat.rpy:197
 translate french Kitty_OtherWoman_80148f87:
 
     # ch_k "But you're with [Player.Harem[0].Name] right now, and and all sorts of other girls!"
-    ch_k "But you're with [Player.Harem[0].Name] right now, and and all sorts of other girls!"
+    ch_k "Mais tu es avec [Player.Harem[0].Name] en ce moment, et avec toutes sortes d'autres filles !"
 
 # game/Kitty_Chat.rpy:199
 translate french Kitty_OtherWoman_f6f55d62:
@@ -202,103 +202,103 @@ translate french Kitty_OtherWoman_f6f55d62:
 translate french Kitty_OtherWoman_339b9b9d:
 
     # ch_k "Just so long as we can be together, I can share."
-    ch_k "Just so long as we can be together, I can share."
+    ch_k "Tant que nous pouvons être ensemble, je peux partager."
 
 # game/Kitty_Chat.rpy:208
 translate french Kitty_OtherWoman_d9ea5b67:
 
     # ch_k "I'm ok with that if she is."
-    ch_k "I'm ok with that if she is."
+    ch_k "Je suis d'accord avec ça si elle l'est."
 
 # game/Kitty_Chat.rpy:210
 translate french Kitty_OtherWoman_eab74285:
 
     # ch_k "Yeah, I mean I guess so."
-    ch_k "Yeah, I mean I guess so."
+    ch_k "Ouais, je veux dire, je suppose."
 
 # game/Kitty_Chat.rpy:213
 translate french Kitty_OtherWoman_4d838bf0:
 
     # ch_k "Well maybe she did, but I don't want to share."
-    ch_k "Well maybe she did, but I don't want to share."
+    ch_k "Peut-être qu'elle l'a fait, mais je ne veux pas partager."
 
 # game/Kitty_Chat.rpy:221
 translate french Kitty_OtherWoman_339b9b9d_1:
 
     # ch_k "Just so long as we can be together, I can share."
-    ch_k "Just so long as we can be together, I can share."
+    ch_k "Tant que nous pouvons être ensemble, je peux partager."
 
 # game/Kitty_Chat.rpy:223
 translate french Kitty_OtherWoman_d9ea5b67_1:
 
     # ch_k "I'm ok with that if she is."
-    ch_k "I'm ok with that if she is."
+    ch_k "Je suis d'accord avec ça si elle l'est."
 
 # game/Kitty_Chat.rpy:225
 translate french Kitty_OtherWoman_eab74285_1:
 
     # ch_k "Yeah, I mean I guess so."
-    ch_k "Yeah, I mean I guess so."
+    ch_k "Ouais, je veux dire, je suppose."
 
 # game/Kitty_Chat.rpy:226
 translate french Kitty_OtherWoman_c7ec40a8:
 
     # ch_k "Go ask her, and let me know what she thinks in the morning."
-    ch_k "Go ask her, and let me know what she thinks in the morning."
+    ch_k "Va lui demander, et fais-moi savoir ce qu'elle en pense le matin."
 
 # game/Kitty_Chat.rpy:229
 translate french Kitty_OtherWoman_4d838bf0_1:
 
     # ch_k "Well maybe she did, but I don't want to share."
-    ch_k "Well maybe she did, but I don't want to share."
+    ch_k "Peut-être qu'elle l'a fait, mais je ne veux pas partager."
 
 # game/Kitty_Chat.rpy:236
 translate french Kitty_OtherWoman_6a56b6e1:
 
     # ch_k "Well I don't like you that much either."
-    ch_k "Well I don't like you that much either."
+    ch_k "Je ne t'aime pas beaucoup non plus."
 
 # game/Kitty_Chat.rpy:238
 translate french Kitty_OtherWoman_498e03f6:
 
     # ch_k "Well I'm not cool with that, [Player.Harem[0].Name]'s a friend of mine."
-    ch_k "Well I'm not cool with that, [Player.Harem[0].Name]'s a friend of mine."
+    ch_k "Ça ne me convient pas, [Player.Harem[0].Name] est une amie à moi."
 
 # game/Kitty_Chat.rpy:243
 translate french Kitty_OtherWoman_47680ddf:
 
     # ch_k "I really do want to be together with you."
-    ch_k "I really do want to be together with you."
+    ch_k "Je veux vraiment être avec toi."
 
 # game/Kitty_Chat.rpy:245
 translate french Kitty_OtherWoman_9032fc90:
 
     # ch_k "If that's how you want it to be."
-    ch_k "If that's how you want it to be."
+    ch_k "Si c'est ce que tu veux."
 
 # game/Kitty_Chat.rpy:247
 translate french Kitty_OtherWoman_d8dc0749:
 
     # ch_k "I suppose that's true."
-    ch_k "I suppose that's true."
+    ch_k "Je suppose que c'est vrai."
 
 # game/Kitty_Chat.rpy:252
 translate french Kitty_OtherWoman_ee905541:
 
     # ch_k "Well then maybe I'll see you tomorrow after you have."
-    ch_k "Well then maybe I'll see you tomorrow after you have."
+    ch_k "Alors peut-être que je te verrai demain après que tu aies cassé avec elle."
 
 # game/Kitty_Chat.rpy:257
 translate french Kitty_OtherWoman_c792ca23:
 
     # ch_k "You think?"
-    ch_k "You think?"
+    ch_k "Tu crois ?"
 
 # game/Kitty_Chat.rpy:264
 translate french KittyLike_14add368:
 
     # ch_k "So[KittyX.like]what would you prefer I say then?" nointeract
-    ch_k "So[KittyX.like]what would you prefer I say then?" nointeract
+    ch_k "Alors[KittyX.like]que préférerais-tu que je dise ?" nointeract
 
 # game/Kitty_Chat.rpy:269
 translate french KittyLike_7829605b:
@@ -334,19 +334,19 @@ translate french KittyLike_63fad2b9:
 translate french KittyLike_e792a77f:
 
     # ch_k "[KittyX.Like]no way, weirdo."
-    ch_k "[KittyX.Like]no way, weirdo."
+    ch_k "[KittyX.Like]Pas possible, dingo."
 
 # game/Kitty_Chat.rpy:293
 translate french KittyLike_3d8ee746:
 
     # ch_k "[KittyX.Like]yeah I will."
-    ch_k "[KittyX.Like]yeah I will."
+    ch_k "[KittyX.Like]ouais, je le ferai."
 
 # game/Kitty_Chat.rpy:297
 translate french KittyLike_83827ae8:
 
     # ch_k "If you[KittyX.like]say so."
-    ch_k "If you[KittyX.like]say so."
+    ch_k "Si tu le dis[KittyX.like]."
 
 # game/Kitty_Chat.rpy:299
 translate french KittyLike_38ca0c80:
@@ -358,19 +358,19 @@ translate french KittyLike_38ca0c80:
 translate french KittyLike_4ee1ad3e:
 
     # ch_k ". . .most of the time."
-    ch_k ".... la plupart du temps."
+    ch_k "...la plupart du temps."
 
 # game/Kitty_Chat.rpy:305
 translate french KittyLike_a0c8893b:
 
     # ch_k "[KittyX.Like] ok . . ."
-    ch_k "[KittyX.Like] ok . . ."
+    ch_k "[KittyX.Like] ok..."
 
 # game/Kitty_Chat.rpy:307
 translate french KittyLike_4b47e6f0:
 
     # ch_k "I don't[KittyX.like]think I could do that."
-    ch_k "I don't[KittyX.like]think I could do that."
+    ch_k "Je ne pense pas que je pourrais[KittyX.like]faire ça."
 
 # game/Kitty_Chat.rpy:314
 translate french Kitty_About_b58f96a0:
@@ -382,7 +382,7 @@ translate french Kitty_About_b58f96a0:
 translate french Kitty_About_1b4d0aa6:
 
     # ch_k "What do I think about her? Well. . ."
-    ch_k "What do I think about her? Well. . ."
+    ch_k "Qu'est-ce que je pense d'elle ? Bah..."
 
 # game/Kitty_Chat.rpy:319
 translate french Kitty_About_f1155916:
@@ -556,7 +556,7 @@ translate french Kitty_Monogamy_9c965cc1:
 translate french Kitty_Monogamy_18aebb7a:
 
     # ch_k "Aw, is someone jellie?"
-    ch_k "Aw, is someone jellie?"
+    ch_k "Aw, quelqu'un est jaloux ?"
 
 # game/Kitty_Chat.rpy:394
 translate french Kitty_Monogamy_0bef2e5b:
@@ -598,7 +598,7 @@ translate french Kitty_Monogamy_31d635c7_1:
 translate french Kitty_Monogamy_9f98e827:
 
     # ch_k "Rude much?"
-    ch_k "Rude much?"
+    ch_k "C'est pas un peu grossier ?"
 
 # game/Kitty_Chat.rpy:428
 translate french Kitty_Monogamy_1673e117:
@@ -640,7 +640,7 @@ translate french Kitty_Monogamy_5b60f641:
 translate french Kitty_Jumped_c318cc06:
 
     # ch_p "Hey, Remember that time you threw yourself at me?"
-    ch_p "Hey, Remember that time you threw yourself at me?"
+    ch_p "Hé, tu te souviens de la fois où tu t'es jeté sur moi ?"
 
 # game/Kitty_Chat.rpy:466
 translate french Kitty_Jumped_e2331ac6:
@@ -664,7 +664,7 @@ translate french Kitty_Jumped_4c112c9e:
 translate french Kitty_Jumped_0d79d6e3:
 
     # ch_k "I can't keep my hands to myself. . ."
-    ch_k "I can't keep my hands to myself. . ."
+    ch_k "Je ne peux me tenir tranquille..."
 
 # game/Kitty_Chat.rpy:484
 translate french Kitty_Jumped_0dbe57c9:
@@ -682,7 +682,7 @@ translate french Kitty_Jumped_0765c06c:
 translate french Kitty_Jumped_0d79d6e3_1:
 
     # ch_k "I can't keep my hands to myself. . ."
-    ch_k "I can't keep my hands to myself. . ."
+    ch_k "Je ne peux me tenir tranquille..."
 
 # game/Kitty_Chat.rpy:502
 translate french Kitty_Jumped_234ec88c:
@@ -730,7 +730,7 @@ translate french Kitty_Jumped_5417124c:
 translate french Kitty_Jumped_6b8a216e:
 
     # ch_k "You bet!"
-    ch_k "You bet!"
+    ch_k "C'est sûr !"
 
 # game/Kitty_Chat.rpy:539
 translate french Kitty_Jumped_23f5c443:
@@ -754,7 +754,7 @@ translate french Kitty_Jumped_325dcd78:
 translate french Kitty_Hungry_19f15fc8:
 
     # ch_k "You know, a kitty does like her milk. . ."
-    ch_k "You know, a kitty does like her milk. . ."
+    ch_k "Tu sais, un chaton aime son lait..."
 
 # game/Kitty_Chat.rpy:558
 translate french Kitty_Hungry_1392d14b:
@@ -766,7 +766,7 @@ translate french Kitty_Hungry_1392d14b:
 translate french Kitty_Hungry_19f15fc8_1:
 
     # ch_k "You know, a kitty does like her milk. . ."
-    ch_k "You know, a kitty does like her milk. . ."
+    ch_k "Tu sais, un chaton aime son lait..."
 
 # game/Kitty_Chat.rpy:571
 translate french Kitty_SexChat_6e7f7ed6:
@@ -778,73 +778,73 @@ translate french Kitty_SexChat_6e7f7ed6:
 translate french Kitty_SexChat_c43b21ed:
 
     # ch_k "Yeah, I know. You just told me earlier."
-    ch_k "Yeah, I know. You just told me earlier."
+    ch_k "Ouais, je sais. Tu viens de me le dire tout à l'heure."
 
 # game/Kitty_Chat.rpy:582
 translate french Kitty_SexChat_a9863f65:
 
     # ch_k "Yeah, I know that. . ."
-    ch_k "Yeah, I know that. . ."
+    ch_k "Ouais, je sais ça..."
 
 # game/Kitty_Chat.rpy:586
 translate french Kitty_SexChat_a2d9de4d:
 
     # ch_k "I really like it too!"
-    ch_k "I really like it too!"
+    ch_k "J'aime beaucoup aussi !"
 
 # game/Kitty_Chat.rpy:588
 translate french Kitty_SexChat_c21ee49c:
 
     # ch_k "Well I don't mind that."
-    ch_k "Well I don't mind that."
+    ch_k "Bah ça me dérange pas."
 
 # game/Kitty_Chat.rpy:591
 translate french Kitty_SexChat_65f24770:
 
     # ch_k "Who's fucking you? Is it Ms. Frost?!"
-    ch_k "Who's fucking you? Is it Ms. Frost?!"
+    ch_k "Qui te baise ? Est-ce que c'est Mlle Frost ? !"
 
 # game/Kitty_Chat.rpy:594
 translate french Kitty_SexChat_9b21c903:
 
     # ch_k "Heh, um, yeah, it's nice. . ."
-    ch_k "Heh, um, yeah, it's nice. . ."
+    ch_k "Héhé, hm, ouais, c'est bien..."
 
 # game/Kitty_Chat.rpy:601
 translate french Kitty_SexChat_9cd0c197:
 
     # ch_k "So you've said. . ."
-    ch_k "So you've said. . ."
+    ch_k "C'est ce que tu as dit..."
 
 # game/Kitty_Chat.rpy:605
 translate french Kitty_SexChat_2c676835:
 
     # ch_k "I love it too!"
-    ch_k "I love it too!"
+    ch_k "J'aime aussi !"
 
 # game/Kitty_Chat.rpy:607
 translate french Kitty_SexChat_45eb91c4:
 
     # ch_k "Yeah, it's. . . nice. . ."
-    ch_k "Yeah, it's. . . nice. . ."
+    ch_k "Ouais, c'est... sympa...."
 
 # game/Kitty_Chat.rpy:610
 translate french Kitty_SexChat_65f24770_1:
 
     # ch_k "Who's fucking you? Is it Ms. Frost?!"
-    ch_k "Who's fucking you? Is it Ms. Frost?!"
+    ch_k "Qui te baise ? Est-ce que c'est Mlle Frost ? !"
 
 # game/Kitty_Chat.rpy:613
 translate french Kitty_SexChat_36e5d727:
 
     # ch_k "Heh, heh, yeah, um, it's ok. . ."
-    ch_k "Heh, heh, yeah, um, it's ok. . ."
+    ch_k "Hé, hé, ouais, hm, c'est bon..."
 
 # game/Kitty_Chat.rpy:620
 translate french Kitty_SexChat_dde4d2e6:
 
     # ch_k "Yeah, I know."
-    ch_k "Yeah, I know."
+    ch_k "Ouais, je sais."
 
 # game/Kitty_Chat.rpy:624
 translate french Kitty_SexChat_2c8e1a41:
@@ -856,7 +856,7 @@ translate french Kitty_SexChat_2c8e1a41:
 translate french Kitty_SexChat_94c9594d:
 
     # ch_k "Yeah, you're pretty tasty."
-    ch_k "Yeah, you're pretty tasty."
+    ch_k "Ouais, ta viande est délicieuse."
 
 # game/Kitty_Chat.rpy:629
 translate french Kitty_SexChat_ae766e45:
@@ -868,25 +868,25 @@ translate french Kitty_SexChat_ae766e45:
 translate french Kitty_SexChat_054005e8:
 
     # ch_k "I'm. . . getting used to the taste. . ."
-    ch_k "I'm. . . getting used to the taste. . ."
+    ch_k "Je... m'habitue au goût..."
 
 # game/Kitty_Chat.rpy:639
 translate french Kitty_SexChat_421ab6aa:
 
     # ch_k "Yeah, you've said that before. . ."
-    ch_k "Yeah, you've said that before. . ."
+    ch_k "Ouais, tu l'as déjà dit.."
 
 # game/Kitty_Chat.rpy:643
 translate french Kitty_SexChat_c9e828e0:
 
     # ch_k "Yeah, I enjoy that too. . ."
-    ch_k "Yeah, I enjoy that too. . ."
+    ch_k "Ouais, j'aime ça aussi..."
 
 # game/Kitty_Chat.rpy:645
 translate french Kitty_SexChat_8038d897:
 
     # ch_k "It's certainly an interesting experience . . ."
-    ch_k "It's certainly an interesting experience . . ."
+    ch_k "C'est sûrement une expérience intéressante..."
 
 # game/Kitty_Chat.rpy:648
 translate french Kitty_SexChat_bb78155e:
@@ -898,13 +898,13 @@ translate french Kitty_SexChat_bb78155e:
 translate french Kitty_SexChat_170991e7:
 
     # ch_k "That's nice of you to say. . ."
-    ch_k "That's nice of you to say. . ."
+    ch_k "C'est gentil à toi de le dire..."
 
 # game/Kitty_Chat.rpy:660
 translate french Kitty_SexChat_320c1457:
 
     # ch_k "Yeah, you've said that. . ."
-    ch_k "Yeah, you've said that. . ."
+    ch_k "Ouais, tu l'as dit..."
 
 # game/Kitty_Chat.rpy:664
 translate french Kitty_SexChat_262548ea:
@@ -916,7 +916,7 @@ translate french Kitty_SexChat_262548ea:
 translate french Kitty_SexChat_189a3011:
 
     # ch_k "I like it too . . ."
-    ch_k "I like it too . . ."
+    ch_k "J'aime aussi..."
 
 # game/Kitty_Chat.rpy:669
 translate french Kitty_SexChat_db2650a1:
@@ -934,19 +934,19 @@ translate french Kitty_SexChat_d399401f:
 translate french Kitty_SexChat_320c1457_1:
 
     # ch_k "Yeah, you've said that. . ."
-    ch_k "Yeah, you've said that. . ."
+    ch_k "Ouais, tu l'as dit..."
 
 # game/Kitty_Chat.rpy:683
 translate french Kitty_SexChat_dae79e0f:
 
     # ch_k "You do feel pretty comfy. . ."
-    ch_k "You do feel pretty comfy. . ."
+    ch_k "J'aime me blottir contre toi..."
 
 # game/Kitty_Chat.rpy:685
 translate french Kitty_SexChat_189a3011_1:
 
     # ch_k "I like it too . . ."
-    ch_k "I like it too . . ."
+    ch_k "J'aime aussi..."
 
 # game/Kitty_Chat.rpy:688
 translate french Kitty_SexChat_a9079663:
@@ -964,19 +964,19 @@ translate french Kitty_SexChat_d399401f_1:
 translate french Kitty_SexChat_495a9425:
 
     # ch_k "Yeah, I think we're clear on that. . ."
-    ch_k "Yeah, I think we're clear on that. . ."
+    ch_k "Ouais, je pense que c'est clair..."
 
 # game/Kitty_Chat.rpy:703
 translate french Kitty_SexChat_1d2b0a1e:
 
     # ch_k "I love when you touch me. . ."
-    ch_k "I love when you touch me. . ."
+    ch_k "J'aime quand tu me touches.."
 
 # game/Kitty_Chat.rpy:705
 translate french Kitty_SexChat_61653d6b:
 
     # ch_k "Yeah, it's really nice . . ."
-    ch_k "Yeah, it's really nice . . ."
+    ch_k "Ouais, c'est vraiment bon..."
 
 # game/Kitty_Chat.rpy:708
 translate french Kitty_SexChat_9d18ce51:
@@ -988,7 +988,7 @@ translate french Kitty_SexChat_9d18ce51:
 translate french Kitty_SexChat_ed9ab083:
 
     # ch_k "I do like how that feels. . ."
-    ch_k "I do like how that feels. . ."
+    ch_k "J'aime bien cette sensation..."
 
 # game/Kitty_Chat.rpy:719
 translate french Kitty_SexChat_bfb42b0c:
@@ -1000,7 +1000,7 @@ translate french Kitty_SexChat_bfb42b0c:
 translate french Kitty_SexChat_cb534d56:
 
     # ch_k "Hmm, the taste of you on my lips. . ."
-    ch_k "Hmm, the taste of you on my lips. . ."
+    ch_k "Hmm, le goût de toi sur mes lèvres.."
 
 # game/Kitty_Chat.rpy:725
 translate french Kitty_SexChat_1c9c024b:
@@ -1018,7 +1018,7 @@ translate french Kitty_SexChat_77796516:
 translate french Kitty_SexChat_42675a3b:
 
     # ch_k "I like kissing you too. . ."
-    ch_k "I like kissing you too. . ."
+    ch_k "J'aime aussi t'embrasser..."
 
 # game/Kitty_Chat.rpy:739
 translate french Kitty_SexChat_0afcf024:
@@ -1060,13 +1060,13 @@ translate french Kitty_SexChat_57fca672:
 translate french Kitty_SexChat_eec9c640:
 
     # ch_k "I like when you lick my. . . asshole."
-    ch_k "I like when you lick my. . . asshole."
+    ch_k "J'aime quand tu me lèches le... trou du cul."
 
 # game/Kitty_Chat.rpy:760
 translate french Kitty_SexChat_0444c87c:
 
     # ch_k "I like when you . . . finger my asshole."
-    ch_k "I like when you . . . finger my asshole."
+    ch_k "J'aime quand tu.... me doigte le cul."
 
 # game/Kitty_Chat.rpy:762
 translate french Kitty_SexChat_d9e375e7:
@@ -1078,13 +1078,13 @@ translate french Kitty_SexChat_d9e375e7:
 translate french Kitty_SexChat_595d99f5:
 
     # ch_k "I like when you lick my pussy."
-    ch_k "I like when you lick my pussy."
+    ch_k "J'aime quand tu me lèches la chatte."
 
 # game/Kitty_Chat.rpy:766
 translate french Kitty_SexChat_e36d488f:
 
     # ch_k "I like when you finger me."
-    ch_k "I like when you finger me."
+    ch_k "J'aime quand tu me doigtes."
 
 # game/Kitty_Chat.rpy:768
 translate french Kitty_SexChat_da6b10ba:
@@ -1108,43 +1108,43 @@ translate french Kitty_SexChat_3ffa1e8c:
 translate french Kitty_SexChat_1a8a859d:
 
     # ch_k "I like jerking you off."
-    ch_k "I like jerking you off."
+    ch_k "J'aime bien te branler."
 
 # game/Kitty_Chat.rpy:776
 translate french Kitty_SexChat_2ffc9f14:
 
     # ch_k "I like it when you grind against me."
-    ch_k "I like it when you grind against me."
+    ch_k "J'aime quand tu te frottes contre moi."
 
 # game/Kitty_Chat.rpy:778
 translate french Kitty_SexChat_8e5b076e:
 
     # ch_k "I like it when you suck on my tits."
-    ch_k "I like it when you suck on my tits."
+    ch_k "J'aime quand tu me suces les seins."
 
 # game/Kitty_Chat.rpy:780
 translate french Kitty_SexChat_4098a4b1:
 
     # ch_k "I like it when you feel up my tits."
-    ch_k "I like it when you feel up my tits."
+    ch_k "J'aime quand tu me masses les seins."
 
 # game/Kitty_Chat.rpy:782
 translate french Kitty_SexChat_152fd6a5:
 
     # ch_k "I like it when you massage my thighs."
-    ch_k "I like it when you massage my thighs."
+    ch_k "J'aime bien quand tu me masses les cuisses."
 
 # game/Kitty_Chat.rpy:784
 translate french Kitty_SexChat_4b50cbce:
 
     # ch_k "I don't really know. . ."
-    ch_k "I don't really know. . ."
+    ch_k "Je ne sais pas vraiment..."
 
 # game/Kitty_Chat.rpy:791
 translate french Kitty_SexChat_f26d8b5f:
 
     # ch_k "We've been over this."
-    ch_k "We've been over this."
+    ch_k "Nous en avons déjà parlé."
 
 # game/Kitty_Chat.rpy:796
 translate french Kitty_SexChat_718a0410:
@@ -1162,7 +1162,7 @@ translate french Kitty_SexChat_0fc74f5f:
 translate french Kitty_SexChat_5389cdc9:
 
     # ch_k "You wish, [KittyX.Petname]."
-    ch_k "You wish, [KittyX.Petname]."
+    ch_k "Tu aimerais, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:814
 translate french Kitty_SexChat_94cc4fce:
@@ -1174,7 +1174,7 @@ translate french Kitty_SexChat_94cc4fce:
 translate french Kitty_SexChat_f26d8b5f_1:
 
     # ch_k "We've been over this."
-    ch_k "We've been over this."
+    ch_k "Nous en avons déjà parlé."
 
 # game/Kitty_Chat.rpy:825
 translate french Kitty_SexChat_87790c27:
@@ -1204,13 +1204,13 @@ translate french Kitty_SexChat_03017548:
 translate french Kitty_SexChat_f26d8b5f_2:
 
     # ch_k "We've been over this."
-    ch_k "We've been over this."
+    ch_k "Nous en avons déjà parlé."
 
 # game/Kitty_Chat.rpy:853
 translate french Kitty_SexChat_ec429f5d:
 
     # ch_k "Heh, if you insist. . ."
-    ch_k "Heh, if you insist. . ."
+    ch_k "Héhé, si tu insistes..."
 
 # game/Kitty_Chat.rpy:858
 translate french Kitty_SexChat_1396bf83:
@@ -1222,19 +1222,19 @@ translate french Kitty_SexChat_1396bf83:
 translate french Kitty_SexChat_5389cdc9_1:
 
     # ch_k "You wish, [KittyX.Petname]."
-    ch_k "You wish, [KittyX.Petname]."
+    ch_k "Tu aimerais, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:871
 translate french Kitty_SexChat_5c51584c:
 
     # ch_k "If I feel like it."
-    ch_k "If I feel like it."
+    ch_k "Si j'en ai envie."
 
 # game/Kitty_Chat.rpy:877
 translate french Kitty_SexChat_f26d8b5f_3:
 
     # ch_k "We've been over this."
-    ch_k "We've been over this."
+    ch_k "Nous en avons déjà parlé."
 
 # game/Kitty_Chat.rpy:882
 translate french Kitty_SexChat_56474f77:
@@ -1264,13 +1264,13 @@ translate french Kitty_SexChat_4c37b9cf:
 translate french Kitty_Chitchat_7faceed7:
 
     # ch_k "You know, I never got around to giving you my number, here you go."
-    ch_k "You know, I never got around to giving you my number, here you go."
+    ch_k "Tu sais, je n'ai jamais eu le temps de te donner mon numéro, voilà."
 
 # game/Kitty_Chat.rpy:929
 translate french Kitty_Chitchat_683e8fd7:
 
     # ch_k "You know, you should probably have my number, here you go."
-    ch_k "You know, you should probably have my number, here you go."
+    ch_k "Tu sais, tu devrais probablement avoir mon numéro, alors voilà."
 
 # game/Kitty_Chat.rpy:939
 translate french Kitty_Chitchat_827bded3:
@@ -1300,7 +1300,7 @@ translate french Kitty_Chitchat_fb0b6022:
 translate french Kitty_Chitchat_97f539bc:
 
     # ch_k "(sniff, sniff). . . huh, what's that smell? . ."
-    ch_k "(sniff, sniff). . . huh, what's that smell? . ."
+    ch_k "(sniff, sniff).. euh, c'est quoi cette odeur ?.."
 
 # game/Kitty_Chat.rpy:1054
 translate french Kitty_Chitchat_60b9d87d:
@@ -1330,7 +1330,7 @@ translate french Kitty_Chitchat_6907fcbb:
 translate french Kitty_Chitchat_e5e9efab:
 
     # ch_k "Or not. . ."
-    ch_k "Or not. . ."
+    ch_k "Ou pas..."
 
 # game/Kitty_Chat.rpy:1068
 translate french Kitty_Chitchat_d9b06309:
@@ -1354,13 +1354,13 @@ translate french Kitty_Chitchat_54f05676:
 translate french Kitty_Chitchat_ad7b57b1:
 
     # ch_k "I'm glad you have my key now, just don't use it for any funny business. . ."
-    ch_k "I'm glad you have my key now, just don't use it for any funny business. . ."
+    ch_k "Je suis contente que tu aies ma clé maintenant, mais ne l'utilise pas pour des trucs bizarres..."
 
 # game/Kitty_Chat.rpy:1078
 translate french Kitty_Chitchat_f91922c5:
 
     # ch_k "I'm glad you have my key now, maybe you could . . . \"surprise\" me sometime. . ."
-    ch_k "I'm glad you have my key now, maybe you could . . . \"surprise\" me sometime. . ."
+    ch_k "Je suis contente que tu aies ma clé maintenant, peut-être que tu peux me... \"surprendre\" un jour..."
 
 # game/Kitty_Chat.rpy:1083
 translate french Kitty_Chitchat_04fc957b:
@@ -1372,7 +1372,7 @@ translate french Kitty_Chitchat_04fc957b:
 translate french Kitty_Chitchat_eea849fd:
 
     # ch_p "Yeah? Was that okay?"
-    ch_p "Yeah? Was that okay?"
+    ch_p "Ouais ? C'était bien ?"
 
 # game/Kitty_Chat.rpy:1086
 translate french Kitty_Chitchat_f2541a1b:
@@ -1492,7 +1492,7 @@ translate french Kitty_Chitchat_00d50d40:
 translate french Kitty_Chitchat_ea8bba7f:
 
     # ch_k "Guess {i}you'll{/i} never find out, huh?"
-    ch_k "Guess {i}you'll{/i} never find out, huh?"
+    ch_k "{i}Tu{/i} ne le sauras jamais, hein ?"
 
 # game/Kitty_Chat.rpy:1184
 translate french Kitty_Chitchat_360c1dc4:
@@ -1534,7 +1534,7 @@ translate french Kitty_Chitchat_a53ca007:
 translate french Kitty_Chitchat_40faef9b:
 
     # ch_k "Awesome. 'Cause I can't wait to try again."
-    ch_k "Awesome. 'Cause I can't wait to try again."
+    ch_k "Génial. Parce que j'ai hâte de réessayer."
 
 # game/Kitty_Chat.rpy:1215
 translate french Kitty_Chitchat_c497176d:
@@ -1564,7 +1564,7 @@ translate french Kitty_Chitchat_afcc391f:
 translate french Kitty_Chitchat_8d47413f:
 
     # ch_k "I'd like another taste sometime."
-    ch_k "I'd like another taste sometime."
+    ch_k "J'aimerais y goûter à nouveau plus tard."
 
 # game/Kitty_Chat.rpy:1240
 translate french Kitty_Chitchat_f9b2048d:
@@ -1618,7 +1618,7 @@ translate french Kitty_Chitchat_6dc797f8:
 translate french Kitty_Chitchat_01f23afb:
 
     # ch_k "I can still feel you. . .running down the inside of my thigh."
-    ch_k "I can still feel you. . .running down the inside of my thigh."
+    ch_k "Je peux encore te sentir.... couler à l'intérieur de ma cuisse."
 
 # game/Kitty_Chat.rpy:1265
 translate french Kitty_Chitchat_94de26ce:
@@ -1762,7 +1762,7 @@ translate french Kitty_Chitchat_596943b5:
 translate french Kitty_Chitchat_032e79b6:
 
     # ch_k "What'd you think?"
-    ch_k "What'd you think?"
+    ch_k "Qu'en penses-tu ?"
 
 # game/Kitty_Chat.rpy:1360
 translate french Kitty_Chitchat_897e569f:
@@ -1780,7 +1780,7 @@ translate french Kitty_Chitchat_02fc0783:
 translate french Kitty_Chitchat_032e79b6_1:
 
     # ch_k "What'd you think?"
-    ch_k "What'd you think?"
+    ch_k "Qu'en penses-tu ?"
 
 # game/Kitty_Chat.rpy:1386
 translate french Kitty_Chitchat_afcc391f_1:
@@ -1882,13 +1882,13 @@ translate french Kitty_Chitchat_3f32ca70:
 translate french Kitty_Chitchat_51428d54:
 
     # ch_k "You're fun to hang with."
-    ch_k "You're fun to hang with."
+    ch_k "Traîner avec toi est amusant."
 
 # game/Kitty_Chat.rpy:1445
 translate french Kitty_Names_aaf2319e:
 
     # ch_k "Oh? What would you like me to call you?" nointeract
-    ch_k "Oh? What would you like me to call you?" nointeract
+    ch_k "Comment veux-tu que je t'appelle ?" nointeract
 
 # game/Kitty_Chat.rpy:1449
 translate french Kitty_Names_81a95b57:
@@ -1936,7 +1936,7 @@ translate french Kitty_Names_1932452b:
 translate french Kitty_Names_7f232ad4:
 
     # ch_k "Heh, very cheeky, [KittyX.Petname]."
-    ch_k "Heh, very cheeky, [KittyX.Petname]."
+    ch_k "Héhé, très espiègle, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:1473
 translate french Kitty_Names_3cda7e0a:
@@ -1972,7 +1972,7 @@ translate french Kitty_Pet_403f88d9:
 translate french Kitty_Pet_629b66de:
 
     # ch_k "Aw, I am your boo, [KittyX.Petname]."
-    ch_k "Aw, I am your boo, [KittyX.Petname]."
+    ch_k "Aw, je suis ta chouchou, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:1509
 translate french Kitty_Pet_c2dd872c:
@@ -1984,7 +1984,7 @@ translate french Kitty_Pet_c2dd872c:
 translate french Kitty_Pet_06492e23:
 
     # ch_k "Aw, I am your bae, [KittyX.Petname]."
-    ch_k "Aw, I am your bae, [KittyX.Petname]."
+    ch_k "Aw, je suis ta chérichou, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:1518
 translate french Kitty_Pet_389f50ee:
@@ -1996,7 +1996,7 @@ translate french Kitty_Pet_389f50ee:
 translate french Kitty_Pet_a926c7e3:
 
     # ch_k "Aw, cute, [KittyX.Petname]."
-    ch_k "Aw, cute, [KittyX.Petname]."
+    ch_k "Aw, mignon, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:1527
 translate french Kitty_Pet_4a8f2086:
@@ -2008,7 +2008,7 @@ translate french Kitty_Pet_4a8f2086:
 translate french Kitty_Pet_554cfdde:
 
     # ch_k "Aw, that's sweet, [KittyX.Petname]."
-    ch_k "Aw, that's sweet, [KittyX.Petname]."
+    ch_k "Oh, c'est mignon, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:1536
 translate french Kitty_Pet_854fa609:
@@ -2092,7 +2092,7 @@ translate french Kitty_Pet_4433f4e6:
 translate french Kitty_Pet_5289dfd2:
 
     # ch_k "Only for you though. . ."
-    ch_k "Only for you though. . ."
+    ch_k "Mais seulement pour toi..."
 
 # game/Kitty_Chat.rpy:1605
 translate french Kitty_Pet_ce9f3628:
@@ -2200,25 +2200,25 @@ translate french Kitty_Personality_8ac2f429:
 translate french Kitty_Personality_e1f0c127:
 
     # "Any time you go over the limit in a given stat, the excess will spill over into the chosen stat instead."
-    "Any time you go over the limit in a given stat, the excess will spill over into the chosen stat instead."
+    "Chaque fois que tu dépasses la limite d'une statistique donnée, l'excès se répercute sur la statistique choisie."
 
 # game/Kitty_Chat.rpy:1699
 translate french Kitty_Personality_a888509f:
 
     # "This will also impact which personality trait takes priority in dialog."
-    "This will also impact which personality trait takes priority in dialog."
+    "Cela aura également un impact sur le choix du trait de personnalité prioritaire dans le dialogue."
 
 # game/Kitty_Chat.rpy:1700
 translate french Kitty_Personality_a6cb4c5b:
 
     # ch_k "Sure, what's up?" nointeract
-    ch_k "Sure, what's up?" nointeract
+    ch_k "Bien sûr, qu'est-ce qu'il y a ?" nointeract
 
 # game/Kitty_Chat.rpy:1703
 translate french Kitty_Personality_28bff007:
 
     # ch_p "If you really love me, could you please just do what I say?"
-    ch_p "If you really love me, could you please just do what I say?"
+    ch_p "Si tu m'aimes vraiment, pourrais-tu s'il te plaît faire ce que je te dis ?"
 
 # game/Kitty_Chat.rpy:1704
 translate french Kitty_Personality_505cfb49:
@@ -2230,19 +2230,19 @@ translate french Kitty_Personality_505cfb49:
 translate french Kitty_Personality_a78a6eae:
 
     # ch_p "If you really love me, could lighten up a bit, just have some fun?"
-    ch_p "If you really love me, could lighten up a bit, just have some fun?"
+    ch_p "Si tu m'aimes vraiment, tu pourrais te détendre un peu, juste t'amuser ?"
 
 # game/Kitty_Chat.rpy:1708
 translate french Kitty_Personality_cb2cc8c0:
 
     # ch_k "I could always be a bit more wild if that's what you want."
-    ch_k "I could always be a bit more wild if that's what you want."
+    ch_k "Je pourrais toujours être un peu plus sauvage si c'est ce que tu veux."
 
 # game/Kitty_Chat.rpy:1712
 translate french Kitty_Personality_078973f9:
 
     # ch_p "I want you to be less inhibited."
-    ch_p "I want you to be less inhibited."
+    ch_p "Je veux que tu sois plus extravertie."
 
 # game/Kitty_Chat.rpy:1713
 translate french Kitty_Personality_493b2c88:
@@ -2254,19 +2254,19 @@ translate french Kitty_Personality_493b2c88:
 translate french Kitty_Personality_0f2cf842:
 
     # ch_p "I'd like you to learn to love me."
-    ch_p "I'd like you to learn to love me."
+    ch_p "J'aimerais que tu apprennes à m'aimer."
 
 # game/Kitty_Chat.rpy:1717
 translate french Kitty_Personality_66894b69:
 
     # ch_k "I'll try to."
-    ch_k "I'll try to."
+    ch_k "Je vais essayer."
 
 # game/Kitty_Chat.rpy:1721
 translate french Kitty_Personality_8de00de6:
 
     # ch_p "I know we're having fun, but couldn't you listen to me sometimes?"
-    ch_p "I know we're having fun, but couldn't you listen to me sometimes?"
+    ch_p "Je sais qu'on s'amuse, mais ne pourrais-tu pas m'écouter parfois ?"
 
 # game/Kitty_Chat.rpy:1722
 translate french Kitty_Personality_7272f4da:
@@ -2278,7 +2278,7 @@ translate french Kitty_Personality_7272f4da:
 translate french Kitty_Personality_e064ece1:
 
     # ch_p "I know we're having fun, but do you even care about me?"
-    ch_p "I know we're having fun, but do you even care about me?"
+    ch_p "Je sais qu'on s'amuse, mais est-ce que tu te soucies de moi au moins ?"
 
 # game/Kitty_Chat.rpy:1727
 translate french Kitty_Personality_128bdea5:
@@ -2290,7 +2290,7 @@ translate french Kitty_Personality_128bdea5:
 translate french Kitty_Personality_667b4829:
 
     # ch_p "You know what we talked about before? Nevermind that stuff."
-    ch_p "You know what we talked about before? Nevermind that stuff."
+    ch_p "Tu sais, le truc dont on a parlé ? Oublie tout ça."
 
 # game/Kitty_Chat.rpy:1732
 translate french Kitty_Personality_e2b3fd41:
@@ -2392,7 +2392,7 @@ translate french Kitty_Summon_a98db94c:
 translate french Kitty_Summon_89ed4d8a:
 
     # ch_k "I'm in my room, [KittyX.Petname], want to hang?"
-    ch_k "I'm in my room, [KittyX.Petname], want to hang?"
+    ch_k "Je suis dans ma chambre, [KittyX.Petname], tu veux traîner ?"
 
 # game/Kitty_Chat.rpy:1823
 translate french Kitty_Summon_7744c72e:
@@ -2578,7 +2578,7 @@ translate french Kitty_Summon_0b1b209e_2:
 translate french Kitty_Summon_b98b82ab:
 
     # ch_k "You know, I'll just meet you in my room."
-    ch_k "You know, I'll just meet you in my room."
+    ch_k "Je te retrouve dans ma chambre."
 
 # game/Kitty_Chat.rpy:1993
 translate french Kitty_Summon_b96bc6fd:
@@ -2632,7 +2632,7 @@ translate french Kitty_Leave_1a3f7cb0:
 translate french Kitty_Leave_706ddfe4:
 
     # ch_k "I'll[KittyX.like]be heading to your room."
-    ch_k "I'll[KittyX.like]be heading to your room."
+    ch_k "Je vais[KittyX.like]me diriger vers ta chambre."
 
 # game/Kitty_Chat.rpy:2046
 translate french Kitty_Leave_c9cb2dea:
@@ -2656,7 +2656,7 @@ translate french Kitty_Leave_f0b1560e:
 translate french Kitty_Leave_59035748:
 
     # ch_k "I'm headed out, see you later."
-    ch_k "I'm headed out, see you later."
+    ch_k "Je m'en vais, à plus tard."
 
 # game/Kitty_Chat.rpy:2079
 translate french Kitty_Leave_c3d6d9a0_1:
@@ -2692,7 +2692,7 @@ translate french Kitty_Leave_06666383:
 translate french Kitty_Leave_706ddfe4_1:
 
     # ch_k "I'll[KittyX.like]be heading to your room."
-    ch_k "I'll[KittyX.like]be heading to your room."
+    ch_k "Je vais[KittyX.like]me diriger vers ta chambre."
 
 # game/Kitty_Chat.rpy:2093
 translate french Kitty_Leave_1244913a:
@@ -2776,19 +2776,19 @@ translate french Kitty_Leave_443ec987:
 translate french Kitty_Leave_8a550c65:
 
     # ch_k "I'll meet you there."
-    ch_k "I'll meet you there."
+    ch_k "Je t'y retrouve."
 
 # game/Kitty_Chat.rpy:2205
 translate french Kitty_Leave_229bb4a2:
 
     # ch_k "I'll be waiting."
-    ch_k "I'll be waiting."
+    ch_k "Je t'attendrai."
 
 # game/Kitty_Chat.rpy:2208
 translate french Kitty_Leave_f200faac:
 
     # ch_k "I guess I'll see you there."
-    ch_k "I guess I'll see you there."
+    ch_k "Je suppose que je t'y retrouverai."
 
 # game/Kitty_Chat.rpy:2211
 translate french Kitty_Leave_b615d323:
@@ -2806,7 +2806,7 @@ translate french Kitty_Leave_b94b0691:
 translate french Kitty_Leave_b98b82ab:
 
     # ch_k "You know, I'll just meet you in my room."
-    ch_k "You know, I'll just meet you in my room."
+    ch_k "Je te retrouve dans ma chambre."
 
 # game/Kitty_Chat.rpy:2224
 translate french Kitty_Leave_bf332b9a:
@@ -2860,7 +2860,7 @@ translate french Kitty_Clothes_4e86c8ef:
 translate french Kitty_Clothes_4570a1a0:
 
     # ch_k "I'll let you know when I care what you think."
-    ch_k "I'll let you know when I care what you think."
+    ch_k "Je te ferai savoir quand je me soucierai de ce que tu penses."
 
 # game/Kitty_Chat.rpy:2264
 translate french Kitty_Wardrobe_Menu_ff5ded0a:
@@ -2878,7 +2878,7 @@ translate french Kitty_Wardrobe_Menu_3ceef8f2:
 translate french Kitty_Wardrobe_Menu_887ee413:
 
     # ch_k "Probably won't need it, thanks."
-    ch_k "Probably won't need it, thanks."
+    ch_k "Je n'en aurai probablement pas besoin, merci."
 
 # game/Kitty_Chat.rpy:2299
 translate french Kitty_Wardrobe_Menu_9085dee8:
@@ -2950,25 +2950,25 @@ translate french Kitty_Clothes_Outfits_918988ba:
 translate french Kitty_Clothes_Outfits_f06989d1:
 
     # ch_k "Ok, no problem."
-    ch_k "Ok, no problem."
+    ch_k "Ok, pas de problème."
 
 # game/Kitty_Chat.rpy:2437
 translate french Kitty_Clothes_Outfits_f06989d1_1:
 
     # ch_k "Ok, no problem."
-    ch_k "Ok, no problem."
+    ch_k "Ok, pas de problème."
 
 # game/Kitty_Chat.rpy:2442
 translate french Kitty_Clothes_Outfits_f06989d1_2:
 
     # ch_k "Ok, no problem."
-    ch_k "Ok, no problem."
+    ch_k "Ok, pas de problème."
 
 # game/Kitty_Chat.rpy:2478
 translate french Kitty_Clothes_Outfits_bd1e008a:
 
     # ch_k "You're kidding, right?"
-    ch_k "You're kidding, right?"
+    ch_k "Tu plaisantes, j'espère ?"
 
 # game/Kitty_Chat.rpy:2480
 translate french Kitty_Clothes_Outfits_9b75b8c6:
@@ -3034,7 +3034,7 @@ translate french Kitty_Clothes_Outfits_25edf5a7:
 translate french Kitty_Clothes_Outfits_3bbbd000:
 
     # ch_k "Aw, do I have to?"
-    ch_k "Aw, do I have to?"
+    ch_k "Aw, je suis obligée ?"
 
 # game/Kitty_Chat.rpy:2525
 translate french Kitty_Clothes_Outfits_0dc88efc:
@@ -3064,13 +3064,13 @@ translate french Kitty_Clothes_Over_16c441c5:
 translate french Kitty_Clothes_Over_b13312ce:
 
     # ch_k "Lol, not around you."
-    ch_k "Lol, not around you."
+    ch_k "Lol, pas autour de toi."
 
 # game/Kitty_Chat.rpy:2560
 translate french Kitty_Clothes_Over_baa2bf38:
 
     # ch_k "I don't have anything under this. . ."
-    ch_k "I don't have anything under this. . ."
+    ch_k "Je n'ai rien en dessous..."
 
 # game/Kitty_Chat.rpy:2564
 translate french Kitty_Clothes_Over_97d22f17:
@@ -3124,19 +3124,19 @@ translate french Kitty_Clothes_Over_e19b7687:
 translate french Kitty_NoBra_fb205e22:
 
     # ch_k "I don't exactly have anything on under this. . ." nointeract
-    ch_k "I don't exactly have anything on under this. . ." nointeract
+    ch_k "Je n'ai pas vraiment grand chose en-dessous..." nointeract
 
 # game/Kitty_Chat.rpy:2613
 translate french Kitty_NoBra_10624aba:
 
     # ch_k "-not that that's a problem. . ."
-    ch_k "-not that that's a problem. . ."
+    ch_k "-non pas que ce soit un problème..."
 
 # game/Kitty_Chat.rpy:2617
 translate french Kitty_NoBra_10624aba_1:
 
     # ch_k "-not that that's a problem. . ."
-    ch_k "-not that that's a problem. . ."
+    ch_k "-non pas que ce soit un problème..."
 
 # game/Kitty_Chat.rpy:2620
 translate french Kitty_NoBra_ff362b41:
@@ -3154,7 +3154,7 @@ translate french Kitty_NoBra_3fe3077c:
 translate french Kitty_NoBra_1b5381d5:
 
     # ch_k "Yeah, I guess."
-    ch_k "Yeah, I guess."
+    ch_k "Ouais, je pense aussi."
 
 # game/Kitty_Chat.rpy:2626
 translate french Kitty_NoBra_1b1bc5f7:
@@ -3166,7 +3166,7 @@ translate french Kitty_NoBra_1b1bc5f7:
 translate french Kitty_NoBra_1b5381d5_1:
 
     # ch_k "Yeah, I guess."
-    ch_k "Yeah, I guess."
+    ch_k "Ouais, je pense aussi."
 
 # game/Kitty_Chat.rpy:2630
 translate french Kitty_NoBra_71c9b7c9:
@@ -3178,7 +3178,7 @@ translate french Kitty_NoBra_71c9b7c9:
 translate french Kitty_NoBra_1b5381d5_2:
 
     # ch_k "Yeah, I guess."
-    ch_k "Yeah, I guess."
+    ch_k "Ouais, je pense aussi."
 
 # game/Kitty_Chat.rpy:2634
 translate french Kitty_NoBra_9ea52b67:
@@ -3190,7 +3190,7 @@ translate french Kitty_NoBra_9ea52b67:
 translate french Kitty_NoBra_f5834e64:
 
     # ch_k "Yeah, I don't think so."
-    ch_k "Yeah, I don't think so."
+    ch_k "Ouais, je pense pas."
 
 # game/Kitty_Chat.rpy:2641
 translate french Kitty_NoBra_785a4db9:
@@ -3220,13 +3220,13 @@ translate french Kitty_NoBra_ffa50fe2:
 translate french Kitty_NoBra_0149c2a5:
 
     # ch_k "Not in public, [KittyX.Petname]!"
-    ch_k "Not in public, [KittyX.Petname]!"
+    ch_k "Pas en public, [KittyX.Petname] !"
 
 # game/Kitty_Chat.rpy:2654
 translate french Kitty_NoBra_381df0f3:
 
     # ch_k "I don't like you {i}that{/i} much, [KittyX.Petname]!"
-    ch_k "I don't like you {i}that{/i} much, [KittyX.Petname]!"
+    ch_k "Je ne t'aime pas {i}tant{/i} que ça, [KittyX.Petname] !"
 
 # game/Kitty_Chat.rpy:2659
 translate french Kitty_NoBra_37da8d1c:
@@ -3256,13 +3256,13 @@ translate french Kitty_Clothes_Legs_0b63d148:
 translate french Kitty_Clothes_Legs_b13312ce:
 
     # ch_k "Lol, not around you."
-    ch_k "Lol, not around you."
+    ch_k "Lol, pas autour de toi."
 
 # game/Kitty_Chat.rpy:2690
 translate french Kitty_Clothes_Legs_6da4b728:
 
     # ch_k "I'm not {i}wearing any panties{/i}. . ."
-    ch_k "I'm not {i}wearing any panties{/i}. . ."
+    ch_k "Je ne porte {i}pas de culotte{/i}..."
 
 # game/Kitty_Chat.rpy:2694
 translate french Kitty_Clothes_Legs_698f45e6:
@@ -3280,7 +3280,7 @@ translate french Kitty_Clothes_Legs_3c5acc6f_1:
 translate french Kitty_Clothes_Legs_8e70e4f8:
 
     # ch_k "K, no problem."
-    ch_k "K, no problem."
+    ch_k "K, pas de problème."
 
 # game/Kitty_Chat.rpy:2712
 translate french Kitty_Clothes_Legs_3c5acc6f_2:
@@ -3292,7 +3292,7 @@ translate french Kitty_Clothes_Legs_3c5acc6f_2:
 translate french Kitty_Clothes_Legs_8e70e4f8_1:
 
     # ch_k "K, no problem."
-    ch_k "K, no problem."
+    ch_k "K, pas de problème."
 
 # game/Kitty_Chat.rpy:2721
 translate french Kitty_Clothes_Legs_3c5acc6f_3:
@@ -3304,7 +3304,7 @@ translate french Kitty_Clothes_Legs_3c5acc6f_3:
 translate french Kitty_Clothes_Legs_d0d874d3:
 
     # ch_k "That's a little revealing. . ."
-    ch_k "That's a little revealing. . ."
+    ch_k "C'est un peu révélateur..."
 
 # game/Kitty_Chat.rpy:2734
 translate french Kitty_NoPantiesOn_3c2c6a0c:
@@ -3316,13 +3316,13 @@ translate french Kitty_NoPantiesOn_3c2c6a0c:
 translate french Kitty_NoPantiesOn_a826bb5f:
 
     # ch_k "I didn't say that bothered me. . ."
-    ch_k "I didn't say that bothered me. . ."
+    ch_k "Je n'ai pas dit que cela me dérangeait.."
 
 # game/Kitty_Chat.rpy:2743
 translate french Kitty_NoPantiesOn_a826bb5f_1:
 
     # ch_k "I didn't say that bothered me. . ."
-    ch_k "I didn't say that bothered me. . ."
+    ch_k "Je n'ai pas dit que cela me dérangeait.."
 
 # game/Kitty_Chat.rpy:2746
 translate french Kitty_NoPantiesOn_eb999ed1:
@@ -3340,7 +3340,7 @@ translate french Kitty_NoPantiesOn_741f88ce:
 translate french Kitty_NoPantiesOn_1b5381d5:
 
     # ch_k "Yeah, I guess."
-    ch_k "Yeah, I guess."
+    ch_k "Ouais, je pense aussi."
 
 # game/Kitty_Chat.rpy:2752
 translate french Kitty_NoPantiesOn_05c54e5c:
@@ -3352,13 +3352,13 @@ translate french Kitty_NoPantiesOn_05c54e5c:
 translate french Kitty_NoPantiesOn_f5834e64:
 
     # ch_k "Yeah, I don't think so."
-    ch_k "Yeah, I don't think so."
+    ch_k "Ouais, je pense pas."
 
 # game/Kitty_Chat.rpy:2759
 translate french Kitty_NoPantiesOn_f9172e09:
 
     # ch_k "Well, not that I mind you seeing it. . ."
-    ch_k "Well, not that I mind you seeing it. . ."
+    ch_k "Bon, pas que ça me dérange que tu peux voir..."
 
 # game/Kitty_Chat.rpy:2761
 translate french Kitty_NoPantiesOn_0765c06c:
@@ -3382,13 +3382,13 @@ translate french Kitty_NoPantiesOn_071e85db:
 translate french Kitty_NoPantiesOn_0149c2a5:
 
     # ch_k "Not in public, [KittyX.Petname]!"
-    ch_k "Not in public, [KittyX.Petname]!"
+    ch_k "Pas en public, [KittyX.Petname] !"
 
 # game/Kitty_Chat.rpy:2772
 translate french Kitty_NoPantiesOn_381df0f3:
 
     # ch_k "I don't like you {i}that{/i} much, [KittyX.Petname]!"
-    ch_k "I don't like you {i}that{/i} much, [KittyX.Petname]!"
+    ch_k "Je ne t'aime pas {i}tant{/i} que ça, [KittyX.Petname] !"
 
 # game/Kitty_Chat.rpy:2776
 translate french Kitty_NoPantiesOn_37da8d1c:
@@ -3418,7 +3418,7 @@ translate french Kitty_Clothes_Under_e334b856:
 translate french Kitty_Clothes_Under_9dae181a:
 
     # ch_k "This look is a bit revealing. . ."
-    ch_k "This look is a bit revealing. . ."
+    ch_k "Ce look est un peu révélateur..."
 
 # game/Kitty_Chat.rpy:2798
 translate french Kitty_Clothes_Under_180a8889:
@@ -3430,7 +3430,7 @@ translate french Kitty_Clothes_Under_180a8889:
 translate french Kitty_Clothes_Under_14fdcf35:
 
     # ch_k "Not without a little coverage, for modesty."
-    ch_k "Not without a little coverage, for modesty."
+    ch_k "Non sans un peu de couverture, pour la modestie."
 
 # game/Kitty_Chat.rpy:2807
 translate french Kitty_Clothes_Under_27457766:
@@ -3448,7 +3448,7 @@ translate french Kitty_Clothes_Under_33a0c869:
 translate french Kitty_Clothes_Under_e2b42eb7:
 
     # "She lets her [Line] fall to the ground."
-    "She lets her [Line] fall to the ground."
+    "Elle laisse sa [Line] tomber au sol."
 
 # game/Kitty_Chat.rpy:2819
 translate french Kitty_Clothes_Under_234ec88c:
@@ -3532,13 +3532,13 @@ translate french Kitty_Clothes_Under_ac165fbd:
 translate french Kitty_Clothes_Under_1b5381d5:
 
     # ch_k "Yeah, I guess."
-    ch_k "Yeah, I guess."
+    ch_k "Ouais, je pense aussi."
 
 # game/Kitty_Chat.rpy:2882
 translate french Kitty_Clothes_Under_f9172e09:
 
     # ch_k "Well, not that I mind you seeing it. . ."
-    ch_k "Well, not that I mind you seeing it. . ."
+    ch_k "Bon, pas que ça me dérange que tu peux voir..."
 
 # game/Kitty_Chat.rpy:2884
 translate french Kitty_Clothes_Under_0765c06c:
@@ -3562,7 +3562,7 @@ translate french Kitty_Clothes_Under_071e85db:
 translate french Kitty_Clothes_Under_0149c2a5:
 
     # ch_k "Not in public, [KittyX.Petname]!"
-    ch_k "Not in public, [KittyX.Petname]!"
+    ch_k "Pas en public, [KittyX.Petname] !"
 
 # game/Kitty_Chat.rpy:2897
 translate french Kitty_Clothes_Under_dbfef8af:
@@ -3664,7 +3664,7 @@ translate french Kitty_Clothes_Under_04496bb2:
 translate french Kitty_Clothes_Misc_c6636208:
 
     # ch_k "Like this?"
-    ch_k "Like this?"
+    ch_k "Comme ça ?"
 
 # game/Kitty_Chat.rpy:2982
 translate french Kitty_Clothes_Misc_e8866df0:
@@ -3676,7 +3676,7 @@ translate french Kitty_Clothes_Misc_e8866df0:
 translate french Kitty_Clothes_Misc_c792ca23:
 
     # ch_k "You think?"
-    ch_k "You think?"
+    ch_k "Tu crois ?"
 
 # game/Kitty_Chat.rpy:2989
 translate french Kitty_Clothes_Misc_987ba8eb:
@@ -3688,7 +3688,7 @@ translate french Kitty_Clothes_Misc_987ba8eb:
 translate french Kitty_Clothes_Misc_6099878f:
 
     # ch_k "You think so?"
-    ch_k "You think so?"
+    ch_k "Tu crois ?"
 
 # game/Kitty_Chat.rpy:2994
 translate french Kitty_Clothes_Misc_3518f7b7:
@@ -3700,7 +3700,7 @@ translate french Kitty_Clothes_Misc_3518f7b7:
 translate french Kitty_Clothes_Misc_c6636208_1:
 
     # ch_k "Like this?"
-    ch_k "Like this?"
+    ch_k "Comme ça ?"
 
 # game/Kitty_Chat.rpy:2998
 translate french Kitty_Clothes_Misc_dd2be5ba:
@@ -3724,25 +3724,25 @@ translate french Kitty_Clothes_Misc_180a8889:
 translate french Kitty_Clothes_Misc_59eef1ad:
 
     # ch_k "You want a furry kitty to pet?"
-    ch_k "You want a furry kitty to pet?"
+    ch_k "Tu veux un chaton à caresser ?"
 
 # game/Kitty_Chat.rpy:3011
 translate french Kitty_Clothes_Misc_0fc848a1:
 
     # ch_k "If you want me to. . ."
-    ch_k "If you want me to. . ."
+    ch_k "Si tu veux que je le fasse..."
 
 # game/Kitty_Chat.rpy:3015
 translate french Kitty_Clothes_Misc_9f7b48da:
 
     # ch_k "Not that it's any of your business, [KittyX.Petname]."
-    ch_k "Not that it's any of your business, [KittyX.Petname]."
+    ch_k "Non pas que cela te regarde, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:3023
 translate french Kitty_Clothes_Misc_ad1d4bb5:
 
     # ch_k "I know, I know. I'll take care of it later."
-    ch_k "I know, I know. I'll take care of it later."
+    ch_k "Je sais, je sais. Je m'en occuperai plus tard."
 
 # game/Kitty_Chat.rpy:3028
 translate french Kitty_Clothes_Misc_de958977:
@@ -3766,67 +3766,67 @@ translate french Kitty_Clothes_Misc_d1a80064:
 translate french Kitty_Clothes_Misc_9f7b48da_1:
 
     # ch_k "Not that it's any of your business, [KittyX.Petname]."
-    ch_k "Not that it's any of your business, [KittyX.Petname]."
+    ch_k "Non pas que cela te regarde, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:3044
 translate french Kitty_Clothes_Misc_ad1d4bb5_1:
 
     # ch_k "I know, I know. I'll take care of it later."
-    ch_k "I know, I know. I'll take care of it later."
+    ch_k "Je sais, je sais. Je m'en occuperai plus tard."
 
 # game/Kitty_Chat.rpy:3049
 translate french Kitty_Clothes_Misc_170da071:
 
     # ch_k "If you think they'd look good on me. . ."
-    ch_k "If you think they'd look good on me. . ."
+    ch_k "Si tu penses que ça m'ira bien..."
 
 # game/Kitty_Chat.rpy:3051
 translate french Kitty_Clothes_Misc_f07054cb:
 
     # ch_k "I think they'd look great too!"
-    ch_k "I think they'd look great too!"
+    ch_k "Je pense que ça irait bien aussi !"
 
 # game/Kitty_Chat.rpy:3053
 translate french Kitty_Clothes_Misc_87f35bb1:
 
     # ch_k "K, I'll take care of it."
-    ch_k "K, I'll take care of it."
+    ch_k "Kay, je m'en occupe."
 
 # game/Kitty_Chat.rpy:3057
 translate french Kitty_Clothes_Misc_9f7b48da_2:
 
     # ch_k "Not that it's any of your business, [KittyX.Petname]."
-    ch_k "Not that it's any of your business, [KittyX.Petname]."
+    ch_k "Non pas que cela te regarde, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:3063
 translate french Kitty_Clothes_Misc_ad1d4bb5_2:
 
     # ch_k "I know, I know. I'll take care of it later."
-    ch_k "I know, I know. I'll take care of it later."
+    ch_k "Je sais, je sais. Je m'en occuperai plus tard."
 
 # game/Kitty_Chat.rpy:3068
 translate french Kitty_Clothes_Misc_170da071_1:
 
     # ch_k "If you think they'd look good on me. . ."
-    ch_k "If you think they'd look good on me. . ."
+    ch_k "Si tu penses que ça m'ira bien..."
 
 # game/Kitty_Chat.rpy:3070
 translate french Kitty_Clothes_Misc_f07054cb_1:
 
     # ch_k "I think they'd look great too!"
-    ch_k "I think they'd look great too!"
+    ch_k "Je pense que ça irait bien aussi !"
 
 # game/Kitty_Chat.rpy:3072
 translate french Kitty_Clothes_Misc_87f35bb1_1:
 
     # ch_k "K, I'll take care of it."
-    ch_k "K, I'll take care of it."
+    ch_k "Kay, je m'en occupe."
 
 # game/Kitty_Chat.rpy:3076
 translate french Kitty_Clothes_Misc_9f7b48da_3:
 
     # ch_k "Not that it's any of your business, [KittyX.Petname]."
-    ch_k "Not that it's any of your business, [KittyX.Petname]."
+    ch_k "Non pas que cela te regarde, [KittyX.Petname]."
 
 # game/Kitty_Chat.rpy:3085
 translate french Kitty_Clothes_Misc_f553e4e1:
@@ -3844,7 +3844,7 @@ translate french Kitty_Clothes_Misc_f144dfe0:
 translate french Kitty_Clothes_Misc_f81d255a:
 
     # ch_k "I'll take them out then."
-    ch_k "I'll take them out then."
+    ch_k "Je les sortirai alors."
 
 # game/Kitty_Chat.rpy:3093
 translate french Kitty_Clothes_Misc_17a9bf8c:
@@ -3878,7 +3878,7 @@ translate french strings:
 
     # game/Kitty_Chat.rpy:161
     old "About that gift you wanted to get [LauraX.Name]. . ."
-    new "About that gift you wanted to get [LauraX.Name]. . ."
+    new "A propos de ce cadeau que tu voulais recevoir [LauraX.Name].."
 
     # game/Kitty_Chat.rpy:264
     old "Like"
@@ -3898,7 +3898,7 @@ translate french strings:
 
     # game/Kitty_Chat.rpy:264
     old "Fucking"
-    new "Putain"
+    new "Putain de"
 
     # game/Kitty_Chat.rpy:264
     old "Nothing"
@@ -3922,7 +3922,7 @@ translate french strings:
 
     # game/Kitty_Chat.rpy:1229
     old "You know, I kinda like how you taste."
-    new "J'aime le goût de ta bite."
+    new "Tu sais, j'aime le goût de ta bite."
 
     # game/Kitty_Chat.rpy:1229
     old "You're a real jaw-breaker."
@@ -3942,7 +3942,7 @@ translate french strings:
 
     # game/Kitty_Chat.rpy:1286
     old "Yeah, I know."
-    new "Yeah, I know."
+    new "Ouais, je sais."
 
     # game/Kitty_Chat.rpy:1286
     old "Huh, why not go by that then?"
@@ -3966,7 +3966,7 @@ translate french strings:
 
     # game/Kitty_Chat.rpy:1382
     old "Get away from me."
-    new "Get away from me."
+    new "Eloigne-toi de moi."
 
     # game/Kitty_Chat.rpy:1382
     old "I don't want to see your face."
@@ -4095,4 +4095,8 @@ translate french strings:
     # game/Kitty_Chat.rpy:2975
     old "Maybe go without a necklace."
     new "Maybe go without a necklace."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

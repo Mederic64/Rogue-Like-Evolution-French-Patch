@@ -4,13 +4,13 @@
 translate french Kitty_SexMenu_83fc6de9:
 
     # "You're a little out of juice at the moment, you might want to wait a bit."
-    "You're a little out of juice at the moment, you might want to wait a bit."
+    "Tu es un peu à court de jus en ce moment, tu devrais peut-être attendre un peu."
 
 # game/Kitty_Sex.rpy:57
 translate french Kitty_SexMenu_9cb2de26:
 
     # "You're practically buzzing, the slightest breeze could set you off."
-    "You're practically buzzing, the slightest breeze could set you off."
+    "Tu es surexcité, la moindre brise pourrait te faire exploser."
 
 # game/Kitty_Sex.rpy:59
 translate french Kitty_SexMenu_0201b510:
@@ -28,31 +28,31 @@ translate french Kitty_SexMenu_93fe66c9:
 translate french Kitty_SexMenu_abb12e93:
 
     # ch_k "We've been at it for a while now, let's take a breather."
-    ch_k "We've been at it for a while now, let's take a breather."
+    ch_k "On y est depuis un certain temps déjà, prenons une pause."
 
 # game/Kitty_Sex.rpy:71
 translate french Kitty_SMenu_e4ed6e13:
 
     # ch_k "So what would you like to do?" nointeract
-    ch_k "So what would you like to do?" nointeract
+    ch_k "Alors, que veux-tu faire ?" nointeract
 
 # game/Kitty_Sex.rpy:77
 translate french Kitty_SMenu_f3ef5c50:
 
     # ch_k "Sorry, [KittyX.Petname], but I'm a bit worn out."
-    ch_k "Sorry, [KittyX.Petname], but I'm a bit worn out."
+    ch_k "Désolé, [KittyX.Petname], mais je suis un peu fatiguée."
 
 # game/Kitty_Sex.rpy:82
 translate french Kitty_SMenu_8eddb9e7:
 
     # ch_k "Um, what did you want to touch, [KittyX.Petname]?" nointeract
-    ch_k "Um, what did you want to touch, [KittyX.Petname]?" nointeract
+    ch_k "Hum, que voulais-tu toucher, [KittyX.Petname] ?" nointeract
 
 # game/Kitty_Sex.rpy:101
 translate french Kitty_SMenu_f3ef5c50_1:
 
     # ch_k "Sorry, [KittyX.Petname], but I'm a bit worn out."
-    ch_k "Sorry, [KittyX.Petname], but I'm a bit worn out."
+    ch_k "Désolé, [KittyX.Petname], mais je suis un peu fatiguée."
 
 # game/Kitty_Sex.rpy:105
 translate french Kitty_SMenu_862efb45:
@@ -64,13 +64,13 @@ translate french Kitty_SMenu_862efb45:
 translate french Kitty_SMenu_81d4262c:
 
     # ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
-    ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
+    ch_k "Désolé [KittyX.Petname], je suis un peu fatiguée."
 
 # game/Kitty_Sex.rpy:120
 translate french Kitty_SMenu_f94d7038:
 
     # "You really don't have it in you, maybe take a break."
-    "You really don't have it in you, maybe take a break."
+    "T'es vraiment pas à la hauteur, prends une pause, peut-être."
 
 # game/Kitty_Sex.rpy:123
 translate french Kitty_SMenu_662c4026:
@@ -82,7 +82,7 @@ translate french Kitty_SMenu_662c4026:
 translate french Kitty_SMenu_81d4262c_1:
 
     # ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
-    ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
+    ch_k "Désolé [KittyX.Petname], je suis un peu fatiguée."
 
 # game/Kitty_Sex.rpy:135
 translate french Kitty_SMenu_aa7f8052:
@@ -94,31 +94,31 @@ translate french Kitty_SMenu_aa7f8052:
 translate french Kitty_SMenu_81d4262c_2:
 
     # ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
-    ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
+    ch_k "Désolé [KittyX.Petname], je suis un peu fatiguée."
 
 # game/Kitty_Sex.rpy:163
 translate french Kitty_SMenu_1997fa78:
 
     # "The spirit is apparently willing, but the flesh is spongy and bruised."
-    "The spirit is apparently willing, but the flesh is spongy and bruised."
+    "L'esprit est apparemment disposé, mais la chair est spongieuse et meurtrie."
 
 # game/Kitty_Sex.rpy:168
 translate french Kitty_SMenu_1997fa78_1:
 
     # "The spirit is apparently willing, but the flesh is spongy and bruised."
-    "The spirit is apparently willing, but the flesh is spongy and bruised."
+    "L'esprit est apparemment disposé, mais la chair est spongieuse et meurtrie."
 
 # game/Kitty_Sex.rpy:173
 translate french Kitty_SMenu_1997fa78_2:
 
     # "The spirit is apparently willing, but the flesh is spongy and bruised."
-    "The spirit is apparently willing, but the flesh is spongy and bruised."
+    "L'esprit est apparemment disposé, mais la chair est spongieuse et meurtrie."
 
 # game/Kitty_Sex.rpy:181
 translate french Kitty_SMenu_81d4262c_3:
 
     # ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
-    ch_k "Sorry [KittyX.Petname], I'm a bit worn out."
+    ch_k "Désolé [KittyX.Petname], je suis un peu fatiguée."
 
 # game/Kitty_Sex.rpy:197
 translate french Kitty_SMenu_6c8ef478:
@@ -142,31 +142,31 @@ translate french Kitty_SMenu_cedee599:
 translate french Kitty_SMenu_6e9efd4d:
 
     # ch_k "Rude!"
-    ch_k "Rude!"
+    ch_k "Grossier !"
 
 # game/Kitty_Sex.rpy:218
 translate french Kitty_SMenu_92c0efd9:
 
     # ch_k "I guess I'll take what I can get. . ."
-    ch_k "I guess I'll take what I can get. . ."
+    ch_k "Je suppose que je vais me contenter de ce que j'ai..."
 
 # game/Kitty_Sex.rpy:223
 translate french Kitty_SMenu_6e9efd4d_1:
 
     # ch_k "Rude!"
-    ch_k "Rude!"
+    ch_k "Grossier !"
 
 # game/Kitty_Sex.rpy:226
 translate french Kitty_SMenu_92c0efd9_1:
 
     # ch_k "I guess I'll take what I can get. . ."
-    ch_k "I guess I'll take what I can get. . ."
+    ch_k "Je suppose que je vais me contenter de ce que j'ai..."
 
 # game/Kitty_Sex.rpy:229
 translate french Kitty_SMenu_e0f946c2:
 
     # ch_k "Well. . . yeah, but. . ."
-    ch_k "Well. . . yeah, but. . ."
+    ch_k "Bah... ouais, mais..."
 
 # game/Kitty_Sex.rpy:232
 translate french Kitty_SMenu_c09a6225:
@@ -178,13 +178,13 @@ translate french Kitty_SMenu_c09a6225:
 translate french Kitty_SMenu_a95ad9dd:
 
     # ch_k "Hehe. . ."
-    ch_k "Hehe..."
+    ch_k "Héhé..."
 
 # game/Kitty_Sex.rpy:243
 translate french Kitty_SMenu_f473e5e3:
 
     # ch_k "You know it. . ."
-    ch_k "You know it. . ."
+    ch_k "Tu l'as dit..."
 
 # game/Kitty_Sex.rpy:248
 translate french Kitty_SMenu_9e2d834d:
@@ -196,7 +196,7 @@ translate french Kitty_SMenu_9e2d834d:
 translate french Kitty_SMenu_1358bf24:
 
     # ch_k ". . .for now."
-    ch_k ". . .for now."
+    ch_k ".... pour l'instant."
 
 # game/Kitty_Sex.rpy:254
 translate french Kitty_SMenu_2b19c7ad:
@@ -208,7 +208,7 @@ translate french Kitty_SMenu_2b19c7ad:
 translate french Kitty_SMenu_131fcee0:
 
     # ch_k "That's it. . . for now."
-    ch_k "That's it. . . for now."
+    ch_k "C'est tout... pour l'instant."
 
 # game/Kitty_Sex.rpy:310
 translate french Kitty_Masturbate_2c2120df:
@@ -310,7 +310,7 @@ translate french Kitty_Masturbate_c2982f9d:
 translate french Kitty_Masturbate_94b5bab8:
 
     # "She starts to slowly rub herself."
-    "She starts to slowly rub herself."
+    "Elle commence à se caresser lentement."
 
 # game/Kitty_Sex.rpy:407
 translate french Kitty_Masturbate_188c852f:
@@ -328,13 +328,13 @@ translate french Kitty_Masturbate_1516650b:
 translate french Kitty_Masturbate_ccf72ac1:
 
     # "You lean back and enjoy the show."
-    "You lean back and enjoy the show."
+    "Tu te penches en arrière et profite du spectacle."
 
 # game/Kitty_Sex.rpy:420
 translate french Kitty_Masturbate_5512fda4:
 
     # ch_p "Let's not do that right now, [KittyX.Pet]."
-    ch_p "Let's not do that right now, [KittyX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [KittyX.Pet]."
 
 # game/Kitty_Sex.rpy:422
 translate french Kitty_Masturbate_0209be13:
@@ -346,7 +346,7 @@ translate french Kitty_Masturbate_0209be13:
 translate french Kitty_Masturbate_60648db6:
 
     # ch_k "You want me to. . . touch myself?"
-    ch_k "You want me to. . . touch myself?"
+    ch_k "Tu veux que je... me touche ?"
 
 # game/Kitty_Sex.rpy:440
 translate french Kitty_Masturbate_ba14a8e2:
@@ -382,7 +382,7 @@ translate french Kitty_Masturbate_d99c3003:
 translate french Kitty_Masturbate_3d3f7409:
 
     # ch_k "Again? Just looking?"
-    ch_k "Again? Just looking?"
+    ch_k "Encore ? Juste regarder ?"
 
 # game/Kitty_Sex.rpy:475
 translate french Kitty_Masturbate_84a332d8:
@@ -400,7 +400,7 @@ translate french Kitty_Masturbate_afcc391f:
 translate french Kitty_Masturbate_e346103d:
 
     # ch_k "Did you. . . like it last time?"
-    ch_k "Did you. . . like it last time?"
+    ch_k "Tu as... aimé la dernière fois ?"
 
 # game/Kitty_Sex.rpy:494
 translate french Kitty_Masturbate_afcc391f_1:
@@ -424,7 +424,7 @@ translate french Kitty_Masturbate_afcc391f_2:
 translate french Kitty_Masturbate_c84bc50e:
 
     # ch_k "That's. . . private? You know?" nointeract
-    ch_k "That's. . . private? You know?" nointeract
+    ch_k "C'est... privé ? Tu sais ?" nointeract
 
 # game/Kitty_Sex.rpy:529
 translate french Kitty_Masturbate_d17ff82e:
@@ -514,7 +514,7 @@ translate french Kitty_M_Cycle_4cb42be1:
 translate french Kitty_M_Cycle_5efbbecc:
 
     # ch_k "Like what you see?"
-    ch_k "Like what you see?"
+    ch_k "Tu aimes ce que tu vois ?"
 
 # game/Kitty_Sex.rpy:680
 translate french Kitty_M_Cycle_3fd51210:
@@ -538,19 +538,19 @@ translate french Kitty_M_Cycle_b032f1d0:
 translate french Kitty_M_Cycle_6a250529:
 
     # ch_k "I'm actually getting a little tired, so maybe we could wrap this up?"
-    ch_k "I'm actually getting a little tired, so maybe we could wrap this up?"
+    ch_k "Je suis un peu fatigué, alors on pourrait peut-être conclure ?"
 
 # game/Kitty_Sex.rpy:727
 translate french Kitty_M_Cycle_4c2fcbb1:
 
     # ch_p "Oh, yeah, take it off. . ."
-    ch_p "Oh, yeah, take it off. . ."
+    ch_p "Oh, oui, enleve-le..."
 
 # game/Kitty_Sex.rpy:735
 translate french Kitty_M_Cycle_6e315739:
 
     # ch_p "You've got a little something on you. . ."
-    ch_p "You've got a little something on you. . ."
+    ch_p "Tu as un petit quelque chose sur toi..."
 
 # game/Kitty_Sex.rpy:743
 translate french Kitty_M_Cycle_83673efb:
@@ -568,13 +568,13 @@ translate french Kitty_M_Cycle_2c55fb6c:
 translate french Kitty_M_Cycle_a0b9f758:
 
     # "You grunt and try to hold it in."
-    "You grunt and try to hold it in."
+    "Tu grognes et essaie de te retenir."
 
 # game/Kitty_Sex.rpy:794
 translate french Kitty_M_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Kitty_Sex.rpy:799
 translate french Kitty_M_Cycle_c52b8859:
@@ -586,7 +586,7 @@ translate french Kitty_M_Cycle_c52b8859:
 translate french Kitty_M_Cycle_c4857ab4:
 
     # "You ask her to stop."
-    "You ask her to stop."
+    "Tu lui demandes d'arrêter."
 
 # game/Kitty_Sex.rpy:815
 translate french Kitty_M_Cycle_723e7efe:
@@ -598,25 +598,25 @@ translate french Kitty_M_Cycle_723e7efe:
 translate french Kitty_M_Cycle_94685049:
 
     # "She's definitely going to stop soon."
-    "She's definitely going to stop soon."
+    "Elle va certainement s'arrêter bientôt."
 
 # game/Kitty_Sex.rpy:823
 translate french Kitty_M_Cycle_1bc5203c:
 
     # ch_k "We might want to wrap this up, it's getting late."
-    ch_k "We might want to wrap this up, it's getting late."
+    ch_k "On devrait peut-être conclure, il se fait tard."
 
 # game/Kitty_Sex.rpy:826
 translate french Kitty_M_Cycle_c8d11aa8:
 
     # ch_k "Seriously, it'll be time to stop soon."
-    ch_k "Seriously, it'll be time to stop soon."
+    ch_k "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Kitty_Sex.rpy:833
 translate french Kitty_M_Cycle_53791841:
 
     # ch_k "Ok, I'm kinda done for now, I need a break."
-    ch_k "Ok, I'm kinda done for now, I need a break."
+    ch_k "Ok, j'en ai un peu assez pour l'instant, j'ai besoin d'une pause."
 
 # game/Kitty_Sex.rpy:840
 translate french Kitty_M_Interupted_55a84484:
@@ -628,13 +628,13 @@ translate french Kitty_M_Interupted_55a84484:
 translate french Kitty_M_Interupted_c2ea7928:
 
     # ch_k "Eeep!"
-    ch_k "Eeep!"
+    ch_k "Eeep !"
 
 # game/Kitty_Sex.rpy:847
 translate french Kitty_M_Interupted_d23e7ff9:
 
     # ch_k "When did you get here?!"
-    ch_k "When did you get here?!"
+    ch_k "Quand es-tu arrivé ici ? !"
 
 # game/Kitty_Sex.rpy:849
 translate french Kitty_M_Interupted_b84b4ddc:
@@ -658,13 +658,13 @@ translate french Kitty_M_Interupted_0e7b9caa:
 translate french Kitty_M_Interupted_d90cecc6:
 
     # "She looks pointedly at your cock,"
-    "She looks pointedly at your cock,"
+    "Elle regarde ta bite avec insistance,"
 
 # game/Kitty_Sex.rpy:868
 translate french Kitty_M_Interupted_9c8a12ca:
 
     # ch_k "Long enough to whip that out?"
-    ch_k "Long enough to whip that out?"
+    ch_k "Assez longtemps pour le faire sortir ?"
 
 # game/Kitty_Sex.rpy:873
 translate french Kitty_M_Interupted_531c208a:
@@ -682,13 +682,13 @@ translate french Kitty_M_Interupted_e694f445:
 translate french Kitty_M_Interupted_c2ea7928_1:
 
     # ch_k "Eeep!"
-    ch_k "Eeep!"
+    ch_k "Eeep !"
 
 # game/Kitty_Sex.rpy:883
 translate french Kitty_M_Interupted_d23e7ff9_1:
 
     # ch_k "When did you get here?!"
-    ch_k "When did you get here?!"
+    ch_k "Quand es-tu arrivé ici ? !"
 
 # game/Kitty_Sex.rpy:890
 translate french Kitty_M_Interupted_4fde8f18:
@@ -712,7 +712,7 @@ translate french Kitty_M_Interupted_2d48fe64:
 translate french Kitty_M_Interupted_fbdcf815:
 
     # "error: report this if you see it."
-    "error: report this if you see it."
+    "erreur : signalez-la si vous la voyez."
 
 # game/Kitty_Sex.rpy:925
 translate french Kitty_M_Interupted_b6f7db39:
@@ -760,37 +760,37 @@ translate french Kitty_M_Interupted_b2b6bd5e:
 translate french Kitty_Sex_P_e73c196b:
 
     # "You press [KittyX.Name] down onto her back, sliding her skirt up as you go."
-    "You press [KittyX.Name] down onto her back, sliding her skirt up as you go."
+    "Tu pousses [KittyX.Name] sur son dos, en faisant remonter sa jupe."
 
 # game/Kitty_Sex.rpy:1010
 translate french Kitty_Sex_P_5ea582fc:
 
     # "You press [KittyX.Name] down onto her back, sliding her pants down as you do."
-    "You press [KittyX.Name] down onto her back, sliding her pants down as you do."
+    "Tu pousses sur [KittyX.Name] sur son dos, en faisant glisser son pantalon."
 
 # game/Kitty_Sex.rpy:1013
 translate french Kitty_Sex_P_57e879c2:
 
     # "You press [KittyX.Name] down onto her back, sliding her shorts down as you do."
-    "You press [KittyX.Name] down onto her back, sliding her shorts down as you do."
+    "Tu pousses [KittyX.Name] sur son dos, en faisant glisser son short."
 
 # game/Kitty_Sex.rpy:1016
 translate french Kitty_Sex_P_e4920098:
 
     # "You press [KittyX.Name] down onto her back."
-    "You press [KittyX.Name] down onto her back."
+    "Tu mets [KittyX.Name] sur son dos."
 
 # game/Kitty_Sex.rpy:1018
 translate french Kitty_Sex_P_57b09fb0:
 
     # "You rub the tip of your cock against her moist slit."
-    "You rub the tip of your cock against her moist slit."
+    "Tu frottes le bout de ta bite contre sa fente humide."
 
 # game/Kitty_Sex.rpy:1023
 translate french Kitty_Sex_P_16a54dfe:
 
     # "[KittyX.Name] is briefly startled, but melts into a sly smile."
-    "[KittyX.Name] is briefly startled, but melts into a sly smile."
+    "[KittyX.Name] est brièvement effrayée, mais se fond dans un sourire sournois."
 
 # game/Kitty_Sex.rpy:1028
 translate french Kitty_Sex_P_6ca029f8:
@@ -814,31 +814,31 @@ translate french Kitty_Sex_P_d9be91a1:
 translate french Kitty_Sex_P_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Kitty_Sex.rpy:1047
 translate french Kitty_Sex_P_5af33a39:
 
     # ch_k "Maybe you could[KittyX.like]warn me?"
-    ch_k "Maybe you could[KittyX.like]warn me?"
+    ch_k "Peut-être pourrais-tu[KittyX.like]me prévenir ?"
 
 # game/Kitty_Sex.rpy:1049
 translate french Kitty_Sex_P_480326f7:
 
     # ch_k "Maybe you could[KittyX.like]warn me? I don't know that I'm[KittyX.like]ready for that sort of thing. . ."
-    ch_k "Maybe you could[KittyX.like]warn me? I don't know that I'm[KittyX.like]ready for that sort of thing. . ."
+    ch_k "Peut-être pourrais-tu [KittyX.like]me prévenir ? Je ne sais pas si je suis[KittyX.like]prête pour ce genre de choses.."
 
 # game/Kitty_Sex.rpy:1053
 translate french Kitty_Sex_P_904cf2fa:
 
     # "You press inside some more."
-    "You press inside some more."
+    "Tu appuies encore un peu plus à l'intérieur."
 
 # game/Kitty_Sex.rpy:1058
 translate french Kitty_Sex_P_bfe88cbe:
 
     # "[KittyX.Name] shoves you away and slaps you in the face."
-    "[KittyX.Name] shoves you away and slaps you in the face."
+    "[KittyX.Name] te pousse et te gifle le visage."
 
 # game/Kitty_Sex.rpy:1059
 translate french Kitty_Sex_P_b5cb24c5:
@@ -856,7 +856,7 @@ translate french Kitty_Sex_P_afcdf495:
 translate french Kitty_Sex_P_19bcf1e9:
 
     # "[KittyX.Name] doesn't seem to be into this, you're lucky she's so obedient."
-    "[KittyX.Name] doesn't seem to be into this, you're lucky she's so obedient."
+    "[KittyX.Name] ne semble pas s'y intéresser, tu as de la chance qu'elle soit si obéissante."
 
 # game/Kitty_Sex.rpy:1081
 translate french Kitty_Sex_P_fc26ecef:
@@ -898,7 +898,7 @@ translate french Kitty_Sex_P_ec94f083:
 translate french Kitty_Sex_P_348a6189:
 
     # ch_k "Again? Why do you do this to me?"
-    ch_k "Again? Why do you do this to me?"
+    ch_k "Encore ? Pourquoi tu me fais ça ?"
 
 # game/Kitty_Sex.rpy:1119
 translate french Kitty_Sex_P_3b0f5bce:
@@ -922,7 +922,7 @@ translate french Kitty_Sex_P_afcc391f:
 translate french Kitty_Sex_P_c6a0bd56:
 
     # ch_k "So you'd like another round?"
-    ch_k "So you'd like another round?"
+    ch_k "Tu veux repartir pour un tour ?"
 
 # game/Kitty_Sex.rpy:1140
 translate french Kitty_Sex_P_afcc391f_1:
@@ -952,25 +952,25 @@ translate french Kitty_Sex_P_afcc391f_2:
 translate french Kitty_Sex_P_6ab1f3ea:
 
     # ch_k "I{i}just{/i}[KittyX.like]told you \"no!\""
-    ch_k "I{i}just{/i}[KittyX.like]told you \"no!\""
+    ch_k "Je viens[KittyX.like]{i}juste{/i} de te dire \"non\" !"
 
 # game/Kitty_Sex.rpy:1175
 translate french Kitty_Sex_P_a12d4fe4:
 
     # ch_k "I already told you. . .not in public!"
-    ch_k "I already told you. . .not in public!"
+    ch_k "Je te l'ai déjà dit....pas en public !"
 
 # game/Kitty_Sex.rpy:1177
 translate french Kitty_Sex_P_59c638e5:
 
     # ch_k "I already[KittyX.like]told you \"no.\""
-    ch_k "I already[KittyX.like]told you \"no.\""
+    ch_k "Je t'ai déjà[KittyX.like]dit \"non.\""
 
 # game/Kitty_Sex.rpy:1179
 translate french Kitty_Sex_P_cb5571e5:
 
     # ch_k "I already told you this is too public!"
-    ch_k "I already told you this is too public!"
+    ch_k "Je t'ai déjà dit que c'est trop public !"
 
 # game/Kitty_Sex.rpy:1182
 translate french Kitty_Sex_P_ac5898cf:
@@ -982,7 +982,7 @@ translate french Kitty_Sex_P_ac5898cf:
 translate french Kitty_Sex_P_2834199a:
 
     # ch_k "Maybe[KittyX.like]not right now? . ."
-    ch_k "Maybe[KittyX.like]not right now? . ."
+    ch_k "Peut-être[KittyX.like]pas maintenant ?.."
 
 # game/Kitty_Sex.rpy:1190
 translate french Kitty_Sex_P_85c6ed23:
@@ -994,7 +994,7 @@ translate french Kitty_Sex_P_85c6ed23:
 translate french Kitty_Sex_P_e4ffc7bd:
 
     # ch_k "Maybe, you never know."
-    ch_k "Maybe, you never know."
+    ch_k "Peut-être, on ne sait jamais."
 
 # game/Kitty_Sex.rpy:1213
 translate french Kitty_Sex_P_afcc391f_3:
@@ -1006,13 +1006,13 @@ translate french Kitty_Sex_P_afcc391f_3:
 translate french Kitty_Sex_P_11d0f2f0:
 
     # ch_k "Well! . . ok, fine, stick it in."
-    ch_k "Well! . . ok, fine, stick it in."
+    ch_k "Eh bien.. ok, très bien, rentre-la dedans."
 
 # game/Kitty_Sex.rpy:1238
 translate french Kitty_Sex_P_d3d6527d:
 
     # ch_k "Maybe[KittyX.like]take \"no\" for an answer?"
-    ch_k "Maybe[KittyX.like]take \"no\" for an answer?"
+    ch_k "Peut-être [KittyX.like]accepter mon refus ?"
 
 # game/Kitty_Sex.rpy:1243
 translate french Kitty_Sex_P_474536d1:
@@ -1042,55 +1042,55 @@ translate french Kitty_Sex_P_367ff8a0:
 translate french Kitty_SexPrep_c3610c41:
 
     # "[KittyX.Name] rolls back and pulls you toward her, sliding her skirt up as she does so."
-    "[KittyX.Name] rolls back and pulls you toward her, sliding her skirt up as she does so."
+    "[KittyX.Name] se retourne et te tire vers elle, en faisant remonter sa jupe."
 
 # game/Kitty_Sex.rpy:1279
 translate french Kitty_SexPrep_aa000349:
 
     # "[KittyX.Name] rolls back and pulls you against her, sliding her pants off as she does so."
-    "[KittyX.Name] rolls back and pulls you against her, sliding her pants off as she does so."
+    "[KittyX.Name] se retourne et te tire contre elle, faisant glisser son pantalon pendant qu'elle le fait."
 
 # game/Kitty_Sex.rpy:1282
 translate french Kitty_SexPrep_a9abdd0f:
 
     # "[KittyX.Name] rolls onto her back and pulls you against her, sliding her shorts off as she does so."
-    "[KittyX.Name] rolls onto her back and pulls you against her, sliding her shorts off as she does so."
+    "[KittyX.Name] se roule sur son dos et te tire contre elle, en faisant glisser son short."
 
 # game/Kitty_Sex.rpy:1285
 translate french Kitty_SexPrep_75d6f2a6:
 
     # "[KittyX.Name] rolls back and pulls you toward her."
-    "[KittyX.Name] rolls back and pulls you toward her."
+    "[KittyX.Name] se retourne et te tire vers elle."
 
 # game/Kitty_Sex.rpy:1287
 translate french Kitty_SexPrep_9543a6a5:
 
     # "She slides the tip along her pussy and seems to want you to insert it."
-    "She slides the tip along her pussy and seems to want you to insert it."
+    "Elle fait glisser le bout le long de sa chatte et semble vouloir que tu l'insères."
 
 # game/Kitty_Sex.rpy:1293
 translate french Kitty_SexPrep_89bdb9f2:
 
     # "[KittyX.Name] slides it in."
-    "[KittyX.Name] slides it in."
+    "[KittyX.Name] le fait glisser."
 
 # game/Kitty_Sex.rpy:1297
 translate french Kitty_SexPrep_66ac8d2e:
 
     # ch_p "Oh yeah, [KittyX.Pet], let's do this."
-    ch_p "Oh yeah, [KittyX.Pet], let's do this."
+    ch_p "Oh ouais, [KittyX.Pet], allons-y."
 
 # game/Kitty_Sex.rpy:1299
 translate french Kitty_SexPrep_89bdb9f2_1:
 
     # "[KittyX.Name] slides it in."
-    "[KittyX.Name] slides it in."
+    "[KittyX.Name] le fait glisser."
 
 # game/Kitty_Sex.rpy:1306
 translate french Kitty_SexPrep_5512fda4:
 
     # ch_p "Let's not do that right now, [KittyX.Pet]."
-    ch_p "Let's not do that right now, [KittyX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [KittyX.Pet]."
 
 # game/Kitty_Sex.rpy:1308
 translate french Kitty_SexPrep_c22a574d:
@@ -1102,115 +1102,115 @@ translate french Kitty_SexPrep_c22a574d:
 translate french Kitty_SexPrep_1bbee0f2:
 
     # ch_k "We can't exactly do much like this, huh."
-    ch_k "We can't exactly do much like this, huh."
+    ch_k "On ne peut pas faire grand-chose comme ça, hein."
 
 # game/Kitty_Sex.rpy:1326
 translate french Kitty_SexPrep_5ee175a6:
 
     # "She quickly drops her pants and her [KittyX.Panties]."
-    "She quickly drops her pants and her [KittyX.Panties]."
+    "Elle baisse rapidement son pantalon et sa [KittyX.Panties]."
 
 # game/Kitty_Sex.rpy:1328
 translate french Kitty_SexPrep_ef0ecf10:
 
     # "She quickly drops her shorts and her [KittyX.Panties]."
-    "She quickly drops her shorts and her [KittyX.Panties]."
+    "Elle laisse rapidement tomber son short et sa [KittyX.Panties]."
 
 # game/Kitty_Sex.rpy:1330
 translate french Kitty_SexPrep_2db1c313:
 
     # "She shrugs and her pants drop through her, exposing her bare pussy."
-    "She shrugs and her pants drop through her, exposing her bare pussy."
+    "Elle hausse les épaules et son pantalon la traverse, exposant sa chatte nue."
 
 # game/Kitty_Sex.rpy:1332
 translate french Kitty_SexPrep_728ec1fe:
 
     # "She shrugs and her shorts drop through her, exposing her bare pussy."
-    "She shrugs and her shorts drop through her, exposing her bare pussy."
+    "Elle hausse les épaules et son short la traverse, exposant sa chatte nue."
 
 # game/Kitty_Sex.rpy:1334
 translate french Kitty_SexPrep_2386b9de:
 
     # "She shrugs and her [KittyX.Hose] and [KittyX.Panties] fall to the ground."
-    "She shrugs and her [KittyX.Hose] and [KittyX.Panties] fall to the ground."
+    "Elle hausse les épaules et ses [KittyX.Hose] et [KittyX.Panties] tombent par terre."
 
 # game/Kitty_Sex.rpy:1337
 translate french Kitty_SexPrep_f399a3e4:
 
     # "She shrugs and her [KittyX.Hose] fall to the ground."
-    "She shrugs and her [KittyX.Hose] fall to the ground."
+    "Elle hausse les épaules et son [KittyX.Hose] tombe par terre."
 
 # game/Kitty_Sex.rpy:1340
 translate french Kitty_SexPrep_4a3540f8:
 
     # "She shrugs as her [KittyX.Panties] fall to the ground."
-    "She shrugs as her [KittyX.Panties] fall to the ground."
+    "Elle hausse les épaules alors que sa [KittyX.Panties] tombe par terre."
 
 # game/Kitty_Sex.rpy:1349
 translate french Kitty_SexPrep_a6cba7ff:
 
     # "[KittyX.Name] glances around for voyeurs. . ."
-    "[KittyX.Name] glances around for voyeurs. . ."
+    "[KittyX.Name] regarde s'il y a des voyeurs..."
 
 # game/Kitty_Sex.rpy:1351
 translate french Kitty_SexPrep_82bea255:
 
     # "[KittyX.Name] slowly presses against your rigid member."
-    "[KittyX.Name] slowly presses against your rigid member."
+    "[KittyX.Name] appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:1353
 translate french Kitty_SexPrep_ecbb00a1:
 
     # "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
-    "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
+    "[KittyX.Name] baisse ton pantalon avec hésitation et appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:1354
 translate french Kitty_SexPrep_1cb34b7f:
 
     # "You guide it into place and slide it in."
-    "You guide it into place and slide it in."
+    "Tu le guides et le glisse en place."
 
 # game/Kitty_Sex.rpy:1356
 translate french Kitty_SexPrep_5d1a9406:
 
     # "[KittyX.Name] glances around to see if anyone notices what she's doing, then presses firmly against your cock."
-    "[KittyX.Name] glances around to see if anyone notices what she's doing, then presses firmly against your cock."
+    "[KittyX.Name] jette un coup d'œil pour voir si quelqu'un remarque ce qu'elle fait, puis appuie fermement sur ta bite."
 
 # game/Kitty_Sex.rpy:1357
 translate french Kitty_SexPrep_5eee0c5d:
 
     # "You guide your cock into place and ram it home."
-    "You guide your cock into place and ram it home."
+    "Tu guides ta bite en place et l'enfonces au fond."
 
 # game/Kitty_Sex.rpy:1363
 translate french Kitty_SexPrep_82bea255_1:
 
     # "[KittyX.Name] slowly presses against your rigid member."
-    "[KittyX.Name] slowly presses against your rigid member."
+    "[KittyX.Name] appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:1365
 translate french Kitty_SexPrep_ecbb00a1_1:
 
     # "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
-    "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
+    "[KittyX.Name] baisse ton pantalon avec hésitation et appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:1366
 translate french Kitty_SexPrep_a046b735:
 
     # "You press her folds aside and nudge your cock in."
-    "You press her folds aside and nudge your cock in."
+    "Tu écartes ses plis et carre ta queue."
 
 # game/Kitty_Sex.rpy:1368
 translate french Kitty_SexPrep_192bde65:
 
     # "[KittyX.Name] leans back and presses against you suggestively."
-    "[KittyX.Name] leans back and presses against you suggestively."
+    "[KittyX.Name] se penche en arrière et se presse contre toi de manière suggestive."
 
 # game/Kitty_Sex.rpy:1369
 translate french Kitty_SexPrep_44086c93:
 
     # "You take careful aim and then ram your cock in."
-    "You take careful aim and then ram your cock in."
+    "Tu vises bien et tu enfonces ta queue."
 
 # game/Kitty_Sex.rpy:1373
 translate french Kitty_SexPrep_a894376a:
@@ -1228,13 +1228,13 @@ translate french Kitty_SexPrep_6ea04272:
 translate french Kitty_Sex_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Kitty_Sex.rpy:1433
 translate french Kitty_Sex_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Kitty_Sex.rpy:1446
 translate french Kitty_Sex_Cycle_dbab1d12:
@@ -1264,7 +1264,7 @@ translate french Kitty_Sex_Cycle_2c55fb6c:
 translate french Kitty_Sex_Cycle_fde2c318:
 
     # "She's emptied you out, you'll need to take a break."
-    "She's emptied you out, you'll need to take a break."
+    "Elle t'a vidé, tu dois faire une pause."
 
 # game/Kitty_Sex.rpy:1573
 translate french Kitty_Sex_Cycle_406a6c62:
@@ -1288,7 +1288,7 @@ translate french Kitty_Sex_Cycle_054b65ff_1:
 translate french Kitty_Sex_Cycle_2b6aeff2:
 
     # ch_k "So are we[KittyX.like]getting close here?"
-    ch_k "So are we[KittyX.like]getting close here?"
+    ch_k "Alors, tu penses[KittyX.like]en finir ici ?"
 
 # game/Kitty_Sex.rpy:1599
 translate french Kitty_Sex_Cycle_7694641f:
@@ -1300,7 +1300,7 @@ translate french Kitty_Sex_Cycle_7694641f:
 translate french Kitty_Sex_Cycle_81e01235:
 
     # ch_k "Can we. . . do something. . . else?" nointeract
-    ch_k "Can we. . . do something. . . else?" nointeract
+    ch_k "Pouvons-nous... faire quelque chose... d'autre ?" nointeract
 
 # game/Kitty_Sex.rpy:1607
 translate french Kitty_Sex_Cycle_b032f1d0_1:
@@ -1312,37 +1312,37 @@ translate french Kitty_Sex_Cycle_b032f1d0_1:
 translate french Kitty_Sex_Cycle_30a09b2a:
 
     # "She grumbles but keeps moving."
-    "She grumbles but keeps moving."
+    "Elle grogne mais continue de bouger."
 
 # game/Kitty_Sex.rpy:1626
 translate french Kitty_Sex_Cycle_9131df8d:
 
     # "She scowls at you and pulls out."
-    "She scowls at you and pulls out."
+    "Elle fronce les sourcils et se retire."
 
 # game/Kitty_Sex.rpy:1627
 translate french Kitty_Sex_Cycle_cf685aa4:
 
     # ch_k "Not with that attitude, mister!"
-    ch_k "Not with that attitude, mister!"
+    ch_k "Pas avec cette attitude, monsieur !"
 
 # game/Kitty_Sex.rpy:1640
 translate french Kitty_Sex_Cycle_7155c402:
 
     # ch_k "You might want to wrap this up, it's getting late."
-    ch_k "You might want to wrap this up, it's getting late."
+    ch_k "Tu veux peut-être conclure, c'est tard."
 
 # game/Kitty_Sex.rpy:1642
 translate french Kitty_Sex_Cycle_c8d11aa8:
 
     # ch_k "Seriously, it'll be time to stop soon."
-    ch_k "Seriously, it'll be time to stop soon."
+    ch_k "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Kitty_Sex.rpy:1647
 translate french Kitty_Sex_Cycle_fbae7fbe:
 
     # ch_k "Ok, [KittyX.Petname], that's enough of that for now."
-    ch_k "Ok, [KittyX.Petname], that's enough of that for now."
+    ch_k "Ok, [KittyX.Petname], ça suffit pour l'instant."
 
 # game/Kitty_Sex.rpy:1675
 translate french Kitty_SexAfter_02966d32:
@@ -1378,43 +1378,43 @@ translate french Kitty_SexAfter_6201c59a:
 translate french Kitty_Sex_A_e73c196b:
 
     # "You press [KittyX.Name] down onto her back, sliding her skirt up as you go."
-    "You press [KittyX.Name] down onto her back, sliding her skirt up as you go."
+    "Tu pousses [KittyX.Name] sur son dos, en faisant remonter sa jupe."
 
 # game/Kitty_Sex.rpy:1756
 translate french Kitty_Sex_A_5ea582fc:
 
     # "You press [KittyX.Name] down onto her back, sliding her pants down as you do."
-    "You press [KittyX.Name] down onto her back, sliding her pants down as you do."
+    "Tu pousses sur [KittyX.Name] sur son dos, en faisant glisser son pantalon."
 
 # game/Kitty_Sex.rpy:1759
 translate french Kitty_Sex_A_57e879c2:
 
     # "You press [KittyX.Name] down onto her back, sliding her shorts down as you do."
-    "You press [KittyX.Name] down onto her back, sliding her shorts down as you do."
+    "Tu pousses [KittyX.Name] sur son dos, en faisant glisser son short."
 
 # game/Kitty_Sex.rpy:1762
 translate french Kitty_Sex_A_e4920098:
 
     # "You press [KittyX.Name] down onto her back."
-    "You press [KittyX.Name] down onto her back."
+    "Tu mets [KittyX.Name] sur son dos."
 
 # game/Kitty_Sex.rpy:1764
 translate french Kitty_Sex_A_22b725fe:
 
     # "You press the tip of your cock against her tight rim."
-    "You press the tip of your cock against her tight rim."
+    "Tu appuies le bout de ta queue contre sa fente serrée."
 
 # game/Kitty_Sex.rpy:1773
 translate french Kitty_Sex_A_16a54dfe:
 
     # "[KittyX.Name] is briefly startled, but melts into a sly smile."
-    "[KittyX.Name] is briefly startled, but melts into a sly smile."
+    "[KittyX.Name] est brièvement effrayée, mais se fond dans un sourire sournois."
 
 # game/Kitty_Sex.rpy:1774
 translate french Kitty_Sex_A_9696c840:
 
     # ch_k "Hmm, stick it in. . ."
-    ch_k "Hmm, stick it in. . ."
+    ch_k "Hmm, mets-la dedans.."
 
 # game/Kitty_Sex.rpy:1776
 translate french Kitty_Sex_A_85703d96:
@@ -1444,31 +1444,31 @@ translate french Kitty_Sex_A_bdbe3ae0:
 translate french Kitty_Sex_A_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Kitty_Sex.rpy:1796
 translate french Kitty_Sex_A_5af33a39:
 
     # ch_k "Maybe you could[KittyX.like]warn me?"
-    ch_k "Maybe you could[KittyX.like]warn me?"
+    ch_k "Peut-être pourrais-tu[KittyX.like]me prévenir ?"
 
 # game/Kitty_Sex.rpy:1798
 translate french Kitty_Sex_A_480326f7:
 
     # ch_k "Maybe you could[KittyX.like]warn me? I don't know that I'm[KittyX.like]ready for that sort of thing. . ."
-    ch_k "Maybe you could[KittyX.like]warn me? I don't know that I'm[KittyX.like]ready for that sort of thing. . ."
+    ch_k "Peut-être pourrais-tu [KittyX.like]me prévenir ? Je ne sais pas si je suis[KittyX.like]prête pour ce genre de choses.."
 
 # game/Kitty_Sex.rpy:1802
 translate french Kitty_Sex_A_1b1ec0ae:
 
     # "You press into her."
-    "You press into her."
+    "Tu t'enfonces en elle."
 
 # game/Kitty_Sex.rpy:1807
 translate french Kitty_Sex_A_bfe88cbe:
 
     # "[KittyX.Name] shoves you away and slaps you in the face."
-    "[KittyX.Name] shoves you away and slaps you in the face."
+    "[KittyX.Name] te pousse et te gifle le visage."
 
 # game/Kitty_Sex.rpy:1808
 translate french Kitty_Sex_A_a0592eaa:
@@ -1486,7 +1486,7 @@ translate french Kitty_Sex_A_ca3f0ca8:
 translate french Kitty_Sex_A_19bcf1e9:
 
     # "[KittyX.Name] doesn't seem to be into this, you're lucky she's so obedient."
-    "[KittyX.Name] doesn't seem to be into this, you're lucky she's so obedient."
+    "[KittyX.Name] ne semble pas s'y intéresser, tu as de la chance qu'elle soit si obéissante."
 
 # game/Kitty_Sex.rpy:1830
 translate french Kitty_Sex_A_6680a62f:
@@ -1510,7 +1510,7 @@ translate french Kitty_Sex_A_5b57cdbf:
 translate french Kitty_Sex_A_4a6b5522:
 
     # ch_k "Again? K."
-    ch_k "Encore ? K."
+    ch_k "Encore ? D'ac."
 
 # game/Kitty_Sex.rpy:1856
 translate french Kitty_Sex_A_b2b6bd5e:
@@ -1588,25 +1588,25 @@ translate french Kitty_Sex_A_afcc391f_2:
 translate french Kitty_Sex_A_6ab1f3ea:
 
     # ch_k "I{i}just{/i}[KittyX.like]told you \"no!\""
-    ch_k "I{i}just{/i}[KittyX.like]told you \"no!\""
+    ch_k "Je viens[KittyX.like]{i}juste{/i} de te dire \"non\" !"
 
 # game/Kitty_Sex.rpy:1932
 translate french Kitty_Sex_A_a12d4fe4:
 
     # ch_k "I already told you. . .not in public!"
-    ch_k "I already told you. . .not in public!"
+    ch_k "Je te l'ai déjà dit....pas en public !"
 
 # game/Kitty_Sex.rpy:1934
 translate french Kitty_Sex_A_59c638e5:
 
     # ch_k "I already[KittyX.like]told you \"no.\""
-    ch_k "I already[KittyX.like]told you \"no.\""
+    ch_k "Je t'ai déjà[KittyX.like]dit \"non.\""
 
 # game/Kitty_Sex.rpy:1936
 translate french Kitty_Sex_A_cb5571e5:
 
     # ch_k "I already told you this is too public!"
-    ch_k "I already told you this is too public!"
+    ch_k "Je t'ai déjà dit que c'est trop public !"
 
 # game/Kitty_Sex.rpy:1939
 translate french Kitty_Sex_A_b8033065:
@@ -1624,7 +1624,7 @@ translate french Kitty_Sex_A_82ee81b4:
 translate french Kitty_Sex_A_2834199a:
 
     # ch_k "Maybe[KittyX.like]not right now? . ."
-    ch_k "Maybe[KittyX.like]not right now? . ."
+    ch_k "Peut-être[KittyX.like]pas maintenant ?.."
 
 # game/Kitty_Sex.rpy:1950
 translate french Kitty_Sex_A_85c6ed23:
@@ -1636,7 +1636,7 @@ translate french Kitty_Sex_A_85c6ed23:
 translate french Kitty_Sex_A_e4ffc7bd:
 
     # ch_k "Maybe, you never know."
-    ch_k "Maybe, you never know."
+    ch_k "Peut-être, on ne sait jamais."
 
 # game/Kitty_Sex.rpy:1973
 translate french Kitty_Sex_A_afcc391f_3:
@@ -1648,19 +1648,19 @@ translate french Kitty_Sex_A_afcc391f_3:
 translate french Kitty_Sex_A_11d0f2f0:
 
     # ch_k "Well! . . ok, fine, stick it in."
-    ch_k "Well! . . ok, fine, stick it in."
+    ch_k "Eh bien.. ok, très bien, rentre-la dedans."
 
 # game/Kitty_Sex.rpy:1999
 translate french Kitty_Sex_A_d3d6527d:
 
     # ch_k "Maybe[KittyX.like]take \"no\" for an answer?"
-    ch_k "Maybe[KittyX.like]take \"no\" for an answer?"
+    ch_k "Peut-être [KittyX.like]accepter mon refus ?"
 
 # game/Kitty_Sex.rpy:2004
 translate french Kitty_Sex_A_3b78ea7a:
 
     # ch_k "That's a bit much, even for you."
-    ch_k "That's a bit much, even for you."
+    ch_k "C'est un peu trop, même pour toi."
 
 # game/Kitty_Sex.rpy:2016
 translate french Kitty_Sex_A_cd023a48:
@@ -1690,25 +1690,25 @@ translate french Kitty_Sex_A_c6b640e4:
 translate french Kitty_AnalPrep_c3610c41:
 
     # "[KittyX.Name] rolls back and pulls you toward her, sliding her skirt up as she does so."
-    "[KittyX.Name] rolls back and pulls you toward her, sliding her skirt up as she does so."
+    "[KittyX.Name] se retourne et te tire vers elle, en faisant remonter sa jupe."
 
 # game/Kitty_Sex.rpy:2045
 translate french Kitty_AnalPrep_aa000349:
 
     # "[KittyX.Name] rolls back and pulls you against her, sliding her pants off as she does so."
-    "[KittyX.Name] rolls back and pulls you against her, sliding her pants off as she does so."
+    "[KittyX.Name] se retourne et te tire contre elle, faisant glisser son pantalon pendant qu'elle le fait."
 
 # game/Kitty_Sex.rpy:2048
 translate french Kitty_AnalPrep_a9abdd0f:
 
     # "[KittyX.Name] rolls onto her back and pulls you against her, sliding her shorts off as she does so."
-    "[KittyX.Name] rolls onto her back and pulls you against her, sliding her shorts off as she does so."
+    "[KittyX.Name] se roule sur son dos et te tire contre elle, en faisant glisser son short."
 
 # game/Kitty_Sex.rpy:2051
 translate french Kitty_AnalPrep_75d6f2a6:
 
     # "[KittyX.Name] rolls back and pulls you toward her."
-    "[KittyX.Name] rolls back and pulls you toward her."
+    "[KittyX.Name] se retourne et te tire vers elle."
 
 # game/Kitty_Sex.rpy:2053
 translate french Kitty_AnalPrep_626f939b:
@@ -1720,25 +1720,25 @@ translate french Kitty_AnalPrep_626f939b:
 translate french Kitty_AnalPrep_89bdb9f2:
 
     # "[KittyX.Name] slides it in."
-    "[KittyX.Name] slides it in."
+    "[KittyX.Name] le fait glisser."
 
 # game/Kitty_Sex.rpy:2063
 translate french Kitty_AnalPrep_66ac8d2e:
 
     # ch_p "Oh yeah, [KittyX.Pet], let's do this."
-    ch_p "Oh yeah, [KittyX.Pet], let's do this."
+    ch_p "Oh ouais, [KittyX.Pet], allons-y."
 
 # game/Kitty_Sex.rpy:2065
 translate french Kitty_AnalPrep_89bdb9f2_1:
 
     # "[KittyX.Name] slides it in."
-    "[KittyX.Name] slides it in."
+    "[KittyX.Name] le fait glisser."
 
 # game/Kitty_Sex.rpy:2072
 translate french Kitty_AnalPrep_5512fda4:
 
     # ch_p "Let's not do that right now, [KittyX.Pet]."
-    ch_p "Let's not do that right now, [KittyX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [KittyX.Pet]."
 
 # game/Kitty_Sex.rpy:2074
 translate french Kitty_AnalPrep_c22a574d:
@@ -1750,61 +1750,61 @@ translate french Kitty_AnalPrep_c22a574d:
 translate french Kitty_AnalPrep_1bbee0f2:
 
     # ch_k "We can't exactly do much like this, huh."
-    ch_k "We can't exactly do much like this, huh."
+    ch_k "On ne peut pas faire grand-chose comme ça, hein."
 
 # game/Kitty_Sex.rpy:2090
 translate french Kitty_AnalPrep_5ee175a6:
 
     # "She quickly drops her pants and her [KittyX.Panties]."
-    "She quickly drops her pants and her [KittyX.Panties]."
+    "Elle baisse rapidement son pantalon et sa [KittyX.Panties]."
 
 # game/Kitty_Sex.rpy:2092
 translate french Kitty_AnalPrep_ef0ecf10:
 
     # "She quickly drops her shorts and her [KittyX.Panties]."
-    "She quickly drops her shorts and her [KittyX.Panties]."
+    "Elle laisse rapidement tomber son short et sa [KittyX.Panties]."
 
 # game/Kitty_Sex.rpy:2094
 translate french Kitty_AnalPrep_2db1c313:
 
     # "She shrugs and her pants drop through her, exposing her bare pussy."
-    "She shrugs and her pants drop through her, exposing her bare pussy."
+    "Elle hausse les épaules et son pantalon la traverse, exposant sa chatte nue."
 
 # game/Kitty_Sex.rpy:2096
 translate french Kitty_AnalPrep_728ec1fe:
 
     # "She shrugs and her shorts drop through her, exposing her bare pussy."
-    "She shrugs and her shorts drop through her, exposing her bare pussy."
+    "Elle hausse les épaules et son short la traverse, exposant sa chatte nue."
 
 # game/Kitty_Sex.rpy:2098
 translate french Kitty_AnalPrep_2386b9de:
 
     # "She shrugs and her [KittyX.Hose] and [KittyX.Panties] fall to the ground."
-    "She shrugs and her [KittyX.Hose] and [KittyX.Panties] fall to the ground."
+    "Elle hausse les épaules et ses [KittyX.Hose] et [KittyX.Panties] tombent par terre."
 
 # game/Kitty_Sex.rpy:2101
 translate french Kitty_AnalPrep_f399a3e4:
 
     # "She shrugs and her [KittyX.Hose] fall to the ground."
-    "She shrugs and her [KittyX.Hose] fall to the ground."
+    "Elle hausse les épaules et son [KittyX.Hose] tombe par terre."
 
 # game/Kitty_Sex.rpy:2104
 translate french Kitty_AnalPrep_4a3540f8:
 
     # "She shrugs as her [KittyX.Panties] fall to the ground."
-    "She shrugs as her [KittyX.Panties] fall to the ground."
+    "Elle hausse les épaules alors que sa [KittyX.Panties] tombe par terre."
 
 # game/Kitty_Sex.rpy:2113
 translate french Kitty_AnalPrep_5d1a9406:
 
     # "[KittyX.Name] glances around to see if anyone notices what she's doing, then presses firmly against your cock."
-    "[KittyX.Name] glances around to see if anyone notices what she's doing, then presses firmly against your cock."
+    "[KittyX.Name] jette un coup d'œil pour voir si quelqu'un remarque ce qu'elle fait, puis appuie fermement sur ta bite."
 
 # game/Kitty_Sex.rpy:2114
 translate french Kitty_AnalPrep_5eee0c5d:
 
     # "You guide your cock into place and ram it home."
-    "You guide your cock into place and ram it home."
+    "Tu guides ta bite en place et l'enfonces au fond."
 
 # game/Kitty_Sex.rpy:2117
 translate french Kitty_AnalPrep_4b9693f8:
@@ -1816,49 +1816,49 @@ translate french Kitty_AnalPrep_4b9693f8:
 translate french Kitty_AnalPrep_82bea255:
 
     # "[KittyX.Name] slowly presses against your rigid member."
-    "[KittyX.Name] slowly presses against your rigid member."
+    "[KittyX.Name] appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:2121
 translate french Kitty_AnalPrep_ecbb00a1:
 
     # "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
-    "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
+    "[KittyX.Name] baisse ton pantalon avec hésitation et appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:2122
 translate french Kitty_AnalPrep_1cb34b7f:
 
     # "You guide it into place and slide it in."
-    "You guide it into place and slide it in."
+    "Tu le guides et le glisse en place."
 
 # game/Kitty_Sex.rpy:2127
 translate french Kitty_AnalPrep_192bde65:
 
     # "[KittyX.Name] leans back and presses against you suggestively."
-    "[KittyX.Name] leans back and presses against you suggestively."
+    "[KittyX.Name] se penche en arrière et se presse contre toi de manière suggestive."
 
 # game/Kitty_Sex.rpy:2128
 translate french Kitty_AnalPrep_6c02a833:
 
     # "You take careful aim and then push your cock in."
-    "You take careful aim and then push your cock in."
+    "Tu vises bien et tu enfonces ta bite."
 
 # game/Kitty_Sex.rpy:2131
 translate french Kitty_AnalPrep_82bea255_1:
 
     # "[KittyX.Name] slowly presses against your rigid member."
-    "[KittyX.Name] slowly presses against your rigid member."
+    "[KittyX.Name] appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:2133
 translate french Kitty_AnalPrep_aca3fa76:
 
     # "[KittyX.Name] hesitantly pulls down your pants slowly presses against your rigid member."
-    "[KittyX.Name] hesitantly pulls down your pants slowly presses against your rigid member."
+    "[KittyX.Name] baisse avec hésitation son pantalon et presse lentement contre son membre rigide."
 
 # game/Kitty_Sex.rpy:2134
 translate french Kitty_AnalPrep_273c5cba:
 
     # "You press against her rim and nudge your cock in."
-    "You press against her rim and nudge your cock in."
+    "Tu te presses contre sa raie et tu lui enfonces ta bite."
 
 # game/Kitty_Sex.rpy:2138
 translate french Kitty_AnalPrep_d6111fb2:
@@ -1876,13 +1876,13 @@ translate french Kitty_AnalPrep_e9fc689c:
 translate french Kitty_Anal_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Kitty_Sex.rpy:2204
 translate french Kitty_Anal_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Kitty_Sex.rpy:2217
 translate french Kitty_Anal_Cycle_dbab1d12:
@@ -1912,7 +1912,7 @@ translate french Kitty_Anal_Cycle_2c55fb6c:
 translate french Kitty_Anal_Cycle_fde2c318:
 
     # "She's emptied you out, you'll need to take a break."
-    "She's emptied you out, you'll need to take a break."
+    "Elle t'a vidé, tu dois faire une pause."
 
 # game/Kitty_Sex.rpy:2344
 translate french Kitty_Anal_Cycle_406a6c62:
@@ -1936,7 +1936,7 @@ translate french Kitty_Anal_Cycle_054b65ff_1:
 translate french Kitty_Anal_Cycle_2b6aeff2:
 
     # ch_k "So are we[KittyX.like]getting close here?"
-    ch_k "So are we[KittyX.like]getting close here?"
+    ch_k "Alors, tu penses[KittyX.like]en finir ici ?"
 
 # game/Kitty_Sex.rpy:2370
 translate french Kitty_Anal_Cycle_4a3746d0:
@@ -1954,7 +1954,7 @@ translate french Kitty_Anal_Cycle_7775a8fe:
 translate french Kitty_Anal_Cycle_81e01235:
 
     # ch_k "Can we. . . do something. . . else?" nointeract
-    ch_k "Can we. . . do something. . . else?" nointeract
+    ch_k "Pouvons-nous... faire quelque chose... d'autre ?" nointeract
 
 # game/Kitty_Sex.rpy:2382
 translate french Kitty_Anal_Cycle_13d27f31:
@@ -1972,37 +1972,37 @@ translate french Kitty_Anal_Cycle_b032f1d0_1:
 translate french Kitty_Anal_Cycle_30a09b2a:
 
     # "She grumbles but keeps moving."
-    "She grumbles but keeps moving."
+    "Elle grogne mais continue de bouger."
 
 # game/Kitty_Sex.rpy:2410
 translate french Kitty_Anal_Cycle_9131df8d:
 
     # "She scowls at you and pulls out."
-    "She scowls at you and pulls out."
+    "Elle fronce les sourcils et se retire."
 
 # game/Kitty_Sex.rpy:2411
 translate french Kitty_Anal_Cycle_cf685aa4:
 
     # ch_k "Not with that attitude, mister!"
-    ch_k "Not with that attitude, mister!"
+    ch_k "Pas avec cette attitude, monsieur !"
 
 # game/Kitty_Sex.rpy:2422
 translate french Kitty_Anal_Cycle_7155c402:
 
     # ch_k "You might want to wrap this up, it's getting late."
-    ch_k "You might want to wrap this up, it's getting late."
+    ch_k "Tu veux peut-être conclure, c'est tard."
 
 # game/Kitty_Sex.rpy:2424
 translate french Kitty_Anal_Cycle_c8d11aa8:
 
     # ch_k "Seriously, it'll be time to stop soon."
-    ch_k "Seriously, it'll be time to stop soon."
+    ch_k "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Kitty_Sex.rpy:2429
 translate french Kitty_Anal_Cycle_fbae7fbe:
 
     # ch_k "Ok, [KittyX.Petname], that's enough of that for now."
-    ch_k "Ok, [KittyX.Petname], that's enough of that for now."
+    ch_k "Ok, [KittyX.Petname], ça suffit pour l'instant."
 
 # game/Kitty_Sex.rpy:2460
 translate french Kitty_AnalAfter_cf2164a5:
@@ -2020,7 +2020,7 @@ translate french Kitty_AnalAfter_c88731d7:
 translate french Kitty_AnalAfter_b8ac15ee:
 
     # ch_k "Ouch."
-    ch_k "Ouch."
+    ch_k "Aïe."
 
 # game/Kitty_Sex.rpy:2469
 translate french Kitty_AnalAfter_be1cb5fe:
@@ -2038,7 +2038,7 @@ translate french Kitty_AnalAfter_d5583157:
 translate french Kitty_AnalAfter_47768ada:
 
     # ch_k "Hmm, you seemed to get more out of that than me. . ."
-    ch_k "Hmm, you seemed to get more out of that than me. . ."
+    ch_k "Hmm, tu sembles plus prendre ton pied que moi..."
 
 # game/Kitty_Sex.rpy:2525
 translate french Kitty_Sex_H_96ee4e82:
@@ -2050,13 +2050,13 @@ translate french Kitty_Sex_H_96ee4e82:
 translate french Kitty_Sex_H_16a54dfe:
 
     # "[KittyX.Name] is briefly startled, but melts into a sly smile."
-    "[KittyX.Name] is briefly startled, but melts into a sly smile."
+    "[KittyX.Name] est brièvement effrayée, mais se fond dans un sourire sournois."
 
 # game/Kitty_Sex.rpy:2534
 translate french Kitty_Sex_H_c8309651:
 
     # ch_k "Hmm, I've apparently got someone's attention. . ."
-    ch_k "Hmm, I've apparently got someone's attention. . ."
+    ch_k "Hmm, j'ai apparemment l'attention de quelqu'un..."
 
 # game/Kitty_Sex.rpy:2538
 translate french Kitty_Sex_H_ad100060:
@@ -2068,13 +2068,13 @@ translate french Kitty_Sex_H_ad100060:
 translate french Kitty_Sex_H_d0773945:
 
     # ch_k "I guess it doesn't feel so bad. . ."
-    ch_k "I guess it doesn't feel so bad. . ."
+    ch_k "Je suppose que ça ne fait pas si mal..."
 
 # game/Kitty_Sex.rpy:2548
 translate french Kitty_Sex_H_6ebc0005:
 
     # "You pull back from her."
-    "You pull back from her."
+    "Tu te retires."
 
 # game/Kitty_Sex.rpy:2550
 translate french Kitty_Sex_H_e3444fc0:
@@ -2086,7 +2086,7 @@ translate french Kitty_Sex_H_e3444fc0:
 translate french Kitty_Sex_H_e107f743:
 
     # "You grind against her crotch."
-    "You grind against her crotch."
+    "Tu te frottes contre son entrejambe."
 
 # game/Kitty_Sex.rpy:2559
 translate french Kitty_Sex_H_9004a157:
@@ -2104,7 +2104,7 @@ translate french Kitty_Sex_H_b5cb24c5:
 translate french Kitty_Sex_H_8f5a16a1:
 
     # ch_k "I'm not into that!"
-    ch_k "I'm not into that!"
+    ch_k "Ce n'est pas mon truc !"
 
 # game/Kitty_Sex.rpy:2572
 translate french Kitty_Sex_H_b377ed1e:
@@ -2158,7 +2158,7 @@ translate french Kitty_Sex_H_3765ecaf:
 translate french Kitty_Sex_H_696a6ef2:
 
     # ch_k "I guess this is a better location . ."
-    ch_k "I guess this is a better location . ."
+    ch_k "Je suppose que c'est un meilleur endroit..."
 
 # game/Kitty_Sex.rpy:2622
 translate french Kitty_Sex_H_0096e16d:
@@ -2188,7 +2188,7 @@ translate french Kitty_Sex_H_2b19c7ad:
 translate french Kitty_Sex_H_2d25ba6a:
 
     # ch_k "Well, I guess it's not so bad. . ."
-    ch_k "Well, I guess it's not so bad. . ."
+    ch_k "Eh bien, je suppose que ce n'est pas si mal..."
 
 # game/Kitty_Sex.rpy:2660
 translate french Kitty_Sex_H_afcc391f_2:
@@ -2200,7 +2200,7 @@ translate french Kitty_Sex_H_afcc391f_2:
 translate french Kitty_Sex_H_6ab1f3ea:
 
     # ch_k "I{i}just{/i}[KittyX.like]told you \"no!\""
-    ch_k "I{i}just{/i}[KittyX.like]told you \"no!\""
+    ch_k "Je viens[KittyX.like]{i}juste{/i} de te dire \"non\" !"
 
 # game/Kitty_Sex.rpy:2672
 translate french Kitty_Sex_H_c330eea7:
@@ -2254,13 +2254,13 @@ translate french Kitty_Sex_H_afcc391f_3:
 translate french Kitty_Sex_H_24431702:
 
     # ch_k "Ok, fine. Whatever."
-    ch_k "Ok, fine. Whatever."
+    ch_k "Ok, très bien. Peu importe."
 
 # game/Kitty_Sex.rpy:2734
 translate french Kitty_Sex_H_8cec8d19:
 
     # ch_k "I'm just not into that."
-    ch_k "I'm just not into that."
+    ch_k "J'aime juste pas ça."
 
 # game/Kitty_Sex.rpy:2739
 translate french Kitty_Sex_H_a7a1d58b:
@@ -2296,25 +2296,25 @@ translate french Kitty_HotdogPrep_21154d94:
 translate french Kitty_HotdogPrep_690c10a0:
 
     # "[KittyX.Name] keeps grinding."
-    "[KittyX.Name] keeps grinding."
+    "[KittyX.Name] continue de se frotter contre toi."
 
 # game/Kitty_Sex.rpy:2782
 translate french Kitty_HotdogPrep_66ac8d2e:
 
     # ch_p "Oh yeah, [KittyX.Pet], let's do this."
-    ch_p "Oh yeah, [KittyX.Pet], let's do this."
+    ch_p "Oh ouais, [KittyX.Pet], allons-y."
 
 # game/Kitty_Sex.rpy:2784
 translate french Kitty_HotdogPrep_690c10a0_1:
 
     # "[KittyX.Name] keeps grinding."
-    "[KittyX.Name] keeps grinding."
+    "[KittyX.Name] continue de se frotter contre toi."
 
 # game/Kitty_Sex.rpy:2791
 translate french Kitty_HotdogPrep_5512fda4:
 
     # ch_p "Let's not do that right now, [KittyX.Pet]."
-    ch_p "Let's not do that right now, [KittyX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [KittyX.Pet]."
 
 # game/Kitty_Sex.rpy:2793
 translate french Kitty_HotdogPrep_c22a574d:
@@ -2326,37 +2326,37 @@ translate french Kitty_HotdogPrep_c22a574d:
 translate french Kitty_HotdogPrep_5d1a9406:
 
     # "[KittyX.Name] glances around to see if anyone notices what she's doing, then presses firmly against your cock."
-    "[KittyX.Name] glances around to see if anyone notices what she's doing, then presses firmly against your cock."
+    "[KittyX.Name] jette un coup d'œil pour voir si quelqu'un remarque ce qu'elle fait, puis appuie fermement sur ta bite."
 
 # game/Kitty_Sex.rpy:2808
 translate french Kitty_HotdogPrep_a6cba7ff:
 
     # "[KittyX.Name] glances around for voyeurs. . ."
-    "[KittyX.Name] glances around for voyeurs. . ."
+    "[KittyX.Name] regarde s'il y a des voyeurs..."
 
 # game/Kitty_Sex.rpy:2810
 translate french Kitty_HotdogPrep_82bea255:
 
     # "[KittyX.Name] slowly presses against your rigid member."
-    "[KittyX.Name] slowly presses against your rigid member."
+    "[KittyX.Name] appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:2812
 translate french Kitty_HotdogPrep_ecbb00a1:
 
     # "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
-    "[KittyX.Name] hesitantly pulls down your pants and slowly presses against your rigid member."
+    "[KittyX.Name] baisse ton pantalon avec hésitation et appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:2817
 translate french Kitty_HotdogPrep_82bea255_1:
 
     # "[KittyX.Name] slowly presses against your rigid member."
-    "[KittyX.Name] slowly presses against your rigid member."
+    "[KittyX.Name] appuie lentement sur ton membre rigide."
 
 # game/Kitty_Sex.rpy:2819
 translate french Kitty_HotdogPrep_aca3fa76:
 
     # "[KittyX.Name] hesitantly pulls down your pants slowly presses against your rigid member."
-    "[KittyX.Name] hesitantly pulls down your pants slowly presses against your rigid member."
+    "[KittyX.Name] baisse avec hésitation son pantalon et presse lentement contre son membre rigide."
 
 # game/Kitty_Sex.rpy:2822
 translate french Kitty_HotdogPrep_5e60bd3f:
@@ -2368,13 +2368,13 @@ translate french Kitty_HotdogPrep_5e60bd3f:
 translate french Kitty_Hotdog_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Kitty_Sex.rpy:2874
 translate french Kitty_Hotdog_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Kitty_Sex.rpy:2887
 translate french Kitty_Hotdog_Cycle_dbab1d12:
@@ -2404,7 +2404,7 @@ translate french Kitty_Hotdog_Cycle_2c55fb6c:
 translate french Kitty_Hotdog_Cycle_fde2c318:
 
     # "She's emptied you out, you'll need to take a break."
-    "She's emptied you out, you'll need to take a break."
+    "Elle t'a vidé, tu dois faire une pause."
 
 # game/Kitty_Sex.rpy:3018
 translate french Kitty_Hotdog_Cycle_406a6c62:
@@ -2428,7 +2428,7 @@ translate french Kitty_Hotdog_Cycle_054b65ff_1:
 translate french Kitty_Hotdog_Cycle_1525b176:
 
     # ch_k "Are you getting close here?"
-    ch_k "Are you getting close here?"
+    ch_k "Tu penses finir ?"
 
 # game/Kitty_Sex.rpy:3044
 translate french Kitty_Hotdog_Cycle_bb099f31:
@@ -2446,37 +2446,37 @@ translate french Kitty_Hotdog_Cycle_b032f1d0_1:
 translate french Kitty_Hotdog_Cycle_30a09b2a:
 
     # "She grumbles but keeps moving."
-    "She grumbles but keeps moving."
+    "Elle grogne mais continue de bouger."
 
 # game/Kitty_Sex.rpy:3070
 translate french Kitty_Hotdog_Cycle_5338dce7:
 
     # "She scowls at you and pulls away."
-    "She scowls at you and pulls away."
+    "Elle te regarde de travers et s'éloigne."
 
 # game/Kitty_Sex.rpy:3071
 translate french Kitty_Hotdog_Cycle_cf685aa4:
 
     # ch_k "Not with that attitude, mister!"
-    ch_k "Not with that attitude, mister!"
+    ch_k "Pas avec cette attitude, monsieur !"
 
 # game/Kitty_Sex.rpy:3084
 translate french Kitty_Hotdog_Cycle_7155c402:
 
     # ch_k "You might want to wrap this up, it's getting late."
-    ch_k "You might want to wrap this up, it's getting late."
+    ch_k "Tu veux peut-être conclure, c'est tard."
 
 # game/Kitty_Sex.rpy:3086
 translate french Kitty_Hotdog_Cycle_c8d11aa8:
 
     # ch_k "Seriously, it'll be time to stop soon."
-    ch_k "Seriously, it'll be time to stop soon."
+    ch_k "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Kitty_Sex.rpy:3091
 translate french Kitty_Hotdog_Cycle_fbae7fbe:
 
     # ch_k "Ok, [KittyX.Petname], that's enough of that for now."
-    ch_k "Ok, [KittyX.Petname], that's enough of that for now."
+    ch_k "Ok, [KittyX.Petname], ça suffit pour l'instant."
 
 # game/Kitty_Sex.rpy:3117
 translate french Kitty_HotdogAfter_137980fc:
@@ -2522,7 +2522,7 @@ translate french strings:
 
     # game/Kitty_Sex.rpy:490
     old "You really like to watch."
-    new "You really like to watch."
+    new "Tu aimes vraiment regarder."
 
     # game/Kitty_Sex.rpy:490
     old "Again?"
@@ -2530,11 +2530,11 @@ translate french strings:
 
     # game/Kitty_Sex.rpy:490
     old "You like to watch me."
-    new "You like to watch me."
+    new "Tu aimes me regarder."
 
     # game/Kitty_Sex.rpy:490
     old "You want me to get myself off?"
-    new "You want me to get myself off?"
+    new "Tu veux que je jouisse toute seule ?"
 
     # game/Kitty_Sex.rpy:509
     old "Huh. Ok."
@@ -2566,7 +2566,7 @@ translate french strings:
 
     # game/Kitty_Sex.rpy:884
     old "A while back."
-    new "A while back."
+    new "Il y a un certain temps."
 
     # game/Kitty_Sex.rpy:1124
     old "You can't stay away from this. . ."
@@ -2611,4 +2611,8 @@ translate french strings:
     # game/Kitty_Sex.rpy:2705
     old "Well, sure, ok."
     new "Bon, d'accord."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

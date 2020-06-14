@@ -118,7 +118,7 @@ translate french GirlsAngry_92f399cf:
 translate french GirlsAngry_2b7db446:
 
     # ". . . and so does [BO[0].Name]."
-    ". . . and so does [BO[0].Name]."
+    ".... et [BO[0].Name] aussi."
 
 # game/script Girls.rpy:2050
 translate french GirlsAngry_fe9d5280:
@@ -406,7 +406,7 @@ translate french Private_Outfit_45253348:
 translate french Private_Outfit_aed823d2:
 
     # ch_e "I'll be just a moment. . ."
-    ch_e "I'll be just a moment. . ."
+    ch_e "J'en ai pour un instant..."
 
 # game/script Girls.rpy:2439
 translate french Private_Outfit_8d46a4a7:
@@ -418,7 +418,7 @@ translate french Private_Outfit_8d46a4a7:
 translate french Private_Outfit_650d70b9:
 
     # ch_l "One minute. . ."
-    ch_l "One minute. . ."
+    ch_l "Une minute...."
 
 # game/script Girls.rpy:2442
 translate french Private_Outfit_d98d54f7:
@@ -466,7 +466,7 @@ translate french Private_Outfit_7e9eecfc:
 translate french Private_Outfit_a95ad9dd:
 
     # ch_k "Hehe. . ."
-    ch_k "Hehe..."
+    ch_k "Héhé..."
 
 # game/script Girls.rpy:2469
 translate french Private_Outfit_9ca96de6:
@@ -478,7 +478,7 @@ translate french Private_Outfit_9ca96de6:
 translate french Private_Outfit_aed823d2_1:
 
     # ch_e "I'll be just a moment. . ."
-    ch_e "I'll be just a moment. . ."
+    ch_e "J'en ai pour un instant..."
 
 # game/script Girls.rpy:2473
 translate french Private_Outfit_88fc32fd:
@@ -502,7 +502,7 @@ translate french Private_Outfit_042c5a1e:
 translate french Private_Outfit_650d70b9_1:
 
     # ch_l "One minute. . ."
-    ch_l "One minute. . ."
+    ch_l "Une minute...."
 
 # game/script Girls.rpy:2485
 translate french Private_Outfit_71fa7fb3:
@@ -514,7 +514,7 @@ translate french Private_Outfit_71fa7fb3:
 translate french Private_Outfit_40f9278f:
 
     # ch_l "Cool. . ."
-    ch_l "Cool. . ."
+    ch_l "Cool..."
 
 # game/script Girls.rpy:2493
 translate french Private_Outfit_28507294:
@@ -574,7 +574,7 @@ translate french Custom_Out_d8cf31e8:
 translate french Custom_Out_f86e40ec:
 
     # ch_r "Come on, I'd be totally nude!"
-    ch_r "Come on, I'd be totally nude!"
+    ch_r "Allons, je serais totalement nue !"
 
 # game/script Girls.rpy:2559
 translate french Custom_Out_0cf15813:
@@ -688,7 +688,7 @@ translate french Custom_Out_3384e5d1:
 translate french Custom_Out_4330a045:
 
     # ch_l "Yeah, ok. . ."
-    ch_l "Yeah, ok. . ."
+    ch_l "Ouais, ok..."
 
 # game/script Girls.rpy:2623
 translate french Custom_Out_8ba35772:
@@ -1216,7 +1216,7 @@ translate french OutfitShame_ad23beeb:
 translate french OutfitShame_ed7146e5:
 
     # ch_l "You'll have to earn it."
-    ch_l "You'll have to earn it."
+    ch_l "Il faudra que tu le mérites."
 
 # game/script Girls.rpy:2991
 translate french OutfitShame_f894933e:
@@ -1498,7 +1498,7 @@ translate french OutfitShame_7f079c3d_1:
 translate french OutfitShame_307dca8c:
 
     # ch_l "I don't see why not."
-    ch_l "I don't see why not."
+    ch_l "Je ne vois aucune raison de refuser."
 
 # game/script Girls.rpy:3146
 translate french OutfitShame_99a7e56e:
@@ -1522,7 +1522,7 @@ translate french OutfitShame_8208735a:
 translate french OutfitShame_6fbb0bb8:
 
     # ch_l "Yeah, I guess."
-    ch_l "Yeah, I guess."
+    ch_l "Ouais, je pense aussi."
 
 # game/script Girls.rpy:3158
 translate french OutfitShame_f9ab34ce:
@@ -1648,7 +1648,7 @@ translate french Top_Off_ad8331cd:
 translate french Top_Off_2115eee2:
 
     # ch_k "No titties for you."
-    ch_k "Pas de nichons pour vous."
+    ch_k "Pas de nichons pour toi."
 
 # game/script Girls.rpy:3421
 translate french Top_Off_63ae200a:
@@ -1912,7 +1912,7 @@ translate french Top_Off_61cbed34:
 translate french Top_Off_ea2739f0:
 
     # ch_r "Changed your mind, [Girl.Petname]?"
-    ch_r "Changed your mind, [Girl.Petname]?"
+    ch_r "Tu as changé d'avis, [Girl.Petname] ?"
 
 # game/script Girls.rpy:3612
 translate french Top_Off_0d1369f2:
@@ -2272,7 +2272,7 @@ translate french Top_Off_60078e6f:
 translate french Top_Off_f783afa7:
 
     # ch_r "Heh, I suppose I can hardly refuse ya when you use the magic words . . ."
-    ch_r "Heh, I suppose I can hardly refuse ya when you use the magic words . . ."
+    ch_r "Héhé, je suppose que je peux difficilement dire non quand tu utilises les mots magiques..."
 
 # game/script Girls.rpy:3806
 translate french Top_Off_4212979a:
@@ -2284,7 +2284,7 @@ translate french Top_Off_4212979a:
 translate french Top_Off_062cd764:
 
     # ch_k "You[Girl.like]know how to ask nicely . . ."
-    ch_k "You[Girl.like]know how to ask nicely . . ."
+    ch_k "Tu sais[Girl.like]comment demander gentiment..."
 
 # game/script Girls.rpy:3811
 translate french Top_Off_82a70375:
@@ -2356,7 +2356,7 @@ translate french Top_Off_Refused_09ea3f0c:
 translate french Top_Off_Refused_e69205e4:
 
     # ch_r "Give it a rest, [Girl.Petname]."
-    ch_r "Give it a rest, [Girl.Petname]."
+    ch_r "Laisse tomber, [Girl.Petname]."
 
 # game/script Girls.rpy:3874
 translate french Top_Off_Refused_b8584f2c:
@@ -2452,7 +2452,7 @@ translate french Top_Off_Refused_042c5a1e:
 translate french Top_Off_Refused_30d7cf5a:
 
     # ch_l "Your funeral."
-    ch_l "Tes funérailles."
+    ch_l "Tu vas morfler."
 
 # game/script Girls.rpy:3948
 translate french ToplessorNothing_54b00746:
@@ -2518,7 +2518,7 @@ translate french ToplessorNothing_9425faef:
 translate french ToplessorNothing_b270572c:
 
     # ch_r "\"Nothing\" it is then."
-    ch_r "\"Nothing\" it is then."
+    ch_r "Alors, c'est \"rien\"."
 
 # game/script Girls.rpy:3985
 translate french ToplessorNothing_056478c5:
@@ -3088,7 +3088,7 @@ translate french Bottoms_Off_Legs_6d30e3eb:
 translate french Bottoms_Off_Legs_2a191f8b:
 
     # "Her [Line] drop to the ground in a heap."
-    "Her [Line] drop to the ground in a heap."
+    "Sa [Line] tombe au sol en tas."
 
 # game/script Girls.rpy:4447
 translate french Bottoms_Off_Legs_31316bb6:
@@ -3118,7 +3118,7 @@ translate french Bottoms_Off_Legs_2508e525:
 translate french Bottoms_Off_Legs_f5297d14:
 
     # ch_k "That's. . . doable. . ."
-    ch_k "That's. . . doable. . ."
+    ch_k "C'est... faisable..."
 
 # game/script Girls.rpy:4470
 translate french Bottoms_Off_Legs_b41438df:
@@ -3550,7 +3550,7 @@ translate french Bottoms_Off_Refused_3106b1e6:
 translate french Bottoms_Off_Refused_c5174c69:
 
     # ch_k "Give it a rest."
-    ch_k "Give it a rest."
+    ch_k "Laisse tomber."
 
 # game/script Girls.rpy:4728
 translate french Bottoms_Off_Refused_7d8f4ef5:
@@ -3598,7 +3598,7 @@ translate french Bottoms_Off_Refused_afb7f6a8:
 translate french Bottoms_Off_Refused_d0e8222b:
 
     # ch_l "No, not today."
-    ch_l "No, not today."
+    ch_l "Non, pas aujourd'hui."
 
 # game/script Girls.rpy:4750
 translate french Bottoms_Off_Refused_8d87a01b:
@@ -3682,19 +3682,19 @@ translate french Rogue_First_TMenu_ff6d9574:
 translate french Rogue_First_TMenu_e9846c29:
 
     # ch_r "Hmph!"
-    ch_r "Hmph!"
+    ch_r "Hmph !"
 
 # game/script Girls.rpy:4841
 translate french Rogue_First_TMenu_a1e5f4da:
 
     # ch_r "Say what now?"
-    ch_r "Say what now?"
+    ch_r "De quoi ?"
 
 # game/script Girls.rpy:4846
 translate french Rogue_First_TMenu_18a14664:
 
     # ch_r "Of couse they are!"
-    ch_r "Of couse they are!"
+    ch_r "Bien sûr qu'ils le sont !"
 
 # game/script Girls.rpy:4858
 translate french Rogue_First_TMenu_ff6d9574_1:
@@ -3712,7 +3712,7 @@ translate french Rogue_First_TMenu_f543a3da:
 translate french Rogue_First_TMenu_66deb627:
 
     # ch_r "I mean, I guess, if you like that kind of thing. . ."
-    ch_r "I mean, I guess, if you like that kind of thing. . ."
+    ch_r "Je veux dire, d'accord, si tu aimes ce genre de choses..."
 
 # game/script Girls.rpy:4877
 translate french Rogue_First_TMenu_e9d5438d:
@@ -3802,7 +3802,7 @@ translate french Kitty_First_TMenu_531bc10f:
 translate french Kitty_First_TMenu_dd2f65cd:
 
     # ch_k "I mean, I guess, if you like that kind of thing. . ."
-    ch_k "I mean, I guess, if you like that kind of thing. . ."
+    ch_k "Je veux dire, d'accord, si tu aimes ce genre de choses..."
 
 # game/script Girls.rpy:5026
 translate french Kitty_First_TMenu_6db28e3f:
@@ -3904,7 +3904,7 @@ translate french Emma_First_TMenu_5fb5ca3b:
 translate french Emma_First_TMenu_3044b415:
 
     # ch_e "Of couse they are!"
-    ch_e "Of couse they are!"
+    ch_e "Bien sûr qu'ils le sont !"
 
 # game/script Girls.rpy:5191
 translate french Emma_First_TMenu_a2055316:
@@ -4096,7 +4096,7 @@ translate french Laura_First_Bottomless_0fd05674:
 translate french Laura_First_BMenu_173b8548:
 
     # ch_l "You think?"
-    ch_l "You think?"
+    ch_l "Tu crois ?"
 
 # game/script Girls.rpy:5474
 translate french Laura_First_BMenu_0b43672f:
@@ -4818,7 +4818,7 @@ translate french strings:
 
     # game/script Girls.rpy:2279
     old "Your jacket and skirt."
-    new "Your jacket and skirt."
+    new "Ta veste et ta jupe."
 
     # game/script Girls.rpy:2279
     old "That outfit we put together [[custom]"
@@ -4982,7 +4982,7 @@ translate french strings:
 
     # game/script Girls.rpy:4151
     old "Heh, what would you like to see? . ."
-    new "Heh, que voulais-tu voir ?.."
+    new "Héhé, que voulais-tu voir ?.."
 
     # game/script Girls.rpy:4153
     old "Ok, maybe, but don't push it. . ."
@@ -5134,15 +5134,15 @@ translate french strings:
 
     # game/script Girls.rpy:5147
     old "Definitely, and more."
-    new "Definitely, and more."
+    new "Certainement, et plus encore."
 
     # game/script Girls.rpy:5147
     old ". . . [[stunned]"
-    new "... [[étonné]"
+    new "...[[étonné]"
 
     # game/script Girls.rpy:5147
     old "Huh, not what I was expecting. . ."
-    new "Huh, not what I was expecting. . ."
+    new "Ce n'est pas ce à quoi je m'attendais..."
 
     # game/script Girls.rpy:5167
     old "They're even better than I imagined!"
@@ -5198,9 +5198,13 @@ translate french strings:
 
     # game/script Girls.rpy:5560
     old "Go ahead"
-    new "Go ahead"
+    new "Vas-y"
 
     # game/script Girls.rpy:5560
     old "No, don't"
     new "No, don't"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

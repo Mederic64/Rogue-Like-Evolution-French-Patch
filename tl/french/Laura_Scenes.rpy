@@ -160,7 +160,7 @@ translate french LauraMeet_004cc4bc:
 translate french LauraMeet_ee9640e0:
 
     # ch_l "Also I have claws."
-    ch_l "Also I have claws."
+    ch_l "J'ai aussi des griffes."
 
 # game/Laura_Scenes.rpy:140
 translate french LauraMeet_d34dd4b9:
@@ -172,13 +172,13 @@ translate french LauraMeet_d34dd4b9:
 translate french LauraMeet_5526efec:
 
     # ch_l "Yeah, indestructible too."
-    ch_l "Yeah, indestructible too."
+    ch_l "Ouais, indestructibles aussi."
 
 # game/Laura_Scenes.rpy:151
 translate french LauraMeet_5526efec_1:
 
     # ch_l "Yeah, indestructible too."
-    ch_l "Yeah, indestructible too."
+    ch_l "Ouais, indestructibles aussi."
 
 # game/Laura_Scenes.rpy:157
 translate french LauraMeet_47a4ed36:
@@ -196,13 +196,13 @@ translate french LauraMeet_61fbe96f:
 translate french LauraMeet_6fbb0bb8:
 
     # ch_l "Yeah, I guess."
-    ch_l "Yeah, I guess."
+    ch_l "Ouais, je pense aussi."
 
 # game/Laura_Scenes.rpy:170
 translate french LauraMeet_5dc3c36f:
 
     # ch_l "Not really."
-    ch_l "Not really."
+    ch_l "Pas vraiment."
 
 # game/Laura_Scenes.rpy:173
 translate french LauraMeet_44fa34c8:
@@ -226,7 +226,7 @@ translate french LauraMeet_03cc2b60:
 translate french LauraMeet_2a1f648e:
 
     # ch_l "Give it a try."
-    ch_l "Give it a try."
+    ch_l "Essayer"
 
 # game/Laura_Scenes.rpy:182
 translate french LauraMeet_3970f73a:
@@ -250,7 +250,7 @@ translate french LauraMeet_393ae9d8:
 translate french LauraMeet_d41818a9:
 
     # ch_l "That feels weird."
-    ch_l "That feels weird."
+    ch_l "C'est bizarre."
 
 # game/Laura_Scenes.rpy:201
 translate french LauraMeet_9b3dac13:
@@ -262,7 +262,7 @@ translate french LauraMeet_9b3dac13:
 translate french LauraMeet_b0f2e304:
 
     # ch_l "Almost. . . dangerous."
-    ch_l "Almost. . . dangerous."
+    ch_l "Presque.... dangereux."
 
 # game/Laura_Scenes.rpy:215
 translate french LauraMeet_ac3b18cc:
@@ -418,7 +418,7 @@ translate french Laura_BF_6a415c9d:
 translate french Laura_BF_02365661:
 
     # ch_l "Fine!"
-    ch_l "Fine!"
+    ch_l "Bien !"
 
 # game/Laura_Scenes.rpy:343
 translate french Laura_BF_f21f9e86:
@@ -496,7 +496,7 @@ translate french Laura_BF_9b8b1ba2:
 translate french Laura_BF_62bbbdd0:
 
     # ch_l ". . . but I'd still like to be a part of your life."
-    ch_l ". . . but I'd still like to be a part of your life."
+    ch_l ".... mais j'aimerais quand même faire partie de ta vie."
 
 # game/Laura_Scenes.rpy:381
 translate french Laura_BF_94fb9d66:
@@ -508,7 +508,7 @@ translate french Laura_BF_94fb9d66:
 translate french Laura_BF_62bbbdd0_1:
 
     # ch_l ". . . but I'd still like to be a part of your life."
-    ch_l ". . . but I'd still like to be a part of your life."
+    ch_l ".... mais j'aimerais quand même faire partie de ta vie."
 
 # game/Laura_Scenes.rpy:384
 translate french Laura_BF_958945d3:
@@ -520,7 +520,7 @@ translate french Laura_BF_958945d3:
 translate french Laura_BF_e182f1ad:
 
     # ch_l "That's it."
-    ch_l "That's it."
+    ch_l "C'est tout."
 
 # game/Laura_Scenes.rpy:395
 translate french Laura_BF_9f6945fc:
@@ -556,13 +556,13 @@ translate french Laura_BF_94f6d650_1:
 translate french Laura_BF_f44b16aa:
 
     # ch_l "Hehe. . . um."
-    ch_l "Hehe.... hum."
+    ch_l "Héhé.... hum."
 
 # game/Laura_Scenes.rpy:417
 translate french Laura_BF_7077a5a2:
 
     # ch_l "Right, so. . ."
-    ch_l "Right, so. . ."
+    ch_l "D'accord, donc..."
 
 # game/Laura_Scenes.rpy:424
 translate french Laura_BF_2ef3215c:
@@ -730,13 +730,13 @@ translate french Laura_Cleanhouse_189b93c7:
 translate french Laura_Cleanhouse_543d7ea0:
 
     # "[LauraX.Name] turns a corner and notices you."
-    "[LauraX.Name] turns a corner and notices you."
+    "[LauraX.Name] tourne au coin de la rue et te remarque."
 
 # game/Laura_Scenes.rpy:606
 translate french Laura_Cleanhouse_06724858:
 
     # "With little word, she moves behind you and pushes you towards her room."
-    "With little word, she moves behind you and pushes you towards her room."
+    "Avec peu de mots, elle se déplace derrière toi et te pousse vers sa chambre."
 
 # game/Laura_Scenes.rpy:616
 translate french Laura_Cleanhouse_4fd55984:
@@ -760,7 +760,7 @@ translate french Laura_Cleanhouse_1224498e:
 translate french Laura_Cleanhouse_cac0507b:
 
     # ch_l "You asshole."
-    ch_l "You asshole."
+    ch_l "Espèce de connard."
 
 # game/Laura_Scenes.rpy:629
 translate french Laura_Cleanhouse_215479f6:
@@ -778,7 +778,7 @@ translate french Laura_Cleanhouse_5b0b7588:
 translate french Laura_Cleanhouse_6e302d4d:
 
     # ch_l "Seriously dude? That's all you've got?"
-    ch_l "Seriously dude? That's all you've got?"
+    ch_l "Sérieusement, mec ? C'est tout ce que tu as ?"
 
 # game/Laura_Scenes.rpy:641
 translate french Laura_Cleanhouse_4e2726d9:
@@ -826,13 +826,13 @@ translate french Laura_Love_f37c12dd:
 translate french Laura_Love_543d7ea0:
 
     # "[LauraX.Name] turns a corner and notices you."
-    "[LauraX.Name] turns a corner and notices you."
+    "[LauraX.Name] tourne au coin de la rue et te remarque."
 
 # game/Laura_Scenes.rpy:705
 translate french Laura_Love_06724858:
 
     # "With little word, she moves behind you and pushes you towards her room."
-    "With little word, she moves behind you and pushes you towards her room."
+    "Avec peu de mots, elle se déplace derrière toi et te pousse vers sa chambre."
 
 # game/Laura_Scenes.rpy:714
 translate french Laura_Love_77b0ac09:
@@ -844,7 +844,7 @@ translate french Laura_Love_77b0ac09:
 translate french Laura_Love_212f7fc9:
 
     # ch_l "-what we have. . ."
-    ch_l "-what we have. . ."
+    ch_l "-ce qu'on a..."
 
 # game/Laura_Scenes.rpy:717
 translate french Laura_Love_5a167474:
@@ -898,7 +898,7 @@ translate french Laura_Love_7f079c3d_2:
 translate french Laura_Love_7077a5a2:
 
     # ch_l "Right, so. . ."
-    ch_l "Right, so. . ."
+    ch_l "D'accord, donc..."
 
 # game/Laura_Scenes.rpy:749
 translate french Laura_Love_fdd027cc:
@@ -958,13 +958,13 @@ translate french Laura_Love_c703d4ea:
 translate french Laura_Love_73b9ed27:
 
     # ch_l "She's the one who birthed me, and was also one of the scientists that helped create me."
-    ch_l "She's the one who birthed me, and was also one of the scientists that helped create me."
+    ch_l "C'est elle qui m'a mis au monde et qui a également été l'une des scientifiques qui ont contribué à ma création."
 
 # game/Laura_Scenes.rpy:777
 translate french Laura_Love_9cf10081:
 
     # ch_l "She tried to help me, until I killed her."
-    ch_l "She tried to help me, until I killed her."
+    ch_l "Elle a essayé de m'aider, jusqu'à ce que je la tue."
 
 # game/Laura_Scenes.rpy:782
 translate french Laura_Love_3b5938e0:
@@ -994,13 +994,13 @@ translate french Laura_Love_f625ff0a:
 translate french Laura_Love_73b9ed27_1:
 
     # ch_l "She's the one who birthed me, and was also one of the scientists that helped create me."
-    ch_l "She's the one who birthed me, and was also one of the scientists that helped create me."
+    ch_l "C'est elle qui m'a mis au monde et qui a également été l'une des scientifiques qui ont contribué à ma création."
 
 # game/Laura_Scenes.rpy:802
 translate french Laura_Love_9cf10081_1:
 
     # ch_l "She tried to help me, until I killed her."
-    ch_l "She tried to help me, until I killed her."
+    ch_l "Elle a essayé de m'aider, jusqu'à ce que je la tue."
 
 # game/Laura_Scenes.rpy:807
 translate french Laura_Love_5b73165e:
@@ -1078,13 +1078,13 @@ translate french Laura_Love_7f079c3d_3:
 translate french Laura_Love_94e6fda5:
 
     # ch_l "A little."
-    ch_l "A little."
+    ch_l "Un peu."
 
 # game/Laura_Scenes.rpy:864
 translate french Laura_Love_9757b372:
 
     # ch_l "No, definitely not."
-    ch_l "No, definitely not."
+    ch_l "Non, certainement pas."
 
 # game/Laura_Scenes.rpy:865
 translate french Laura_Love_6f32d112:
@@ -1282,7 +1282,7 @@ translate french Laura_Love_3cac3ddc:
 translate french Laura_Love_63605bd8:
 
     # ch_l "For a second there you had me worried."
-    ch_l "For a second there you had me worried."
+    ch_l "Pendant une seconde, tu m'as fait peur."
 
 # game/Laura_Scenes.rpy:1002
 translate french Laura_Love_e72815cc:
@@ -1306,7 +1306,7 @@ translate french Laura_Love_407993dc:
 translate french Laura_Love_63605bd8_1:
 
     # ch_l "For a second there you had me worried."
-    ch_l "For a second there you had me worried."
+    ch_l "Pendant une seconde, tu m'as fait peur."
 
 # game/Laura_Scenes.rpy:1028
 translate french Laura_Love_d784e1da:
@@ -1438,13 +1438,13 @@ translate french Laura_Love_End_48a6468a:
 translate french Laura_Love_Redux_ad1cbe22:
 
     # ch_p "I hope you've forgiven me, I still love you."
-    ch_p "I hope you've forgiven me, I still love you."
+    ch_p "J'espère que tu m'as pardonné, je t'aime toujours."
 
 # game/Laura_Scenes.rpy:1150
 translate french Laura_Love_Redux_c0a0b0c9:
 
     # ch_l "You're still working your way out of the hole, [LauraX.Petname]."
-    ch_l "You're still working your way out of the hole, [LauraX.Petname]."
+    ch_l "Tu es toujours en train de te sortir du trou, [LauraX.Petname]."
 
 # game/Laura_Scenes.rpy:1152
 translate french Laura_Love_Redux_7f079c3d:
@@ -1456,7 +1456,7 @@ translate french Laura_Love_Redux_7f079c3d:
 translate french Laura_Love_Redux_f007ff3c:
 
     # ch_l "But let me hear your pitch."
-    ch_l "But let me hear your pitch."
+    ch_l "Mais laisse-moi entendre ton discours."
 
 # game/Laura_Scenes.rpy:1157
 translate french Laura_Love_Redux_9ba36f1c:
@@ -1468,13 +1468,13 @@ translate french Laura_Love_Redux_9ba36f1c:
 translate french Laura_Love_Redux_05bdeb2b:
 
     # ch_l "And. . ."
-    ch_l "And. . ."
+    ch_l "Et...."
 
 # game/Laura_Scenes.rpy:1163
 translate french Laura_Love_Redux_c0a0b0c9_1:
 
     # ch_l "You're still working your way out of the hole, [LauraX.Petname]."
-    ch_l "You're still working your way out of the hole, [LauraX.Petname]."
+    ch_l "Tu es toujours en train de te sortir du trou, [LauraX.Petname]."
 
 # game/Laura_Scenes.rpy:1165
 translate french Laura_Love_Redux_7f079c3d_1:
@@ -1486,13 +1486,13 @@ translate french Laura_Love_Redux_7f079c3d_1:
 translate french Laura_Love_Redux_f007ff3c_1:
 
     # ch_l "But let me hear your pitch."
-    ch_l "But let me hear your pitch."
+    ch_l "Mais laisse-moi entendre ton discours."
 
 # game/Laura_Scenes.rpy:1169
 translate french Laura_Love_Redux_7d31a37b:
 
     # ch_p "Remember when I told you that I didn't love you?"
-    ch_p "Remember when I told you that I didn't love you?"
+    ch_p "Tu te souviens quand je t'ai dit que je ne t'aimais pas ?"
 
 # game/Laura_Scenes.rpy:1171
 translate french Laura_Love_Redux_7f079c3d_2:
@@ -1516,7 +1516,7 @@ translate french Laura_Love_Redux_8aad4ae7:
 translate french Laura_Love_Redux_e2fae53d:
 
     # ch_l "That's awfully convenient."
-    ch_l "That's awfully convenient."
+    ch_l "C'est terriblement pratique."
 
 # game/Laura_Scenes.rpy:1182
 translate french Laura_Love_Redux_1672ab3d:
@@ -1540,7 +1540,7 @@ translate french Laura_Love_Redux_4c73745d:
 translate french Laura_Love_Redux_8bf0a2cf:
 
     # ch_l "Good for you."
-    ch_l "Good for you."
+    ch_l "Tant mieux pour toi."
 
 # game/Laura_Scenes.rpy:1198
 translate french Laura_Love_Redux_6a3727e1:
@@ -1570,7 +1570,7 @@ translate french Laura_Love_Redux_5dd7b156:
 translate french Laura_Love_Redux_65f28b39:
 
     # "She grabs the back of your head and pulls you close."
-    "She grabs the back of your head and pulls you close."
+    "Elle te saisit par l'arrière de la tête et te tire tout près."
 
 # game/Laura_Scenes.rpy:1216
 translate french Laura_Love_Redux_2ff57525:
@@ -1582,7 +1582,7 @@ translate french Laura_Love_Redux_2ff57525:
 translate french Laura_Sub_d01c1113:
 
     # "Suddenly, [LauraX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [LauraX.Name] shows up and says she needs to talk to you."
+    "Soudain, [LauraX.Name] apparaît et dit qu'elle doit te parler."
 
 # game/Laura_Scenes.rpy:1241
 translate french Laura_Sub_b6e276b9:
@@ -1666,7 +1666,7 @@ translate french Laura_Sub_Question_4952e7e5:
 translate french Laura_Sub_Question_1adcb1db:
 
     # ch_l "You don't need to know about them."
-    ch_l "You don't need to know about them."
+    ch_l "Tu n'as pas besoin de les connaître."
 
 # game/Laura_Scenes.rpy:1286
 translate french Laura_Sub_Question_7f079c3d:
@@ -1708,7 +1708,7 @@ translate french Laura_Sub_Question_4840a729:
 translate french Laura_Sub_Question_0cc54a24:
 
     # ch_l "I guess not."
-    ch_l "I guess not."
+    ch_l "Je suppose que non."
 
 # game/Laura_Scenes.rpy:1320
 translate french Laura_Sub_Question_fd295b12:
@@ -1738,7 +1738,7 @@ translate french Laura_Sub_Question_7f079c3d_1:
 translate french Laura_Sub_Question_f0e29e6f:
 
     # ch_l "a little, yeah."
-    ch_l "a little, yeah."
+    ch_l "un peu, ouais."
 
 # game/Laura_Scenes.rpy:1338
 translate french Laura_Sub_Question_60077eb0:
@@ -1798,7 +1798,7 @@ translate french Laura_Sub_Question_b8426b6e:
 translate french Laura_Sub_Question_68a6c251:
 
     # ch_l "I think you're pushing it too far there, [LauraX.Petname]."
-    ch_l "I think you're pushing it too far there, [LauraX.Petname]."
+    ch_l "Je pense que tu vas trop loin, là, [LauraX.Petname]."
 
 # game/Laura_Scenes.rpy:1388
 translate french Laura_Sub_Question_15048c1c:
@@ -1828,7 +1828,7 @@ translate french Laura_Sub_Question_47c540b4:
 translate french Laura_Sub_Question_68a6c251_1:
 
     # ch_l "I think you're pushing it too far there, [LauraX.Petname]."
-    ch_l "I think you're pushing it too far there, [LauraX.Petname]."
+    ch_l "Je pense que tu vas trop loin, là, [LauraX.Petname]."
 
 # game/Laura_Scenes.rpy:1424
 translate french Laura_Sub_Question_38ebd9ea:
@@ -1858,7 +1858,7 @@ translate french Laura_Sub_Choice_2e2bbf23:
 translate french Laura_Sub_Choice_8d8d9b9a:
 
     # ch_l "Yes, sir."
-    ch_l "Yes, sir."
+    ch_l "Oui, monsieur."
 
 # game/Laura_Scenes.rpy:1453
 translate french Laura_Sub_Choice_47cbd4af:
@@ -1882,7 +1882,7 @@ translate french Laura_Sub_Choice_21cd863b:
 translate french Laura_Sub_Choice_d2131bf8:
 
     # "[LauraX.Name] knocks her way past you and storms off."
-    "[LauraX.Name] knocks her way past you and storms off."
+    "[LauraX.Name] passe devant toi et s'en va en trombe."
 
 # game/Laura_Scenes.rpy:1481
 translate french Laura_Sub_Choice_4a434d52:
@@ -1894,7 +1894,7 @@ translate french Laura_Sub_Choice_4a434d52:
 translate french Laura_Sub_Choice_8a493ae3:
 
     # "[LauraX.Name] heads out of the room."
-    "[LauraX.Name] heads out of the room."
+    "[LauraX.Name] sort de la pièce."
 
 # game/Laura_Scenes.rpy:1492
 translate french Laura_Sub_Asked_ac9e35b3:
@@ -2008,7 +2008,7 @@ translate french Laura_Sub_Asked_2840cd22:
 translate french Laura_Master_d01c1113:
 
     # "Suddenly, [LauraX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [LauraX.Name] shows up and says she needs to talk to you."
+    "Soudain, [LauraX.Name] apparaît et dit qu'elle doit te parler."
 
 # game/Laura_Scenes.rpy:1609
 translate french Laura_Master_809f587b:
@@ -2206,7 +2206,7 @@ translate french Laura_Sexfriend_1c76acfc:
 translate french Laura_Sexfriend_2b949430:
 
     # ch_l "I need some alone time with you."
-    ch_l "I need some alone time with you."
+    ch_l "J'ai besoin de passer du temps seule avec toi."
 
 # game/Laura_Scenes.rpy:1799
 translate french Laura_Sexfriend_1c76acfc_1:
@@ -2218,7 +2218,7 @@ translate french Laura_Sexfriend_1c76acfc_1:
 translate french Laura_Sexfriend_2b949430_1:
 
     # ch_l "I need some alone time with you."
-    ch_l "I need some alone time with you."
+    ch_l "J'ai besoin de passer du temps seule avec toi."
 
 # game/Laura_Scenes.rpy:1803
 translate french Laura_Sexfriend_d396bd88:
@@ -2272,7 +2272,7 @@ translate french Laura_Sexfriend_cd34a979:
 translate french Laura_Sexfriend_b31a001f:
 
     # ch_l "Love the enthusiasm."
-    ch_l "Love the enthusiasm."
+    ch_l "J'aime ton enthousiasme."
 
 # game/Laura_Scenes.rpy:1852
 translate french Laura_Sexfriend_4fc36dfe:
@@ -2290,7 +2290,7 @@ translate french Laura_Sexfriend_0f37ac8f:
 translate french Laura_Sexfriend_b31a001f_1:
 
     # ch_l "Love the enthusiasm."
-    ch_l "Love the enthusiasm."
+    ch_l "J'aime ton enthousiasme."
 
 # game/Laura_Scenes.rpy:1869
 translate french Laura_Sexfriend_c052b70b:
@@ -2302,7 +2302,7 @@ translate french Laura_Sexfriend_c052b70b:
 translate french Laura_Sexfriend_7bc78d0e:
 
     # ch_l "Bummer."
-    ch_l "Bummer."
+    ch_l "Dommage."
 
 # game/Laura_Scenes.rpy:1871
 translate french Laura_Sexfriend_a1933137:
@@ -2422,7 +2422,7 @@ translate french Laura_Daddy_859ae7ff:
 translate french Laura_Daddy_b7309daa:
 
     # ch_l "\"daddy?\""
-    ch_l "\"daddy?\""
+    ch_l "\"papa\" ?"
 
 # game/Laura_Scenes.rpy:1978
 translate french Laura_Daddy_2ef3215c:
@@ -2488,7 +2488,7 @@ translate french Laura_Daddy_e68bdf67:
 translate french Laura_Daddy_44376f44:
 
     # ch_l "Yes. . . I said that."
-    ch_l "Yes. . . I said that."
+    ch_l "Oui.... J'ai dit cela."
 
 # game/Laura_Scenes.rpy:2020
 translate french Laura_Daddy_1db92ad8:
@@ -2662,7 +2662,7 @@ translate french Gwentro_a1873ad8:
 translate french Gwentro_22c2a180:
 
     # ch_g "I could tell from the menu."
-    ch_g "I could tell from the menu."
+    ch_g "Je l'ai vu dans le menu."
 
 # game/Laura_Scenes.rpy:2113
 translate french Gwentro_f5290af3:
@@ -2692,7 +2692,7 @@ translate french Gwentro_e1ff9d31:
 translate french Gwentro_22c2a180_1:
 
     # ch_g "I could tell from the menu."
-    ch_g "I could tell from the menu."
+    ch_g "Je l'ai vu dans le menu."
 
 # game/Laura_Scenes.rpy:2124
 translate french Gwentro_e5601ab5:
@@ -2722,7 +2722,7 @@ translate french Gwentro_b7d52b06:
 translate french Gwentro_ca217c24:
 
     # ch_l "How do you know my name!"
-    ch_l "How do you know my name!"
+    ch_l "Comment connais-tu mon nom !"
 
 # game/Laura_Scenes.rpy:2137
 translate french Gwentro_3ed36ac6:
@@ -2746,7 +2746,7 @@ translate french Gwentro_1cca9391:
 translate french Gwentro_b149cef6:
 
     # ch_l "[LauraX.Name] - is - fine."
-    ch_l "[LauraX.Name] - is - fine."
+    ch_l "[LauraX.Name] - c'est - très - bien."
 
 # game/Laura_Scenes.rpy:2144
 translate french Gwentro_86b97bc8:
@@ -2758,7 +2758,7 @@ translate french Gwentro_86b97bc8:
 translate french Gwentro_91cc1945:
 
     # ch_p "What are you doing here?"
-    ch_p "What are you doing here?"
+    ch_p "Qu'est-ce que tu fais ici ?"
 
 # game/Laura_Scenes.rpy:2148
 translate french Gwentro_3a141980:
@@ -2770,7 +2770,7 @@ translate french Gwentro_3a141980:
 translate french Gwentro_91cc1945_1:
 
     # ch_p "What are you doing here?"
-    ch_p "What are you doing here?"
+    ch_p "Qu'est-ce que tu fais ici ?"
 
 # game/Laura_Scenes.rpy:2151
 translate french Gwentro_20c15e99:
@@ -2836,7 +2836,7 @@ translate french Gwentro_ab340038:
 translate french Gwentro_732b527e:
 
     # ch_g "That's unfortunate."
-    ch_g "That's unfortunate."
+    ch_g "C'est regrettable."
 
 # game/Laura_Scenes.rpy:2177
 translate french Gwentro_59b7d484:
@@ -2890,7 +2890,7 @@ translate french Gwentro_37b54bcd:
 translate french Gwentro_eadd48e2:
 
     # ch_l "Get out!"
-    ch_l "Get out!"
+    ch_l "Sors !"
 
 # game/Laura_Scenes.rpy:2202
 translate french Gwentro_aded0dc6:
@@ -2908,7 +2908,7 @@ translate french Gwentro_6f930d6c:
 translate french Laura_Dressup_08f0fe29:
 
     # "As you're heading across the square, you bump into [LauraX.Name]."
-    "As you're heading across the square, you bump into [LauraX.Name]."
+    "En traversant la place, vous tombez sur [LauraX.Name]."
 
 # game/Laura_Scenes.rpy:2229
 translate french Laura_Dressup_8a88be9d:
@@ -2920,13 +2920,13 @@ translate french Laura_Dressup_8a88be9d:
 translate french Laura_Dressup_47bbad2d:
 
     # ch_l "Yeah, just got back."
-    ch_l "Yeah, just got back."
+    ch_l "Ouais, je viens de rentrer."
 
 # game/Laura_Scenes.rpy:2237
 translate french Laura_Dressup_47bbad2d_1:
 
     # ch_l "Yeah, just got back."
-    ch_l "Yeah, just got back."
+    ch_l "Ouais, je viens de rentrer."
 
 # game/Laura_Scenes.rpy:2242
 translate french Laura_Dressup_078ccccd:
@@ -2962,7 +2962,7 @@ translate french Laura_Dressup_1aa02966:
 translate french Laura_Dressup_5dc3c36f:
 
     # ch_l "Not really."
-    ch_l "Not really."
+    ch_l "Pas vraiment."
 
 # game/Laura_Scenes.rpy:2264
 translate french Laura_Dressup_1815d572:
@@ -3004,7 +3004,7 @@ translate french Laura_Dressup_33eb7ca9:
 translate french Laura_Dressup_9f98e827:
 
     # ch_k "Rude much?"
-    ch_k "Rude much?"
+    ch_k "C'est pas un peu grossier ?"
 
 # game/Laura_Scenes.rpy:2298
 translate french Laura_Dressup_7d224521:
@@ -3052,19 +3052,19 @@ translate french Laura_Dressup_0dadabf5:
 translate french Laura_Dressup_bd595000:
 
     # ch_p "Here you go. What're you planning to get her?"
-    ch_p "Here you go. What're you planning to get her?"
+    ch_p "Voilà. Que comptes-tu lui offrir ?"
 
 # game/Laura_Scenes.rpy:2320
 translate french Laura_Dressup_ad513e51:
 
     # ch_k "Yeah, maybe you've got a point. She's kinda prickly sometimes."
-    ch_k "Yeah, maybe you've got a point. She's kinda prickly sometimes."
+    ch_k "Ouais, tu as peut-être raison. Elle est un peu irritable parfois."
 
 # game/Laura_Scenes.rpy:2323
 translate french Laura_Dressup_ad513e51_1:
 
     # ch_k "Yeah, maybe you've got a point. She's kinda prickly sometimes."
-    ch_k "Yeah, maybe you've got a point. She's kinda prickly sometimes."
+    ch_k "Ouais, tu as peut-être raison. Elle est un peu irritable parfois."
 
 # game/Laura_Scenes.rpy:2327
 translate french Laura_Dressup_f3236719:
@@ -3166,7 +3166,7 @@ translate french Laura_Dressup3_08d9b015:
 translate french Laura_Dressup3_94599725:
 
     # ch_k "Aww, c'mon. You look great."
-    ch_k "Aww, c'mon. You look great."
+    ch_k "Aww, allez. Tu as l'air en forme."
 
 # game/Laura_Scenes.rpy:2400
 translate french Laura_Dressup3_d9a28b44:
@@ -3238,7 +3238,7 @@ translate french Laura_Dressup3_4a0c453a:
 translate french Laura_Dressup3_23658d0c:
 
     # "You head back out."
-    "You head back out."
+    "Tu repars."
 
 # game/Laura_Scenes.rpy:2443
 translate french Laura_Dressup3_7636777d:
@@ -3256,13 +3256,13 @@ translate french Laura_Dressup3_7b22b732:
 translate french Laura_Dressup3_f6293f3c:
 
     # ch_k "Uh-huh. I mean, he's my [KittyX.Petname]."
-    ch_k "Uh-huh. I mean, he's my [KittyX.Petname]."
+    ch_k "Ouais-ouais. Je veux dire, c'est mon [KittyX.Petname]."
 
 # game/Laura_Scenes.rpy:2448
 translate french Laura_Dressup3_ae2331fd:
 
     # ch_l "Your. . . [KittyX.Petname]."
-    ch_l "Your. . . [KittyX.Petname]."
+    ch_l "Ton.... [KittyX.Petname]."
 
 # game/Laura_Scenes.rpy:2450
 translate french Laura_Dressup3_70a5f4b1:
@@ -3304,7 +3304,7 @@ translate french Laura_Dressup3_ba953c8c:
 translate french Laura_Dressup3_23658d0c_1:
 
     # "You head back out."
-    "You head back out."
+    "Tu repars."
 
 # game/Laura_Scenes.rpy:2459
 translate french Laura_Dressup3_9b42f8cd:
@@ -3334,13 +3334,13 @@ translate french Laura_Dressup3_1d47046d:
 translate french Laura_Dressup3_f6293f3c_1:
 
     # ch_k "Uh-huh. I mean, he's my [KittyX.Petname]."
-    ch_k "Uh-huh. I mean, he's my [KittyX.Petname]."
+    ch_k "Ouais-ouais. Je veux dire, c'est mon [KittyX.Petname]."
 
 # game/Laura_Scenes.rpy:2474
 translate french Laura_Dressup3_ae2331fd_1:
 
     # ch_l "Your. . . [KittyX.Petname]."
-    ch_l "Your. . . [KittyX.Petname]."
+    ch_l "Ton.... [KittyX.Petname]."
 
 # game/Laura_Scenes.rpy:2477
 translate french Laura_Dressup3_66a120ad:
@@ -3412,7 +3412,7 @@ translate french Laura_Dressup3_f52b5329:
 translate french Laura_Dressup3_210edca1:
 
     # ch_k "Heh, thanks."
-    ch_k "Heh, thanks."
+    ch_k "Héhé, merci."
 
 # game/Laura_Scenes.rpy:2514
 translate french Laura_Dressup3_86c5b7d8:
@@ -3574,19 +3574,19 @@ translate french Laura_Dressup3_4472a782:
 translate french Laura_Dressup3_580ef8c3:
 
     # ch_k "Later, [KittyX.Petname]!"
-    ch_k "Later, [KittyX.Petname]!"
+    ch_k "Plus tard, [KittyX.Petname] !"
 
 # game/Laura_Scenes.rpy:2598
 translate french Laura_Dressup3_11a0b64d:
 
     # ch_l "See ya."
-    ch_l "See ya."
+    ch_l "À plus tard."
 
 translate french strings:
 
     # game/Laura_Scenes.rpy:36
     old "Who are you?"
-    new "Qui êtes-vous ?"
+    new "Qui es-tu ?"
 
     # game/Laura_Scenes.rpy:36
     old "X-23? Is that your real name?"
@@ -3606,7 +3606,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:36
     old "What are you doing here?"
-    new "What are you doing here?"
+    new "Qu'est-ce que tu fais ici ?"
 
     # game/Laura_Scenes.rpy:36
     old "So you don't stay here long?"
@@ -3654,7 +3654,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:98
     old "Ok, that's fair."
-    new "Ok, that's fair."
+    new "Ok, c'est raisonnable."
 
     # game/Laura_Scenes.rpy:142
     old "Those claws look pretty sharp."
@@ -3666,7 +3666,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:142
     old "Ouch."
-    new "Ouch."
+    new "Aïe."
 
     # game/Laura_Scenes.rpy:292
     old "I really love hanging out with you too!"
@@ -3682,7 +3682,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:292
     old "If you say so."
-    new "Si vous le dites."
+    new "Si tu le dis."
 
     # game/Laura_Scenes.rpy:324
     old "What was it like?"
@@ -3850,7 +3850,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:795
     old "Bummer."
-    new "Bummer."
+    new "Dommage."
 
     # game/Laura_Scenes.rpy:842
     old "What did you do for a living?"
@@ -3918,11 +3918,11 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:987
     old "I love you too!"
-    new "I love you too!"
+    new "Je t'aime aussi !"
 
     # game/Laura_Scenes.rpy:987
     old "I know."
-    new "I know."
+    new "Je sais."
 
     # game/Laura_Scenes.rpy:987
     old "Neat?"
@@ -3966,7 +3966,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:1260
     old "Get with the program."
-    new "Get with the program."
+    new "Suis la ligne."
 
     # game/Laura_Scenes.rpy:1301
     old "Sorry. I thought that's what you were into."
@@ -4010,7 +4010,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:1443
     old "That's kind of formal, isn't it?"
-    new "That's kind of formal, isn't it?"
+    new "C'est un peu formel, non ?"
 
     # game/Laura_Scenes.rpy:1456
     old "Yeah, no problem."
@@ -4030,11 +4030,11 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:1529
     old "You're damned right I am, bitch."
-    new "You're damned right I am, bitch."
+    new "Tu as bien raison, salope."
 
     # game/Laura_Scenes.rpy:1611
     old "Granted."
-    new "Granted."
+    new "Accordé."
 
     # game/Laura_Scenes.rpy:1611
     old "What?"
@@ -4190,7 +4190,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:2345
     old "Here you go."
-    new "Here you go."
+    new "Voilà."
 
     # game/Laura_Scenes.rpy:2345
     old "I don't have enough. . ."
@@ -4202,7 +4202,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:2371
     old "Here you go, $10."
-    new "Here you go, $10."
+    new "Tiens, 10 dollars."
 
     # game/Laura_Scenes.rpy:2408
     old "Sneak a peek [[no key] (locked)"
@@ -4222,7 +4222,7 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:2493
     old "Her outfit looks familiar. . ."
-    new "Her outfit looks familiar. . ."
+    new "Sa tenue me semble familière..."
 
     # game/Laura_Scenes.rpy:2493
     old "Looking good, [LauraX.Name]!"
@@ -4238,9 +4238,13 @@ translate french strings:
 
     # game/Laura_Scenes.rpy:2556
     old "Go right ahead!"
-    new "Go right ahead!"
+    new "Vas-y !"
 
     # game/Laura_Scenes.rpy:2556
     old "Message received. See you girls later!"
     new "Message received. See you girls later!"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

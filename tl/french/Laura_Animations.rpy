@@ -4,19 +4,19 @@
 translate french Laura_BJ_Launch_9146bd30:
 
     # "[LauraX.Name] looks back at [Present[0].Name] to see if she's watching."
-    "[LauraX.Name] looks back at [Present[0].Name] to see if she's watching."
+    "[LauraX.Name] regarde [Present[0].Name] pour voir si elle regarde."
 
 # game/Laura_Animations.rpy:3503
 translate french Laura_BJ_Launch_ab87d0e8:
 
     # "[LauraX.Name] looks back at [Present[1].Name] to see if she's watching."
-    "[LauraX.Name] looks back at [Present[1].Name] to see if she's watching."
+    "[LauraX.Name] regarde [Present[1].Name] pour voir si elle regarde."
 
 # game/Laura_Animations.rpy:3505
 translate french Laura_BJ_Launch_782e9f12:
 
     # "[LauraX.Name] casually glances around to see if anyone can see her."
-    "[LauraX.Name] casually glances around to see if anyone can see her."
+    "[LauraX.Name] jette un coup d'œil aux alentours pour voir si quelqu'un peut la voir."
 
 # game/Laura_Animations.rpy:3506
 translate french Laura_BJ_Launch_28386feb:
@@ -28,19 +28,19 @@ translate french Laura_BJ_Launch_28386feb:
 translate french Laura_TJ_Launch_9146bd30:
 
     # "[LauraX.Name] looks back at [Present[0].Name] to see if she's watching."
-    "[LauraX.Name] looks back at [Present[0].Name] to see if she's watching."
+    "[LauraX.Name] regarde [Present[0].Name] pour voir si elle regarde."
 
 # game/Laura_Animations.rpy:4758
 translate french Laura_TJ_Launch_ab87d0e8:
 
     # "[LauraX.Name] looks back at [Present[1].Name] to see if she's watching."
-    "[LauraX.Name] looks back at [Present[1].Name] to see if she's watching."
+    "[LauraX.Name] regarde [Present[1].Name] pour voir si elle regarde."
 
 # game/Laura_Animations.rpy:4760
 translate french Laura_TJ_Launch_782e9f12:
 
     # "[LauraX.Name] casually glances around to see if anyone can see her."
-    "[LauraX.Name] casually glances around to see if anyone can see her."
+    "[LauraX.Name] jette un coup d'œil aux alentours pour voir si quelqu'un peut la voir."
 
 # game/Laura_Animations.rpy:4761
 translate french Laura_TJ_Launch_241c0248:

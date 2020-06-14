@@ -172,7 +172,7 @@ translate french Prologue_745c3b8c:
 translate french Prologue_2770a6c9:
 
     # ch_r "Well I never!"
-    ch_r "Well I never!"
+    ch_r "Pince-moi, je rêve !"
 
 # game/Rogue_Scenes.rpy:105
 translate french Prologue_7a96e0c5:
@@ -346,7 +346,7 @@ translate french tour_end_e7eae8de:
 translate french tour_end_147b1f8f:
 
     # ch_r "Heh, You'll have to earn that [RogueX.Petname]."
-    ch_r "Heh, il faut le mériter [RogueX.Petname]."
+    ch_r "Héhé, il faut le mériter [RogueX.Petname]."
 
 # game/Rogue_Scenes.rpy:228
 translate french tour_end_93b01867:
@@ -490,7 +490,7 @@ translate french Rogue_Key_d8dfaa00:
 translate french Rogue_BF_54a226e4:
 
     # "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
+    "Soudain, [RogueX.Name] apparaît et dit qu'elle doit te parler."
 
 # game/Rogue_Scenes.rpy:366
 translate french Rogue_BF_5d6bbc26:
@@ -538,7 +538,7 @@ translate french Rogue_BF_ed4713aa:
 translate french Rogue_BF_264844e0:
 
     # ch_r "Right, so I was thinking. . ."
-    ch_r "Right, so I was thinking. . ."
+    ch_r "C'est vrai, j'ai donc réfléchi..."
 
 # game/Rogue_Scenes.rpy:390
 translate french Rogue_BF_23546f13:
@@ -580,7 +580,7 @@ translate french Rogue_BF_4d569406:
 translate french Rogue_BF_608760ab:
 
     # "Rogue leaps in and kisses you deeply."
-    "Rogue leaps in and kisses you deeply."
+    "Rogue se lance vers toi et t'embrasse profondément."
 
 # game/Rogue_Scenes.rpy:408
 translate french Rogue_BF_8a28481c:
@@ -598,7 +598,7 @@ translate french Rogue_BF_382fac53:
 translate french Rogue_BF_608760ab_1:
 
     # "Rogue leaps in and kisses you deeply."
-    "Rogue leaps in and kisses you deeply."
+    "Rogue se lance vers toi et t'embrasse profondément."
 
 # game/Rogue_Scenes.rpy:430
 translate french Rogue_BF_3aa0dc81:
@@ -616,7 +616,7 @@ translate french Rogue_BF_50ce3fcb:
 translate french Rogue_BF_Jerk_5e8ff57f:
 
     # ch_r "Well fine!"
-    ch_r "Well fine!"
+    ch_r "Eh ben, très bien !"
 
 # game/Rogue_Scenes.rpy:461
 translate french Rogue_BF_Jerk_b823f48b:
@@ -688,7 +688,7 @@ translate french Rogue_Love_a95122cc:
 translate french Rogue_Love_264844e0:
 
     # ch_r "Right, so I was thinking. . ."
-    ch_r "Right, so I was thinking. . ."
+    ch_r "C'est vrai, j'ai donc réfléchi..."
 
 # game/Rogue_Scenes.rpy:530
 translate french Rogue_Love_dbb1579e:
@@ -706,7 +706,7 @@ translate french Rogue_Love_c86b7ba6:
 translate french Rogue_Love_693a5f74:
 
     # ch_r "I love you too!"
-    ch_r "I love you too!"
+    ch_r "Je t'aime aussi !"
 
 # game/Rogue_Scenes.rpy:538
 translate french Rogue_Love_cec6534a:
@@ -730,7 +730,7 @@ translate french Rogue_Love_f23d6f36:
 translate french Rogue_Love_ba6b6a4a:
 
     # "[RogueX.Name] collapses into your arms."
-    "[RogueX.Name] s'effondre dans vos bras."
+    "[RogueX.Name] s'effondre dans tes bras."
 
 # game/Rogue_Scenes.rpy:553
 translate french Rogue_Love_4f272a9d:
@@ -796,7 +796,7 @@ translate french Rogue_Love_28b196ae:
 translate french Rogue_Love_Jerk_5e8ff57f:
 
     # ch_r "Well fine!"
-    ch_r "Well fine!"
+    ch_r "Eh ben, très bien !"
 
 # game/Rogue_Scenes.rpy:615
 translate french Rogue_Love_Jerk_270796a0:
@@ -808,13 +808,13 @@ translate french Rogue_Love_Jerk_270796a0:
 translate french Rogue_Love_Jerk_0ff0bd28:
 
     # ch_r "I need some time to myself though."
-    ch_r "I need some time to myself though."
+    ch_r "Mais j'ai besoin de temps pour moi."
 
 # game/Rogue_Scenes.rpy:626
 translate french Rogue_Love_Jerk_53501e76:
 
     # ch_r "Fool me once, shame on you. . . I thought you'd grown."
-    ch_r "Fool me once, shame on you. . . I thought you'd grown."
+    ch_r "Trompe-moi une fois, honte à toi... Je pensais que tu avais grandi."
 
 # game/Rogue_Scenes.rpy:627
 translate french Rogue_Love_Jerk_1aa0725c:
@@ -838,7 +838,7 @@ translate french Rogue_AnnaMarie_ff6d9574:
 translate french Rogue_AnnaMarie_fd0d49f7:
 
     # ch_r "Grow'in up, I went by \"Anna-Marie.\""
-    ch_r "Grow'in up, I went by \"Anna-Marie.\""
+    ch_r "En grandissant, on m'appelait \"Anna-Marie\""
 
 # game/Rogue_Scenes.rpy:652
 translate french Rogue_AnnaMarie_9a25992e:
@@ -874,7 +874,7 @@ translate french Rogue_AnnaMarie_9207b913:
 translate french Rogue_AnnaMarie_2d7f0daa:
 
     # ch_r "You think? I suppose. . ."
-    ch_r "You think? I suppose. . ."
+    ch_r "Tu crois ? Je suppose..."
 
 # game/Rogue_Scenes.rpy:680
 translate french Rogue_AnnaMarie_3d995fe3:
@@ -886,7 +886,7 @@ translate french Rogue_AnnaMarie_3d995fe3:
 translate french Rogue_Sub_54a226e4:
 
     # "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
+    "Soudain, [RogueX.Name] apparaît et dit qu'elle doit te parler."
 
 # game/Rogue_Scenes.rpy:698
 translate french Rogue_Sub_ff6d9574:
@@ -928,7 +928,7 @@ translate french Rogue_Sub_2a5894ba:
 translate french Rogue_Sub_354f70c9:
 
     # ch_r "I really care about you."
-    ch_r "I really care about you."
+    ch_r "Je tiens vraiment à toi."
 
 # game/Rogue_Scenes.rpy:712
 translate french Rogue_Sub_12441c65:
@@ -952,7 +952,7 @@ translate french Rogue_Sub_9dcbd04a:
 translate french Rogue_Sub_264844e0:
 
     # ch_r "Right, so I was thinking. . ."
-    ch_r "Right, so I was thinking. . ."
+    ch_r "C'est vrai, j'ai donc réfléchi..."
 
 # game/Rogue_Scenes.rpy:729
 translate french Rogue_Sub_85d72c54:
@@ -964,7 +964,7 @@ translate french Rogue_Sub_85d72c54:
 translate french Rogue_Sub_3929cac8:
 
     # ch_r "I'd like you to reconsider the offer I made. . ."
-    ch_r "I'd like you to reconsider the offer I made. . ."
+    ch_r "J'aimerais que tu repenses à l'offre que j'ai faite..."
 
 # game/Rogue_Scenes.rpy:732
 translate french Rogue_Sub_2ea72a63:
@@ -976,7 +976,7 @@ translate french Rogue_Sub_2ea72a63:
 translate french Rogue_Sub_28f23c46:
 
     # "[RogueX.Name] nods obediently."
-    "[RogueX.Name] nods obediently."
+    "[RogueX.Name] fait un signe de tête obéissant."
 
 # game/Rogue_Scenes.rpy:742
 translate french Rogue_Sub_441f10ba:
@@ -1000,13 +1000,13 @@ translate french Rogue_Sub_c853e419:
 translate french Rogue_Sub_28f23c46_1:
 
     # "[RogueX.Name] nods obediently."
-    "[RogueX.Name] nods obediently."
+    "[RogueX.Name] fait un signe de tête obéissant."
 
 # game/Rogue_Scenes.rpy:750
 translate french Rogue_Sub_8d6c81bc:
 
     # "[RogueX.Name] seems a bit put out, but takes it as a positive sign and nods."
-    "[RogueX.Name] seems a bit put out, but takes it as a positive sign and nods."
+    "[RogueX.Name] semble un peu ennuyée, mais le prend comme un signe positif et te fait un signe de tête."
 
 # game/Rogue_Scenes.rpy:757
 translate french Rogue_Sub_1d0d5a54:
@@ -1024,25 +1024,25 @@ translate french Rogue_Sub_Jerk_2cde777f:
 translate french Rogue_Sub_Jerk_0ff0bd28:
 
     # ch_r "I need some time to myself though."
-    ch_r "I need some time to myself though."
+    ch_r "Mais j'ai besoin de temps pour moi."
 
 # game/Rogue_Scenes.rpy:787
 translate french Rogue_Sub_Jerk_cb870aaa:
 
     # ch_r "I thought you may have learned to respect my needs by now."
-    ch_r "I thought you may have learned to respect my needs by now."
+    ch_r "J'ai pensé que tu avais peut-être appris à respecter mes besoins maintenant."
 
 # game/Rogue_Scenes.rpy:788
 translate french Rogue_Sub_Jerk_db761a82:
 
     # ch_r "If that's how it is, I would appreciate some time alone."
-    ch_r "If that's how it is, I would appreciate some time alone."
+    ch_r "Si c'est comme ça, j'apprécierais de passer un peu de temps seul."
 
 # game/Rogue_Scenes.rpy:805
 translate french Rogue_Master_54a226e4:
 
     # "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
+    "Soudain, [RogueX.Name] apparaît et dit qu'elle doit te parler."
 
 # game/Rogue_Scenes.rpy:814
 translate french Rogue_Master_ff6d9574:
@@ -1078,7 +1078,7 @@ translate french Rogue_Master_78267045:
 translate french Rogue_Master_354f70c9:
 
     # ch_r "I really care about you."
-    ch_r "I really care about you."
+    ch_r "Je tiens vraiment à toi."
 
 # game/Rogue_Scenes.rpy:827
 translate french Rogue_Master_0b6b8d73:
@@ -1114,7 +1114,7 @@ translate french Rogue_Master_8056b006:
 translate french Rogue_Master_3929cac8:
 
     # ch_r "I'd like you to reconsider the offer I made. . ."
-    ch_r "I'd like you to reconsider the offer I made. . ."
+    ch_r "J'aimerais que tu repenses à l'offre que j'ai faite..."
 
 # game/Rogue_Scenes.rpy:847
 translate french Rogue_Master_27a2d92e:
@@ -1156,7 +1156,7 @@ translate french Rogue_Master_e49d923a:
 translate french Rogue_Master_8d6c81bc:
 
     # "[RogueX.Name] seems a bit put out, but takes it as a positive sign and nods."
-    "[RogueX.Name] seems a bit put out, but takes it as a positive sign and nods."
+    "[RogueX.Name] semble un peu ennuyée, mais le prend comme un signe positif et te fait un signe de tête."
 
 # game/Rogue_Scenes.rpy:868
 translate french Rogue_Master_3db2ddae:
@@ -1180,7 +1180,7 @@ translate french Rogue_Master_8a92dd5a:
 translate french Rogue_Obed_Jerk_5e8ff57f:
 
     # ch_r "Well fine!"
-    ch_r "Well fine!"
+    ch_r "Eh ben, très bien !"
 
 # game/Rogue_Scenes.rpy:897
 translate french Rogue_Obed_Jerk_d9306d68:
@@ -1192,19 +1192,19 @@ translate french Rogue_Obed_Jerk_d9306d68:
 translate french Rogue_Obed_Jerk_0ff0bd28:
 
     # ch_r "I need some time to myself though."
-    ch_r "I need some time to myself though."
+    ch_r "Mais j'ai besoin de temps pour moi."
 
 # game/Rogue_Scenes.rpy:908
 translate french Rogue_Obed_Jerk_cb870aaa:
 
     # ch_r "I thought you may have learned to respect my needs by now."
-    ch_r "I thought you may have learned to respect my needs by now."
+    ch_r "J'ai pensé que tu avais peut-être appris à respecter mes besoins maintenant."
 
 # game/Rogue_Scenes.rpy:909
 translate french Rogue_Obed_Jerk_db761a82:
 
     # ch_r "If that's how it is, I would appreciate some time alone."
-    ch_r "If that's how it is, I would appreciate some time alone."
+    ch_r "Si c'est comme ça, j'apprécierais de passer un peu de temps seul."
 
 # game/Rogue_Scenes.rpy:931
 translate french Rogue_Sexfriend_efbb2d62:
@@ -1216,7 +1216,7 @@ translate french Rogue_Sexfriend_efbb2d62:
 translate french Rogue_Sexfriend_54a226e4:
 
     # "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
+    "Soudain, [RogueX.Name] apparaît et dit qu'elle doit te parler."
 
 # game/Rogue_Scenes.rpy:943
 translate french Rogue_Sexfriend_ff6d9574:
@@ -1294,7 +1294,7 @@ translate french Rogue_Sexfriend_97fcfcf2:
 translate french Rogue_Sexfriend_28f23c46:
 
     # "[RogueX.Name] nods obediently."
-    "[RogueX.Name] nods obediently."
+    "[RogueX.Name] fait un signe de tête obéissant."
 
 # game/Rogue_Scenes.rpy:983
 translate french Rogue_Sexfriend_c1607593:
@@ -1366,7 +1366,7 @@ translate french Rogue_Fuckbuddy_97c3a982:
 translate french Rogue_Fuckbuddy_54a226e4:
 
     # "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [RogueX.Name] shows up and says she needs to talk to you."
+    "Soudain, [RogueX.Name] apparaît et dit qu'elle doit te parler."
 
 # game/Rogue_Scenes.rpy:1058
 translate french Rogue_Fuckbuddy_ff6d9574:
@@ -1504,7 +1504,7 @@ translate french Rogue_Daddy_e5b81478:
 translate french Rogue_Daddy_90212879:
 
     # ch_r "Squee!"
-    ch_r "Squee!"
+    ch_r "Héhée!"
 
 # game/Rogue_Scenes.rpy:1176
 translate french Rogue_Daddy_96af3675:
@@ -1720,7 +1720,7 @@ translate french Rogue_Frisky_Class_e04b4e6e:
 translate french Rogue_Frisky_Class_7730e7ad:
 
     # "[RogueX.Name] glances at you in alarm, but then slowly calms down."
-    "[RogueX.Name] glances at you in alarm, but then slowly calms down."
+    "[RogueX.Name] te regarde avec inquiétude, mais se calme lentement."
 
 # game/Rogue_Scenes.rpy:1367
 translate french Rogue_Frisky_Class_f9df3eb4:
@@ -1786,7 +1786,7 @@ translate french Rogue_Frisky_Class_da6dc438:
 translate french Rogue_Frisky_Class_7730e7ad_1:
 
     # "[RogueX.Name] glances at you in alarm, but then slowly calms down."
-    "[RogueX.Name] glances at you in alarm, but then slowly calms down."
+    "[RogueX.Name] te regarde avec inquiétude, mais se calme lentement."
 
 # game/Rogue_Scenes.rpy:1415
 translate french Rogue_Frisky_Class_afc365b4:
@@ -1798,7 +1798,7 @@ translate french Rogue_Frisky_Class_afc365b4:
 translate french Rogue_Frisky_Class_7b91f998:
 
     # "her nipples begin to firm up and she lets out a small moan of pleasure."
-    "her nipples begin to firm up and she lets out a small moan of pleasure."
+    "ses mamelons commencent à se raffermir et elle laisse échapper un petit gémissement de plaisir."
 
 # game/Rogue_Scenes.rpy:1421
 translate french Rogue_Frisky_Class_5f7e066f:
@@ -1970,7 +1970,7 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:189
     old "What's it to you?"
-    new "What's it to you?"
+    new "Qu'est-ce que ça peut te faire ?"
 
     # game/Rogue_Scenes.rpy:204
     old "Like, a Kiss?"
@@ -2018,7 +2018,7 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:399
     old "I'd love to!"
-    new "I'd love to!"
+    new "J'adorerais !"
 
     # game/Rogue_Scenes.rpy:399
     old "Um, ok."
@@ -2058,7 +2058,7 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:645
     old "Huh, ok."
-    new "Huh, ok."
+    new "Euh, ok."
 
     # game/Rogue_Scenes.rpy:645
     old "Don't like it."
@@ -2074,7 +2074,7 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:663
     old "\"Anna\" sounds nice."
-    new "\"Anna\" sounds nice."
+    new "\"Anna\", ça sonne bien."
 
     # game/Rogue_Scenes.rpy:734
     old "Sounds interesting, yes."
@@ -2098,11 +2098,11 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:831
     old "Certainly."
-    new "Certainly."
+    new "Avec joie."
 
     # game/Rogue_Scenes.rpy:831
     old "Yeah, I guess."
-    new "Yeah, I guess."
+    new "Ouais, je pense aussi."
 
     # game/Rogue_Scenes.rpy:831
     old "Not especially."
@@ -2126,7 +2126,7 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:951
     old "Hmmm. . . yes?"
-    new "Hmmm. . . yes?"
+    new "Hmmm.. oui ?"
 
     # game/Rogue_Scenes.rpy:951
     old "Maybe. . ."
@@ -2146,7 +2146,7 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:1062
     old "You bet!"
-    new "You bet!"
+    new "C'est sûr !"
 
     # game/Rogue_Scenes.rpy:1062
     old "Yeah?"
@@ -2154,7 +2154,7 @@ translate french strings:
 
     # game/Rogue_Scenes.rpy:1079
     old "Heh, ok, fuck buddy."
-    new "Heh, ok, fuck buddy."
+    new "Héhé, ok, mon pote de baise."
 
     # game/Rogue_Scenes.rpy:1096
     old "Oh, no, not my style."
@@ -2259,4 +2259,8 @@ translate french strings:
     # game/Rogue_Scenes.rpy:1390
     old "fondle breasts"
     new "fondle breasts"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

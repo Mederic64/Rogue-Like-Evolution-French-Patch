@@ -34,7 +34,7 @@ translate french Group_Strip_Study_1c6dedf3:
 translate french Group_Strip_Study_0c432129:
 
     # ch_r "Get three wrong, and we're done for the night. Good luck."
-    ch_r "Get three wrong, and we're done for the night. Good luck."
+    ch_r "Si tu trompes trois fois, ça s'arrête là. Bonne chance."
 
 # game/Quiz.rpy:30
 translate french Group_Strip_Study_b09f2ff7:
@@ -76,7 +76,7 @@ translate french Group_Strip_Study_e5115152:
 translate french Group_Strip_Study_e5f31bcc:
 
     # ch_k "But you only get three tries."
-    ch_k "But you only get three tries."
+    ch_k "Mais tu n'as droit qu'à trois essais."
 
 # game/Quiz.rpy:51
 translate french Group_Strip_Study_5d763ac3:
@@ -106,7 +106,7 @@ translate french Group_Strip_Study_e5fd8aab:
 translate french Group_Strip_Study_cc60da20:
 
     # ch_e "But you only get three tries."
-    ch_e "But you only get three tries."
+    ch_e "Mais tu n'as droit qu'à trois essais."
 
 # game/Quiz.rpy:61
 translate french Group_Strip_Study_12978e4b:
@@ -142,7 +142,7 @@ translate french Group_Strip_Study_b6f82341:
 translate french Group_Strip_Study_4f16a77b:
 
     # ch_l "Be that way."
-    ch_l "Be that way."
+    ch_l "Soit."
 
 # game/Quiz.rpy:74
 translate french Group_Strip_Study_704f03a9:
@@ -190,7 +190,7 @@ translate french Group_Strip_Study_7ee6f57c:
 translate french Group_Strip_Study_267cf9c8:
 
     # "Let Oni know that Emma was in second please."
-    "Let Oni know that Emma was in second please."
+    "Faites savoir à Oni qu'Emma était en deuxième position, s'il te plaît."
 
 # game/Quiz.rpy:116
 translate french Group_Strip_Study_e339639c:
@@ -214,7 +214,7 @@ translate french Group_Strip_Study_435c5764:
 translate french Group_Strip_Study_267cf9c8_1:
 
     # "Let Oni know that Emma was in second please."
-    "Let Oni know that Emma was in second please."
+    "Faites savoir à Oni qu'Emma était en deuxième position, s'il te plaît."
 
 # game/Quiz.rpy:126
 translate french Group_Strip_Study_bc287055:
@@ -322,7 +322,7 @@ translate french Strip_Study_Right_a9b84edb:
 translate french Strip_Study_Right_a282ced1:
 
     # ch_e "Hmm. . . better than I thought."
-    ch_e "Hmm. . . better than I thought."
+    ch_e "Hmm... mieux que je ne le pensais."
 
 # game/Quiz.rpy:250
 translate french Strip_Study_Right_5688c051:
@@ -358,7 +358,7 @@ translate french Strip_Study_Right_d15cf1fc:
 translate french Strip_Study_Right_a282ced1_1:
 
     # ch_e "Hmm. . . better than I thought."
-    ch_e "Hmm. . . better than I thought."
+    ch_e "Hmm... mieux que je ne le pensais."
 
 # game/Quiz.rpy:278
 translate french Strip_Study_Right_5688c051_1:
@@ -382,7 +382,7 @@ translate french Strip_Study_Right_5bac330f:
 translate french Strip_Study_Right_1999d899:
 
     # ch_k "So. . . you got that one right. . ."
-    ch_k "So. . . you got that one right. . ."
+    ch_k "Donc.... tu as bien répondu à celle-là..."
 
 # game/Quiz.rpy:292
 translate french Strip_Study_Right_5e13edce:
@@ -406,7 +406,7 @@ translate french Strip_Study_Right_c85a93e4:
 translate french Strip_Study_Right_56f79f02:
 
     # ch_l "So. . . you got that one right. . ."
-    ch_l "So. . . you got that one right. . ."
+    ch_l "Donc.... tu as bien répondu à celle-là..."
 
 # game/Quiz.rpy:304
 translate french Strip_Study_Right_7c1b176b:
@@ -496,7 +496,7 @@ translate french Strip_Study_Wrong_3ec81bd7:
 translate french Strip_Study_Wrong_6097b1d3:
 
     # ch_k "Aw, too bad, so sad. Maybe next time."
-    ch_k "Aw, too bad, so sad. Maybe next time."
+    ch_k "Dommage, c'est si triste. Peut-être la prochaine fois."
 
 # game/Quiz.rpy:356
 translate french Strip_Study_Wrong_967d78c9:
@@ -562,7 +562,7 @@ translate french Rogue_Quiz_Question_a6e99b74:
 translate french Rogue_Quiz_Question_17cd2011:
 
     # "She asked an obscure question but you answer the question correctly."
-    "She asked an obscure question but you answer the question correctly."
+    "Elle a posé une question obscure, mais tu y réponds correctement."
 
 # game/Quiz.rpy:445
 translate french Kitty_Quiz_Question_363fca27:
@@ -676,7 +676,7 @@ translate french Kitty_Quiz_Question_fa594a9c:
 translate french Kitty_Quiz_Question_17cd2011:
 
     # "She asked an obscure question but you answer the question correctly."
-    "She asked an obscure question but you answer the question correctly."
+    "Elle a posé une question obscure, mais tu y réponds correctement."
 
 # game/Quiz.rpy:570
 translate french Emma_Quiz_Question_2e13c927:
@@ -790,7 +790,7 @@ translate french Emma_Quiz_Question_d8738a60:
 translate french Emma_Quiz_Question_17cd2011:
 
     # "She asked an obscure question but you answer the question correctly."
-    "She asked an obscure question but you answer the question correctly."
+    "Elle a posé une question obscure, mais tu y réponds correctement."
 
 # game/Quiz.rpy:703
 translate french Laura_Quiz_Question_37429b7e:
@@ -814,7 +814,7 @@ translate french Laura_Quiz_Question_42935355:
 translate french Laura_Quiz_Question_d928fcad:
 
     # ch_l "Close enough."
-    ch_l "Close enough."
+    ch_l "Pas un pas de plus."
 
 # game/Quiz.rpy:729
 translate french Laura_Quiz_Question_67d9b205:
@@ -952,7 +952,7 @@ translate french Emma_StripStudy_Intro_010e5ade:
 translate french Emma_StripStudy_Intro_766f12ee:
 
     # ch_e "I could. . ."
-    ch_e "I could. . ."
+    ch_e "Je pourrais..."
 
 # game/Quiz.rpy:935
 translate french Emma_StripStudy_Intro_d18062a3:
@@ -970,7 +970,7 @@ translate french Emma_StripStudy_Intro_a01fbb2a:
 translate french Emma_StripStudy_Intro_fd5b7401:
 
     # ch_e "Would that interest you?" nointeract
-    ch_e "Would that interest you?" nointeract
+    ch_e "Cela t'intéresserait-il ?" nointeract
 
 # game/Quiz.rpy:1003
 translate french Emma_StripStudy_Intro_4cea1e0d:
@@ -982,31 +982,31 @@ translate french Emma_StripStudy_Intro_4cea1e0d:
 translate french Emma_StripStudy_Intro_e3e30abc:
 
     # ch_e "And you, [Party[1].Name]? Care to participate?"
-    ch_e "And you, [Party[1].Name]? Care to participate?"
+    ch_e "Et toi, [Party[1].Name] ? Tu souhaites participer ?"
 
 # game/Quiz.rpy:1013
 translate french Emma_StripStudy_Intro_edf11ce8:
 
     # ch_e "Well I suppose we can. . . postone that."
-    ch_e "Well I suppose we can. . . postone that."
+    ch_e "Eh bien, je suppose que nous pouvons.... reporter cela."
 
 # game/Quiz.rpy:1017
 translate french Emma_StripStudy_Intro_ffa82cea:
 
     # ch_e "Well I suppose that answers that."
-    ch_e "Well I suppose that answers that."
+    ch_e "Eh bien, je suppose que cela répond à cette question."
 
 # game/Quiz.rpy:1021
 translate french Emma_StripStudy_Intro_7fbc20bf:
 
     # ch_e "I suppose you can just watch then. . ."
-    ch_e "I suppose you can just watch then. . ."
+    ch_e "Je suppose que tu peux juste regarder alors..."
 
 # game/Quiz.rpy:1025
 translate french Emma_StripStudy_Intro_1a5ce57b:
 
     # ch_r "I guess I could join in."
-    ch_r "I guess I could join in."
+    ch_r "Je suppose que je pourrais participer."
 
 # game/Quiz.rpy:1027
 translate french Emma_StripStudy_Intro_8547aa7b:
@@ -1018,7 +1018,7 @@ translate french Emma_StripStudy_Intro_8547aa7b:
 translate french Emma_StripStudy_Intro_4330a045:
 
     # ch_l "Yeah, ok. . ."
-    ch_l "Yeah, ok. . ."
+    ch_l "Ouais, ok..."
 
 translate french strings:
 
@@ -1564,7 +1564,7 @@ translate french strings:
 
     # game/Quiz.rpy:931
     old "Yes? . ."
-    new "Yes? . ."
+    new "Oui ?.."
 
     # game/Quiz.rpy:981
     old "Definitely!"
@@ -1573,4 +1573,8 @@ translate french strings:
     # game/Quiz.rpy:981
     old "Yeah."
     new "Ouais."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

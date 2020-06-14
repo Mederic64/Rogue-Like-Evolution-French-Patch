@@ -46,7 +46,7 @@ translate french Emma_Chat_Minimal_a54dd5f7:
 translate french Emma_Chat_Minimal_f1be6470:
 
     # ch_e "With a student? You should know better than that, [EmmaX.Petname]."
-    ch_e "With a student? You should know better than that, [EmmaX.Petname]."
+    ch_e "Avec un étudiant ? Tu devrais savoir qu'on ne peut pas, [EmmaX.Petname]."
 
 # game/Emma_Chat.rpy:29
 translate french Emma_Chat_Minimal_3d0bc459:
@@ -58,7 +58,7 @@ translate french Emma_Chat_Minimal_3d0bc459:
 translate french Emma_Chat_Minimal_6f8c79c1:
 
     # ch_e "Well that certainly doesn't seem appropriate."
-    ch_e "Well that certainly doesn't seem appropriate."
+    ch_e "Cela ne semble certainement pas approprié."
 
 # game/Emma_Chat.rpy:32
 translate french Emma_Chat_Minimal_695e1c4f:
@@ -70,7 +70,7 @@ translate french Emma_Chat_Minimal_695e1c4f:
 translate french Emma_Chat_Minimal_cd447ad5:
 
     # ch_e "I'm not sure that would be appropriate at the moment."
-    ch_e "I'm not sure that would be appropriate at the moment."
+    ch_e "Je ne suis pas sûr que ce soit approprié pour le moment."
 
 # game/Emma_Chat.rpy:41
 translate french Emma_Chat_Minimal_6467633a:
@@ -82,13 +82,13 @@ translate french Emma_Chat_Minimal_6467633a:
 translate french Emma_Chat_Minimal_26fd41dc:
 
     # ch_e "I'm not sure that's an appropriate discussion at the moment."
-    ch_e "I'm not sure that's an appropriate discussion at the moment."
+    ch_e "Je ne suis pas sûr que ce soit une discussion appropriée pour le moment."
 
 # game/Emma_Chat.rpy:45
 translate french Emma_Chat_Minimal_3af4f1dd:
 
     # ch_e "I don't see why not."
-    ch_e "I don't see why not."
+    ch_e "Je ne vois aucune raison de refuser."
 
 # game/Emma_Chat.rpy:48
 translate french Emma_Chat_Minimal_43fceeb0:
@@ -142,7 +142,7 @@ translate french Emma_Chat_Minimal_10996afb:
 translate french Emma_Chat_Minimal_f3145a53:
 
     # ch_e "I have some. . . business to attend to."
-    ch_e "I have some. . . business to attend to."
+    ch_e "J'en des... affaires à régler."
 
 # game/Emma_Chat.rpy:69
 translate french Emma_Chat_Minimal_cd469b2a:
@@ -160,7 +160,7 @@ translate french Emma_Chat_Minimal_0b03b46c:
 translate french Emma_Relationship_6bd6781e:
 
     # ch_e "What did you want to talk about?" nointeract
-    ch_e "What did you want to talk about?" nointeract
+    ch_e "De quoi voulais-tu parler ?" nointeract
 
 # game/Emma_Chat.rpy:85
 translate french Emma_Relationship_b546cd94:
@@ -172,7 +172,7 @@ translate french Emma_Relationship_b546cd94:
 translate french Emma_Relationship_86986109:
 
     # ch_e "Not today, little fly."
-    ch_e "Not today, little fly."
+    ch_e "Pas aujourd'hui, petite mouche."
 
 # game/Emma_Chat.rpy:93
 translate french Emma_Relationship_f07d9fc6:
@@ -184,7 +184,7 @@ translate french Emma_Relationship_f07d9fc6:
 translate french Emma_Relationship_8c864eed:
 
     # ch_p "I'm not anymore."
-    ch_p "I'm not anymore."
+    ch_p "Je ne le suis plus."
 
 # game/Emma_Chat.rpy:104
 translate french Emma_Relationship_164ad414:
@@ -418,7 +418,7 @@ translate french Emma_OtherWoman_fc1052ec:
 translate french Emma_OtherWoman_3af4f1dd:
 
     # ch_e "I don't see why not."
-    ch_e "I don't see why not."
+    ch_e "Je ne vois aucune raison de refuser."
 
 # game/Emma_Chat.rpy:312
 translate french Emma_OtherWoman_78327641:
@@ -442,7 +442,7 @@ translate french Emma_About_3bb84c6b:
 translate french Emma_About_0aadc708:
 
     # ch_e "What do I think about her? Well. . ."
-    ch_e "What do I think about her? Well. . ."
+    ch_e "Qu'est-ce que je pense d'elle ? Bah..."
 
 # game/Emma_Chat.rpy:329
 translate french Emma_About_43e3cbfd:
@@ -550,7 +550,7 @@ translate french Emma_About_4993f3c6:
 translate french Emma_About_5392f267:
 
     # ch_e "That little bitch?"
-    ch_e "That little bitch?"
+    ch_e "Cette petite salope ?"
 
 # game/Emma_Chat.rpy:367
 translate french Emma_About_12f55e65:
@@ -622,7 +622,7 @@ translate french Emma_Monogamy_9cc70221:
 translate french Emma_Monogamy_efbd31f4:
 
     # ch_e "I suppose I could restain myself. . ."
-    ch_e "I suppose I could restain myself. . ."
+    ch_e "Je suppose que je pourrais me retenir..."
 
 # game/Emma_Chat.rpy:408
 translate french Emma_Monogamy_091cbb5a:
@@ -658,7 +658,7 @@ translate french Emma_Monogamy_405fc93f_1:
 translate french Emma_Monogamy_82c55651:
 
     # ch_e "If I must. . ."
-    ch_e "If I must. . ."
+    ch_e "Si je dois..."
 
 # game/Emma_Chat.rpy:438
 translate french Emma_Monogamy_fb010a1c:
@@ -700,7 +700,7 @@ translate french Emma_Monogamy_7f9596ff:
 translate french Emma_Jumped_c318cc06:
 
     # ch_p "Hey, Remember that time you threw yourself at me?"
-    ch_p "Hey, Remember that time you threw yourself at me?"
+    ch_p "Hé, tu te souviens de la fois où tu t'es jeté sur moi ?"
 
 # game/Emma_Chat.rpy:476
 translate french Emma_Jumped_3d9c2948:
@@ -946,7 +946,7 @@ translate french Emma_SexChat_9b25565b:
 translate french Emma_SexChat_38f59638:
 
     # ch_e "I really enjoy it too. . ."
-    ch_e "I really enjoy it too. . ."
+    ch_e "J'apprécie aussi beaucoup..."
 
 # game/Emma_Chat.rpy:653
 translate french Emma_SexChat_a8a9da19:
@@ -1126,19 +1126,19 @@ translate french Emma_SexChat_d287bdf3:
 translate french Emma_SexChat_4ffce7a5:
 
     # ch_e "I like when you fuck me hard."
-    ch_e "I like when you fuck me hard."
+    ch_e "J'aime quand tu me baises fort."
 
 # game/Emma_Chat.rpy:765
 translate french Emma_SexChat_386e6a66:
 
     # ch_e "I like when you lick my pussy."
-    ch_e "I like when you lick my pussy."
+    ch_e "J'aime quand tu me lèches la chatte."
 
 # game/Emma_Chat.rpy:767
 translate french Emma_SexChat_95ef74c4:
 
     # ch_e "I like when you finger me."
-    ch_e "I like when you finger me."
+    ch_e "J'aime quand tu me doigtes."
 
 # game/Emma_Chat.rpy:769
 translate french Emma_SexChat_e5351f5c:
@@ -1174,13 +1174,13 @@ translate french Emma_SexChat_a8ca658f:
 translate french Emma_SexChat_b9138b88:
 
     # ch_e "You are good at sucking my tits."
-    ch_e "You are good at sucking my tits."
+    ch_e "Tu es bon pour sucer mes seins."
 
 # game/Emma_Chat.rpy:781
 translate french Emma_SexChat_bb74c205:
 
     # ch_e "You are good at fondling my tits."
-    ch_e "You are good at fondling my tits."
+    ch_e "Tu es doué pour caresser mes seins."
 
 # game/Emma_Chat.rpy:783
 translate french Emma_SexChat_7aada94d:
@@ -1252,7 +1252,7 @@ translate french Emma_SexChat_3723f357_1:
 translate french Emma_SexChat_980d77ac:
 
     # ch_e "If I feel like it."
-    ch_e "If I feel like it."
+    ch_e "Si j'en ai envie."
 
 # game/Emma_Chat.rpy:849
 translate french Emma_SexChat_9e7556db:
@@ -1312,7 +1312,7 @@ translate french Emma_SexChat_216f2c83:
 translate french Emma_SexChat_9db5c3d9:
 
     # ch_e "We'll see."
-    ch_e "We'll see."
+    ch_e "On va voir."
 
 # game/Emma_Chat.rpy:935
 translate french Emma_Chitchat_fadc8226:
@@ -1360,7 +1360,7 @@ translate french Emma_Chitchat_f52f08df:
 translate french Emma_Chitchat_d3ac3567:
 
     # ch_e "(sniff, sniff). . . huh, what's that smell? . ."
-    ch_e "(sniff, sniff). . . huh, what's that smell? . ."
+    ch_e "(sniff, sniff).. euh, c'est quoi cette odeur ?.."
 
 # game/Emma_Chat.rpy:1061
 translate french Emma_Chitchat_9df9cdde:
@@ -1462,13 +1462,13 @@ translate french Emma_Chitchat_9d521bd0:
 translate french Emma_Chitchat_eea849fd:
 
     # ch_p "Yeah? Was that okay?"
-    ch_p "Yeah? Was that okay?"
+    ch_p "Ouais ? C'était bien ?"
 
 # game/Emma_Chat.rpy:1102
 translate french Emma_Chitchat_5ad8d407:
 
     # ch_e "Yes, it was. . . intimate."
-    ch_e "Yes, it was. . . intimate."
+    ch_e "Oui, c'était... intime."
 
 # game/Emma_Chat.rpy:1106
 translate french Emma_Chitchat_78ca4f00:
@@ -1504,7 +1504,7 @@ translate french Emma_Chitchat_d6ed3b34:
 translate french Emma_Chitchat_4315752f:
 
     # ch_e "-unless you're interested in sharing."
-    ch_e "-unless you're interested in sharing."
+    ch_e "-à moins que tu ne sois intéressé à partager."
 
 # game/Emma_Chat.rpy:1127
 translate french Emma_Chitchat_054c8a3f:
@@ -1750,7 +1750,7 @@ translate french Emma_Chitchat_da09ed54:
 translate french Emma_Chitchat_d6563bf0:
 
     # ch_e "I can still feel you. . .running down the inside of my thigh."
-    ch_e "I can still feel you. . .running down the inside of my thigh."
+    ch_e "Je peux encore te sentir.... couler à l'intérieur de ma cuisse."
 
 # game/Emma_Chat.rpy:1288
 translate french Emma_Chitchat_04a09bcd:
@@ -1954,7 +1954,7 @@ translate french Emma_Chitchat_5624ebfe:
 translate french Emma_Names_f524a290:
 
     # ch_e "Oh? What would you like me to call you?" nointeract
-    ch_e "Oh? What would you like me to call you?" nointeract
+    ch_e "Comment veux-tu que je t'appelle ?" nointeract
 
 # game/Emma_Chat.rpy:1424
 translate french Emma_Names_342aa04d:
@@ -2176,7 +2176,7 @@ translate french Emma_Pet_dd881488:
 translate french Emma_Pet_4e5aedc3:
 
     # ch_e "Only for you though. . ."
-    ch_e "Only for you though. . ."
+    ch_e "Mais seulement pour toi..."
 
 # game/Emma_Chat.rpy:1590
 translate french Emma_Pet_58c41d57:
@@ -2212,7 +2212,7 @@ translate french Emma_Pet_3658e876:
 translate french Emma_Pet_f02b95bc:
 
     # ch_e "Well. . . alright."
-    ch_e "Well. . . alright."
+    ch_e "Bah... d'accord."
 
 # game/Emma_Chat.rpy:1618
 translate french Emma_Pet_6c0bdb50:
@@ -2248,7 +2248,7 @@ translate french Emma_Pet_60b5526e:
 translate french Emma_Rename_a65d0335:
 
     # ch_e "Yes, and?"
-    ch_e "Yes, and?"
+    ch_e "Oui, et ?"
 
 # game/Emma_Chat.rpy:1656
 translate french Emma_Rename_8bfa1569:
@@ -2260,7 +2260,7 @@ translate french Emma_Rename_8bfa1569:
 translate french Emma_Rename_cf4e0296:
 
     # ch_e "Naughty boy. . ."
-    ch_e "Naughty boy. . ."
+    ch_e "Vilain garçon.."
 
 # game/Emma_Chat.rpy:1666
 translate french Emma_Rename_cec170b2:
@@ -2296,25 +2296,25 @@ translate french Emma_Personality_3cfac7a0:
 translate french Emma_Personality_e1f0c127:
 
     # "Any time you go over the limit in a given stat, the excess will spill over into the chosen stat instead."
-    "Any time you go over the limit in a given stat, the excess will spill over into the chosen stat instead."
+    "Chaque fois que tu dépasses la limite d'une statistique donnée, l'excès se répercute sur la statistique choisie."
 
 # game/Emma_Chat.rpy:1693
 translate french Emma_Personality_a888509f:
 
     # "This will also impact which personality trait takes priority in dialog."
-    "This will also impact which personality trait takes priority in dialog."
+    "Cela aura également un impact sur le choix du trait de personnalité prioritaire dans le dialogue."
 
 # game/Emma_Chat.rpy:1694
 translate french Emma_Personality_bfc31f5e:
 
     # ch_e "Sure, what's up?" nointeract
-    ch_e "Sure, what's up?" nointeract
+    ch_e "Bien sûr, qu'est-ce qu'il y a ?" nointeract
 
 # game/Emma_Chat.rpy:1697
 translate french Emma_Personality_28bff007:
 
     # ch_p "If you really love me, could you please just do what I say?"
-    ch_p "If you really love me, could you please just do what I say?"
+    ch_p "Si tu m'aimes vraiment, pourrais-tu s'il te plaît faire ce que je te dis ?"
 
 # game/Emma_Chat.rpy:1698
 translate french Emma_Personality_703a33e4:
@@ -2326,7 +2326,7 @@ translate french Emma_Personality_703a33e4:
 translate french Emma_Personality_a78a6eae:
 
     # ch_p "If you really love me, could lighten up a bit, just have some fun?"
-    ch_p "If you really love me, could lighten up a bit, just have some fun?"
+    ch_p "Si tu m'aimes vraiment, tu pourrais te détendre un peu, juste t'amuser ?"
 
 # game/Emma_Chat.rpy:1702
 translate french Emma_Personality_145f4375:
@@ -2338,31 +2338,31 @@ translate french Emma_Personality_145f4375:
 translate french Emma_Personality_078973f9:
 
     # ch_p "I want you to be less inhibited."
-    ch_p "I want you to be less inhibited."
+    ch_p "Je veux que tu sois plus extravertie."
 
 # game/Emma_Chat.rpy:1707
 translate french Emma_Personality_546c3c48:
 
     # ch_e "If you say so."
-    ch_e "Si vous le dites."
+    ch_e "Si tu le dis."
 
 # game/Emma_Chat.rpy:1710
 translate french Emma_Personality_0f2cf842:
 
     # ch_p "I'd like you to learn to love me."
-    ch_p "I'd like you to learn to love me."
+    ch_p "J'aimerais que tu apprennes à m'aimer."
 
 # game/Emma_Chat.rpy:1711
 translate french Emma_Personality_3bd7a0a8:
 
     # ch_e "I'll try to."
-    ch_e "I'll try to."
+    ch_e "Je vais essayer."
 
 # game/Emma_Chat.rpy:1715
 translate french Emma_Personality_8de00de6:
 
     # ch_p "I know we're having fun, but couldn't you listen to me sometimes?"
-    ch_p "I know we're having fun, but couldn't you listen to me sometimes?"
+    ch_p "Je sais qu'on s'amuse, mais ne pourrais-tu pas m'écouter parfois ?"
 
 # game/Emma_Chat.rpy:1716
 translate french Emma_Personality_dea95ed1:
@@ -2374,7 +2374,7 @@ translate french Emma_Personality_dea95ed1:
 translate french Emma_Personality_e064ece1:
 
     # ch_p "I know we're having fun, but do you even care about me?"
-    ch_p "I know we're having fun, but do you even care about me?"
+    ch_p "Je sais qu'on s'amuse, mais est-ce que tu te soucies de moi au moins ?"
 
 # game/Emma_Chat.rpy:1721
 translate french Emma_Personality_e28cc13d:
@@ -2386,7 +2386,7 @@ translate french Emma_Personality_e28cc13d:
 translate french Emma_Personality_667b4829:
 
     # ch_p "You know what we talked about before? Nevermind that stuff."
-    ch_p "You know what we talked about before? Nevermind that stuff."
+    ch_p "Tu sais, le truc dont on a parlé ? Oublie tout ça."
 
 # game/Emma_Chat.rpy:1726
 translate french Emma_Personality_d180abe6:
@@ -2494,7 +2494,7 @@ translate french Emma_Summon_0cbd42a3:
 translate french Emma_Summon_27844306:
 
     # ch_e "I'm in my room, [EmmaX.Petname]."
-    ch_e "I'm in my room, [EmmaX.Petname]."
+    ch_e "Je suis dans ma chambre, [EmmaX.Petname]."
 
 # game/Emma_Chat.rpy:1818
 translate french Emma_Summon_06295326:
@@ -2524,19 +2524,19 @@ translate french Emma_Summon_ca821105:
 translate french Emma_Summon_2fc80ddb:
 
     # ch_e "You could always come over here, [EmmaX.Petname]."
-    ch_e "You could always come over here, [EmmaX.Petname]."
+    ch_e "Tu peux toujours venir ici, [EmmaX.Petname]."
 
 # game/Emma_Chat.rpy:1835
 translate french Emma_Summon_aae1aa06:
 
     # ch_e "Again? Very well."
-    ch_e "Again? Very well."
+    ch_e "Encore ? Très bien."
 
 # game/Emma_Chat.rpy:1841
 translate french Emma_Summon_546a08be:
 
     # ch_e "I'll be waiting."
-    ch_e "I'll be waiting."
+    ch_e "Je t'attendrai."
 
 # game/Emma_Chat.rpy:1844
 translate french Emma_Summon_042c5a1e:
@@ -2548,7 +2548,7 @@ translate french Emma_Summon_042c5a1e:
 translate french Emma_Summon_c2b15f9c:
 
     # ch_e "Hmm, very well."
-    ch_e "Hmm, very well."
+    ch_e "Hmm, très bien."
 
 # game/Emma_Chat.rpy:1860
 translate french Emma_Summon_54200c2c:
@@ -2560,7 +2560,7 @@ translate french Emma_Summon_54200c2c:
 translate french Emma_Summon_546a08be_1:
 
     # ch_e "I'll be waiting."
-    ch_e "I'll be waiting."
+    ch_e "Je t'attendrai."
 
 # game/Emma_Chat.rpy:1876
 translate french Emma_Summon_042c5a1e_1:
@@ -2680,7 +2680,7 @@ translate french Emma_Summon_cd36357c_2:
 translate french Emma_Summon_1b0176d8:
 
     # ch_e "You know, I'll just meet you in my room."
-    ch_e "You know, I'll just meet you in my room."
+    ch_e "Je te retrouve dans ma chambre."
 
 # game/Emma_Chat.rpy:1990
 translate french Emma_Summon_703dcee3:
@@ -2692,7 +2692,7 @@ translate french Emma_Summon_703dcee3:
 translate french Emma_Summon_82c55651:
 
     # ch_e "If I must. . ."
-    ch_e "If I must. . ."
+    ch_e "Si je dois..."
 
 # game/Emma_Chat.rpy:1996
 translate french Emma_Summon_7d43d52b:
@@ -2770,7 +2770,7 @@ translate french Emma_Leave_c2f35f96:
 translate french Emma_Leave_1189fe1a:
 
     # ch_e "I'm leaving as well."
-    ch_e "I'm leaving as well."
+    ch_e "Je pars aussi."
 
 # game/Emma_Chat.rpy:2080
 translate french Emma_Leave_60b76094:
@@ -2878,7 +2878,7 @@ translate french Emma_Leave_887405d8:
 translate french Emma_Leave_ec13aa83:
 
     # ch_e "I'll see you there."
-    ch_e "I'll see you there."
+    ch_e "Je t'y retrouve."
 
 # game/Emma_Chat.rpy:2202
 translate french Emma_Leave_8670e936:
@@ -2896,13 +2896,13 @@ translate french Emma_Leave_c8c2a8d5:
 translate french Emma_Leave_546a08be:
 
     # ch_e "I'll be waiting."
-    ch_e "I'll be waiting."
+    ch_e "Je t'attendrai."
 
 # game/Emma_Chat.rpy:2211
 translate french Emma_Leave_546a08be_1:
 
     # ch_e "I'll be waiting."
-    ch_e "I'll be waiting."
+    ch_e "Je t'attendrai."
 
 # game/Emma_Chat.rpy:2214
 translate french Emma_Leave_2f489112:
@@ -2926,7 +2926,7 @@ translate french Emma_Leave_b02b0d73_1:
 translate french Emma_Leave_1b0176d8:
 
     # ch_e "You know, I'll just meet you in my room."
-    ch_e "You know, I'll just meet you in my room."
+    ch_e "Je te retrouve dans ma chambre."
 
 # game/Emma_Chat.rpy:2230
 translate french Emma_Leave_3f3db103:
@@ -2974,7 +2974,7 @@ translate french Emma_Clothes_6e715653:
 translate french Emma_Clothes_01e2bd1a:
 
     # ch_e "I'll let you know when I care what you think."
-    ch_e "I'll let you know when I care what you think."
+    ch_e "Je te ferai savoir quand je me soucierai de ce que tu penses."
 
 # game/Emma_Chat.rpy:2279
 translate french Emma_Wardrobe_Menu_800089cb:
@@ -3070,7 +3070,7 @@ translate french Emma_Clothes_Outfits_042c5a1e_4:
 translate french Emma_Clothes_Outfits_3db47c53:
 
     # ch_e "Apparently so. . ."
-    ch_e "Apparently so. . ."
+    ch_e "Apparemment, oui..."
 
 # game/Emma_Chat.rpy:2491
 translate french Emma_Clothes_Outfits_a64c3654:
@@ -3166,7 +3166,7 @@ translate french Emma_Clothes_Outfits_9eb58d18:
 translate french Emma_Clothes_Over_3a9a822f:
 
     # ch_e "Certainly."
-    ch_e "Certainly."
+    ch_e "Avec joie."
 
 # game/Emma_Chat.rpy:2578
 translate french Emma_Clothes_Over_c09c5a2e:
@@ -3358,7 +3358,7 @@ translate french Emma_Clothes_Legs_3086def4:
 translate french Emma_Clothes_Legs_2ea8e4ed:
 
     # ch_e "I know."
-    ch_e "I know."
+    ch_e "Je sais."
 
 # game/Emma_Chat.rpy:2732
 translate french Emma_Clothes_Legs_a3dc06dc:
@@ -3400,7 +3400,7 @@ translate french Emma_NoPantiesOn_cc5d09da:
 translate french Emma_NoPantiesOn_cb993a51:
 
     # ch_e "I didn't say that bothered me. . ."
-    ch_e "I didn't say that bothered me. . ."
+    ch_e "Je n'ai pas dit que cela me dérangeait.."
 
 # game/Emma_Chat.rpy:2765
 translate french Emma_NoPantiesOn_3a003c8a:
@@ -3418,7 +3418,7 @@ translate french Emma_NoPantiesOn_17c00616:
 translate french Emma_NoPantiesOn_ef84dd4e:
 
     # ch_e "Yeah, I guess."
-    ch_e "Yeah, I guess."
+    ch_e "Ouais, je pense aussi."
 
 # game/Emma_Chat.rpy:2771
 translate french Emma_NoPantiesOn_ed27f21e:
@@ -3430,7 +3430,7 @@ translate french Emma_NoPantiesOn_ed27f21e:
 translate french Emma_NoPantiesOn_ef84dd4e_1:
 
     # ch_e "Yeah, I guess."
-    ch_e "Yeah, I guess."
+    ch_e "Ouais, je pense aussi."
 
 # game/Emma_Chat.rpy:2775
 translate french Emma_NoPantiesOn_deca3f55:
@@ -3538,7 +3538,7 @@ translate french Emma_Clothes_Under_849c8cbd:
 translate french Emma_Clothes_Under_e2b42eb7:
 
     # "She lets her [Line] fall to the ground."
-    "She lets her [Line] fall to the ground."
+    "Elle laisse sa [Line] tomber au sol."
 
 # game/Emma_Chat.rpy:2844
 translate french Emma_Clothes_Under_eb964a61:
@@ -3772,7 +3772,7 @@ translate french Emma_Clothes_Under_282152ad_11:
 translate french Emma_Clothes_Misc_5d672a58:
 
     # ch_e "Like this?"
-    ch_e "Like this?"
+    ch_e "Comme ça ?"
 
 # game/Emma_Chat.rpy:3037
 translate french Emma_Clothes_Misc_f953b0fd:
@@ -3784,7 +3784,7 @@ translate french Emma_Clothes_Misc_f953b0fd:
 translate french Emma_Clothes_Misc_20e46a05:
 
     # ch_e "You think?"
-    ch_e "You think?"
+    ch_e "Tu crois ?"
 
 # game/Emma_Chat.rpy:3044
 translate french Emma_Clothes_Misc_1823e4b3:
@@ -4036,7 +4036,7 @@ translate french strings:
 
     # game/Emma_Chat.rpy:79
     old "About that talk we had before. . ."
-    new "About that talk we had before. . ."
+    new "A propos de ce qu'on a discuté plus tôt..."
 
     # game/Emma_Chat.rpy:79
     old "Never Mind"
@@ -4072,7 +4072,7 @@ translate french strings:
 
     # game/Emma_Chat.rpy:229
     old "You said you wanted me to be your Master?"
-    new "You said you wanted me to be your Master?"
+    new "Tu as dit que tu voulais que je sois ton Maître ?"
 
     # game/Emma_Chat.rpy:260
     old "She said I can be with you too."
@@ -4152,11 +4152,11 @@ translate french strings:
 
     # game/Emma_Chat.rpy:582
     old "About getting Jumped"
-    new "About getting Jumped"
+    new "A propos de me sauter dessus"
 
     # game/Emma_Chat.rpy:582
     old "About when you masturbate"
-    new "About when you masturbate"
+    new "Quand tu te masturbes"
 
     # game/Emma_Chat.rpy:582
     old "Have you considered maybe having some fun in public?"
@@ -4216,7 +4216,7 @@ translate french strings:
 
     # game/Emma_Chat.rpy:923
     old "Anything else?"
-    new "Anything else?"
+    new "Autre chose ?"
 
     # game/Emma_Chat.rpy:1120
     old "Hey. . .when you're good, you're good."
@@ -4925,4 +4925,8 @@ translate french strings:
     # game/Emma_Chat.rpy:3030
     old "Put your gloves on."
     new "Put your gloves on."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

@@ -4,7 +4,7 @@
 translate french Rogue_Handjob_e4a9a363:
 
     # ch_r "You want me to rub your cock, with my hand?"
-    ch_r "Tu veux que je te frotte la bite ?"
+    ch_r "Tu veux que je te branle la bite, avec ma main ?"
 
 # game/Rogue_HJ.rpy:51
 translate french Rogue_Handjob_1f17be07:
@@ -16,7 +16,7 @@ translate french Rogue_Handjob_1f17be07:
 translate french Rogue_Handjob_140f7eff:
 
     # ch_r "If that's what you want, [RogueX.Petname]. . ."
-    ch_r "If that's what you want, [RogueX.Petname]. . ."
+    ch_r "Si c'est ce que tu veux, [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:57
 translate french Rogue_Handjob_3ee5a71b:
@@ -34,13 +34,13 @@ translate french Rogue_Handjob_9286b50d:
 translate french Rogue_Handjob_ab69c1be:
 
     # ch_r "That's really what you want?"
-    ch_r "That's really what you want?"
+    ch_r "C'est vraiment ce que tu veux ?"
 
 # game/Rogue_HJ.rpy:70
 translate french Rogue_Handjob_8f19bec4:
 
     # ch_r "Ok, I guess this is private enough. . ."
-    ch_r "Ok, I guess this is private enough. . ."
+    ch_r "Ok, je suppose que c'est assez privé..."
 
 # game/Rogue_HJ.rpy:73
 translate french Rogue_Handjob_97456cfd:
@@ -58,7 +58,7 @@ translate french Rogue_Handjob_67572ff9:
 translate french Rogue_Handjob_1d557ea1:
 
     # ch_r "So you'd like another handy?"
-    ch_r "So you'd like another handy?"
+    ch_r "Donc tu voudrais un coup de main ?"
 
 # game/Rogue_HJ.rpy:96
 translate french Rogue_Handjob_67572ff9_1:
@@ -100,13 +100,13 @@ translate french Rogue_Handjob_95b8ea1d:
 translate french Rogue_Handjob_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:133
 translate french Rogue_Handjob_8ea10f23:
 
     # ch_r "I already told you this is too public!"
-    ch_r "I already told you this is too public!"
+    ch_r "Je t'ai déjà dit que c'est trop public !"
 
 # game/Rogue_HJ.rpy:136
 translate french Rogue_Handjob_a2ec22c4:
@@ -118,7 +118,7 @@ translate french Rogue_Handjob_a2ec22c4:
 translate french Rogue_Handjob_ed29f41a:
 
     # ch_r "Not, right now [RogueX.Petname]. . ."
-    ch_r "Not, right now [RogueX.Petname]. . ."
+    ch_r "Non, pour l'instant [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:144
 translate french Rogue_Handjob_887364f5:
@@ -130,7 +130,7 @@ translate french Rogue_Handjob_887364f5:
 translate french Rogue_Handjob_309c0834:
 
     # ch_r "I'll give it some thought, [RogueX.Petname]."
-    ch_r "I'll give it some thought, [RogueX.Petname]."
+    ch_r "Je vais y réfléchir, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:170
 translate french Rogue_Handjob_67572ff9_3:
@@ -148,7 +148,7 @@ translate french Rogue_Handjob_c354af74:
 translate french Rogue_Handjob_b7b42bdc:
 
     # ch_r "I just don't want to, [RogueX.Petname]."
-    ch_r "I just don't want to, [RogueX.Petname]."
+    ch_r "Je n'en ai pas envie, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:202
 translate french Rogue_Handjob_2595a2d7:
@@ -160,7 +160,7 @@ translate french Rogue_Handjob_2595a2d7:
 translate french Rogue_Handjob_45cff248:
 
     # ch_r "I really don't think this is the right place for that!"
-    ch_r "I really don't think this is the right place for that!"
+    ch_r "Je ne pense vraiment pas que ce soit le bon endroit pour ça !"
 
 # game/Rogue_HJ.rpy:217
 translate french Rogue_Handjob_d12b8db9:
@@ -172,7 +172,7 @@ translate french Rogue_Handjob_d12b8db9:
 translate french Rogue_Handjob_14b634f3:
 
     # ch_r "I'd really rather not."
-    ch_r "I'd really rather not."
+    ch_r "Je ne préfère vraiment pas."
 
 # game/Rogue_HJ.rpy:250
 translate french Rogue_HJ_Prep_edfb429e:
@@ -196,7 +196,7 @@ translate french Rogue_HJ_Prep_df0a4710:
 translate french Rogue_HJ_Prep_062cbbfc:
 
     # ch_p "Oooh, that's good, [RogueX.Pet]."
-    ch_p "Oooh, that's good, [RogueX.Pet]."
+    ch_p "Oooh, c'est bien, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:264
 translate french Rogue_HJ_Prep_df0a4710_1:
@@ -208,25 +208,25 @@ translate french Rogue_HJ_Prep_df0a4710_1:
 translate french Rogue_HJ_Prep_f5191e11:
 
     # ch_p "Let's not do that for now, [RogueX.Pet]."
-    ch_p "Let's not do that for now, [RogueX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:273
 translate french Rogue_HJ_Prep_afae71eb:
 
     # "[RogueX.Name] puts it down."
-    "[RogueX.Name] puts it down."
+    "[RogueX.Name] le pose."
 
 # game/Rogue_HJ.rpy:319
 translate french Rogue_HJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Rogue_HJ.rpy:325
 translate french Rogue_HJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Rogue_HJ.rpy:331
 translate french Rogue_HJ_Cycle_dbab1d12:
@@ -244,7 +244,7 @@ translate french Rogue_HJ_Cycle_b032f1d0:
 translate french Rogue_HJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Rogue_HJ.rpy:408
 translate french Rogue_HJ_Cycle_83673efb:
@@ -262,13 +262,13 @@ translate french Rogue_HJ_Cycle_2c55fb6c:
 translate french Rogue_HJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_HJ.rpy:460
 translate french Rogue_HJ_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_HJ.rpy:466
 translate french Rogue_HJ_Cycle_054b65ff:
@@ -280,13 +280,13 @@ translate french Rogue_HJ_Cycle_054b65ff:
 translate french Rogue_HJ_Cycle_dd9e97ad:
 
     # ch_r "Are you getting close here? I'm getting a little sore."
-    ch_r "Are you getting close here? I'm getting a little sore."
+    ch_r "Tu vas bientôt jouir ? Je commence à avoir un peu mal."
 
 # game/Rogue_HJ.rpy:482
 translate french Rogue_HJ_Cycle_fdced41e:
 
     # ch_r "I'm getting rug-burn here [RogueX.Petname]. Can we do something else?" nointeract
-    ch_r "I'm getting rug-burn here [RogueX.Petname]. Can we do something else?" nointeract
+    ch_r "Ma main me brûle, [RogueX.Petname]. Pouvons-nous faire autre chose ?" nointeract
 
 # game/Rogue_HJ.rpy:489
 translate french Rogue_HJ_Cycle_b032f1d0_1:
@@ -298,37 +298,37 @@ translate french Rogue_HJ_Cycle_b032f1d0_1:
 translate french Rogue_HJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Rogue_HJ.rpy:506
 translate french Rogue_HJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Rogue_HJ.rpy:507
 translate french Rogue_HJ_Cycle_89ba3764:
 
     # ch_r "Well if that's your attitude you can handle your own business."
-    ch_r "Well if that's your attitude you can handle your own business."
+    ch_r "Bon si tu le prends comme ça, tu peux te débrouiller."
 
 # game/Rogue_HJ.rpy:520
 translate french Rogue_HJ_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_HJ.rpy:522
 translate french Rogue_HJ_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_HJ.rpy:527
 translate french Rogue_HJ_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_HJ.rpy:545
 translate french Rogue_HJ_After_073c469e:
@@ -346,7 +346,7 @@ translate french Rogue_HJ_After_04858299:
 translate french Rogue_HJ_After_e4c35e32:
 
     # ch_r "Well, I hope that got your rocks off."
-    ch_r "Well, I hope that got your rocks off."
+    ch_r "J'espère que tu as pris ton pied."
 
 # game/Rogue_HJ.rpy:557
 translate french Rogue_HJ_After_93cbcce2:
@@ -358,13 +358,13 @@ translate french Rogue_HJ_After_93cbcce2:
 translate french Rogue_HJ_After_cd4c684a:
 
     # ch_r "Mmm, so what else did you have in mind?"
-    ch_r "Mmm, so what else did you have in mind?"
+    ch_r "Mmm, alors qu'as-tu d'autre à l'esprit ?"
 
 # game/Rogue_HJ.rpy:615
 translate french Rogue_Titjob_3584f1e3:
 
     # ch_r "You want me to rub your cock with my breasts?"
-    ch_r "Tu veux que je te frotte la bite avec mes seins ?"
+    ch_r "Tu veux que je te branle la bite avec mes seins ?"
 
 # game/Rogue_HJ.rpy:618
 translate french Rogue_Titjob_8838fc28:
@@ -376,7 +376,7 @@ translate french Rogue_Titjob_8838fc28:
 translate french Rogue_Titjob_2fdb9b97:
 
     # ch_r "My hand wasn't enough?"
-    ch_r "My hand wasn't enough?"
+    ch_r "Ma main n'a pas suffi ?"
 
 # game/Rogue_HJ.rpy:632
 translate french Rogue_Titjob_b4baf707:
@@ -388,7 +388,7 @@ translate french Rogue_Titjob_b4baf707:
 translate french Rogue_Titjob_a21176eb:
 
     # ch_r "If that's what you want. . ."
-    ch_r "If that's what you want. . ."
+    ch_r "Si c'est ce que tu veux..."
 
 # game/Rogue_HJ.rpy:638
 translate french Rogue_Titjob_6746c323:
@@ -406,13 +406,13 @@ translate french Rogue_Titjob_ab3d9adb:
 translate french Rogue_Titjob_5032d451:
 
     # ch_r "This isn't going to become a habit, will it?"
-    ch_r "This isn't going to become a habit, will it?"
+    ch_r "Ca ne va pas devenir une habitude, si ?"
 
 # game/Rogue_HJ.rpy:650
 translate french Rogue_Titjob_8f19bec4:
 
     # ch_r "Ok, I guess this is private enough. . ."
-    ch_r "Ok, I guess this is private enough. . ."
+    ch_r "Ok, je suppose que c'est assez privé..."
 
 # game/Rogue_HJ.rpy:653
 translate french Rogue_Titjob_c1129541:
@@ -430,7 +430,7 @@ translate french Rogue_Titjob_67572ff9:
 translate french Rogue_Titjob_811653af:
 
     # ch_r "So you'd like another titjob?"
-    ch_r "So you'd like another titjob?"
+    ch_r "Alors, tu veux que je te branle avec mes nichons ?"
 
 # game/Rogue_HJ.rpy:675
 translate french Rogue_Titjob_67572ff9_1:
@@ -472,7 +472,7 @@ translate french Rogue_Titjob_00d4de2a:
 translate french Rogue_Titjob_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:712
 translate french Rogue_Titjob_00d4de2a_1:
@@ -490,13 +490,13 @@ translate french Rogue_Titjob_ba668d3d:
 translate french Rogue_Titjob_ed29f41a:
 
     # ch_r "Not, right now [RogueX.Petname]. . ."
-    ch_r "Not, right now [RogueX.Petname]. . ."
+    ch_r "Non, pour l'instant [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:723
 translate french Rogue_Titjob_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:727
 translate french Rogue_Titjob_3f95e385:
@@ -526,7 +526,7 @@ translate french Rogue_Titjob_98b2d926:
 translate french Rogue_Titjob_a88dffeb:
 
     # ch_r "Maybe you'd settle for a handy?"
-    ch_r "Maybe you'd settle for a handy?"
+    ch_r "Pt'être que tu préférerais une branlette ?"
 
 # game/Rogue_HJ.rpy:778
 translate french Rogue_Titjob_c19e85a3:
@@ -562,13 +562,13 @@ translate french Rogue_Titjob_80f9fda7:
 translate french Rogue_Titjob_860f9ab1:
 
     # ch_r "You really expect me to do that here? You realize how. . . exposed that would be?"
-    ch_r "You really expect me to do that here? You realize how. . . exposed that would be?"
+    ch_r "Tu penses vraiment que je vais faire ça ici ? Tu réalises à quel point c'est... exposé ?"
 
 # game/Rogue_HJ.rpy:836
 translate french Rogue_Titjob_4dc9d358:
 
     # ch_r "I think I'll let you know when I want you touching these again."
-    ch_r "I think I'll let you know when I want you touching these again."
+    ch_r "Je pense que je te ferai savoir quand je voudrais que tu les touches à nouveau."
 
 # game/Rogue_HJ.rpy:839
 translate french Rogue_Titjob_279c188f:
@@ -604,7 +604,7 @@ translate french Rogue_TJ_Prep_df0a4710:
 translate french Rogue_TJ_Prep_f5191e11:
 
     # ch_p "Let's not do that for now, [RogueX.Pet]."
-    ch_p "Let's not do that for now, [RogueX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:887
 translate french Rogue_TJ_Prep_51e1456b:
@@ -616,13 +616,13 @@ translate french Rogue_TJ_Prep_51e1456b:
 translate french Rogue_TJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Rogue_HJ.rpy:939
 translate french Rogue_TJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Rogue_HJ.rpy:945
 translate french Rogue_TJ_Cycle_dbab1d12:
@@ -640,7 +640,7 @@ translate french Rogue_TJ_Cycle_b032f1d0:
 translate french Rogue_TJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Rogue_HJ.rpy:1022
 translate french Rogue_TJ_Cycle_83673efb:
@@ -658,13 +658,13 @@ translate french Rogue_TJ_Cycle_2c55fb6c:
 translate french Rogue_TJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_HJ.rpy:1074
 translate french Rogue_TJ_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_HJ.rpy:1080
 translate french Rogue_TJ_Cycle_054b65ff:
@@ -676,13 +676,13 @@ translate french Rogue_TJ_Cycle_054b65ff:
 translate french Rogue_TJ_Cycle_dd9e97ad:
 
     # ch_r "Are you getting close here? I'm getting a little sore."
-    ch_r "Are you getting close here? I'm getting a little sore."
+    ch_r "Tu vas bientôt jouir ? Je commence à avoir un peu mal."
 
 # game/Rogue_HJ.rpy:1096
 translate french Rogue_TJ_Cycle_fdced41e:
 
     # ch_r "I'm getting rug-burn here [RogueX.Petname]. Can we do something else?" nointeract
-    ch_r "I'm getting rug-burn here [RogueX.Petname]. Can we do something else?" nointeract
+    ch_r "Ma main me brûle, [RogueX.Petname]. Pouvons-nous faire autre chose ?" nointeract
 
 # game/Rogue_HJ.rpy:1103
 translate french Rogue_TJ_Cycle_b032f1d0_1:
@@ -694,37 +694,37 @@ translate french Rogue_TJ_Cycle_b032f1d0_1:
 translate french Rogue_TJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Rogue_HJ.rpy:1120
 translate french Rogue_TJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Rogue_HJ.rpy:1121
 translate french Rogue_TJ_Cycle_89ba3764:
 
     # ch_r "Well if that's your attitude you can handle your own business."
-    ch_r "Well if that's your attitude you can handle your own business."
+    ch_r "Bon si tu le prends comme ça, tu peux te débrouiller."
 
 # game/Rogue_HJ.rpy:1134
 translate french Rogue_TJ_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_HJ.rpy:1136
 translate french Rogue_TJ_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_HJ.rpy:1141
 translate french Rogue_TJ_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_HJ.rpy:1160
 translate french Rogue_TJ_After_c1bcbf17:
@@ -748,7 +748,7 @@ translate french Rogue_TJ_After_acd3da59:
 translate french Rogue_TJ_After_cd4c684a:
 
     # ch_r "Mmm, so what else did you have in mind?"
-    ch_r "Mmm, so what else did you have in mind?"
+    ch_r "Mmm, alors qu'as-tu d'autre à l'esprit ?"
 
 # game/Rogue_HJ.rpy:1218
 translate french Rogue_Blowjob_28504a84:
@@ -760,7 +760,7 @@ translate french Rogue_Blowjob_28504a84:
 translate french Rogue_Blowjob_2fdb9b97:
 
     # ch_r "My hand wasn't enough?"
-    ch_r "My hand wasn't enough?"
+    ch_r "Ma main n'a pas suffi ?"
 
 # game/Rogue_HJ.rpy:1232
 translate french Rogue_Blowjob_0c7a9f31:
@@ -790,19 +790,19 @@ translate french Rogue_Blowjob_1ae84000:
 translate french Rogue_Blowjob_fc2201c9:
 
     # ch_r "You want me to do that again?"
-    ch_r "You want me to do that again?"
+    ch_r "Tu veux que je le refasse ?"
 
 # game/Rogue_HJ.rpy:1250
 translate french Rogue_Blowjob_8f19bec4:
 
     # ch_r "Ok, I guess this is private enough. . ."
-    ch_r "Ok, I guess this is private enough. . ."
+    ch_r "Ok, je suppose que c'est assez privé..."
 
 # game/Rogue_HJ.rpy:1253
 translate french Rogue_Blowjob_77b80010:
 
     # ch_r "Mmm, again? [[stretches her jaw]"
-    ch_r "Mmm, again? [[stretches her jaw]"
+    ch_r "Mmm, encore ? [[étire sa mâchoire]"
 
 # game/Rogue_HJ.rpy:1263
 translate french Rogue_Blowjob_67572ff9:
@@ -814,7 +814,7 @@ translate french Rogue_Blowjob_67572ff9:
 translate french Rogue_Blowjob_846339b2:
 
     # ch_r "So you'd like another blowjob?"
-    ch_r "So you'd like another blowjob?"
+    ch_r "Donc tu veux une autre pipe ?"
 
 # game/Rogue_HJ.rpy:1277
 translate french Rogue_Blowjob_67572ff9_1:
@@ -856,13 +856,13 @@ translate french Rogue_Blowjob_cd6cab14:
 translate french Rogue_Blowjob_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:1314
 translate french Rogue_Blowjob_8ea10f23:
 
     # ch_r "I already told you this is too public!"
-    ch_r "I already told you this is too public!"
+    ch_r "Je t'ai déjà dit que c'est trop public !"
 
 # game/Rogue_HJ.rpy:1317
 translate french Rogue_Blowjob_dd1bfbb1:
@@ -874,13 +874,13 @@ translate french Rogue_Blowjob_dd1bfbb1:
 translate french Rogue_Blowjob_ed29f41a:
 
     # ch_r "Not, right now [RogueX.Petname]. . ."
-    ch_r "Not, right now [RogueX.Petname]. . ."
+    ch_r "Non, pour l'instant [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:1325
 translate french Rogue_Blowjob_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:1329
 translate french Rogue_Blowjob_325f4eb5:
@@ -898,7 +898,7 @@ translate french Rogue_Blowjob_67572ff9_3:
 translate french Rogue_Blowjob_a88dffeb:
 
     # ch_r "Maybe you'd settle for a handy?"
-    ch_r "Maybe you'd settle for a handy?"
+    ch_r "Pt'être que tu préférerais une branlette ?"
 
 # game/Rogue_HJ.rpy:1362
 translate french Rogue_Blowjob_c19e85a3:
@@ -910,7 +910,7 @@ translate french Rogue_Blowjob_c19e85a3:
 translate french Rogue_Blowjob_42c1f381:
 
     # ch_r "What do you say?" nointeract
-    ch_r "What do you say?" nointeract
+    ch_r "Qu'en dis-tu ?" nointeract
 
 # game/Rogue_HJ.rpy:1372
 translate french Rogue_Blowjob_00fd1d98:
@@ -940,7 +940,7 @@ translate french Rogue_Blowjob_10b3671b:
 translate french Rogue_Blowjob_bc75260f:
 
     # ch_r "You really expect me to do that here?"
-    ch_r "You really expect me to do that here?"
+    ch_r "Tu penses vraiment que je vais faire ça ici ?"
 
 # game/Rogue_HJ.rpy:1421
 translate french Rogue_Blowjob_69b6c892:
@@ -964,7 +964,7 @@ translate french Rogue_BJ_Prep_328f4151:
 translate french Rogue_BJ_Prep_baa32dc4:
 
     # "[RogueX.Name] continues licking at it."
-    "[RogueX.Name] continues licking at it."
+    "[RogueX.Name] continue de le lécher."
 
 # game/Rogue_HJ.rpy:1460
 translate french Rogue_BJ_Prep_0849cb7c:
@@ -982,25 +982,25 @@ translate french Rogue_BJ_Prep_df0a4710:
 translate french Rogue_BJ_Prep_f5191e11:
 
     # ch_p "Let's not do that for now, [RogueX.Pet]."
-    ch_p "Let's not do that for now, [RogueX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:1471
 translate french Rogue_BJ_Prep_afae71eb:
 
     # "[RogueX.Name] puts it down."
-    "[RogueX.Name] puts it down."
+    "[RogueX.Name] le pose."
 
 # game/Rogue_HJ.rpy:1524
 translate french Rogue_BJ_Cycle_461eea98:
 
     # "She dips her head a bit lower, and you move your hand out of the way."
-    "She dips her head a bit lower, and you move your hand out of the way."
+    "Elle enfonce sa tête plus profondément, et tu enlèves ta main."
 
 # game/Rogue_HJ.rpy:1535
 translate french Rogue_BJ_Cycle_1ab4ed67:
 
     # "She takes it to the root, and you move your hand out of the way."
-    "She takes it to the root, and you move your hand out of the way."
+    "Elle le prend à la base, et tu dégages ta main."
 
 # game/Rogue_HJ.rpy:1541
 translate french Rogue_BJ_Cycle_b5a26a6e:
@@ -1024,7 +1024,7 @@ translate french Rogue_BJ_Cycle_b032f1d0:
 translate french Rogue_BJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Rogue_HJ.rpy:1641
 translate french Rogue_BJ_Cycle_83673efb:
@@ -1042,13 +1042,13 @@ translate french Rogue_BJ_Cycle_2c55fb6c:
 translate french Rogue_BJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_HJ.rpy:1695
 translate french Rogue_BJ_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_HJ.rpy:1701
 translate french Rogue_BJ_Cycle_054b65ff:
@@ -1060,19 +1060,19 @@ translate french Rogue_BJ_Cycle_054b65ff:
 translate french Rogue_BJ_Cycle_00cdcfd2:
 
     # ch_r "Are you getting close here? My jaw's getting pretty sore."
-    ch_r "Are you getting close here? My jaw's getting pretty sore."
+    ch_r "Tu vas bientôt jouir ? Ma mâchoire commence à me faire mal."
 
 # game/Rogue_HJ.rpy:1717
 translate french Rogue_BJ_Cycle_98f966ad:
 
     # ch_r "I'm getting a little tired, [RogueX.Petname]. Can we do something else?"
-    ch_r "I'm getting a little tired, [RogueX.Petname]. Can we do something else?"
+    ch_r "Je suis un peu fatiguée, [RogueX.Petname]. Pouvons-nous faire autre chose ?"
 
 # game/Rogue_HJ.rpy:1718
 translate french Rogue_BJ_Cycle_a3630d6a:
 
     # ch_r "I'm getting a little tired, [RogueX.Petname]. Can we do something else?" nointeract
-    ch_r "I'm getting a little tired, [RogueX.Petname]. Can we do something else?" nointeract
+    ch_r "Je suis un peu fatiguée, [RogueX.Petname]. Pouvons-nous faire autre chose ?" nointeract
 
 # game/Rogue_HJ.rpy:1730
 translate french Rogue_BJ_Cycle_b032f1d0_1:
@@ -1084,37 +1084,37 @@ translate french Rogue_BJ_Cycle_b032f1d0_1:
 translate french Rogue_BJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Rogue_HJ.rpy:1751
 translate french Rogue_BJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Rogue_HJ.rpy:1752
 translate french Rogue_BJ_Cycle_89ba3764:
 
     # ch_r "Well if that's your attitude you can handle your own business."
-    ch_r "Well if that's your attitude you can handle your own business."
+    ch_r "Bon si tu le prends comme ça, tu peux te débrouiller."
 
 # game/Rogue_HJ.rpy:1765
 translate french Rogue_BJ_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_HJ.rpy:1767
 translate french Rogue_BJ_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_HJ.rpy:1772
 translate french Rogue_BJ_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_HJ.rpy:1791
 translate french Rogue_BJ_After_41b20b31:
@@ -1132,7 +1132,7 @@ translate french Rogue_BJ_After_b036fba1:
 translate french Rogue_BJ_After_e4c35e32:
 
     # ch_r "Well, I hope that got your rocks off."
-    ch_r "Well, I hope that got your rocks off."
+    ch_r "J'espère que tu as pris ton pied."
 
 # game/Rogue_HJ.rpy:1805
 translate french Rogue_BJ_After_fd4d66a7:
@@ -1144,7 +1144,7 @@ translate french Rogue_BJ_After_fd4d66a7:
 translate french Rogue_Dildo_Check_9e6339e4:
 
     # "You pull out a large rubber dildo. Lucky you remembered to keep it handy."
-    "You pull out a large rubber dildo. Lucky you remembered to keep it handy."
+    "Tu sors un gros gode en caoutchouc. Heureusement, tu as pensé à le garder à portée de main."
 
 # game/Rogue_HJ.rpy:1822
 translate french Rogue_Dildo_Check_c0061ef5:
@@ -1156,19 +1156,19 @@ translate french Rogue_Dildo_Check_c0061ef5:
 translate french Rogue_Dildo_Check_2fdc9bd4:
 
     # "You don't have one of those on you."
-    "You don't have one of those on you."
+    "Tu n'en as pas sur vous."
 
 # game/Rogue_HJ.rpy:1868
 translate french Rogue_Dildo_Pussy_39ac5549:
 
     # "[RogueX.Name] grabs her dildo, hiking up her skirt as she does."
-    "[RogueX.Name] grabs her dildo, hiking up her skirt as she does."
+    "[RogueX.Name] attrape son gode, en remontant sa jupe."
 
 # game/Rogue_HJ.rpy:1871
 translate french Rogue_Dildo_Pussy_70d06f7b:
 
     # "[RogueX.Name] grabs her dildo, pulling down her pants as she does."
-    "[RogueX.Name] grabs her dildo, pulling down her pants as she does."
+    "[RogueX.Name] attrape son gode, baissant son pantalon."
 
 # game/Rogue_HJ.rpy:1874
 translate french Rogue_Dildo_Pussy_a02033f7:
@@ -1180,97 +1180,97 @@ translate french Rogue_Dildo_Pussy_a02033f7:
 translate french Rogue_Dildo_Pussy_9543a6a5:
 
     # "She slides the tip along her pussy and seems to want you to insert it."
-    "She slides the tip along her pussy and seems to want you to insert it."
+    "Elle fait glisser le bout le long de sa chatte et semble vouloir que tu l'insères."
 
 # game/Rogue_HJ.rpy:1882
 translate french Rogue_Dildo_Pussy_47a90aef:
 
     # "[RogueX.Name] slides it in."
-    "[RogueX.Name] slides it in."
+    "[RogueX.Name] le fait glisser."
 
 # game/Rogue_HJ.rpy:1886
 translate french Rogue_Dildo_Pussy_250f0edd:
 
     # ch_p "Oh yeah, [RogueX.Pet], let's do this."
-    ch_p "Oh yeah, [RogueX.Pet], let's do this."
+    ch_p "Oh ouais, [RogueX.Pet], allons-y."
 
 # game/Rogue_HJ.rpy:1888
 translate french Rogue_Dildo_Pussy_fcbebfeb:
 
     # "You grab the dildo and slide it in."
-    "You grab the dildo and slide it in."
+    "Tu attrapes le gode et tu le fais glisser."
 
 # game/Rogue_HJ.rpy:1895
 translate french Rogue_Dildo_Pussy_69f41de9:
 
     # ch_p "Let's not do that right now, [RogueX.Pet]."
-    ch_p "Let's not do that right now, [RogueX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:1897
 translate french Rogue_Dildo_Pussy_fc701533:
 
     # "[RogueX.Name] sets the dildo down."
-    "[RogueX.Name] sets the dildo down."
+    "[RogueX.Name] pose le gode."
 
 # game/Rogue_HJ.rpy:1909
 translate french Rogue_Dildo_Pussy_3c872f9b:
 
     # "You rub the dildo across her body, and along her moist slit."
-    "You rub the dildo across her body, and along her moist slit."
+    "Tu frottes le gode sur son corps, et le long de sa fente humide."
 
 # game/Rogue_HJ.rpy:1913
 translate french Rogue_Dildo_Pussy_d2036e06:
 
     # "[RogueX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
-    "[RogueX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
+    "[RogueX.Name] est brièvement effrayéee et se tourne vers toi mais elle sourit et aquièce en fredonnant."
 
 # game/Rogue_HJ.rpy:1918
 translate french Rogue_Dildo_Pussy_8241a3c8:
 
     # ch_r "Ok, [RogueX.Petname], let's do this."
-    ch_r "Ok, [RogueX.Petname], let's do this."
+    ch_r "Ok, [RogueX.Petname], allons-y."
 
 # game/Rogue_HJ.rpy:1922
 translate french Rogue_Dildo_Pussy_b242c445:
 
     # ch_r "Hey, what do you think you're doing back there?!" nointeract
-    ch_r "Hey, what do you think you're doing back there?!" nointeract
+    ch_r "Hé, qu'est-ce que tu fais, là ? !" nointeract
 
 # game/Rogue_HJ.rpy:1930
 translate french Rogue_Dildo_Pussy_cbfc9d76:
 
     # ch_r "Well, since you're be'in so nice about it, I guess we can give it a go. . ."
-    ch_r "Well, since you're be'in so nice about it, I guess we can give it a go. . ."
+    ch_r "Puisque tu es si gentil, je suppose qu'on peut essayer..."
 
 # game/Rogue_HJ.rpy:1932
 translate french Rogue_Dildo_Pussy_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Rogue_HJ.rpy:1935
 translate french Rogue_Dildo_Pussy_312ee434:
 
     # ch_r "Well ok, [RogueX.Petname], no harm done. Just give me a little warning next time."
-    ch_r "Well ok, [RogueX.Petname], no harm done. Just give me a little warning next time."
+    ch_r "Bon, d'accord, [RogueX.Petname], il n'y a pas de mal. Préviens-moi juste la prochaine fois."
 
 # game/Rogue_HJ.rpy:1937
 translate french Rogue_Dildo_Pussy_f559b0dc:
 
     # ch_r "Well ok, [RogueX.Petname], I'm not really ready for that, but maybe if you ask nicely next time . . ."
-    ch_r "Well ok, [RogueX.Petname], I'm not really ready for that, but maybe if you ask nicely next time . . ."
+    ch_r "Bon, d'accord, [RogueX.Petname], je ne suis pas vraiment prête pour ça, mais peut-être que si tu demandes gentiment la prochaine fois..."
 
 # game/Rogue_HJ.rpy:1941
 translate french Rogue_Dildo_Pussy_3957e7ff:
 
     # "You press it inside some more."
-    "You press it inside some more."
+    "Tu l'enfonces encore un peu plus."
 
 # game/Rogue_HJ.rpy:1946
 translate french Rogue_Dildo_Pussy_1db4f171:
 
     # "[RogueX.Name] shoves you away and slaps you in the face."
-    "[RogueX.Name] shoves you away and slaps you in the face."
+    "[RogueX.Name] te pousse et te gifle."
 
 # game/Rogue_HJ.rpy:1947
 translate french Rogue_Dildo_Pussy_be892739:
@@ -1282,61 +1282,61 @@ translate french Rogue_Dildo_Pussy_be892739:
 translate french Rogue_Dildo_Pussy_1ada47c2:
 
     # ch_r "If that's how you want to treat me, we're done here!"
-    ch_r "If that's how you want to treat me, we're done here!"
+    ch_r "Si c'est ainsi que tu veux me traiter, nous en avons terminé !"
 
 # game/Rogue_HJ.rpy:1960
 translate french Rogue_Dildo_Pussy_9c705f48:
 
     # "[RogueX.Name] doesn't seem to be into this, you're lucky she's so obedient."
-    "[RogueX.Name] doesn't seem to be into this, you're lucky she's so obedient."
+    "[RogueX.Name] ne semble pas s'intéresser à ça, tu as de la chance qu'elle soit si obéissante."
 
 # game/Rogue_HJ.rpy:1969
 translate french Rogue_Dildo_Pussy_305210de:
 
     # ch_r "Hmmm, so you'd like to try out some toys?"
-    ch_r "Hmmm, so you'd like to try out some toys?"
+    ch_r "Hmmm, alors tu veux essayer quelques jouets ?"
 
 # game/Rogue_HJ.rpy:1972
 translate french Rogue_Dildo_Pussy_4b7e2c5e:
 
     # ch_r "I suppose there are worst things you could ask for."
-    ch_r "I suppose there are worst things you could ask for."
+    ch_r "Je suppose qu'il y a de pires choses que l'on puisse demander."
 
 # game/Rogue_HJ.rpy:1984
 translate french Rogue_Dildo_Pussy_cc3fd556:
 
     # ch_r "I've had a reasonable amount of experience with these, you know. . ."
-    ch_r "I've had a reasonable amount of experience with these, you know. . ."
+    ch_r "J'ai une expérience raisonnable avec ceux-là, tu sais..."
 
 # game/Rogue_HJ.rpy:1987
 translate french Rogue_Dildo_Pussy_140f7eff:
 
     # ch_r "If that's what you want, [RogueX.Petname]. . ."
-    ch_r "If that's what you want, [RogueX.Petname]. . ."
+    ch_r "Si c'est ce que tu veux, [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:1991
 translate french Rogue_Dildo_Pussy_85530b82:
 
     # ch_r "I guess it could be fun with a partner. . ."
-    ch_r "I guess it could be fun with a partner. . ."
+    ch_r "Je suppose que ça pourrait être amusant avec un partenaire..."
 
 # game/Rogue_HJ.rpy:1999
 translate french Rogue_Dildo_Pussy_6ec7580e:
 
     # ch_r "The toys again?"
-    ch_r "The toys again?"
+    ch_r "Encore les jouets ?"
 
 # game/Rogue_HJ.rpy:2001
 translate french Rogue_Dildo_Pussy_89cc780f:
 
     # ch_r "Well, at least you got us some privacy this time. . ."
-    ch_r "Well, at least you got us some privacy this time. . ."
+    ch_r "Au moins, tu nous as donné un peu d'intimité cette fois..."
 
 # game/Rogue_HJ.rpy:2004
 translate french Rogue_Dildo_Pussy_6ea8636e:
 
     # ch_r "Mmm, again? Ok, let's get to it."
-    ch_r "Mmm, again? Ok, let's get to it."
+    ch_r "Mmm, encore ? Ok, allons-y."
 
 # game/Rogue_HJ.rpy:2011
 translate french Rogue_Dildo_Pussy_67572ff9:
@@ -1348,7 +1348,7 @@ translate french Rogue_Dildo_Pussy_67572ff9:
 translate french Rogue_Dildo_Pussy_a5f21c3c:
 
     # ch_r "You want to stick it in my pussy again?"
-    ch_r "You want to stick it in my pussy again?"
+    ch_r "Tu veux encore me la fourrer dans la chatte ?"
 
 # game/Rogue_HJ.rpy:2024
 translate french Rogue_Dildo_Pussy_67572ff9_1:
@@ -1372,49 +1372,49 @@ translate french Rogue_Dildo_Pussy_67572ff9_2:
 translate french Rogue_Dildo_Pussy_4b20283b:
 
     # ch_r "What part of \"no,\" did you not get, [RogueX.Petname]?"
-    ch_r "What part of \"no,\" did you not get, [RogueX.Petname]?"
+    ch_r "Qu'est-ce que tu n'as pas compris dans \"non\", [RogueX.Petname] ?"
 
 # game/Rogue_HJ.rpy:2057
 translate french Rogue_Dildo_Pussy_c10fc281:
 
     # ch_r "Stop swinging that thing around in public!"
-    ch_r "Stop swinging that thing around in public!"
+    ch_r "Arrête de brandir ce truc en public !"
 
 # game/Rogue_HJ.rpy:2059
 translate french Rogue_Dildo_Pussy_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2061
 translate french Rogue_Dildo_Pussy_c10fc281_1:
 
     # ch_r "Stop swinging that thing around in public!"
-    ch_r "Stop swinging that thing around in public!"
+    ch_r "Arrête de brandir ce truc en public !"
 
 # game/Rogue_HJ.rpy:2064
 translate french Rogue_Dildo_Pussy_decffede:
 
     # ch_r "I'm just not into toys, [RogueX.Petname]. . ."
-    ch_r "I'm just not into toys, [RogueX.Petname]. . ."
+    ch_r "Je n'aime pas les jouets, [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:2067
 translate french Rogue_Dildo_Pussy_54c70571:
 
     # ch_r "I don't think we need any toys, [RogueX.Petname]."
-    ch_r "I don't think we need any toys, [RogueX.Petname]."
+    ch_r "Je ne pense pas que nous ayons besoin de jouets, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2072
 translate french Rogue_Dildo_Pussy_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2076
 translate french Rogue_Dildo_Pussy_9bce1b54:
 
     # ch_r "Maybe I'll practice on my own time, [RogueX.Petname]."
-    ch_r "Maybe I'll practice on my own time, [RogueX.Petname]."
+    ch_r "Je vais peut-être m'entraîner sur mon temps libre, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2095
 translate french Rogue_Dildo_Pussy_67572ff9_3:
@@ -1426,19 +1426,19 @@ translate french Rogue_Dildo_Pussy_67572ff9_3:
 translate french Rogue_Dildo_Pussy_75fb4c4e:
 
     # ch_r "Ok, fine. If we're going to do this, stick it in already."
-    ch_r "Ok, fine. If we're going to do this, stick it in already."
+    ch_r "Ok, très bien. Si tu veux qu'on le fasse, mets-la moi vite."
 
 # game/Rogue_HJ.rpy:2121
 translate french Rogue_Dildo_Pussy_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2126
 translate french Rogue_Dildo_Pussy_75259032:
 
     # ch_r "I'm not going to let you use that on me."
-    ch_r "I'm not going to let you use that on me."
+    ch_r "Je ne vais pas te laisser utiliser ça sur moi."
 
 # game/Rogue_HJ.rpy:2137
 translate french Rogue_Dildo_Pussy_e10b576c:
@@ -1450,7 +1450,7 @@ translate french Rogue_Dildo_Pussy_e10b576c:
 translate french Rogue_Dildo_Pussy_701e5d45:
 
     # ch_r "Sorry, you can keep your toys to yourself."
-    ch_r "Sorry, you can keep your toys to yourself."
+    ch_r "Désolé, tu peux garder tes jouets pour toi."
 
 # game/Rogue_HJ.rpy:2145
 translate french Rogue_Dildo_Pussy_c9c362d8:
@@ -1486,13 +1486,13 @@ translate french Rogue_DP_Cycle_2c55fb6c:
 translate french Rogue_DP_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_HJ.rpy:2342
 translate french Rogue_DP_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_HJ.rpy:2348
 translate french Rogue_DP_Cycle_054b65ff:
@@ -1504,79 +1504,79 @@ translate french Rogue_DP_Cycle_054b65ff:
 translate french Rogue_DP_Cycle_e70a4744:
 
     # ch_r "What are you even doing down there?"
-    ch_r "What are you even doing down there?"
+    ch_r "Qu'est-ce que tu fais là en bas ?"
 
 # game/Rogue_HJ.rpy:2365
 translate french Rogue_DP_Cycle_4c780fbb:
 
     # ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
-    ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
+    ch_r "[RogueX.Petname], cela devient inconfortable, peut-être que nous pourrions essayer autre chose." nointeract
 
 # game/Rogue_HJ.rpy:2368
 translate french Rogue_DP_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_HJ.rpy:2379
 translate french Rogue_DP_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_HJ.rpy:2383
 translate french Rogue_DP_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_HJ.rpy:2384
 translate french Rogue_DP_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_HJ.rpy:2395
 translate french Rogue_DP_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_HJ.rpy:2397
 translate french Rogue_DP_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_HJ.rpy:2402
 translate french Rogue_DP_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_HJ.rpy:2419
 translate french Rogue_DP_After_e24684c5:
 
     # ch_r "Well I liked that. . ."
-    ch_r "Well I liked that. . ."
+    ch_r "Eh bien, j'ai aimé ça..."
 
 # game/Rogue_HJ.rpy:2422
 translate french Rogue_DP_After_b1b31aa5:
 
     # ch_r "Did you like that?"
-    ch_r "Cela t'a plu ?.."
+    ch_r "Cela t'a plu ?"
 
 # game/Rogue_HJ.rpy:2483
 translate french Rogue_Dildo_Ass_39ac5549:
 
     # "[RogueX.Name] grabs her dildo, hiking up her skirt as she does."
-    "[RogueX.Name] grabs her dildo, hiking up her skirt as she does."
+    "[RogueX.Name] attrape son gode, en remontant sa jupe."
 
 # game/Rogue_HJ.rpy:2486
 translate french Rogue_Dildo_Ass_70d06f7b:
 
     # "[RogueX.Name] grabs her dildo, pulling down her pants as she does."
-    "[RogueX.Name] grabs her dildo, pulling down her pants as she does."
+    "[RogueX.Name] attrape son gode, baissant son pantalon."
 
 # game/Rogue_HJ.rpy:2489
 translate french Rogue_Dildo_Ass_29dbbfd5:
@@ -1588,97 +1588,97 @@ translate french Rogue_Dildo_Ass_29dbbfd5:
 translate french Rogue_Dildo_Ass_a6c2f9a3:
 
     # "She slides the tip against her asshole, and seems to want you to insert it."
-    "She slides the tip against her asshole, and seems to want you to insert it."
+    "Elle fait glisser le bout contre son trou de cul, et semble vouloir que tu l'insères."
 
 # game/Rogue_HJ.rpy:2497
 translate french Rogue_Dildo_Ass_47a90aef:
 
     # "[RogueX.Name] slides it in."
-    "[RogueX.Name] slides it in."
+    "[RogueX.Name] le fait glisser."
 
 # game/Rogue_HJ.rpy:2501
 translate french Rogue_Dildo_Ass_250f0edd:
 
     # ch_p "Oh yeah, [RogueX.Pet], let's do this."
-    ch_p "Oh yeah, [RogueX.Pet], let's do this."
+    ch_p "Oh ouais, [RogueX.Pet], allons-y."
 
 # game/Rogue_HJ.rpy:2503
 translate french Rogue_Dildo_Ass_fcbebfeb:
 
     # "You grab the dildo and slide it in."
-    "You grab the dildo and slide it in."
+    "Tu attrapes le gode et tu le fais glisser."
 
 # game/Rogue_HJ.rpy:2510
 translate french Rogue_Dildo_Ass_69f41de9:
 
     # ch_p "Let's not do that right now, [RogueX.Pet]."
-    ch_p "Let's not do that right now, [RogueX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:2512
 translate french Rogue_Dildo_Ass_fc701533:
 
     # "[RogueX.Name] sets the dildo down."
-    "[RogueX.Name] sets the dildo down."
+    "[RogueX.Name] pose le gode."
 
 # game/Rogue_HJ.rpy:2524
 translate french Rogue_Dildo_Ass_5a1e83f7:
 
     # "You rub the dildo across her body, and against her tight anus."
-    "You rub the dildo across her body, and against her tight anus."
+    "Tu frottes le gode sur son corps, et contre son anus serré."
 
 # game/Rogue_HJ.rpy:2529
 translate french Rogue_Dildo_Ass_d2036e06:
 
     # "[RogueX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
-    "[RogueX.Name] is briefly startled and turns towards you, but then smiles and makes a little humming noise."
+    "[RogueX.Name] est brièvement effrayéee et se tourne vers toi mais elle sourit et aquièce en fredonnant."
 
 # game/Rogue_HJ.rpy:2534
 translate french Rogue_Dildo_Ass_8241a3c8:
 
     # ch_r "Ok, [RogueX.Petname], let's do this."
-    ch_r "Ok, [RogueX.Petname], let's do this."
+    ch_r "Ok, [RogueX.Petname], allons-y."
 
 # game/Rogue_HJ.rpy:2539
 translate french Rogue_Dildo_Ass_b242c445:
 
     # ch_r "Hey, what do you think you're doing back there?!" nointeract
-    ch_r "Hey, what do you think you're doing back there?!" nointeract
+    ch_r "Hé, qu'est-ce que tu fais, là ? !" nointeract
 
 # game/Rogue_HJ.rpy:2547
 translate french Rogue_Dildo_Ass_cbfc9d76:
 
     # ch_r "Well, since you're be'in so nice about it, I guess we can give it a go. . ."
-    ch_r "Well, since you're be'in so nice about it, I guess we can give it a go. . ."
+    ch_r "Puisque tu es si gentil, je suppose qu'on peut essayer..."
 
 # game/Rogue_HJ.rpy:2549
 translate french Rogue_Dildo_Ass_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Rogue_HJ.rpy:2552
 translate french Rogue_Dildo_Ass_312ee434:
 
     # ch_r "Well ok, [RogueX.Petname], no harm done. Just give me a little warning next time."
-    ch_r "Well ok, [RogueX.Petname], no harm done. Just give me a little warning next time."
+    ch_r "Bon, d'accord, [RogueX.Petname], il n'y a pas de mal. Préviens-moi juste la prochaine fois."
 
 # game/Rogue_HJ.rpy:2554
 translate french Rogue_Dildo_Ass_f559b0dc:
 
     # ch_r "Well ok, [RogueX.Petname], I'm not really ready for that, but maybe if you ask nicely next time . . ."
-    ch_r "Well ok, [RogueX.Petname], I'm not really ready for that, but maybe if you ask nicely next time . . ."
+    ch_r "Bon, d'accord, [RogueX.Petname], je ne suis pas vraiment prête pour ça, mais peut-être que si tu demandes gentiment la prochaine fois..."
 
 # game/Rogue_HJ.rpy:2558
 translate french Rogue_Dildo_Ass_3957e7ff:
 
     # "You press it inside some more."
-    "You press it inside some more."
+    "Tu l'enfonces encore un peu plus."
 
 # game/Rogue_HJ.rpy:2563
 translate french Rogue_Dildo_Ass_1db4f171:
 
     # "[RogueX.Name] shoves you away and slaps you in the face."
-    "[RogueX.Name] shoves you away and slaps you in the face."
+    "[RogueX.Name] te pousse et te gifle."
 
 # game/Rogue_HJ.rpy:2564
 translate french Rogue_Dildo_Ass_be892739:
@@ -1690,19 +1690,19 @@ translate french Rogue_Dildo_Ass_be892739:
 translate french Rogue_Dildo_Ass_1ada47c2:
 
     # ch_r "If that's how you want to treat me, we're done here!"
-    ch_r "If that's how you want to treat me, we're done here!"
+    ch_r "Si c'est ainsi que tu veux me traiter, nous en avons terminé !"
 
 # game/Rogue_HJ.rpy:2577
 translate french Rogue_Dildo_Ass_9c705f48:
 
     # "[RogueX.Name] doesn't seem to be into this, you're lucky she's so obedient."
-    "[RogueX.Name] doesn't seem to be into this, you're lucky she's so obedient."
+    "[RogueX.Name] ne semble pas s'intéresser à ça, tu as de la chance qu'elle soit si obéissante."
 
 # game/Rogue_HJ.rpy:2586
 translate french Rogue_Dildo_Ass_305210de:
 
     # ch_r "Hmmm, so you'd like to try out some toys?"
-    ch_r "Hmmm, so you'd like to try out some toys?"
+    ch_r "Hmmm, alors tu veux essayer quelques jouets ?"
 
 # game/Rogue_HJ.rpy:2589
 translate french Rogue_Dildo_Ass_2cd37e63:
@@ -1720,31 +1720,31 @@ translate french Rogue_Dildo_Ass_ddada808:
 translate french Rogue_Dildo_Ass_8003f363:
 
     # ch_r "I haven't actually used one of these, back there before. . ."
-    ch_r "I haven't actually used one of these, back there before. . ."
+    ch_r "J'ai jamais vraiment utilisé un de ces trucs avant, dans mon cul..."
 
 # game/Rogue_HJ.rpy:2608
 translate french Rogue_Dildo_Ass_140f7eff:
 
     # ch_r "If that's what you want, [RogueX.Petname]. . ."
-    ch_r "If that's what you want, [RogueX.Petname]. . ."
+    ch_r "Si c'est ce que tu veux, [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:2612
 translate french Rogue_Dildo_Ass_85530b82:
 
     # ch_r "I guess it could be fun with a partner. . ."
-    ch_r "I guess it could be fun with a partner. . ."
+    ch_r "Je suppose que ça pourrait être amusant avec un partenaire..."
 
 # game/Rogue_HJ.rpy:2620
 translate french Rogue_Dildo_Ass_6ec7580e:
 
     # ch_r "The toys again?"
-    ch_r "The toys again?"
+    ch_r "Encore les jouets ?"
 
 # game/Rogue_HJ.rpy:2622
 translate french Rogue_Dildo_Ass_89cc780f:
 
     # ch_r "Well, at least you got us some privacy this time. . ."
-    ch_r "Well, at least you got us some privacy this time. . ."
+    ch_r "Au moins, tu nous as donné un peu d'intimité cette fois..."
 
 # game/Rogue_HJ.rpy:2631
 translate french Rogue_Dildo_Ass_67572ff9:
@@ -1756,7 +1756,7 @@ translate french Rogue_Dildo_Ass_67572ff9:
 translate french Rogue_Dildo_Ass_76641b5d:
 
     # ch_r "You want to stick it in my ass again?"
-    ch_r "You want to stick it in my ass again?"
+    ch_r "Tu veux me la fourrer dans le cul encore une fois ?"
 
 # game/Rogue_HJ.rpy:2644
 translate french Rogue_Dildo_Ass_67572ff9_1:
@@ -1780,55 +1780,55 @@ translate french Rogue_Dildo_Ass_67572ff9_2:
 translate french Rogue_Dildo_Ass_4b20283b:
 
     # ch_r "What part of \"no,\" did you not get, [RogueX.Petname]?"
-    ch_r "What part of \"no,\" did you not get, [RogueX.Petname]?"
+    ch_r "Qu'est-ce que tu n'as pas compris dans \"non\", [RogueX.Petname] ?"
 
 # game/Rogue_HJ.rpy:2677
 translate french Rogue_Dildo_Ass_c10fc281:
 
     # ch_r "Stop swinging that thing around in public!"
-    ch_r "Stop swinging that thing around in public!"
+    ch_r "Arrête de brandir ce truc en public !"
 
 # game/Rogue_HJ.rpy:2679
 translate french Rogue_Dildo_Ass_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2681
 translate french Rogue_Dildo_Ass_c8ce4da7:
 
     # ch_r "I already told you that I wouldn't do that out here!"
-    ch_r "I already told you that I wouldn't do that out here!"
+    ch_r "Je t'ai déjà dit que je ne ferais pas ça ici !"
 
 # game/Rogue_HJ.rpy:2684
 translate french Rogue_Dildo_Ass_decffede:
 
     # ch_r "I'm just not into toys, [RogueX.Petname]. . ."
-    ch_r "I'm just not into toys, [RogueX.Petname]. . ."
+    ch_r "Je n'aime pas les jouets, [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:2687
 translate french Rogue_Dildo_Ass_791700bf:
 
     # ch_r "You could have been a bit more gentle last time, [RogueX.Petname]. . ."
-    ch_r "You could have been a bit more gentle last time, [RogueX.Petname]. . ."
+    ch_r "Tu aurais pu être un peu plus doux la dernière fois, [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:2690
 translate french Rogue_Dildo_Ass_54c70571:
 
     # ch_r "I don't think we need any toys, [RogueX.Petname]."
-    ch_r "I don't think we need any toys, [RogueX.Petname]."
+    ch_r "Je ne pense pas que nous ayons besoin de jouets, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2695
 translate french Rogue_Dildo_Ass_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2699
 translate french Rogue_Dildo_Ass_9bce1b54:
 
     # ch_r "Maybe I'll practice on my own time, [RogueX.Petname]."
-    ch_r "Maybe I'll practice on my own time, [RogueX.Petname]."
+    ch_r "Je vais peut-être m'entraîner sur mon temps libre, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2718
 translate french Rogue_Dildo_Ass_67572ff9_3:
@@ -1840,19 +1840,19 @@ translate french Rogue_Dildo_Ass_67572ff9_3:
 translate french Rogue_Dildo_Ass_75fb4c4e:
 
     # ch_r "Ok, fine. If we're going to do this, stick it in already."
-    ch_r "Ok, fine. If we're going to do this, stick it in already."
+    ch_r "Ok, très bien. Si tu veux qu'on le fasse, mets-la moi vite."
 
 # game/Rogue_HJ.rpy:2744
 translate french Rogue_Dildo_Ass_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2749
 translate french Rogue_Dildo_Ass_75259032:
 
     # ch_r "I'm not going to let you use that on me."
-    ch_r "I'm not going to let you use that on me."
+    ch_r "Je ne vais pas te laisser utiliser ça sur moi."
 
 # game/Rogue_HJ.rpy:2760
 translate french Rogue_Dildo_Ass_e10b576c:
@@ -1864,13 +1864,13 @@ translate french Rogue_Dildo_Ass_e10b576c:
 translate french Rogue_Dildo_Ass_b1e3b00b:
 
     # ch_r "Sorry, I just need a little break back there, [RogueX.Petname]."
-    ch_r "Sorry, I just need a little break back there, [RogueX.Petname]."
+    ch_r "Désolé, j'ai juste besoin d'une petite pause derrière, [RogueX.Petname]."
 
 # game/Rogue_HJ.rpy:2768
 translate french Rogue_Dildo_Ass_89d46199:
 
     # ch_r "Sorry, you can keep your toys out of there."
-    ch_r "Sorry, you can keep your toys out of there."
+    ch_r "Désolé, tu peux garder tes jouets."
 
 # game/Rogue_HJ.rpy:2771
 translate french Rogue_Dildo_Ass_c9c362d8:
@@ -1906,13 +1906,13 @@ translate french Rogue_DA_Cycle_2c55fb6c:
 translate french Rogue_DA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_HJ.rpy:2968
 translate french Rogue_DA_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_HJ.rpy:2974
 translate french Rogue_DA_Cycle_054b65ff:
@@ -1924,61 +1924,61 @@ translate french Rogue_DA_Cycle_054b65ff:
 translate french Rogue_DA_Cycle_e70a4744:
 
     # ch_r "What are you even doing down there?"
-    ch_r "What are you even doing down there?"
+    ch_r "Qu'est-ce que tu fais là en bas ?"
 
 # game/Rogue_HJ.rpy:2992
 translate french Rogue_DA_Cycle_4c780fbb:
 
     # ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
-    ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
+    ch_r "[RogueX.Petname], cela devient inconfortable, peut-être que nous pourrions essayer autre chose." nointeract
 
 # game/Rogue_HJ.rpy:2995
 translate french Rogue_DA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_HJ.rpy:3006
 translate french Rogue_DA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_HJ.rpy:3010
 translate french Rogue_DA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_HJ.rpy:3011
 translate french Rogue_DA_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_HJ.rpy:3022
 translate french Rogue_DA_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_HJ.rpy:3024
 translate french Rogue_DA_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_HJ.rpy:3029
 translate french Rogue_DA_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_HJ.rpy:3048
 translate french Rogue_DA_After_e24684c5:
 
     # ch_r "Well I liked that. . ."
-    ch_r "Well I liked that. . ."
+    ch_r "Eh bien, j'ai aimé ça..."
 
 # game/Rogue_HJ.rpy:3050
 translate french Rogue_DA_After_9d39aad2:
@@ -1990,13 +1990,13 @@ translate french Rogue_DA_After_9d39aad2:
 translate french Rogue_DA_After_b1b31aa5:
 
     # ch_r "Did you like that?"
-    ch_r "Cela t'a plu ?.."
+    ch_r "Cela t'a plu ?"
 
 # game/Rogue_HJ.rpy:3065
 translate french Rogue_Vibrator_Check_f6f216ee:
 
     # "You pull out the \"shocker\" vibrator, handy."
-    "You pull out the \"shocker\" vibrator, handy."
+    "Tu sors le vibrateur \"shocker\", pratique."
 
 # game/Rogue_HJ.rpy:3067
 translate french Rogue_Vibrator_Check_6d10993d:
@@ -2008,7 +2008,7 @@ translate french Rogue_Vibrator_Check_6d10993d:
 translate french Rogue_Vibrator_Check_2fdc9bd4:
 
     # "You don't have one of those on you."
-    "You don't have one of those on you."
+    "Tu n'en as pas sur vous."
 
 # game/Rogue_HJ.rpy:3113
 translate french Rogue_Footjob_f4f9fc72:
@@ -2026,7 +2026,7 @@ translate french Rogue_Footjob_df0a4710:
 translate french Rogue_Footjob_062cbbfc:
 
     # ch_p "Oooh, that's good, [RogueX.Pet]."
-    ch_p "Oooh, that's good, [RogueX.Pet]."
+    ch_p "Oooh, c'est bien, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:3125
 translate french Rogue_Footjob_df0a4710_1:
@@ -2038,13 +2038,13 @@ translate french Rogue_Footjob_df0a4710_1:
 translate french Rogue_Footjob_f5191e11:
 
     # ch_p "Let's not do that for now, [RogueX.Pet]."
-    ch_p "Let's not do that for now, [RogueX.Pet]."
+    ch_p "Ne faisons pas cela pour l'instant, [RogueX.Pet]."
 
 # game/Rogue_HJ.rpy:3134
 translate french Rogue_Footjob_afae71eb:
 
     # "[RogueX.Name] puts it down."
-    "[RogueX.Name] puts it down."
+    "[RogueX.Name] le pose."
 
 # game/Rogue_HJ.rpy:3150
 translate french Rogue_Footjob_10a3bedf:
@@ -2062,7 +2062,7 @@ translate french Rogue_Footjob_6d198b9e:
 translate french Rogue_Footjob_140f7eff:
 
     # ch_r "If that's what you want, [RogueX.Petname]. . ."
-    ch_r "If that's what you want, [RogueX.Petname]. . ."
+    ch_r "Si c'est ce que tu veux, [RogueX.Petname]..."
 
 # game/Rogue_HJ.rpy:3168
 translate french Rogue_Footjob_1ae84000:
@@ -2122,7 +2122,7 @@ translate french Rogue_Footjob_87c96968:
 translate french Rogue_Footjob_e6053381:
 
     # ch_r "Fine!"
-    ch_r "Fine!"
+    ch_r "Bien !"
 
 # game/Rogue_HJ.rpy:3226
 translate french Rogue_Footjob_67572ff9_2:
@@ -2182,7 +2182,7 @@ translate french Rogue_Footjob_ff6d9574:
 translate french Rogue_Footjob_33fb8232:
 
     # ch_r "I guess?"
-    ch_r "I guess?"
+    ch_r "Je suppose ?"
 
 # game/Rogue_HJ.rpy:3280
 translate french Rogue_Footjob_67572ff9_3:
@@ -2230,13 +2230,13 @@ translate french Rogue_Footjob_bd86cf18:
 translate french Rogue_FJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Rogue_HJ.rpy:3400
 translate french Rogue_FJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Rogue_HJ.rpy:3406
 translate french Rogue_FJ_Cycle_dbab1d12:
@@ -2266,13 +2266,13 @@ translate french Rogue_FJ_Cycle_2c55fb6c:
 translate french Rogue_FJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_HJ.rpy:3543
 translate french Rogue_FJ_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_HJ.rpy:3549
 translate french Rogue_FJ_Cycle_054b65ff:
@@ -2302,19 +2302,19 @@ translate french Rogue_FJ_Cycle_fbde5ef7:
 translate french Rogue_FJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Rogue_HJ.rpy:3590
 translate french Rogue_FJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Rogue_HJ.rpy:3591
 translate french Rogue_FJ_Cycle_89ba3764:
 
     # ch_r "Well if that's your attitude you can handle your own business."
-    ch_r "Well if that's your attitude you can handle your own business."
+    ch_r "Bon si tu le prends comme ça, tu peux te débrouiller."
 
 # game/Rogue_HJ.rpy:3601
 translate french Rogue_FJ_Cycle_097289dd:
@@ -2326,19 +2326,19 @@ translate french Rogue_FJ_Cycle_097289dd:
 translate french Rogue_FJ_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_HJ.rpy:3609
 translate french Rogue_FJ_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_HJ.rpy:3614
 translate french Rogue_FJ_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_HJ.rpy:3632
 translate french Rogue_FJ_After_7f3c5357:
@@ -2356,7 +2356,7 @@ translate french Rogue_FJ_After_54314d90:
 translate french Rogue_FJ_After_8bf04068:
 
     # ch_r "Did that work for you?"
-    ch_r "Did that work for you?"
+    ch_r "Ca a marché pour toi ?"
 
 # game/Rogue_HJ.rpy:3644
 translate french Rogue_FJ_After_abd20a97:
@@ -2374,7 +2374,7 @@ translate french Rogue_FJ_After_a4f5bc14:
 translate french Rogue_FJ_After_cd4c684a:
 
     # ch_r "Mmm, so what else did you have in mind?"
-    ch_r "Mmm, so what else did you have in mind?"
+    ch_r "Mmm, alors qu'as-tu d'autre à l'esprit ?"
 
 translate french strings:
 
@@ -2424,7 +2424,7 @@ translate french strings:
 
     # game/Rogue_HJ.rpy:1257
     old "You're going to give me lockjaw."
-    new "You're going to give me lockjaw."
+    new "Tu vas me bloquer la mâchoire."
 
     # game/Rogue_HJ.rpy:1321
     old "Suck it, [RogueX.Pet]"
@@ -2469,4 +2469,8 @@ translate french strings:
     # game/Rogue_HJ.rpy:3220
     old "Ok, lemme see it."
     new "Ok, lemme see it."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

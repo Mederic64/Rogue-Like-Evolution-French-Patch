@@ -10,7 +10,7 @@ translate french Rogue_Fondle_05b31052:
 translate french Rogue_Fondle_e56a9e93:
 
     # ch_r "Well where exactly were you interested in touching, [RogueX.Petname]?" nointeract
-    ch_r "Well where exactly were you interested in touching, [RogueX.Petname]?" nointeract
+    ch_r "Où exactement voulais-tu toucher [RogueX.Petname] ?" nointeract
 
 # game/Rogue_Fondle.rpy:61
 translate french Rogue_Fondle_Breasts_ca3fd4bf:
@@ -46,7 +46,7 @@ translate french Rogue_Fondle_Breasts_67572ff9:
 translate french Rogue_Fondle_Breasts_eef0c920:
 
     # ch_r "Ok [RogueX.Petname], come and get'em."
-    ch_r "Ok [RogueX.Petname], come and get'em."
+    ch_r "Ok [RogueX.Petname], viens les chercher."
 
 # game/Rogue_Fondle.rpy:110
 translate french Rogue_Fondle_Breasts_db5ff043:
@@ -58,31 +58,31 @@ translate french Rogue_Fondle_Breasts_db5ff043:
 translate french Rogue_Fondle_Breasts_be5b14ae:
 
     # ch_r "I told you not to touch me like that in public!"
-    ch_r "I told you not to touch me like that in public!"
+    ch_r "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Rogue_Fondle.rpy:114
 translate french Rogue_Fondle_Breasts_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:116
 translate french Rogue_Fondle_Breasts_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:119
 translate french Rogue_Fondle_Breasts_71b2c7d2:
 
     # ch_r "I just don't think I'm ready yet, [RogueX.Petname]. . ."
-    ch_r "I just don't think I'm ready yet, [RogueX.Petname]. . ."
+    ch_r "Je ne pense pas être encore prête, [RogueX.Petname]..."
 
 # game/Rogue_Fondle.rpy:122
 translate french Rogue_Fondle_Breasts_14b634f3:
 
     # ch_r "I'd really rather not."
-    ch_r "I'd really rather not."
+    ch_r "Je ne préfère vraiment pas."
 
 # game/Rogue_Fondle.rpy:127
 translate french Rogue_Fondle_Breasts_635f0576:
@@ -94,25 +94,25 @@ translate french Rogue_Fondle_Breasts_635f0576:
 translate french Rogue_Fondle_Breasts_d7462468:
 
     # "She re-adjusts her cleavage."
-    "She re-adjusts her cleavage."
+    "Elle réajuste son décolleté."
 
 # game/Rogue_Fondle.rpy:132
 translate french Rogue_Fondle_Breasts_309c0834:
 
     # ch_r "I'll give it some thought, [RogueX.Petname]."
-    ch_r "I'll give it some thought, [RogueX.Petname]."
+    ch_r "Je vais y réfléchir, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:148
 translate french Rogue_Fondle_Breasts_f783afa7:
 
     # ch_r "Heh, I suppose I can hardly refuse ya when you use the magic words . . ."
-    ch_r "Heh, I suppose I can hardly refuse ya when you use the magic words . . ."
+    ch_r "Héhé, je suppose que je peux difficilement dire non quand tu utilises les mots magiques..."
 
 # game/Rogue_Fondle.rpy:152
 translate french Rogue_Fondle_Breasts_e35c13d9:
 
     # ch_r "I'm afraid not this time, sorry [RogueX.Petname]."
-    ch_r "I'm afraid not this time, sorry [RogueX.Petname]."
+    ch_r "J'ai bien peur que non cette fois, désolé [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:161
 translate french Rogue_Fondle_Breasts_9a8f3ed6:
@@ -130,7 +130,7 @@ translate french Rogue_Fondle_Breasts_ef0557ab:
 translate french Rogue_Fondle_Breasts_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:179
 translate french Rogue_Fondle_Breasts_4c96cddb:
@@ -142,7 +142,7 @@ translate french Rogue_Fondle_Breasts_4c96cddb:
 translate french Rogue_Fondle_Breasts_45cff248:
 
     # ch_r "I really don't think this is the right place for that!"
-    ch_r "I really don't think this is the right place for that!"
+    ch_r "Je ne pense vraiment pas que ce soit le bon endroit pour ça !"
 
 # game/Rogue_Fondle.rpy:189
 translate french Rogue_Fondle_Breasts_37de92e3:
@@ -160,7 +160,7 @@ translate french Rogue_Fondle_Breasts_f7539d99:
 translate french Rogue_FB_Prep_3b685bc7:
 
     # "With a miscevious grin, [RogueX.Name] pulls her [Line] up over her breasts."
-    "With a miscevious grin, [RogueX.Name] pulls her [Line] up over her breasts."
+    "Avec un sourire malicieux, [RogueX.Name] tire sa [Line] par-dessus ses seins."
 
 # game/Rogue_Fondle.rpy:221
 translate french Rogue_FB_Prep_487ec91f:
@@ -184,37 +184,37 @@ translate french Rogue_FB_Prep_bf87fabb:
 translate french Rogue_FB_Prep_3124b2da:
 
     # "You start to fondle it."
-    "You start to fondle it."
+    "Tu commences à caresser ses seins."
 
 # game/Rogue_Fondle.rpy:235
 translate french Rogue_FB_Prep_786b84be:
 
     # ch_p "I like the initiative, [RogueX.Pet]."
-    ch_p "I like the initiative, [RogueX.Pet]."
+    ch_p "J'aime cette initiative, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:237
 translate french Rogue_FB_Prep_3124b2da_1:
 
     # "You start to fondle it."
-    "You start to fondle it."
+    "Tu commences à caresser ses seins."
 
 # game/Rogue_Fondle.rpy:242
 translate french Rogue_FB_Prep_2322338c:
 
     # "You pull your hand back."
-    "You pull your hand back."
+    "Tu enlèves ta main."
 
 # game/Rogue_Fondle.rpy:245
 translate french Rogue_FB_Prep_69f41de9:
 
     # ch_p "Let's not do that right now, [RogueX.Pet]."
-    ch_p "Let's not do that right now, [RogueX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:247
 translate french Rogue_FB_Prep_512c9f8f:
 
     # "[RogueX.Name] pulls back."
-    "[RogueX.Name] pulls back."
+    "[RogueX.Name] se retire."
 
 # game/Rogue_Fondle.rpy:308
 translate french Rogue_FB_Cycle_dbab1d12:
@@ -232,7 +232,7 @@ translate french Rogue_FB_Cycle_b032f1d0:
 translate french Rogue_FB_Cycle_f77e75d5:
 
     # "As you lean in to suck on her breast, she grabs your head and pushes back."
-    "As you lean in to suck on her breast, she grabs your head and pushes back."
+    "Lorsque tu te penches pour lui sucer le sein, elle te saisit la tête et te repousse."
 
 # game/Rogue_Fondle.rpy:385
 translate french Rogue_FB_Cycle_83673efb:
@@ -250,13 +250,13 @@ translate french Rogue_FB_Cycle_2c55fb6c:
 translate french Rogue_FB_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:435
 translate french Rogue_FB_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:441
 translate french Rogue_FB_Cycle_054b65ff:
@@ -268,49 +268,49 @@ translate french Rogue_FB_Cycle_054b65ff:
 translate french Rogue_FB_Cycle_7d7f67de:
 
     # ch_r "You're just going at them, huh?"
-    ch_r "You're just going at them, huh?"
+    ch_r "Tu t'acharnes sur eux, hein ?"
 
 # game/Rogue_Fondle.rpy:459
 translate french Rogue_FB_Cycle_70bbe179:
 
     # ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
-    ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
+    ch_r "Je sais que tu t'amuses, mais nous pourrions peut-être essayer autre chose [RogueX.Petname]." nointeract
 
 # game/Rogue_Fondle.rpy:462
 translate french Rogue_FB_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:473
 translate french Rogue_FB_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:477
 translate french Rogue_FB_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:478
 translate french Rogue_FB_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:490
 translate french Rogue_FB_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:492
 translate french Rogue_FB_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:496
 translate french Rogue_FB_Cycle_35c61c25:
@@ -322,7 +322,7 @@ translate french Rogue_FB_Cycle_35c61c25:
 translate french Rogue_FB_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:522
 translate french Rogue_FB_After_371c61f2:
@@ -346,7 +346,7 @@ translate french Rogue_Suck_Breasts_af322eb2:
 translate french Rogue_Suck_Breasts_c1b1d1fd:
 
     # ch_r "Hey, just keep doing what you were doing, [RogueX.Petname]."
-    ch_r "Hey, just keep doing what you were doing, [RogueX.Petname]."
+    ch_r "Hé, continue ce que tu faisais, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:585
 translate french Rogue_Suck_Breasts_8e1d1250:
@@ -364,7 +364,7 @@ translate french Rogue_Suck_Breasts_67572ff9:
 translate french Rogue_Suck_Breasts_eef0c920:
 
     # ch_r "Ok [RogueX.Petname], come and get'em."
-    ch_r "Ok [RogueX.Petname], come and get'em."
+    ch_r "Ok [RogueX.Petname], viens les chercher."
 
 # game/Rogue_Fondle.rpy:610
 translate french Rogue_Suck_Breasts_db5ff043:
@@ -382,25 +382,25 @@ translate french Rogue_Suck_Breasts_ad058a50:
 translate french Rogue_Suck_Breasts_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:616
 translate french Rogue_Suck_Breasts_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:619
 translate french Rogue_Suck_Breasts_71b2c7d2:
 
     # ch_r "I just don't think I'm ready yet, [RogueX.Petname]. . ."
-    ch_r "I just don't think I'm ready yet, [RogueX.Petname]. . ."
+    ch_r "Je ne pense pas être encore prête, [RogueX.Petname]..."
 
 # game/Rogue_Fondle.rpy:622
 translate french Rogue_Suck_Breasts_14b634f3:
 
     # ch_r "I'd really rather not."
-    ch_r "I'd really rather not."
+    ch_r "Je ne préfère vraiment pas."
 
 # game/Rogue_Fondle.rpy:627
 translate french Rogue_Suck_Breasts_5d8db1ce:
@@ -412,7 +412,7 @@ translate french Rogue_Suck_Breasts_5d8db1ce:
 translate french Rogue_Suck_Breasts_309c0834:
 
     # ch_r "I'll give it some thought, [RogueX.Petname]."
-    ch_r "I'll give it some thought, [RogueX.Petname]."
+    ch_r "Je vais y réfléchir, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:647
 translate french Rogue_Suck_Breasts_452b457e:
@@ -424,7 +424,7 @@ translate french Rogue_Suck_Breasts_452b457e:
 translate french Rogue_Suck_Breasts_e35c13d9:
 
     # ch_r "I'm afraid not this time, sorry [RogueX.Petname]."
-    ch_r "I'm afraid not this time, sorry [RogueX.Petname]."
+    ch_r "J'ai bien peur que non cette fois, désolé [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:659
 translate french Rogue_Suck_Breasts_0abbc845:
@@ -436,13 +436,13 @@ translate french Rogue_Suck_Breasts_0abbc845:
 translate french Rogue_Suck_Breasts_93aaaa75:
 
     # "She shoves your head back out."
-    "She shoves your head back out."
+    "Elle te repousse la tête."
 
 # game/Rogue_Fondle.rpy:673
 translate french Rogue_Suck_Breasts_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:677
 translate french Rogue_Suck_Breasts_d553d595:
@@ -454,7 +454,7 @@ translate french Rogue_Suck_Breasts_d553d595:
 translate french Rogue_Suck_Breasts_45cff248:
 
     # ch_r "I really don't think this is the right place for that!"
-    ch_r "I really don't think this is the right place for that!"
+    ch_r "Je ne pense vraiment pas que ce soit le bon endroit pour ça !"
 
 # game/Rogue_Fondle.rpy:687
 translate french Rogue_Suck_Breasts_f338f9be:
@@ -472,13 +472,13 @@ translate french Rogue_Suck_Breasts_b6cc1680:
 translate french Rogue_Suck_Breasts_3ced6cd7:
 
     # ch_r "Sorry, I don't even know how I got here. . ."
-    ch_r "Sorry, I don't even know how I got here. . ."
+    ch_r "Désolé, je ne sais même pas comment je suis arrivé ici..."
 
 # game/Rogue_Fondle.rpy:716
 translate french Rogue_SB_Prep_3b685bc7:
 
     # "With a miscevious grin, [RogueX.Name] pulls her [Line] up over her breasts."
-    "With a miscevious grin, [RogueX.Name] pulls her [Line] up over her breasts."
+    "Avec un sourire malicieux, [RogueX.Name] tire sa [Line] par-dessus ses seins."
 
 # game/Rogue_Fondle.rpy:719
 translate french Rogue_SB_Prep_ff0c0828:
@@ -490,19 +490,19 @@ translate french Rogue_SB_Prep_ff0c0828:
 translate french Rogue_SB_Prep_d3334723:
 
     # "[RogueX.Name] grabs your head and shoves your face into her chest, clearly intending you to get to work."
-    "[RogueX.Name] grabs your head and shoves your face into her chest, clearly intending you to get to work."
+    "[RogueX.Name] te saisit la tête et lui enfonce ton visage dans la poitrine, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:723
 translate french Rogue_SB_Prep_d3334723_1:
 
     # "[RogueX.Name] grabs your head and shoves your face into her chest, clearly intending you to get to work."
-    "[RogueX.Name] grabs your head and shoves your face into her chest, clearly intending you to get to work."
+    "[RogueX.Name] te saisit la tête et lui enfonce ton visage dans la poitrine, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:729
 translate french Rogue_SB_Prep_49b4dffd:
 
     # "You start to run your tongue along her nipple."
-    "You start to run your tongue along her nipple."
+    "Tu commences à faire courir ta langue le long de son mamelon."
 
 # game/Rogue_Fondle.rpy:733
 translate french Rogue_SB_Prep_18209c60:
@@ -514,19 +514,19 @@ translate french Rogue_SB_Prep_18209c60:
 translate french Rogue_SB_Prep_3124b2da:
 
     # "You start to fondle it."
-    "You start to fondle it."
+    "Tu commences à caresser ses seins."
 
 # game/Rogue_Fondle.rpy:740
 translate french Rogue_SB_Prep_7e6d131a:
 
     # "You pull your head back."
-    "You pull your head back."
+    "Tu tires la tête en arrière."
 
 # game/Rogue_Fondle.rpy:743
 translate french Rogue_SB_Prep_69f41de9:
 
     # ch_p "Let's not do that right now, [RogueX.Pet]."
-    ch_p "Let's not do that right now, [RogueX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:745
 translate french Rogue_SB_Prep_065bc17d:
@@ -568,13 +568,13 @@ translate french Rogue_SB_Cycle_2c55fb6c:
 translate french Rogue_SB_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:928
 translate french Rogue_SB_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:934
 translate french Rogue_SB_Cycle_054b65ff:
@@ -586,49 +586,49 @@ translate french Rogue_SB_Cycle_054b65ff:
 translate french Rogue_SB_Cycle_7d7f67de:
 
     # ch_r "You're just going at them, huh?"
-    ch_r "You're just going at them, huh?"
+    ch_r "Tu t'acharnes sur eux, hein ?"
 
 # game/Rogue_Fondle.rpy:952
 translate french Rogue_SB_Cycle_70bbe179:
 
     # ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
-    ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
+    ch_r "Je sais que tu t'amuses, mais nous pourrions peut-être essayer autre chose [RogueX.Petname]." nointeract
 
 # game/Rogue_Fondle.rpy:955
 translate french Rogue_SB_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:966
 translate french Rogue_SB_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:970
 translate french Rogue_SB_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:971
 translate french Rogue_SB_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:983
 translate french Rogue_SB_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:985
 translate french Rogue_SB_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:989
 translate french Rogue_SB_Cycle_65fe319c:
@@ -640,7 +640,7 @@ translate french Rogue_SB_Cycle_65fe319c:
 translate french Rogue_SB_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:1016
 translate french Rogue_SB_After_2a8f4972:
@@ -700,55 +700,55 @@ translate french Rogue_Fondle_Thighs_db5ff043:
 translate french Rogue_Fondle_Thighs_be5b14ae:
 
     # ch_r "I told you not to touch me like that in public!"
-    ch_r "I told you not to touch me like that in public!"
+    ch_r "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Rogue_Fondle.rpy:1111
 translate french Rogue_Fondle_Thighs_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1113
 translate french Rogue_Fondle_Thighs_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:1116
 translate french Rogue_Fondle_Thighs_71b2c7d2:
 
     # ch_r "I just don't think I'm ready yet, [RogueX.Petname]. . ."
-    ch_r "I just don't think I'm ready yet, [RogueX.Petname]. . ."
+    ch_r "Je ne pense pas être encore prête, [RogueX.Petname]..."
 
 # game/Rogue_Fondle.rpy:1119
 translate french Rogue_Fondle_Thighs_14b634f3:
 
     # ch_r "I'd really rather not."
-    ch_r "I'd really rather not."
+    ch_r "Je ne préfère vraiment pas."
 
 # game/Rogue_Fondle.rpy:1124
 translate french Rogue_Fondle_Thighs_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1128
 translate french Rogue_Fondle_Thighs_746246fd:
 
     # ch_r "Heh, maybe, [RogueX.Petname]."
-    ch_r "Heh, maybe, [RogueX.Petname]."
+    ch_r "Héhé, peut-être, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1143
 translate french Rogue_Fondle_Thighs_f783afa7:
 
     # ch_r "Heh, I suppose I can hardly refuse ya when you use the magic words . . ."
-    ch_r "Heh, I suppose I can hardly refuse ya when you use the magic words . . ."
+    ch_r "Héhé, je suppose que je peux difficilement dire non quand tu utilises les mots magiques..."
 
 # game/Rogue_Fondle.rpy:1147
 translate french Rogue_Fondle_Thighs_e35c13d9:
 
     # ch_r "I'm afraid not this time, sorry [RogueX.Petname]."
-    ch_r "I'm afraid not this time, sorry [RogueX.Petname]."
+    ch_r "J'ai bien peur que non cette fois, désolé [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1155
 translate french Rogue_Fondle_Thighs_37511e4c:
@@ -766,7 +766,7 @@ translate french Rogue_Fondle_Thighs_ef0557ab:
 translate french Rogue_Fondle_Thighs_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1172
 translate french Rogue_Fondle_Thighs_77e10582:
@@ -778,13 +778,13 @@ translate french Rogue_Fondle_Thighs_77e10582:
 translate french Rogue_Fondle_Thighs_45cff248:
 
     # ch_r "I really don't think this is the right place for that!"
-    ch_r "I really don't think this is the right place for that!"
+    ch_r "Je ne pense vraiment pas que ce soit le bon endroit pour ça !"
 
 # game/Rogue_Fondle.rpy:1182
 translate french Rogue_Fondle_Thighs_34c6c52e:
 
     # ch_r "Fresh!"
-    ch_r "Fresh!"
+    ch_r "Coquin !"
 
 # game/Rogue_Fondle.rpy:1186
 translate french Rogue_Fondle_Thighs_eea36c4f:
@@ -808,7 +808,7 @@ translate french Rogue_FT_Cycle_b032f1d0:
 translate french Rogue_FT_Cycle_dfe93c22:
 
     # "As your hands creep upwards, she grabs your wrists."
-    "As your hands creep upwards, she grabs your wrists."
+    "Alors que tes mains se lèvent, elle te saisit les poignets."
 
 # game/Rogue_Fondle.rpy:1337
 translate french Rogue_FT_Cycle_83673efb:
@@ -826,13 +826,13 @@ translate french Rogue_FT_Cycle_2c55fb6c:
 translate french Rogue_FT_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:1388
 translate french Rogue_FT_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:1394
 translate french Rogue_FT_Cycle_054b65ff:
@@ -844,55 +844,55 @@ translate french Rogue_FT_Cycle_054b65ff:
 translate french Rogue_FT_Cycle_73c2572c:
 
     # ch_r "You like how those feel, huh?"
-    ch_r "You like how those feel, huh?"
+    ch_r "Tu aimes ce que ça fait, hein ?"
 
 # game/Rogue_Fondle.rpy:1410
 translate french Rogue_FT_Cycle_70bbe179:
 
     # ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
-    ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
+    ch_r "Je sais que tu t'amuses, mais nous pourrions peut-être essayer autre chose [RogueX.Petname]." nointeract
 
 # game/Rogue_Fondle.rpy:1413
 translate french Rogue_FT_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:1424
 translate french Rogue_FT_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:1428
 translate french Rogue_FT_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:1429
 translate french Rogue_FT_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:1441
 translate french Rogue_FT_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:1443
 translate french Rogue_FT_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:1448
 translate french Rogue_FT_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:1470
 translate french Rogue_FT_After_d85be2bf:
@@ -904,7 +904,7 @@ translate french Rogue_FT_After_d85be2bf:
 translate french Rogue_FT_After_434509c9:
 
     # ch_r "Was that enough for you?"
-    ch_r "Was that enough for you?"
+    ch_r "Cela t'a suffi ?"
 
 # game/Rogue_Fondle.rpy:1517
 translate french Rogue_Fondle_Pussy_4d27be58:
@@ -916,7 +916,7 @@ translate french Rogue_Fondle_Pussy_4d27be58:
 translate french Rogue_Fondle_Pussy_c1b1d1fd:
 
     # ch_r "Hey, just keep doing what you were doing, [RogueX.Petname]."
-    ch_r "Hey, just keep doing what you were doing, [RogueX.Petname]."
+    ch_r "Hé, continue ce que tu faisais, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1534
 translate french Rogue_Fondle_Pussy_60ae36da:
@@ -940,7 +940,7 @@ translate french Rogue_Fondle_Pussy_67572ff9:
 translate french Rogue_Fondle_Pussy_f892de38:
 
     # ch_r "Sure, get in there."
-    ch_r "Sure, get in there."
+    ch_r "Bien sûr, touche-moi."
 
 # game/Rogue_Fondle.rpy:1564
 translate french Rogue_Fondle_Pussy_db5ff043:
@@ -952,19 +952,19 @@ translate french Rogue_Fondle_Pussy_db5ff043:
 translate french Rogue_Fondle_Pussy_be5b14ae:
 
     # ch_r "I told you not to touch me like that in public!"
-    ch_r "I told you not to touch me like that in public!"
+    ch_r "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Rogue_Fondle.rpy:1568
 translate french Rogue_Fondle_Pussy_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1570
 translate french Rogue_Fondle_Pussy_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:1573
 translate french Rogue_Fondle_Pussy_93138085:
@@ -976,31 +976,31 @@ translate french Rogue_Fondle_Pussy_93138085:
 translate french Rogue_Fondle_Pussy_14b634f3:
 
     # ch_r "I'd really rather not."
-    ch_r "I'd really rather not."
+    ch_r "Je ne préfère vraiment pas."
 
 # game/Rogue_Fondle.rpy:1581
 translate french Rogue_Fondle_Pussy_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1585
 translate french Rogue_Fondle_Pussy_309c0834:
 
     # ch_r "I'll give it some thought, [RogueX.Petname]."
-    ch_r "I'll give it some thought, [RogueX.Petname]."
+    ch_r "Je vais y réfléchir, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1600
 translate french Rogue_Fondle_Pussy_8ef7b94e:
 
     # ch_r "Well, if you're gonna beg. . ."
-    ch_r "Well, if you're gonna beg. . ."
+    ch_r "Eh bien, si tu dois supplier..."
 
 # game/Rogue_Fondle.rpy:1604
 translate french Rogue_Fondle_Pussy_f4792eb2:
 
     # ch_r "Tsk, not this time, [RogueX.Petname]."
-    ch_r "Tsk, not this time, [RogueX.Petname]."
+    ch_r "Tsk, pas cette fois, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1612
 translate french Rogue_Fondle_Pussy_09867a20:
@@ -1018,7 +1018,7 @@ translate french Rogue_Fondle_Pussy_ef0557ab:
 translate french Rogue_Fondle_Pussy_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:1630
 translate french Rogue_Fondle_Pussy_50249408:
@@ -1030,13 +1030,13 @@ translate french Rogue_Fondle_Pussy_50249408:
 translate french Rogue_Fondle_Pussy_45cff248:
 
     # ch_r "I really don't think this is the right place for that!"
-    ch_r "I really don't think this is the right place for that!"
+    ch_r "Je ne pense vraiment pas que ce soit le bon endroit pour ça !"
 
 # game/Rogue_Fondle.rpy:1640
 translate french Rogue_Fondle_Pussy_33d56441:
 
     # ch_r "Sorry, keep your hands out of there."
-    ch_r "Sorry, keep your hands out of there."
+    ch_r "Désolé, ne me touche pas là."
 
 # game/Rogue_Fondle.rpy:1644
 translate french Rogue_Fondle_Pussy_b2f3f47d:
@@ -1048,13 +1048,13 @@ translate french Rogue_Fondle_Pussy_b2f3f47d:
 translate french Rogue_Fondle_Pussy_3ced6cd7:
 
     # ch_r "Sorry, I don't even know how I got here. . ."
-    ch_r "Sorry, I don't even know how I got here. . ."
+    ch_r "Désolé, je ne sais même pas comment je suis arrivé ici..."
 
 # game/Rogue_Fondle.rpy:1677
 translate french Rogue_FP_Prep_b945d175:
 
     # "[Line] and pulls her [RogueX.Panties] out of the way."
-    "[Line] and pulls her [RogueX.Panties] out of the way."
+    "[Line] et retire sa [RogueX.Panties] du chemin."
 
 # game/Rogue_Fondle.rpy:1678
 translate french Rogue_FP_Prep_194525dd:
@@ -1072,7 +1072,7 @@ translate french Rogue_FP_Prep_bad664f8:
 translate french Rogue_FP_Prep_678e8779:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:1685
 translate french Rogue_FP_Prep_79b3caf8:
@@ -1084,55 +1084,55 @@ translate french Rogue_FP_Prep_79b3caf8:
 translate french Rogue_FP_Prep_678e8779_1:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:1689
 translate french Rogue_FP_Prep_9aca0953:
 
     # "[RogueX.Name] grabs your arm and shoves your hand into her crotch, clearly intending you to get to work."
-    "[RogueX.Name] grabs your arm and shoves your hand into her crotch, clearly intending you to get to work."
+    "[RogueX.Name] attrape ton bras et glisse ta main dans son entrejambe, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:1691
 translate french Rogue_FP_Prep_9aca0953_1:
 
     # "[RogueX.Name] grabs your arm and shoves your hand into her crotch, clearly intending you to get to work."
-    "[RogueX.Name] grabs your arm and shoves your hand into her crotch, clearly intending you to get to work."
+    "[RogueX.Name] attrape ton bras et glisse ta main dans son entrejambe, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:1697
 translate french Rogue_FP_Prep_3195176c:
 
     # "You start to run your fingers along her pussy."
-    "You start to run your fingers along her pussy."
+    "Tu commences à faire courir tes doigts le long de sa chatte."
 
 # game/Rogue_Fondle.rpy:1701
 translate french Rogue_FP_Prep_786b84be:
 
     # ch_p "I like the initiative, [RogueX.Pet]."
-    ch_p "I like the initiative, [RogueX.Pet]."
+    ch_p "J'aime cette initiative, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:1703
 translate french Rogue_FP_Prep_3195176c_1:
 
     # "You start to run your fingers along her pussy."
-    "You start to run your fingers along her pussy."
+    "Tu commences à faire courir tes doigts le long de sa chatte."
 
 # game/Rogue_Fondle.rpy:1708
 translate french Rogue_FP_Prep_2322338c:
 
     # "You pull your hand back."
-    "You pull your hand back."
+    "Tu enlèves ta main."
 
 # game/Rogue_Fondle.rpy:1711
 translate french Rogue_FP_Prep_69f41de9:
 
     # ch_p "Let's not do that right now, [RogueX.Pet]."
-    ch_p "Let's not do that right now, [RogueX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:1713
 translate french Rogue_FP_Prep_512c9f8f:
 
     # "[RogueX.Name] pulls back."
-    "[RogueX.Name] pulls back."
+    "[RogueX.Name] se retire."
 
 # game/Rogue_Fondle.rpy:1788
 translate french Rogue_FP_Cycle_dbab1d12:
@@ -1162,13 +1162,13 @@ translate french Rogue_FP_Cycle_2c55fb6c:
 translate french Rogue_FP_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:1923
 translate french Rogue_FP_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:1929
 translate french Rogue_FP_Cycle_054b65ff:
@@ -1180,55 +1180,55 @@ translate french Rogue_FP_Cycle_054b65ff:
 translate french Rogue_FP_Cycle_345e38d8:
 
     # ch_r "You like how that feels, huh?"
-    ch_r "You like how that feels, huh?"
+    ch_r "Tu aimes caresser mon minou, hein ?"
 
 # game/Rogue_Fondle.rpy:1947
 translate french Rogue_FP_Cycle_70bbe179:
 
     # ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
-    ch_r "I know you're having fun, but maybe we could try something else [RogueX.Petname]." nointeract
+    ch_r "Je sais que tu t'amuses, mais nous pourrions peut-être essayer autre chose [RogueX.Petname]." nointeract
 
 # game/Rogue_Fondle.rpy:1950
 translate french Rogue_FP_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:1961
 translate french Rogue_FP_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:1965
 translate french Rogue_FP_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:1966
 translate french Rogue_FP_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:1978
 translate french Rogue_FP_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:1980
 translate french Rogue_FP_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:1985
 translate french Rogue_FP_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:2007
 translate french Rogue_FP_After_29f5f053:
@@ -1240,7 +1240,7 @@ translate french Rogue_FP_After_29f5f053:
 translate french Rogue_FP_After_434509c9:
 
     # ch_r "Was that enough for you?"
-    ch_r "Was that enough for you?"
+    ch_r "Cela t'a suffi ?"
 
 # game/Rogue_Fondle.rpy:2030
 translate french Rogue_Insert_Pussy_07f07c90:
@@ -1258,13 +1258,13 @@ translate french Rogue_Insert_Pussy_c23e1262:
 translate french Rogue_Insert_Pussy_f892de38:
 
     # ch_r "Sure, get in there."
-    ch_r "Sure, get in there."
+    ch_r "Bien sûr, touche-moi."
 
 # game/Rogue_Fondle.rpy:2051
 translate french Rogue_Insert_Pussy_ecdc5ba7:
 
     # ch_r "God yes."
-    ch_r "God yes."
+    ch_r "Oh que oui."
 
 # game/Rogue_Fondle.rpy:2059
 translate french Rogue_Insert_Pussy_0f821cac:
@@ -1300,7 +1300,7 @@ translate french Rogue_Lick_Pussy_67572ff9:
 translate french Rogue_Lick_Pussy_f892de38:
 
     # ch_r "Sure, get in there."
-    ch_r "Sure, get in there."
+    ch_r "Bien sûr, touche-moi."
 
 # game/Rogue_Fondle.rpy:2176
 translate french Rogue_Lick_Pussy_36b55301:
@@ -1318,19 +1318,19 @@ translate french Rogue_Lick_Pussy_db5ff043:
 translate french Rogue_Lick_Pussy_870acc91:
 
     # ch_r "You already got your answer!"
-    ch_r "You already got your answer!"
+    ch_r "Tu as déjà ta réponse !"
 
 # game/Rogue_Fondle.rpy:2189
 translate french Rogue_Lick_Pussy_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2191
 translate french Rogue_Lick_Pussy_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:2194
 translate french Rogue_Lick_Pussy_5a553bcf:
@@ -1342,13 +1342,13 @@ translate french Rogue_Lick_Pussy_5a553bcf:
 translate french Rogue_Lick_Pussy_1f53aa2c:
 
     # ch_r "Oh, um, no, I'm not really comfortable with that. . ."
-    ch_r "Oh, um, no, I'm not really comfortable with that. . ."
+    ch_r "Oh, euh, non, je ne suis pas vraiment à l'aise avec ça..."
 
 # game/Rogue_Fondle.rpy:2202
 translate french Rogue_Lick_Pussy_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2206
 translate french Rogue_Lick_Pussy_75708e83:
@@ -1372,19 +1372,19 @@ translate french Rogue_Lick_Pussy_429ace8c:
 translate french Rogue_Lick_Pussy_cdecaec5:
 
     # ch_r "Ok, get in there if you're so determined."
-    ch_r "Ok, get in there if you're so determined."
+    ch_r "Ok, vas-y si tu es si déterminé."
 
 # game/Rogue_Fondle.rpy:2243
 translate french Rogue_Lick_Pussy_d5b0d244:
 
     # "She shoves your head back."
-    "She shoves your head back."
+    "Elle te pousse la tête en arrière."
 
 # game/Rogue_Fondle.rpy:2247
 translate french Rogue_Lick_Pussy_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2251
 translate french Rogue_Lick_Pussy_3ba7fce0:
@@ -1396,13 +1396,13 @@ translate french Rogue_Lick_Pussy_3ba7fce0:
 translate french Rogue_Lick_Pussy_1d4b1c49:
 
     # ch_r "This just really isn't the time or place, [RogueX.Petname]!"
-    ch_r "This just really isn't the time or place, [RogueX.Petname]!"
+    ch_r "Ce n'est vraiment ni le moment ni l'endroit, [RogueX.Petname] !"
 
 # game/Rogue_Fondle.rpy:2261
 translate french Rogue_Lick_Pussy_9936a5e6:
 
     # ch_r "Sorry, keep your tongue in your mouth."
-    ch_r "Sorry, keep your tongue in your mouth."
+    ch_r "Désolé, garde ta langue dans ta bouche."
 
 # game/Rogue_Fondle.rpy:2264
 translate french Rogue_Lick_Pussy_cc86b0bc:
@@ -1414,13 +1414,13 @@ translate french Rogue_Lick_Pussy_cc86b0bc:
 translate french Rogue_LP_Prep_b945d175:
 
     # "[Line] and pulls her [RogueX.Panties] out of the way."
-    "[Line] and pulls her [RogueX.Panties] out of the way."
+    "[Line] et retire sa [RogueX.Panties] du chemin."
 
 # game/Rogue_Fondle.rpy:2297
 translate french Rogue_LP_Prep_dd20fbcb:
 
     # "She then grabs your head and pulls it to her crotch, clearly intending you to get to work."
-    "She then grabs your head and pulls it to her crotch, clearly intending you to get to work."
+    "Elle te saisit alors la tête et la tire jusqu'à l'entrejambe, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:2300
 translate french Rogue_LP_Prep_cd517af9:
@@ -1432,37 +1432,37 @@ translate french Rogue_LP_Prep_cd517af9:
 translate french Rogue_LP_Prep_678e8779:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:2304
 translate french Rogue_LP_Prep_15ed07e6:
 
     # "[Line], and then shoves your face into her crotch."
-    "[Line], and then shoves your face into her crotch."
+    "[Line], et ensuite t'enfonce ton visage dans l'entrejambe."
 
 # game/Rogue_Fondle.rpy:2305
 translate french Rogue_LP_Prep_678e8779_1:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:2308
 translate french Rogue_LP_Prep_9d1d4b87:
 
     # "[RogueX.Name] grabs your head and pulls it to her crotch, clearly intending you to get to work."
-    "[RogueX.Name] grabs your head and pulls it to her crotch, clearly intending you to get to work."
+    "[RogueX.Name] t'attrape la tête et la tire vers son entrejambe, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:2310
 translate french Rogue_LP_Prep_9d1d4b87_1:
 
     # "[RogueX.Name] grabs your head and pulls it to her crotch, clearly intending you to get to work."
-    "[RogueX.Name] grabs your head and pulls it to her crotch, clearly intending you to get to work."
+    "[RogueX.Name] t'attrape la tête et la tire vers son entrejambe, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:2316
 translate french Rogue_LP_Prep_0e2f0537:
 
     # "You start licking."
-    "You start licking."
+    "Tu commences à lécher."
 
 # game/Rogue_Fondle.rpy:2320
 translate french Rogue_LP_Prep_d37e6db0:
@@ -1474,25 +1474,25 @@ translate french Rogue_LP_Prep_d37e6db0:
 translate french Rogue_LP_Prep_0e2f0537_1:
 
     # "You start licking."
-    "You start licking."
+    "Tu commences à lécher."
 
 # game/Rogue_Fondle.rpy:2327
 translate french Rogue_LP_Prep_9c12444d:
 
     # "You pull your head away."
-    "You pull your head away."
+    "Tu éloignes la tête."
 
 # game/Rogue_Fondle.rpy:2330
 translate french Rogue_LP_Prep_69f41de9:
 
     # ch_p "Let's not do that right now, [RogueX.Pet]."
-    ch_p "Let's not do that right now, [RogueX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:2332
 translate french Rogue_LP_Prep_512c9f8f:
 
     # "[RogueX.Name] pulls back."
-    "[RogueX.Name] pulls back."
+    "[RogueX.Name] se retire."
 
 # game/Rogue_Fondle.rpy:2401
 translate french Rogue_LP_Cycle_dbab1d12:
@@ -1522,13 +1522,13 @@ translate french Rogue_LP_Cycle_2c55fb6c:
 translate french Rogue_LP_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:2535
 translate french Rogue_LP_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:2541
 translate french Rogue_LP_Cycle_054b65ff:
@@ -1540,7 +1540,7 @@ translate french Rogue_LP_Cycle_054b65ff:
 translate french Rogue_LP_Cycle_00299178:
 
     # ch_r "You like it down there?"
-    ch_r "You like it down there?"
+    ch_r "Il te plaît, mon minou ?"
 
 # game/Rogue_Fondle.rpy:2559
 translate french Rogue_LP_Cycle_e95c5eaf:
@@ -1552,43 +1552,43 @@ translate french Rogue_LP_Cycle_e95c5eaf:
 translate french Rogue_LP_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:2573
 translate french Rogue_LP_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:2577
 translate french Rogue_LP_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:2578
 translate french Rogue_LP_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:2590
 translate french Rogue_LP_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:2592
 translate french Rogue_LP_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:2597
 translate french Rogue_LP_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:2622
 translate french Rogue_LP_After_8a67ab5f:
@@ -1600,7 +1600,7 @@ translate french Rogue_LP_After_8a67ab5f:
 translate french Rogue_LP_After_b1b31aa5:
 
     # ch_r "Did you like that?"
-    ch_r "Cela t'a plu ?.."
+    ch_r "Cela t'a plu ?"
 
 # game/Rogue_Fondle.rpy:2671
 translate french Rogue_Fondle_Ass_148eb09a:
@@ -1654,19 +1654,19 @@ translate french Rogue_Fondle_Ass_db5ff043:
 translate french Rogue_Fondle_Ass_be5b14ae:
 
     # ch_r "I told you not to touch me like that in public!"
-    ch_r "I told you not to touch me like that in public!"
+    ch_r "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Rogue_Fondle.rpy:2725
 translate french Rogue_Fondle_Ass_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2727
 translate french Rogue_Fondle_Ass_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:2730
 translate french Rogue_Fondle_Ass_164c7ddf:
@@ -1684,31 +1684,31 @@ translate french Rogue_Fondle_Ass_78dc5c72:
 translate french Rogue_Fondle_Ass_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2742
 translate french Rogue_Fondle_Ass_746246fd:
 
     # ch_r "Heh, maybe, [RogueX.Petname]."
-    ch_r "Heh, maybe, [RogueX.Petname]."
+    ch_r "Héhé, peut-être, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2755
 translate french Rogue_Fondle_Ass_8ef7b94e:
 
     # ch_r "Well, if you're gonna beg. . ."
-    ch_r "Well, if you're gonna beg. . ."
+    ch_r "Eh bien, si tu dois supplier..."
 
 # game/Rogue_Fondle.rpy:2761
 translate french Rogue_Fondle_Ass_f4792eb2:
 
     # ch_r "Tsk, not this time, [RogueX.Petname]."
-    ch_r "Tsk, not this time, [RogueX.Petname]."
+    ch_r "Tsk, pas cette fois, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2769
 translate french Rogue_Fondle_Ass_152b3a0e:
 
     # ch_r "Fine, I suppose."
-    ch_r "Fine, I suppose."
+    ch_r "D'accord, on va dire."
 
 # game/Rogue_Fondle.rpy:2778
 translate french Rogue_Fondle_Ass_ef0557ab:
@@ -1720,7 +1720,7 @@ translate french Rogue_Fondle_Ass_ef0557ab:
 translate french Rogue_Fondle_Ass_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:2786
 translate french Rogue_Fondle_Ass_7facdaf2:
@@ -1750,7 +1750,7 @@ translate french Rogue_Fondle_Ass_06e47767:
 translate french Rogue_Fondle_Ass_3ced6cd7:
 
     # ch_r "Sorry, I don't even know how I got here. . ."
-    ch_r "Sorry, I don't even know how I got here. . ."
+    ch_r "Désolé, je ne sais même pas comment je suis arrivé ici..."
 
 # game/Rogue_Fondle.rpy:2863
 translate french Rogue_FA_Cycle_dbab1d12:
@@ -1780,13 +1780,13 @@ translate french Rogue_FA_Cycle_2c55fb6c:
 translate french Rogue_FA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:3006
 translate french Rogue_FA_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:3012
 translate french Rogue_FA_Cycle_054b65ff:
@@ -1798,7 +1798,7 @@ translate french Rogue_FA_Cycle_054b65ff:
 translate french Rogue_FA_Cycle_4cf8a8f7:
 
     # ch_r "Uh, that's nice, but. . ."
-    ch_r "Uh, that's nice, but. . ."
+    ch_r "Euh, c'est bien, mais..."
 
 # game/Rogue_Fondle.rpy:3030
 translate french Rogue_FA_Cycle_5032060d:
@@ -1810,43 +1810,43 @@ translate french Rogue_FA_Cycle_5032060d:
 translate french Rogue_FA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:3044
 translate french Rogue_FA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:3048
 translate french Rogue_FA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:3049
 translate french Rogue_FA_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:3061
 translate french Rogue_FA_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:3063
 translate french Rogue_FA_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:3068
 translate french Rogue_FA_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:3090
 translate french Rogue_FA_After_fa0b1170:
@@ -1858,7 +1858,7 @@ translate french Rogue_FA_After_fa0b1170:
 translate french Rogue_FA_After_b1b31aa5:
 
     # ch_r "Did you like that?"
-    ch_r "Cela t'a plu ?.."
+    ch_r "Cela t'a plu ?"
 
 # game/Rogue_Fondle.rpy:3145
 translate french Rogue_Insert_Ass_133fce00:
@@ -1888,7 +1888,7 @@ translate french Rogue_Insert_Ass_67572ff9:
 translate french Rogue_Insert_Ass_f892de38:
 
     # ch_r "Sure, get in there."
-    ch_r "Sure, get in there."
+    ch_r "Bien sûr, touche-moi."
 
 # game/Rogue_Fondle.rpy:3181
 translate french Rogue_Insert_Ass_36b55301:
@@ -1906,37 +1906,37 @@ translate french Rogue_Insert_Ass_db5ff043:
 translate french Rogue_Insert_Ass_83e73013:
 
     # ch_r "I told you that wasn't appropriate!"
-    ch_r "I told you that wasn't appropriate!"
+    ch_r "Je t'ai dit que c'était embarassant !"
 
 # game/Rogue_Fondle.rpy:3194
 translate french Rogue_Insert_Ass_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:3196
 translate french Rogue_Insert_Ass_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:3199
 translate french Rogue_Insert_Ass_98189115:
 
     # ch_r "I. . . don't think that's. . ."
-    ch_r "I. . . don't think that's. . ."
+    ch_r "Je.... ne pense pas que ce soit...."
 
 # game/Rogue_Fondle.rpy:3202
 translate french Rogue_Insert_Ass_1f53aa2c:
 
     # ch_r "Oh, um, no, I'm not really comfortable with that. . ."
-    ch_r "Oh, um, no, I'm not really comfortable with that. . ."
+    ch_r "Oh, euh, non, je ne suis pas vraiment à l'aise avec ça..."
 
 # game/Rogue_Fondle.rpy:3207
 translate french Rogue_Insert_Ass_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:3211
 translate french Rogue_Insert_Ass_d5873092:
@@ -1954,7 +1954,7 @@ translate french Rogue_Insert_Ass_22d6b13a:
 translate french Rogue_Insert_Ass_977fa993:
 
     # ch_r "I really don't think that I would."
-    ch_r "I really don't think that I would."
+    ch_r "Je ne pense vraiment pas que je voudrais."
 
 # game/Rogue_Fondle.rpy:3238
 translate french Rogue_Insert_Ass_78fd4f50:
@@ -1972,7 +1972,7 @@ translate french Rogue_Insert_Ass_ef0557ab:
 translate french Rogue_Insert_Ass_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:3257
 translate french Rogue_Insert_Ass_6c54953d:
@@ -2002,13 +2002,13 @@ translate french Rogue_Insert_Ass_b54ceb2d:
 translate french Rogue_IA_Prep_b945d175:
 
     # "[Line] and pulls her [RogueX.Panties] out of the way."
-    "[Line] and pulls her [RogueX.Panties] out of the way."
+    "[Line] et retire sa [RogueX.Panties] du chemin."
 
 # game/Rogue_Fondle.rpy:3306
 translate french Rogue_IA_Prep_73a627f7:
 
     # "She then grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
-    "She then grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
+    "Elle t'attrape alors le bras et presse ta main contre son trou de cul, avec l'intention manifeste que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:3309
 translate french Rogue_IA_Prep_3c6cce2c:
@@ -2020,67 +2020,67 @@ translate french Rogue_IA_Prep_3c6cce2c:
 translate french Rogue_IA_Prep_678e8779:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:3313
 translate french Rogue_IA_Prep_0a9c5cb2:
 
     # "[Line], and then presses your hand against her asshole."
-    "[Line], and then presses your hand against her asshole."
+    "[Line], puis presse ta main contre son trou du cul."
 
 # game/Rogue_Fondle.rpy:3314
 translate french Rogue_IA_Prep_678e8779_1:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:3317
 translate french Rogue_IA_Prep_4e7dd5da:
 
     # "[RogueX.Name] grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
-    "[RogueX.Name] grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
+    "[RogueX.Name] t'attrape le bras et presse ta main contre son trou, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:3319
 translate french Rogue_IA_Prep_4e7dd5da_1:
 
     # "[RogueX.Name] grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
-    "[RogueX.Name] grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
+    "[RogueX.Name] t'attrape le bras et presse ta main contre son trou, voulant clairement que tu t'occupes d'elle."
 
 # game/Rogue_Fondle.rpy:3325
 translate french Rogue_IA_Prep_c67aa8b7:
 
     # "You press your finger into it."
-    "You press your finger into it."
+    "Tu insères ton doigt."
 
 # game/Rogue_Fondle.rpy:3329
 translate french Rogue_IA_Prep_b31f5463:
 
     # ch_p "Dirty girl, [RogueX.Pet]."
-    ch_p "Dirty girl, [RogueX.Pet]."
+    ch_p "Coquine, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:3331
 translate french Rogue_IA_Prep_c67aa8b7_1:
 
     # "You press your finger into it."
-    "You press your finger into it."
+    "Tu insères ton doigt."
 
 # game/Rogue_Fondle.rpy:3336
 translate french Rogue_IA_Prep_2322338c:
 
     # "You pull your hand back."
-    "You pull your hand back."
+    "Tu enlèves ta main."
 
 # game/Rogue_Fondle.rpy:3339
 translate french Rogue_IA_Prep_69f41de9:
 
     # ch_p "Let's not do that right now, [RogueX.Pet]."
-    ch_p "Let's not do that right now, [RogueX.Pet]."
+    ch_p "Ne faisons pas ça maintenant, [RogueX.Pet]."
 
 # game/Rogue_Fondle.rpy:3341
 translate french Rogue_IA_Prep_512c9f8f:
 
     # "[RogueX.Name] pulls back."
-    "[RogueX.Name] pulls back."
+    "[RogueX.Name] se retire."
 
 # game/Rogue_Fondle.rpy:3402
 translate french Rogue_IA_Cycle_dbab1d12:
@@ -2110,13 +2110,13 @@ translate french Rogue_IA_Cycle_2c55fb6c:
 translate french Rogue_IA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:3541
 translate french Rogue_IA_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:3547
 translate french Rogue_IA_Cycle_054b65ff:
@@ -2128,55 +2128,55 @@ translate french Rogue_IA_Cycle_054b65ff:
 translate french Rogue_IA_Cycle_e70a4744:
 
     # ch_r "What are you even doing down there?"
-    ch_r "What are you even doing down there?"
+    ch_r "Qu'est-ce que tu fais là en bas ?"
 
 # game/Rogue_Fondle.rpy:3565
 translate french Rogue_IA_Cycle_4c780fbb:
 
     # ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
-    ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
+    ch_r "[RogueX.Petname], cela devient inconfortable, peut-être que nous pourrions essayer autre chose." nointeract
 
 # game/Rogue_Fondle.rpy:3568
 translate french Rogue_IA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:3579
 translate french Rogue_IA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:3583
 translate french Rogue_IA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:3584
 translate french Rogue_IA_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:3596
 translate french Rogue_IA_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:3598
 translate french Rogue_IA_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:3603
 translate french Rogue_IA_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:3624
 translate french Rogue_IA_After_2cd46243:
@@ -2188,7 +2188,7 @@ translate french Rogue_IA_After_2cd46243:
 translate french Rogue_IA_After_b1b31aa5:
 
     # ch_r "Did you like that?"
-    ch_r "Cela t'a plu ?.."
+    ch_r "Cela t'a plu ?"
 
 # game/Rogue_Fondle.rpy:3680
 translate french Rogue_Lick_Ass_eebae9fc:
@@ -2218,7 +2218,7 @@ translate french Rogue_Lick_Ass_67572ff9:
 translate french Rogue_Lick_Ass_f892de38:
 
     # ch_r "Sure, get in there."
-    ch_r "Sure, get in there."
+    ch_r "Bien sûr, touche-moi."
 
 # game/Rogue_Fondle.rpy:3718
 translate french Rogue_Lick_Ass_36b55301:
@@ -2236,19 +2236,19 @@ translate french Rogue_Lick_Ass_db5ff043:
 translate french Rogue_Lick_Ass_be5b14ae:
 
     # ch_r "I told you not to touch me like that in public!"
-    ch_r "I told you not to touch me like that in public!"
+    ch_r "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Rogue_Fondle.rpy:3731
 translate french Rogue_Lick_Ass_68c2de40:
 
     # ch_r "I already told you \"no,\" [RogueX.Petname]."
-    ch_r "I already told you \"no,\" [RogueX.Petname]."
+    ch_r "Je t'ai déjà dit \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:3733
 translate french Rogue_Lick_Ass_71331ca6:
 
     # ch_r "I told you not in public!"
-    ch_r "I told you not in public!"
+    ch_r "Je te l'ai dit, pas en public !"
 
 # game/Rogue_Fondle.rpy:3737
 translate french Rogue_Lick_Ass_df706e01:
@@ -2278,7 +2278,7 @@ translate french Rogue_Lick_Ass_70b965b9:
 translate french Rogue_Lick_Ass_70661391:
 
     # ch_r "Yeah, ok, [RogueX.Petname]."
-    ch_r "Yeah, ok, [RogueX.Petname]."
+    ch_r "Ouais, ok, [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:3754
 translate french Rogue_Lick_Ass_60929ef2:
@@ -2302,37 +2302,37 @@ translate french Rogue_Lick_Ass_cf4df828:
 translate french Rogue_Lick_Ass_cdecaec5:
 
     # ch_r "Ok, get in there if you're so determined."
-    ch_r "Ok, get in there if you're so determined."
+    ch_r "Ok, vas-y si tu es si déterminé."
 
 # game/Rogue_Fondle.rpy:3791
 translate french Rogue_Lick_Ass_d5b0d244:
 
     # "She shoves your head back."
-    "She shoves your head back."
+    "Elle te pousse la tête en arrière."
 
 # game/Rogue_Fondle.rpy:3795
 translate french Rogue_Lick_Ass_cc3b4aeb:
 
     # ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
-    ch_r "Learn to take \"no\" for an answer, [RogueX.Petname]."
+    ch_r "Apprends à accepter que je dise \"non\", [RogueX.Petname]."
 
 # game/Rogue_Fondle.rpy:3799
 translate french Rogue_Lick_Ass_6777be27:
 
     # ch_r "Ew, no way."
-    ch_r "Ew, no way."
+    ch_r "Beurk, pas question."
 
 # game/Rogue_Fondle.rpy:3809
 translate french Rogue_Lick_Ass_1d4b1c49:
 
     # ch_r "This just really isn't the time or place, [RogueX.Petname]!"
-    ch_r "This just really isn't the time or place, [RogueX.Petname]!"
+    ch_r "Ce n'est vraiment ni le moment ni l'endroit, [RogueX.Petname] !"
 
 # game/Rogue_Fondle.rpy:3812
 translate french Rogue_Lick_Ass_9936a5e6:
 
     # ch_r "Sorry, keep your tongue in your mouth."
-    ch_r "Sorry, keep your tongue in your mouth."
+    ch_r "Désolé, garde ta langue dans ta bouche."
 
 # game/Rogue_Fondle.rpy:3815
 translate french Rogue_Lick_Ass_526de2f1:
@@ -2368,13 +2368,13 @@ translate french Rogue_LA_Cycle_2c55fb6c:
 translate french Rogue_LA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Rogue_Fondle.rpy:4024
 translate french Rogue_LA_Cycle_7f7e92ce:
 
     # "[RogueX.Name] still seems a bit unsatisfied with the experience."
-    "[RogueX.Name] still seems a bit unsatisfied with the experience."
+    "[RogueX.Name] semble encore un peu insatisfaite de l'expérience."
 
 # game/Rogue_Fondle.rpy:4030
 translate french Rogue_LA_Cycle_054b65ff:
@@ -2386,55 +2386,55 @@ translate french Rogue_LA_Cycle_054b65ff:
 translate french Rogue_LA_Cycle_e70a4744:
 
     # ch_r "What are you even doing down there?"
-    ch_r "What are you even doing down there?"
+    ch_r "Qu'est-ce que tu fais là en bas ?"
 
 # game/Rogue_Fondle.rpy:4048
 translate french Rogue_LA_Cycle_4c780fbb:
 
     # ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
-    ch_r "[RogueX.Petname], this is getting uncomfortable, maybe we could try something else." nointeract
+    ch_r "[RogueX.Petname], cela devient inconfortable, peut-être que nous pourrions essayer autre chose." nointeract
 
 # game/Rogue_Fondle.rpy:4051
 translate french Rogue_LA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Rogue_Fondle.rpy:4062
 translate french Rogue_LA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Rogue_Fondle.rpy:4066
 translate french Rogue_LA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Rogue_Fondle.rpy:4067
 translate french Rogue_LA_Cycle_0a03a059:
 
     # ch_r "Well if that's your attitude, I don't need your \"help\"."
-    ch_r "Well if that's your attitude, I don't need your \"help\"."
+    ch_r "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Rogue_Fondle.rpy:4079
 translate french Rogue_LA_Cycle_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/Rogue_Fondle.rpy:4081
 translate french Rogue_LA_Cycle_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Rogue_Fondle.rpy:4086
 translate french Rogue_LA_Cycle_41d4c983:
 
     # ch_r "Ok, [RogueX.Petname], that's enough of that for now."
-    ch_r "Ok, [RogueX.Petname], that's enough of that for now."
+    ch_r "Ok, [RogueX.Petname], ça suffit pour l'instant."
 
 # game/Rogue_Fondle.rpy:4108
 translate french Rogue_LA_After_40238bb3:
@@ -2446,7 +2446,7 @@ translate french Rogue_LA_After_40238bb3:
 translate french Rogue_LA_After_b1b31aa5:
 
     # ch_r "Did you like that?"
-    ch_r "Cela t'a plu ?.."
+    ch_r "Cela t'a plu ?"
 
 translate french strings:
 
@@ -2484,7 +2484,7 @@ translate french strings:
 
     # game/Rogue_Fondle.rpy:2155
     old "Again? Oh, you're insatiable!"
-    new "Again? Oh, you're insatiable!"
+    new "Encore ? Oh, tu es insatiable !"
 
     # game/Rogue_Fondle.rpy:2155
     old "Must be my lucky day!"
@@ -2497,4 +2497,8 @@ translate french strings:
     # game/Rogue_Fondle.rpy:3698
     old "I'm still tingling a bit from earlier."
     new "I'm still tingling a bit from earlier."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

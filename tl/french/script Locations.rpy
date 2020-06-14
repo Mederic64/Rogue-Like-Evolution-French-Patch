@@ -292,7 +292,7 @@ translate french Rogue_TightsRipped_2fc3dd1c:
 translate french Rogue_TightsRipped_85d0a580:
 
     # ch_r "You think so? That's sweet, maybe I'll keep them on hand."
-    ch_r "You think so? That's sweet, maybe I'll keep them on hand."
+    ch_r "Tu crois ? C'est gentil, je vais peut-être les garder à portée de main."
 
 # game/script Locations.rpy:756
 translate french Rogue_TightsRipped_ff6d9574:
@@ -538,7 +538,7 @@ translate french Shower_Room_Entry_c1f7d30b:
 translate french Shower_Room_Entry_72442136:
 
     # ch_l "See you later."
-    ch_l "See you later."
+    ch_l "À plus tard."
 
 # game/script Locations.rpy:1093
 translate french Shower_Room_Entry_c7d0a13a:
@@ -592,7 +592,7 @@ translate french Shower_Room_Entry_faf8b3af:
 translate french Shower_Room_Entry_890c9d17:
 
     # ch_e "Yes, hello."
-    ch_e "Yes, hello."
+    ch_e "Oui, bonjour."
 
 # game/script Locations.rpy:1116
 translate french Shower_Room_Entry_eb870604:
@@ -856,7 +856,7 @@ translate french Showering_96cb89ba:
 translate french Showering_dc5d7953:
 
     # ch_e "Yes, let's go."
-    ch_e "Yes, let's go."
+    ch_e "Oui, allons-y."
 
 # game/script Locations.rpy:1394
 translate french Showering_6e230e40:
@@ -898,7 +898,7 @@ translate french Showering_98da62fe:
 translate french Showering_1f2383ee:
 
     # ch_e "Yes, later."
-    ch_e "Yes, later."
+    ch_e "Oui, plus tard."
 
 # game/script Locations.rpy:1419
 translate french Showering_8ba35772:
@@ -1096,7 +1096,7 @@ translate french Showering_5873f7e3:
 translate french Showering_1ad5dcd3:
 
     # ch_k "You want to watch me. . ."
-    ch_k "You want to watch me. . ."
+    ch_k "Tu veux me regarder..."
 
 # game/script Locations.rpy:1547
 translate french Showering_234ec88c:
@@ -1810,7 +1810,7 @@ translate french Study_Room_Entry_8a894f34:
 translate french Study_Room_Entry_61e91a3f:
 
     # ch_k "Heh, you have a wicked mind. . ."
-    ch_k "Heh, you have a wicked mind. . ."
+    ch_k "Tu as un esprit malin..."
 
 # game/script Locations.rpy:2295
 translate french Study_Room_Entry_bf12d631:
@@ -1834,7 +1834,7 @@ translate french Study_Room_Entry_8a894f34_1:
 translate french Study_Room_Entry_cf8caf31:
 
     # ch_k "Heh, if you say so. . ."
-    ch_k "Heh, if you say so. . ."
+    ch_k "Héhé, si tu le dis.."
 
 # game/script Locations.rpy:2313
 translate french Study_Room_Entry_dcbacc33:
@@ -1900,7 +1900,7 @@ translate french Study_Room_638d74e9:
 translate french Study_Room_9947d0b0:
 
     # "You return to your room."
-    "You return to your room."
+    "Tu retournes dans ta chambre."
 
 # game/script Locations.rpy:2385
 translate french Study_Room_340f0fd9:
@@ -2170,7 +2170,7 @@ translate french Girls_Room_Entry_464cdba3:
 translate french Girls_Room_Entry_68b38bee:
 
     # ch_e "Yes. . . I suppose you should. . ."
-    ch_e "Yes. . . I suppose you should. . ."
+    ch_e "Oui.... Je suppose que tu devrais..."
 
 # game/script Locations.rpy:2575
 translate french Girls_Room_Entry_3626a972:
@@ -2350,7 +2350,7 @@ translate french Girls_Room_Entry_49ecb69a:
 translate french Girls_Room_Entry_7097bf92:
 
     # ch_l "Hey [Chr.Petname], I was just getting dressed."
-    ch_l "Hey [Chr.Petname], I was just getting dressed."
+    ch_l "Hé [Chr.Petname], j'étais en train de m'habiller."
 
 # game/script Locations.rpy:2706
 translate french Girls_Room_Entry_a8a76f0b:
@@ -2662,7 +2662,7 @@ translate french Kitty_Room_27f05239:
 translate french Kitty_Room_7da0f0e6:
 
     # ch_k "Go. Now."
-    ch_k "Go. Now."
+    ch_k "Pars. Maintenant."
 
 # game/script Locations.rpy:3005
 translate french Kitty_Room_bc1c735b:
@@ -2878,7 +2878,7 @@ translate french strings:
 
     # game/script Locations.rpy:331
     old "You are in class right now. What would you like to do?"
-    new "You are in class right now. What would you like to do?"
+    new "Tu es dans ta chambre. Que veux-tu faire ?"
 
     # game/script Locations.rpy:335
     old "Take the morning class"
@@ -3138,7 +3138,7 @@ translate french strings:
 
     # game/script Locations.rpy:1161
     old "You're in the showers. What would you like to do?"
-    new "You're in the showers. What would you like to do?"
+    new "Tu es dans les douches. Que veux-tu faire ?"
 
     # game/script Locations.rpy:1161
     old "Shower [[no time](locked)"
@@ -3194,7 +3194,7 @@ translate french strings:
 
     # game/script Locations.rpy:1799
     old ". It was fairly uneventful."
-    new ". It was fairly uneventful."
+    new ". C'était assez calme."
 
     # game/script Locations.rpy:1799
     old ". A few people came and went as you did so."
@@ -3202,7 +3202,7 @@ translate french strings:
 
     # game/script Locations.rpy:1799
     old ". That was refreshing."
-    new ". That was refreshing."
+    new ". C'était rafraîchissant."
 
     # game/script Locations.rpy:1856
     old "It was fairly uneventful."
@@ -3354,7 +3354,7 @@ translate french strings:
 
     # game/script Locations.rpy:2727
     old "Go in and wait for her?"
-    new "Go in and wait for her?"
+    new "Entrer et l'attendre ?"
 
     # game/script Locations.rpy:2863
     old "Sleep."
@@ -3363,4 +3363,8 @@ translate french strings:
     # game/script Locations.rpy:2863
     old "Other Girl's Rooms"
     new "Other Girl's Rooms"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

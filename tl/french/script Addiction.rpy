@@ -130,7 +130,7 @@ translate french First_Addicted_c2232569:
 translate french First_Addicted_18fa1917:
 
     # ch_l "You think maybe I could touch you again?"
-    ch_l "You think maybe I could touch you again?"
+    ch_l "Tu penses que je pourrais peut-être te toucher à nouveau ?"
 
 # game/script Addiction.rpy:70
 translate french First_Addicted_2ef3215c:
@@ -184,7 +184,7 @@ translate french First_Addicted_da785d11:
 translate french First_Addicted_99b82a76:
 
     # ch_r "I don't think so, [Girl.Petname]."
-    ch_r "I don't think so, [Girl.Petname]."
+    ch_r "Je ne pense pas, [Girl.Petname]."
 
 # game/script Addiction.rpy:103
 translate french First_Addicted_b4349220:
@@ -238,7 +238,7 @@ translate french First_Addicted_73e7267b:
 translate french First_Addicted_99b82a76_1:
 
     # ch_r "I don't think so, [Girl.Petname]."
-    ch_r "I don't think so, [Girl.Petname]."
+    ch_r "Je ne pense pas, [Girl.Petname]."
 
 # game/script Addiction.rpy:129
 translate french First_Addicted_b4349220_1:
@@ -334,7 +334,7 @@ translate french First_Addicted_44200059:
 translate french First_Addicted_3af4f1dd:
 
     # ch_e "I don't see why not."
-    ch_e "I don't see why not."
+    ch_e "Je ne vois aucune raison de refuser."
 
 # game/script Addiction.rpy:212
 translate french First_Addicted2_44a1bb9f:
@@ -406,7 +406,7 @@ translate french First_Addicted2_3cf7256f:
 translate french First_Addicted2_bef81394:
 
     # ch_k "Aw, that's sweet. Doc McCoy said that he couldn't figure out a cause. . ."
-    ch_k "Aw, that's sweet. Doc McCoy said that he couldn't figure out a cause. . ."
+    ch_k "C'est mignon. Le Docteur McCoy a dit qu'il ne pouvait pas trouver de cause..."
 
 # game/script Addiction.rpy:246
 translate french First_Addicted2_c18fcce8:
@@ -472,7 +472,7 @@ translate french First_Addicted2_1a7f537f:
 translate french First_Addicted2_61b0659c:
 
     # ch_k "Hehe, um, yeah. . ."
-    ch_k "Hehe, hum, oui..."
+    ch_k "Héhé, hum, ouais..."
 
 # game/script Addiction.rpy:278
 translate french First_Addicted2_dec7b7be:
@@ -1012,7 +1012,7 @@ translate french Addict_Ultimatum_Menu_88a35acb:
 translate french Addict_Ultimatum_Menu_9d8e823c:
 
     # ch_l "Hey, you get what you get."
-    ch_l "Hey, you get what you get."
+    ch_l "Hé, tu as ce qu'on te donne."
 
 # game/script Addiction.rpy:605
 translate french Addict_Ultimatum_Menu_a51ad47a:
@@ -1300,7 +1300,7 @@ translate french Addict_Ultimatum_Menu_62408afc:
 translate french Addict_Ultimatum_Menu_6781bc17:
 
     # ch_e "You must be joking, we can come to an arrangement."
-    ch_e "You must be joking, we can come to an arrangement."
+    ch_e "Tu dois plaisanter, nous pouvons trouver un arrangement."
 
 # game/script Addiction.rpy:747
 translate french Addict_Ultimatum_Menu_531632f1:
@@ -1318,7 +1318,7 @@ translate french Addict_Ultimatum_Menu_517ac6ce:
 translate french Addict_Ultimatum_Menu_09e822e4:
 
     # ch_k "Gimme a break here."
-    ch_k "Gimme a break here."
+    ch_k "Laisse-moi tranquille."
 
 # game/script Addiction.rpy:754
 translate french Addict_Ultimatum_Menu_c0ee4318:
@@ -1816,7 +1816,7 @@ translate french Addiction_Fix_20f301c5:
 translate french Addiction_Fix_f5633b5c:
 
     # ch_k "Aw, thanks, [Girl.Petname]."
-    ch_k "Aw, thanks, [Girl.Petname]."
+    ch_k "Aw, merci, [Girl.Petname]."
 
 # game/script Addiction.rpy:1013
 translate french Addiction_Fix_1e02de65:
@@ -1876,7 +1876,7 @@ translate french Addiction_Fix_5d6dc454:
 translate french Addiction_Fix_ea14036f:
 
     # ch_l "Gimme another fix, [Girl.Petname]. . . Please?"
-    ch_l "Gimme another fix, [Girl.Petname]. . . Please?"
+    ch_l "Donne-moi une autre dose, [Girl.Petname]... S'il te plaît ?"
 
 # game/script Addiction.rpy:1043
 translate french Addiction_Fix_d2a5c33b:
@@ -1900,7 +1900,7 @@ translate french Addiction_Fix_ddc9cebe:
 translate french Addiction_Fix_418037f0:
 
     # ch_l "Hey, could I get another fix?"
-    ch_l "Hey, could I get another fix?"
+    ch_l "Je peux avoir une autre dose ?"
 
 # game/script Addiction.rpy:1064
 translate french Addicted_Fix_End_451c3a41:
@@ -2056,7 +2056,7 @@ translate french Addicted_Fix_End_da8d3eee:
 translate french Addicted_Fix_End_bc19463e:
 
     # ch_e "You could perhaps catch more flies with honey, you know. . ."
-    ch_e "Tu peux peut-être attraper plus de mouches avec du miel, vous savez..."
+    ch_e "Tu peux peut-être attraper plus de mouches avec du miel, tu sais..."
 
 # game/script Addiction.rpy:1113
 translate french Addicted_Fix_End_30a45d4b:
@@ -2092,7 +2092,7 @@ translate french Addicted_Fix_End_b3f2e0d7:
 translate french Addicted_Fix_End_bc19463e_1:
 
     # ch_e "You could perhaps catch more flies with honey, you know. . ."
-    ch_e "Tu peux peut-être attraper plus de mouches avec du miel, vous savez..."
+    ch_e "Tu peux peut-être attraper plus de mouches avec du miel, tu sais..."
 
 # game/script Addiction.rpy:1124
 translate french Addicted_Fix_End_d0040cff:
@@ -2314,7 +2314,7 @@ translate french Addicted_Serum_65dbdeba:
 translate french Addicted_Serum_3af9a68b:
 
     # ch_k ". . . drink your jiz?"
-    ch_k ". . . drink your jiz?"
+    ch_k "...boire ton sperme?"
 
 # game/script Addiction.rpy:1231
 translate french Addicted_Serum_77110aff:
@@ -2536,7 +2536,7 @@ translate french Addicted_Serum_f505493e:
 translate french Addicted_Serum_99f79e68:
 
     # ch_k "Heh, as if."
-    ch_k "Heh, ouais c'est ça."
+    ch_k "Héhé, ouais c'est ça."
 
 # game/script Addiction.rpy:1366
 translate french Addicted_Serum_473abdb3:
@@ -2548,7 +2548,7 @@ translate french Addicted_Serum_473abdb3:
 translate french Addicted_Serum_00e505d5:
 
     # ch_l "Heh, yeah right."
-    ch_l "Heh, ouais c'est ça."
+    ch_l "Héhé, ouais c'est ça."
 
 # game/script Addiction.rpy:1375
 translate french Addicted_Serum_c17b5d88:
@@ -2602,7 +2602,7 @@ translate french Addicted_Serum_f505493e_1:
 translate french Addicted_Serum_99f79e68_1:
 
     # ch_k "Heh, as if."
-    ch_k "Heh, ouais c'est ça."
+    ch_k "Héhé, ouais c'est ça."
 
 # game/script Addiction.rpy:1402
 translate french Addicted_Serum_473abdb3_1:
@@ -2614,7 +2614,7 @@ translate french Addicted_Serum_473abdb3_1:
 translate french Addicted_Serum_00e505d5_1:
 
     # ch_l "Heh, yeah right."
-    ch_l "Heh, ouais c'est ça."
+    ch_l "Héhé, ouais c'est ça."
 
 # game/script Addiction.rpy:1409
 translate french Addicted_Serum_ddda62ec:
@@ -2680,7 +2680,7 @@ translate french Addicted_Serum_65ad6483:
 translate french Addicted_Serum_6176c9a6:
 
     # ch_e "You must be joking, [Girl.Petname]."
-    ch_e "You must be joking, [Girl.Petname]."
+    ch_e "Tu dois plaisanter, [Girl.Petname]."
 
 # game/script Addiction.rpy:1441
 translate french Addicted_Serum_18421635:
@@ -2872,7 +2872,7 @@ translate french Addicted_Serum_e7c3e751:
 translate french Addicted_Serum_ec6dd795:
 
     # ch_k "Hmm, delicious. . ."
-    ch_k "Hmm, delicious. . ."
+    ch_k "Hmm, délicieux.."
 
 # game/script Addiction.rpy:1559
 translate french Addicted_Serum_0e87e274:
@@ -3244,7 +3244,7 @@ translate french strings:
 
     # game/script Addiction.rpy:236
     old "Serves you right."
-    new "C'est bien fait pour vous."
+    new "C'est bien fait pour toi."
 
     # game/script Addiction.rpy:236
     old "Are you a pirate?"
@@ -3268,11 +3268,11 @@ translate french strings:
 
     # game/script Addiction.rpy:397
     old "How about you let me touch you instead?"
-    new "How about you let me touch you instead?"
+    new "Et si tu me laissais te toucher à la place ?"
 
     # game/script Addiction.rpy:397
     old "You could touch me."
-    new "You could touch me."
+    new "Tu pourrais me toucher."
 
     # game/script Addiction.rpy:397
     old "How about you strip for me, and then I let you touch me?"
@@ -3300,11 +3300,11 @@ translate french strings:
 
     # game/script Addiction.rpy:473
     old "How about you let me touch your breasts?"
-    new "How about you let me touch your breasts?"
+    new "Et si tu me laissais toucher tes seins ?"
 
     # game/script Addiction.rpy:473
     old "How about you just let me touch your thighs?"
-    new "How about you just let me touch your thighs?"
+    new "Et si tu me laissais juste toucher tes cuisses ?"
 
     # game/script Addiction.rpy:473
     old "How about you let me touch your pussy?"
@@ -3316,15 +3316,15 @@ translate french strings:
 
     # game/script Addiction.rpy:548
     old "How about you give me a handjob?"
-    new "How about you give me a handjob?"
+    new "Et si tu me faisais une branlette ?"
 
     # game/script Addiction.rpy:548
     old "How about you blow me?"
-    new "How about you blow me?"
+    new "Et si tu me sucais ?"
 
     # game/script Addiction.rpy:548
     old "How about you titfuck me?"
-    new "How about you titfuck me?"
+    new "Et si tu me laissais baiser tes nichons ?"
 
     # game/script Addiction.rpy:582
     old "Ok, that was enough, you can touch me now."
@@ -3360,7 +3360,7 @@ translate french strings:
 
     # game/script Addiction.rpy:1324
     old "Give it to her"
-    new "Give it to her"
+    new "Lui donner"
 
     # game/script Addiction.rpy:1324
     old "Well, a handy might do the trick. . ."
@@ -3393,4 +3393,8 @@ translate french strings:
     # game/script Addiction.rpy:1643
     old "Of course not!"
     new "Of course not!"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

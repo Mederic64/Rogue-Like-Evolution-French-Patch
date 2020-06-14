@@ -4,7 +4,7 @@
 translate french Emma_Handjob_dc51d2c2:
 
     # ch_e "You'd like me to take care of that for you?"
-    ch_e "You'd like me to take care of that for you?"
+    ch_e "Tu veux que je m'en occupe pour toi ?"
 
 # game/Emma_HJ.rpy:50
 translate french Emma_Handjob_94823477:
@@ -34,13 +34,13 @@ translate french Emma_Handjob_e9b59f86:
 translate french Emma_Handjob_2bbbe85b:
 
     # ch_e "No more than that?"
-    ch_e "No more than that?"
+    ch_e "Pas plus que ça ?"
 
 # game/Emma_HJ.rpy:68
 translate french Emma_Handjob_c15f862d:
 
     # ch_e "Here, hmm?. . ."
-    ch_e "Here, hmm?. . ."
+    ch_e "Ici, hmm ?..."
 
 # game/Emma_HJ.rpy:71
 translate french Emma_Handjob_3facfc90:
@@ -220,13 +220,13 @@ translate french Emma_HJ_Prep_aee6f756:
 translate french Emma_HJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Emma_HJ.rpy:317
 translate french Emma_HJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Emma_HJ.rpy:323
 translate french Emma_HJ_Cycle_dbab1d12:
@@ -244,7 +244,7 @@ translate french Emma_HJ_Cycle_b032f1d0:
 translate french Emma_HJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Emma_HJ.rpy:400
 translate french Emma_HJ_Cycle_83673efb:
@@ -262,7 +262,7 @@ translate french Emma_HJ_Cycle_2c55fb6c:
 translate french Emma_HJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_HJ.rpy:452
 translate french Emma_HJ_Cycle_9f15853d:
@@ -310,7 +310,7 @@ translate french Emma_HJ_Cycle_1a0829be:
 translate french Emma_HJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Emma_HJ.rpy:497
 translate french Emma_HJ_Cycle_450895ed:
@@ -388,7 +388,7 @@ translate french Emma_Titjob_e33e574c:
 translate french Emma_Titjob_8765eeed:
 
     # ch_e "If that's what you want. . ."
-    ch_e "If that's what you want. . ."
+    ch_e "Si c'est ce que tu veux..."
 
 # game/Emma_HJ.rpy:628
 translate french Emma_Titjob_abbc3d92:
@@ -616,13 +616,13 @@ translate french Emma_TJ_Prep_b1b5e852:
 translate french Emma_TJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Emma_HJ.rpy:927
 translate french Emma_TJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Emma_HJ.rpy:939
 translate french Emma_TJ_Cycle_dbab1d12:
@@ -640,7 +640,7 @@ translate french Emma_TJ_Cycle_b032f1d0:
 translate french Emma_TJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Emma_HJ.rpy:953
 translate french Emma_TJ_Cycle_4c3ec770:
@@ -682,7 +682,7 @@ translate french Emma_TJ_Cycle_2c55fb6c:
 translate french Emma_TJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_HJ.rpy:1068
 translate french Emma_TJ_Cycle_9f15853d:
@@ -700,7 +700,7 @@ translate french Emma_TJ_Cycle_054b65ff:
 translate french Emma_TJ_Cycle_facb4af5:
 
     # ch_e "Are you getting close here? I'm getting a bit sore."
-    ch_e "Are you getting close here? I'm getting a bit sore."
+    ch_e "Tu vas bientôt jouir ? Je commence à avoir un peu mal."
 
 # game/Emma_HJ.rpy:1090
 translate french Emma_TJ_Cycle_c98a512e:
@@ -718,13 +718,13 @@ translate french Emma_TJ_Cycle_b032f1d0_1:
 translate french Emma_TJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Emma_HJ.rpy:1114
 translate french Emma_TJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Emma_HJ.rpy:1115
 translate french Emma_TJ_Cycle_5e1f3f64:
@@ -736,13 +736,13 @@ translate french Emma_TJ_Cycle_5e1f3f64:
 translate french Emma_TJ_Cycle_6bc6ef3f:
 
     # ch_e "You might want to wrap this up, it's getting late."
-    ch_e "You might want to wrap this up, it's getting late."
+    ch_e "Tu veux peut-être conclure, c'est tard."
 
 # game/Emma_HJ.rpy:1130
 translate french Emma_TJ_Cycle_52431809:
 
     # ch_e "Seriously, it'll be time to stop soon."
-    ch_e "Seriously, it'll be time to stop soon."
+    ch_e "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Emma_HJ.rpy:1135
 translate french Emma_TJ_Cycle_0364f7ef:
@@ -772,7 +772,7 @@ translate french Emma_TJ_After_2c1520c4:
 translate french Emma_TJ_After_9f14d48a:
 
     # ch_e "Mmm, so what else did you have in mind?"
-    ch_e "Mmm, so what else did you have in mind?"
+    ch_e "Mmm, alors qu'as-tu d'autre à l'esprit ?"
 
 # game/Emma_HJ.rpy:1215
 translate french Emma_Blowjob_bb620170:
@@ -790,7 +790,7 @@ translate french Emma_Blowjob_0e799433:
 translate french Emma_Blowjob_8765eeed:
 
     # ch_e "If that's what you want. . ."
-    ch_e "If that's what you want. . ."
+    ch_e "Si c'est ce que tu veux..."
 
 # game/Emma_HJ.rpy:1232
 translate french Emma_Blowjob_11936efa:
@@ -832,7 +832,7 @@ translate french Emma_Blowjob_6b86b89b:
 translate french Emma_Blowjob_dc8ac31a:
 
     # ch_e "Another blowjob?"
-    ch_e "Another blowjob?"
+    ch_e "Une autre pipe ?"
 
 # game/Emma_HJ.rpy:1269
 translate french Emma_Blowjob_6b86b89b_1:
@@ -880,7 +880,7 @@ translate french Emma_Blowjob_78378fb7:
 translate french Emma_Blowjob_c1428721:
 
     # ch_e "I told you this is too public!"
-    ch_e "I told you this is too public!"
+    ch_e "Je t'ai dit que c'était trop public !"
 
 # game/Emma_HJ.rpy:1309
 translate french Emma_Blowjob_57f75dc5:
@@ -952,7 +952,7 @@ translate french Emma_Blowjob_7268796a:
 translate french Emma_Blowjob_c0255d84:
 
     # ch_e "This is way too exposed!"
-    ch_e "This is way too exposed!"
+    ch_e "C'est beaucoup trop exposé !"
 
 # game/Emma_HJ.rpy:1415
 translate french Emma_Blowjob_47eb749c:
@@ -1006,13 +1006,13 @@ translate french Emma_BJ_Prep_aee6f756:
 translate french Emma_BJ_Cycle_461eea98:
 
     # "She dips her head a bit lower, and you move your hand out of the way."
-    "She dips her head a bit lower, and you move your hand out of the way."
+    "Elle enfonce sa tête plus profondément, et tu enlèves ta main."
 
 # game/Emma_HJ.rpy:1526
 translate french Emma_BJ_Cycle_1ab4ed67:
 
     # "She takes it to the root, and you move your hand out of the way."
-    "She takes it to the root, and you move your hand out of the way."
+    "Elle le prend à la base, et tu dégages ta main."
 
 # game/Emma_HJ.rpy:1532
 translate french Emma_BJ_Cycle_95361970:
@@ -1036,19 +1036,19 @@ translate french Emma_BJ_Cycle_b032f1d0:
 translate french Emma_BJ_Cycle_fddc15c8:
 
     # "You start to fondle her breasts."
-    "You start to fondle her breasts."
+    "Tu commences à caresser ses seins."
 
 # game/Emma_HJ.rpy:1581
 translate french Emma_BJ_Cycle_641c309e:
 
     # ch_e "I'm kinda tired, could we just wrap this up. . ."
-    ch_e "I'm kinda tired, could we just wrap this up. . ."
+    ch_e "Je suis un peu fatiguée, on pourrait juste conclure..."
 
 # game/Emma_HJ.rpy:1588
 translate french Emma_BJ_Cycle_641c309e_1:
 
     # ch_e "I'm kinda tired, could we just wrap this up. . ."
-    ch_e "I'm kinda tired, could we just wrap this up. . ."
+    ch_e "Je suis un peu fatiguée, on pourrait juste conclure..."
 
 # game/Emma_HJ.rpy:1632
 translate french Emma_BJ_Cycle_83673efb:
@@ -1066,7 +1066,7 @@ translate french Emma_BJ_Cycle_2c55fb6c:
 translate french Emma_BJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_HJ.rpy:1687
 translate french Emma_BJ_Cycle_9f15853d:
@@ -1108,13 +1108,13 @@ translate french Emma_BJ_Cycle_1a0829be:
 translate french Emma_BJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Emma_HJ.rpy:1734
 translate french Emma_BJ_Cycle_a4b06881:
 
     # ch_e "Well then."
-    ch_e "Well then."
+    ch_e "Bien."
 
 # game/Emma_HJ.rpy:1744
 translate french Emma_BJ_Cycle_7bb81d73:
@@ -1174,7 +1174,7 @@ translate french Emma_BJ_After_a2055316:
 translate french Emma_Dildo_Check_9e6339e4:
 
     # "You pull out a large rubber dildo. Lucky you remembered to keep it handy."
-    "You pull out a large rubber dildo. Lucky you remembered to keep it handy."
+    "Tu sors un gros gode en caoutchouc. Heureusement, tu as pensé à le garder à portée de main."
 
 # game/Emma_HJ.rpy:1821
 translate french Emma_Dildo_Check_ad24ce47:
@@ -1186,7 +1186,7 @@ translate french Emma_Dildo_Check_ad24ce47:
 translate french Emma_Dildo_Check_2fdc9bd4:
 
     # "You don't have one of those on you."
-    "You don't have one of those on you."
+    "Tu n'en as pas sur vous."
 
 # game/Emma_HJ.rpy:1867
 translate french Emma_Dildo_Pussy_d60dd92f:
@@ -1210,7 +1210,7 @@ translate french Emma_Dildo_Pussy_4294aa07:
 translate french Emma_Dildo_Pussy_9543a6a5:
 
     # "She slides the tip along her pussy and seems to want you to insert it."
-    "She slides the tip along her pussy and seems to want you to insert it."
+    "Elle fait glisser le bout le long de sa chatte et semble vouloir que tu l'insères."
 
 # game/Emma_HJ.rpy:1881
 translate french Emma_Dildo_Pussy_07c573a2:
@@ -1228,7 +1228,7 @@ translate french Emma_Dildo_Pussy_24536bdd:
 translate french Emma_Dildo_Pussy_fcbebfeb:
 
     # "You grab the dildo and slide it in."
-    "You grab the dildo and slide it in."
+    "Tu attrapes le gode et tu le fais glisser."
 
 # game/Emma_HJ.rpy:1894
 translate french Emma_Dildo_Pussy_ac257de5:
@@ -1246,7 +1246,7 @@ translate french Emma_Dildo_Pussy_375a7156:
 translate french Emma_Dildo_Pussy_3c872f9b:
 
     # "You rub the dildo across her body, and along her moist slit."
-    "You rub the dildo across her body, and along her moist slit."
+    "Tu frottes le gode sur son corps, et le long de sa fente humide."
 
 # game/Emma_HJ.rpy:1913
 translate french Emma_Dildo_Pussy_81c04fe5:
@@ -1270,13 +1270,13 @@ translate french Emma_Dildo_Pussy_ecc9a257:
 translate french Emma_Dildo_Pussy_026d8325:
 
     # ch_e "Well, now that you mention it. . ."
-    ch_e "Well, now that you mention it. . ."
+    ch_e "Eh bien, maintenant que tu le dis.."
 
 # game/Emma_HJ.rpy:1932
 translate french Emma_Dildo_Pussy_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Emma_HJ.rpy:1935
 translate french Emma_Dildo_Pussy_07b245d3:
@@ -1294,7 +1294,7 @@ translate french Emma_Dildo_Pussy_a984220c:
 translate french Emma_Dildo_Pussy_3957e7ff:
 
     # "You press it inside some more."
-    "You press it inside some more."
+    "Tu l'enfonces encore un peu plus."
 
 # game/Emma_HJ.rpy:1946
 translate french Emma_Dildo_Pussy_e4fcbaba:
@@ -1318,19 +1318,19 @@ translate french Emma_Dildo_Pussy_064745a7:
 translate french Emma_Dildo_Pussy_8587d507:
 
     # ch_e "Hmmm, so you'd like to try out some toys?"
-    ch_e "Hmmm, so you'd like to try out some toys?"
+    ch_e "Hmmm, alors tu veux essayer quelques jouets ?"
 
 # game/Emma_HJ.rpy:1971
 translate french Emma_Dildo_Pussy_f13d0b6a:
 
     # ch_e "I suppose there are worst things you could ask for."
-    ch_e "I suppose there are worst things you could ask for."
+    ch_e "Je suppose qu'il y a de pires choses que l'on puisse demander."
 
 # game/Emma_HJ.rpy:1983
 translate french Emma_Dildo_Pussy_24f53de7:
 
     # ch_e "I've had a reasonable amount of experience with these, you know. . ."
-    ch_e "I've had a reasonable amount of experience with these, you know. . ."
+    ch_e "J'ai une expérience raisonnable avec ceux-là, tu sais..."
 
 # game/Emma_HJ.rpy:1986
 translate french Emma_Dildo_Pussy_22a97bc5:
@@ -1342,25 +1342,25 @@ translate french Emma_Dildo_Pussy_22a97bc5:
 translate french Emma_Dildo_Pussy_29fe1538:
 
     # ch_e "I guess it could be fun with a partner. . ."
-    ch_e "I guess it could be fun with a partner. . ."
+    ch_e "Je suppose que ça pourrait être amusant avec un partenaire..."
 
 # game/Emma_HJ.rpy:1998
 translate french Emma_Dildo_Pussy_a8233631:
 
     # ch_e "The toys again?"
-    ch_e "The toys again?"
+    ch_e "Encore les jouets ?"
 
 # game/Emma_HJ.rpy:2000
 translate french Emma_Dildo_Pussy_02b06ab4:
 
     # ch_e "Well, at least you got us some privacy this time. . ."
-    ch_e "Well, at least you got us some privacy this time. . ."
+    ch_e "Au moins, tu nous as donné un peu d'intimité cette fois..."
 
 # game/Emma_HJ.rpy:2003
 translate french Emma_Dildo_Pussy_79991530:
 
     # ch_e "Mmm, again? Ok, let's get to it."
-    ch_e "Mmm, again? Ok, let's get to it."
+    ch_e "Mmm, encore ? Ok, allons-y."
 
 # game/Emma_HJ.rpy:2010
 translate french Emma_Dildo_Pussy_6b86b89b:
@@ -1372,7 +1372,7 @@ translate french Emma_Dildo_Pussy_6b86b89b:
 translate french Emma_Dildo_Pussy_45284197:
 
     # ch_e "You want to stick it in my pussy again?"
-    ch_e "You want to stick it in my pussy again?"
+    ch_e "Tu veux encore me la fourrer dans la chatte ?"
 
 # game/Emma_HJ.rpy:2023
 translate french Emma_Dildo_Pussy_6b86b89b_1:
@@ -1450,7 +1450,7 @@ translate french Emma_Dildo_Pussy_6b86b89b_3:
 translate french Emma_Dildo_Pussy_c0e80f47:
 
     # ch_e "Ok, fine. If we're going to do this, stick it in already."
-    ch_e "Ok, fine. If we're going to do this, stick it in already."
+    ch_e "Ok, très bien. Si tu veux qu'on le fasse, mets-la moi vite."
 
 # game/Emma_HJ.rpy:2120
 translate french Emma_Dildo_Pussy_2db2b3f8:
@@ -1462,7 +1462,7 @@ translate french Emma_Dildo_Pussy_2db2b3f8:
 translate french Emma_Dildo_Pussy_9833f698:
 
     # ch_e "I'm not going to let you use that on me."
-    ch_e "I'm not going to let you use that on me."
+    ch_e "Je ne vais pas te laisser utiliser ça sur moi."
 
 # game/Emma_HJ.rpy:2136
 translate french Emma_Dildo_Pussy_ccf97fae:
@@ -1474,7 +1474,7 @@ translate french Emma_Dildo_Pussy_ccf97fae:
 translate french Emma_Dildo_Pussy_34504a52:
 
     # ch_e "Sorry, you can keep your toys to yourself."
-    ch_e "Sorry, you can keep your toys to yourself."
+    ch_e "Désolé, tu peux garder tes jouets pour toi."
 
 # game/Emma_HJ.rpy:2144
 translate french Emma_Dildo_Pussy_834837c2:
@@ -1510,7 +1510,7 @@ translate french Emma_DP_Cycle_2c55fb6c:
 translate french Emma_DP_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_HJ.rpy:2337
 translate french Emma_DP_Cycle_9f15853d:
@@ -1528,7 +1528,7 @@ translate french Emma_DP_Cycle_054b65ff:
 translate french Emma_DP_Cycle_03ecb421:
 
     # ch_e "What are you even doing down there?"
-    ch_e "What are you even doing down there?"
+    ch_e "Qu'est-ce que tu fais là en bas ?"
 
 # game/Emma_HJ.rpy:2361
 translate french Emma_DP_Cycle_5cc3d6e5:
@@ -1540,37 +1540,37 @@ translate french Emma_DP_Cycle_5cc3d6e5:
 translate french Emma_DP_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_HJ.rpy:2375
 translate french Emma_DP_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_HJ.rpy:2379
 translate french Emma_DP_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_HJ.rpy:2380
 translate french Emma_DP_Cycle_0ffaedd5:
 
     # ch_e "Well if that's your attitude, I don't need your \"help\"."
-    ch_e "Well if that's your attitude, I don't need your \"help\"."
+    ch_e "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Emma_HJ.rpy:2391
 translate french Emma_DP_Cycle_6bc6ef3f:
 
     # ch_e "You might want to wrap this up, it's getting late."
-    ch_e "You might want to wrap this up, it's getting late."
+    ch_e "Tu veux peut-être conclure, c'est tard."
 
 # game/Emma_HJ.rpy:2393
 translate french Emma_DP_Cycle_52431809:
 
     # ch_e "Seriously, it'll be time to stop soon."
-    ch_e "Seriously, it'll be time to stop soon."
+    ch_e "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Emma_HJ.rpy:2398
 translate french Emma_DP_Cycle_f20c027b:
@@ -1588,7 +1588,7 @@ translate french Emma_DP_After_707b5a6d:
 translate french Emma_DP_After_d5a1f6d3:
 
     # ch_e "Did you enjoy that?"
-    ch_e "Did you enjoy that?"
+    ch_e "T'as aimé ça ?"
 
 # game/Emma_HJ.rpy:2480
 translate french Emma_Dildo_Ass_d60dd92f:
@@ -1612,7 +1612,7 @@ translate french Emma_Dildo_Ass_9557787a:
 translate french Emma_Dildo_Ass_a6c2f9a3:
 
     # "She slides the tip against her asshole, and seems to want you to insert it."
-    "She slides the tip against her asshole, and seems to want you to insert it."
+    "Elle fait glisser le bout contre son trou de cul, et semble vouloir que tu l'insères."
 
 # game/Emma_HJ.rpy:2494
 translate french Emma_Dildo_Ass_07c573a2:
@@ -1630,7 +1630,7 @@ translate french Emma_Dildo_Ass_24536bdd:
 translate french Emma_Dildo_Ass_fcbebfeb:
 
     # "You grab the dildo and slide it in."
-    "You grab the dildo and slide it in."
+    "Tu attrapes le gode et tu le fais glisser."
 
 # game/Emma_HJ.rpy:2507
 translate french Emma_Dildo_Ass_ac257de5:
@@ -1648,7 +1648,7 @@ translate french Emma_Dildo_Ass_375a7156:
 translate french Emma_Dildo_Ass_5a1e83f7:
 
     # "You rub the dildo across her body, and against her tight anus."
-    "You rub the dildo across her body, and against her tight anus."
+    "Tu frottes le gode sur son corps, et contre son anus serré."
 
 # game/Emma_HJ.rpy:2527
 translate french Emma_Dildo_Ass_81c04fe5:
@@ -1672,13 +1672,13 @@ translate french Emma_Dildo_Ass_ecc9a257:
 translate french Emma_Dildo_Ass_026d8325:
 
     # ch_e "Well, now that you mention it. . ."
-    ch_e "Well, now that you mention it. . ."
+    ch_e "Eh bien, maintenant que tu le dis.."
 
 # game/Emma_HJ.rpy:2547
 translate french Emma_Dildo_Ass_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Emma_HJ.rpy:2550
 translate french Emma_Dildo_Ass_07b245d3:
@@ -1696,7 +1696,7 @@ translate french Emma_Dildo_Ass_a984220c:
 translate french Emma_Dildo_Ass_3957e7ff:
 
     # "You press it inside some more."
-    "You press it inside some more."
+    "Tu l'enfonces encore un peu plus."
 
 # game/Emma_HJ.rpy:2561
 translate french Emma_Dildo_Ass_e4fcbaba:
@@ -1750,19 +1750,19 @@ translate french Emma_Dildo_Ass_17cd7faf:
 translate french Emma_Dildo_Ass_a8233631:
 
     # ch_e "The toys again?"
-    ch_e "The toys again?"
+    ch_e "Encore les jouets ?"
 
 # game/Emma_HJ.rpy:2615
 translate french Emma_Dildo_Ass_02b06ab4:
 
     # ch_e "Well, at least you got us some privacy this time. . ."
-    ch_e "Well, at least you got us some privacy this time. . ."
+    ch_e "Au moins, tu nous as donné un peu d'intimité cette fois..."
 
 # game/Emma_HJ.rpy:2622
 translate french Emma_Dildo_Ass_ac748d46:
 
     # ch_e "You want to stick it in my ass again?"
-    ch_e "You want to stick it in my ass again?"
+    ch_e "Tu veux me la fourrer dans le cul encore une fois ?"
 
 # game/Emma_HJ.rpy:2630
 translate french Emma_Dildo_Ass_6b86b89b:
@@ -1774,7 +1774,7 @@ translate french Emma_Dildo_Ass_6b86b89b:
 translate french Emma_Dildo_Ass_e6a50449:
 
     # ch_e "Oh, fine."
-    ch_e "Oh, fine."
+    ch_e "Oh, très bien."
 
 # game/Emma_HJ.rpy:2650
 translate french Emma_Dildo_Ass_6b86b89b_1:
@@ -1792,7 +1792,7 @@ translate french Emma_Dildo_Ass_ff1fdafe:
 translate french Emma_Dildo_Ass_354e4eac:
 
     # ch_e "Stop swinging that thing around in public!"
-    ch_e "Stop swinging that thing around in public!"
+    ch_e "Arrête de brandir ce truc en public !"
 
 # game/Emma_HJ.rpy:2665
 translate french Emma_Dildo_Ass_47a3db9a:
@@ -1804,7 +1804,7 @@ translate french Emma_Dildo_Ass_47a3db9a:
 translate french Emma_Dildo_Ass_9427a996:
 
     # ch_e "I already told you that I wouldn't do that out here!"
-    ch_e "I already told you that I wouldn't do that out here!"
+    ch_e "Je t'ai déjà dit que je ne ferais pas ça ici !"
 
 # game/Emma_HJ.rpy:2670
 translate french Emma_Dildo_Ass_becdcc61:
@@ -1840,7 +1840,7 @@ translate french Emma_Dildo_Ass_6b86b89b_2:
 translate french Emma_Dildo_Ass_c0e80f47:
 
     # ch_e "Ok, fine. If we're going to do this, stick it in already."
-    ch_e "Ok, fine. If we're going to do this, stick it in already."
+    ch_e "Ok, très bien. Si tu veux qu'on le fasse, mets-la moi vite."
 
 # game/Emma_HJ.rpy:2727
 translate french Emma_Dildo_Ass_2db2b3f8:
@@ -1852,7 +1852,7 @@ translate french Emma_Dildo_Ass_2db2b3f8:
 translate french Emma_Dildo_Ass_9833f698:
 
     # ch_e "I'm not going to let you use that on me."
-    ch_e "I'm not going to let you use that on me."
+    ch_e "Je ne vais pas te laisser utiliser ça sur moi."
 
 # game/Emma_HJ.rpy:2743
 translate french Emma_Dildo_Ass_ccf97fae:
@@ -1864,7 +1864,7 @@ translate french Emma_Dildo_Ass_ccf97fae:
 translate french Emma_Dildo_Ass_14843fc1:
 
     # ch_e "Sorry, you can keep your toys out of there."
-    ch_e "Sorry, you can keep your toys out of there."
+    ch_e "Désolé, tu peux garder tes jouets."
 
 # game/Emma_HJ.rpy:2751
 translate french Emma_Dildo_Ass_e934afe2:
@@ -1900,7 +1900,7 @@ translate french Emma_DA_Cycle_2c55fb6c:
 translate french Emma_DA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_HJ.rpy:2948
 translate french Emma_DA_Cycle_9f15853d:
@@ -1918,7 +1918,7 @@ translate french Emma_DA_Cycle_054b65ff:
 translate french Emma_DA_Cycle_03ecb421:
 
     # ch_e "What are you even doing down there?"
-    ch_e "What are you even doing down there?"
+    ch_e "Qu'est-ce que tu fais là en bas ?"
 
 # game/Emma_HJ.rpy:2972
 translate french Emma_DA_Cycle_5cc3d6e5:
@@ -1930,37 +1930,37 @@ translate french Emma_DA_Cycle_5cc3d6e5:
 translate french Emma_DA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_HJ.rpy:2986
 translate french Emma_DA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_HJ.rpy:2990
 translate french Emma_DA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_HJ.rpy:2991
 translate french Emma_DA_Cycle_0ffaedd5:
 
     # ch_e "Well if that's your attitude, I don't need your \"help\"."
-    ch_e "Well if that's your attitude, I don't need your \"help\"."
+    ch_e "Si c'est ton attitude, je n'ai pas besoin de ton \"aide\"."
 
 # game/Emma_HJ.rpy:3002
 translate french Emma_DA_Cycle_6bc6ef3f:
 
     # ch_e "You might want to wrap this up, it's getting late."
-    ch_e "You might want to wrap this up, it's getting late."
+    ch_e "Tu veux peut-être conclure, c'est tard."
 
 # game/Emma_HJ.rpy:3004
 translate french Emma_DA_Cycle_52431809:
 
     # ch_e "Seriously, it'll be time to stop soon."
-    ch_e "Seriously, it'll be time to stop soon."
+    ch_e "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Emma_HJ.rpy:3009
 translate french Emma_DA_Cycle_f20c027b:
@@ -1978,13 +1978,13 @@ translate french Emma_DA_After_787721c1:
 translate french Emma_DA_After_d5a1f6d3:
 
     # ch_e "Did you enjoy that?"
-    ch_e "Did you enjoy that?"
+    ch_e "T'as aimé ça ?"
 
 # game/Emma_HJ.rpy:3042
 translate french Emma_Vibrator_Check_f6f216ee:
 
     # "You pull out the \"shocker\" vibrator, handy."
-    "You pull out the \"shocker\" vibrator, handy."
+    "Tu sors le vibrateur \"shocker\", pratique."
 
 # game/Emma_HJ.rpy:3044
 translate french Emma_Vibrator_Check_d041dfb0:
@@ -1996,7 +1996,7 @@ translate french Emma_Vibrator_Check_d041dfb0:
 translate french Emma_Vibrator_Check_2fdc9bd4:
 
     # "You don't have one of those on you."
-    "You don't have one of those on you."
+    "Tu n'en as pas sur vous."
 
 # game/Emma_HJ.rpy:3089
 translate french Emma_Footjob_8de16dee:
@@ -2110,7 +2110,7 @@ translate french Emma_Footjob_6b86b89b_1:
 translate french Emma_Footjob_e6a50449:
 
     # ch_e "Oh, fine."
-    ch_e "Oh, fine."
+    ch_e "Oh, très bien."
 
 # game/Emma_HJ.rpy:3193
 translate french Emma_Footjob_13d04e17:
@@ -2146,7 +2146,7 @@ translate french Emma_Footjob_55d0da1c:
 translate french Emma_Footjob_536fbcaf:
 
     # ch_e "I told you, not in public!"
-    ch_e "I told you, not in public!"
+    ch_e "Je te l'ai dit, pas en public !"
 
 # game/Emma_HJ.rpy:3223
 translate french Emma_Footjob_fb24cf50:
@@ -2224,13 +2224,13 @@ translate french Emma_Footjob_6d75a9bc:
 translate french Emma_FJ_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Emma_HJ.rpy:3376
 translate french Emma_FJ_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Emma_HJ.rpy:3382
 translate french Emma_FJ_Cycle_dbab1d12:
@@ -2266,7 +2266,7 @@ translate french Emma_FJ_Cycle_2c55fb6c:
 translate french Emma_FJ_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_HJ.rpy:3518
 translate french Emma_FJ_Cycle_9f15853d:
@@ -2302,13 +2302,13 @@ translate french Emma_FJ_Cycle_fbde5ef7:
 translate french Emma_FJ_Cycle_daa18eed:
 
     # "She grumbles but gets back to work."
-    "She grumbles but gets back to work."
+    "Elle grogne mais se remet au travail."
 
 # game/Emma_HJ.rpy:3565
 translate french Emma_FJ_Cycle_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/Emma_HJ.rpy:3566
 translate french Emma_FJ_Cycle_0a955eb3:
@@ -2332,7 +2332,7 @@ translate french Emma_FJ_Cycle_17a2876a:
 translate french Emma_FJ_Cycle_52431809:
 
     # ch_e "Seriously, it'll be time to stop soon."
-    ch_e "Seriously, it'll be time to stop soon."
+    ch_e "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/Emma_HJ.rpy:3589
 translate french Emma_FJ_Cycle_f20c027b:
@@ -2362,19 +2362,19 @@ translate french Emma_FJ_After_80061640:
 translate french Emma_FJ_After_d5a1f6d3:
 
     # ch_e "Did you enjoy that?"
-    ch_e "Did you enjoy that?"
+    ch_e "T'as aimé ça ?"
 
 # game/Emma_HJ.rpy:3620
 translate french Emma_FJ_After_2862223b:
 
     # ch_e "I'm enjoying this experience."
-    ch_e "I'm enjoying this experience."
+    ch_e "J'apprécie cette expérience."
 
 # game/Emma_HJ.rpy:3624
 translate french Emma_FJ_After_db94afe9:
 
     # ch_e "Ok then, what were you thinking?"
-    ch_e "Ok then, what were you thinking?"
+    ch_e "Alors, à quoi tu pensais ?"
 
 translate french strings:
 
@@ -2384,11 +2384,11 @@ translate french strings:
 
     # game/Emma_HJ.rpy:75
     old "You're going to wear out my arm."
-    new "You're going to wear out my arm."
+    new "Tu vas m'épuiser le bras."
 
     # game/Emma_HJ.rpy:75
     old "Didn't get enough earlier?"
-    new "Didn't get enough earlier?"
+    new "Tu n'en as pas eu assez tout à l'heure ?"
 
     # game/Emma_HJ.rpy:75
     old "My hand's a bit sore from earlier."
@@ -2444,7 +2444,7 @@ translate french strings:
 
     # game/Emma_HJ.rpy:302
     old "Start moving? . ."
-    new "Start moving? . ."
+    new "Commencer à bouger?.."
 
     # game/Emma_HJ.rpy:302
     old "Speed up. . ."
@@ -2468,7 +2468,7 @@ translate french strings:
 
     # game/Emma_HJ.rpy:341
     old "How about a blowjob?"
-    new "How about a blowjob?"
+    new "Que dirais-tu d'une pipe ?"
 
     # game/Emma_HJ.rpy:341
     old "How about a titjob?"
@@ -2488,7 +2488,7 @@ translate french strings:
 
     # game/Emma_HJ.rpy:649
     old "You're going to wear them out."
-    new "You're going to wear them out."
+    new "Tu vas les épuiser."
 
     # game/Emma_HJ.rpy:649
     old "I'm still a bit sore from earlier."
@@ -2520,7 +2520,7 @@ translate french strings:
 
     # game/Emma_HJ.rpy:708
     old "Come on, let me fuck those titties, [EmmaX.Pet]"
-    new "Come on, let me fuck those titties, [EmmaX.Pet]"
+    new "Allez, laisse-moi baiser ces nichons, [EmmaX.Pet]"
 
     # game/Emma_HJ.rpy:751
     old "Ok, get down there."
@@ -2604,7 +2604,7 @@ translate french strings:
 
     # game/Emma_HJ.rpy:1337
     old "Well, I suppose."
-    new "Well, I suppose."
+    new "Eh bien, je suppose."
 
     # game/Emma_HJ.rpy:1337
     old "I could perhaps give it a try."
@@ -2668,7 +2668,7 @@ translate french strings:
 
     # game/Emma_HJ.rpy:1876
     old "Go for it."
-    new "Go for it."
+    new "Tenter le coup"
 
     # game/Emma_HJ.rpy:1922
     old "Sorry, sorry! Never mind."
@@ -2684,23 +2684,23 @@ translate french strings:
 
     # game/Emma_HJ.rpy:2007
     old "You're going to wear me out."
-    new "You're going to wear me out."
+    new "Tu vas m'épuiser."
 
     # game/Emma_HJ.rpy:2019
     old "You want some of this action?"
-    new "You want some of this action?"
+    new "Tu veux participer ?"
 
     # game/Emma_HJ.rpy:2019
     old "So you'd like another go?"
-    new "So you'd like another go?"
+    new "Alors, tu veux recommencer ?"
 
     # game/Emma_HJ.rpy:2019
     old "You want to stick it in my pussy again?"
-    new "You want to stick it in my pussy again?"
+    new "Tu veux encore me la fourrer dans la chatte ?"
 
     # game/Emma_HJ.rpy:2019
     old "You want me ta lube up your toy?"
-    new "You want me ta lube up your toy?"
+    new "Tu veux que je lubrifie ton jouet ?"
 
     # game/Emma_HJ.rpy:2037
     old "Well, sure, stick it in."
@@ -2756,11 +2756,11 @@ translate french strings:
 
     # game/Emma_HJ.rpy:2626
     old "You'd like me to lube up your toy?"
-    new "You'd like me to lube up your toy?"
+    new "Tu veux que je lustre ton jouet ?"
 
     # game/Emma_HJ.rpy:2644
     old "Hmm. . . ok."
-    new "Hmm. . . ok."
+    new "Hmm... ok..."
 
     # game/Emma_HJ.rpy:2698
     old "Very well, stick it in."
@@ -2816,9 +2816,13 @@ translate french strings:
 
     # game/Emma_HJ.rpy:3399
     old "How about a handjob?"
-    new "How about a handjob?"
+    new "Que dirais-tu d'une branlette ?"
 
     # game/Emma_HJ.rpy:3535
     old "No, keep going."
-    new "No, keep going."
+    new "Non, continue."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

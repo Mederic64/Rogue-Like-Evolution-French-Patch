@@ -4,25 +4,25 @@
 translate french KittyMeet_7f929eef:
 
     # "As you rush to class, you see another student running straight at you."
-    "As you rush to class, you see another student running straight at you."
+    "Alors que tu te précipites vers la classe, tu vois une autre élève courir droit sur vous."
 
 # game/Kitty_Scenes.rpy:20
 translate french KittyMeet_dc90e573:
 
     # "You try to move aside, but aren't fast enough to get out of her way,"
-    "You try to move aside, but aren't fast enough to get out of her way,"
+    "Tu essaies de t'écarter, mais tu n'es pas assez rapide pour bouger hors de son chemin,"
 
 # game/Kitty_Scenes.rpy:21
 translate french KittyMeet_f154ebed:
 
     # "She crashes into you at a full jog, and you both fall to the ground."
-    "She crashes into you at a full jog, and you both fall to the ground."
+    "Elle te rentre dedans pendant un jogging complet, et vous tombez tous les deux par terre."
 
 # game/Kitty_Scenes.rpy:22
 translate french KittyMeet_3c411c42:
 
     # "You scramble to your feet and offer the girl a hand up."
-    "You scramble to your feet and offer the girl a hand up."
+    "Tu te relèves et offres un coup de main à la jeune fille."
 
 # game/Kitty_Scenes.rpy:28
 translate french KittyMeet_75e3a38d:
@@ -40,13 +40,13 @@ translate french KittyMeet_eb283706:
 translate french KittyMeet_361230ad:
 
     # ch_u "Wha! Well, yeah. . ."
-    ch_u "Wha! Well, yeah. . ."
+    ch_u "Quoi ! Eh bien, oui..."
 
 # game/Kitty_Scenes.rpy:46
 translate french KittyMeet_0113397b:
 
     # ch_u "Well, I guess it[KittyX.like]wasn't entirely your fault. . ."
-    ch_u "Well, I guess it[KittyX.like]wasn't entirely your fault. . ."
+    ch_u "Eh bien, je suppose que ce n'était pas[KittyX.like]entièrement de ta faute..."
 
 # game/Kitty_Scenes.rpy:51
 translate french KittyMeet_43510b7c:
@@ -58,55 +58,55 @@ translate french KittyMeet_43510b7c:
 translate french KittyMeet_fc2a4bd1:
 
     # ch_u "Hmm. . . maybe. . ."
-    ch_u "Hmm. . . maybe. . ."
+    ch_u "Hmm... peut-être...."
 
 # game/Kitty_Scenes.rpy:55
 translate french KittyMeet_05a79ecb:
 
     # ch_p "My name's [Player.Name], by the way."
-    ch_p "My name's [Player.Name], by the way."
+    ch_p "Je m'appelle [Player.Name], au fait."
 
 # game/Kitty_Scenes.rpy:58
 translate french KittyMeet_31a32fd8:
 
     # ch_k "Mine's Kitty! Kitty Pryde. Nice to meet you!"
-    ch_k "Mine's Kitty! Kitty Pryde. Nice to meet you!"
+    ch_k "Moi, c'est Kitty ! Kitty Pryde. Enchantée de te rencontrer !"
 
 # game/Kitty_Scenes.rpy:61
 translate french KittyMeet_33191307:
 
     # ch_k "Um, mine's Kitty."
-    ch_k "Um, mine's Kitty."
+    ch_k "Hum, moi c'est Kitty."
 
 # game/Kitty_Scenes.rpy:64
 translate french KittyMeet_70cecbab:
 
     # ch_k "I just[KittyX.like]didn't expect to bounce off you like that. Normally I can phase through things."
-    ch_k "I just[KittyX.like]didn't expect to bounce off you like that. Normally I can phase through things."
+    ch_k "Je ne m'attendais pas à ce que[KittyX.like]je rebondisse sur toi comme ça. Normalement, je peux phaser à travers les choses."
 
 # game/Kitty_Scenes.rpy:71
 translate french KittyMeet_7b72a15d:
 
     # ch_k "I don't {i}think{/i} that's it. . ."
-    ch_k "I don't {i}think{/i} that's it. . ."
+    ch_k "Je ne pense pas que ce soit ça..."
 
 # game/Kitty_Scenes.rpy:72
 translate french KittyMeet_1d68631a:
 
     # ch_p "Just kidding. . ."
-    ch_p "Just kidding. . ."
+    ch_p "Je plaisante..."
 
 # game/Kitty_Scenes.rpy:79
 translate french KittyMeet_730cb7b0:
 
     # ch_k "Like, no."
-    ch_k "Like, no."
+    ch_k "Genre, non."
 
 # game/Kitty_Scenes.rpy:80
 translate french KittyMeet_e229029e:
 
     # ch_p "Heh, I guess not."
-    ch_p "Heh, I guess not."
+    ch_p "Héhé, je suppose que non."
 
 # game/Kitty_Scenes.rpy:84
 translate french KittyMeet_4b13d2d7:
@@ -118,31 +118,31 @@ translate french KittyMeet_4b13d2d7:
 translate french KittyMeet_58e2a745:
 
     # ch_p "I have the ability to negate mutant powers, so you can't phase through me."
-    ch_p "I have the ability to negate mutant powers, so you can't phase through me."
+    ch_p "J'ai la capacité d'annuler les pouvoirs des mutants, donc tu ne peux passer à travers moi."
 
 # game/Kitty_Scenes.rpy:88
 translate french KittyMeet_6e090708:
 
     # ch_k "Oh! Wow, that's an interesting power. So if you grab me, I can't get away?"
-    ch_k "Oh! Wow, that's an interesting power. So if you grab me, I can't get away?"
+    ch_k "Oh ! Wow, c'est un pouvoir intéressant. Donc si tu m'attrapes, je ne peux pas m'échapper ?"
 
 # game/Kitty_Scenes.rpy:96
 translate french KittyMeet_07332977:
 
     # ch_k "I'm definitely curious."
-    ch_k "I'm definitely curious."
+    ch_k "Je suis vraiment curieuse."
 
 # game/Kitty_Scenes.rpy:101
 translate french KittyMeet_90a4493a:
 
     # ch_k "I'd like to give it a try."
-    ch_k "I'd like to give it a try."
+    ch_k "J'aimerais essayer."
 
 # game/Kitty_Scenes.rpy:105
 translate french KittyMeet_3e758477:
 
     # ch_k "What?! No! . ."
-    ch_k "What?! No! . ."
+    ch_k "Quoi ? ! Non !.."
 
 # game/Kitty_Scenes.rpy:109
 translate french KittyMeet_864252aa:
@@ -154,7 +154,7 @@ translate french KittyMeet_864252aa:
 translate french KittyMeet_bfaf5619:
 
     # ch_k "But it is[KittyX.like]worth testing."
-    ch_k "But it is[KittyX.like]worth testing."
+    ch_k "Mais[KittyX.like]ca vaut la peine d'être testé."
 
 # game/Kitty_Scenes.rpy:113
 translate french KittyMeet_ef6e9367:
@@ -166,19 +166,19 @@ translate french KittyMeet_ef6e9367:
 translate french KittyMeet_a86f2ecb:
 
     # "You reach out and grab her wrist."
-    "You reach out and grab her wrist."
+    "Tu lui tends la main et saisis son poignet."
 
 # game/Kitty_Scenes.rpy:117
 translate french KittyMeet_cfb99d22:
 
     # "She struggles for a few moments to shake you free, but you hold firm."
-    "She struggles for a few moments to shake you free, but you hold firm."
+    "Elle lutte pendant quelques instants pour se libérer, mais tu tiens bon."
 
 # game/Kitty_Scenes.rpy:130
 translate french KittyMeet_24b3067a:
 
     # "You release her arm and step back."
-    "You release her arm and step back."
+    "Tu lui lâches le bras et recule."
 
 # game/Kitty_Scenes.rpy:133
 translate french KittyMeet_24036670:
@@ -214,7 +214,7 @@ translate french KittyMeet_6e8b2e6b:
 translate french KittyMeet_e1b36b4d:
 
     # ch_k "Hey! Like, not cool!"
-    ch_k "Hey! Like, not cool!"
+    ch_k "Hé ! Genre, pas cool !"
 
 # game/Kitty_Scenes.rpy:158
 translate french KittyMeet_31b373c8:
@@ -244,7 +244,7 @@ translate french KittyMeet_7d06abfd:
 translate french KittyMeet_ae225d65:
 
     # ch_k "That was an interesting experience. . ."
-    ch_k "That was an interesting experience. . ."
+    ch_k "C'était une expérience intéressante..."
 
 # game/Kitty_Scenes.rpy:172
 translate french KittyMeet_026c577a:
@@ -418,7 +418,7 @@ translate french Kitty_BF_bbccd022:
 translate french Kitty_BF_bd797bc0:
 
     # "[KittyX.Name] wraps her arms around you and starts kissing you passionately."
-    "[KittyX.Name] wraps her arms around you and starts kissing you passionately."
+    "[KittyX.Name] t'enloppe dans ses bras et commence à t'embrasser passionnément."
 
 # game/Kitty_Scenes.rpy:284
 translate french Kitty_BF_4a8ed5b7:
@@ -442,7 +442,7 @@ translate french Kitty_BF_0419bbae:
 translate french Kitty_BF_bd797bc0_1:
 
     # "[KittyX.Name] wraps her arms around you and starts kissing you passionately."
-    "[KittyX.Name] wraps her arms around you and starts kissing you passionately."
+    "[KittyX.Name] t'enloppe dans ses bras et commence à t'embrasser passionnément."
 
 # game/Kitty_Scenes.rpy:307
 translate french Kitty_BF_585379b5:
@@ -610,7 +610,7 @@ translate french Kitty_Love_53703764:
 translate french Kitty_Love_dce5b30c:
 
     # "She dashes through the nearest wall and vanishes from view."
-    "She dashes through the nearest wall and vanishes from view."
+    "Elle se précipite à travers le mur le plus proche et disparaît de la vue."
 
 # game/Kitty_Scenes.rpy:443
 translate french Kitty_Love_c8bc4a73:
@@ -634,7 +634,7 @@ translate french Kitty_Love_730a194e:
 translate french Kitty_Love_dce5b30c_1:
 
     # "She dashes through the nearest wall and vanishes from view."
-    "She dashes through the nearest wall and vanishes from view."
+    "Elle se précipite à travers le mur le plus proche et disparaît de la vue."
 
 # game/Kitty_Scenes.rpy:460
 translate french Kitty_Love_680e8622:
@@ -688,7 +688,7 @@ translate french Kitty_Love_162403ae:
 translate french Kitty_Love_63ea58da:
 
     # ch_k "But you don't love me?" nointeract
-    ch_k "But you don't love me?" nointeract
+    ch_k "Mais tu ne m'aimes pas ?" nointeract
 
 # game/Kitty_Scenes.rpy:516
 translate french Kitty_Love_87d14154:
@@ -718,7 +718,7 @@ translate french Kitty_Love_2f8d3b13:
 translate french Kitty_Love_63ea58da_1:
 
     # ch_k "But you don't love me?" nointeract
-    ch_k "But you don't love me?" nointeract
+    ch_k "Mais tu ne m'aimes pas ?" nointeract
 
 # game/Kitty_Scenes.rpy:571
 translate french Kitty_Love_44349dbb:
@@ -736,7 +736,7 @@ translate french Kitty_Love_0f2c9340:
 translate french Kitty_Love_21e2c0c5:
 
     # ch_k "Close enough."
-    ch_k "Close enough."
+    ch_k "Pas un pas de plus."
 
 # game/Kitty_Scenes.rpy:594
 translate french Kitty_Love_a7eff203:
@@ -754,7 +754,7 @@ translate french Kitty_Love_dc3ed7e5:
 translate french Kitty_Love_39395abf:
 
     # ch_k "Fine, I can work with that."
-    ch_k "Fine, I can work with that."
+    ch_k "Okay, je peux accepter ça."
 
 # game/Kitty_Scenes.rpy:603
 translate french Kitty_Love_e4516c64:
@@ -826,13 +826,13 @@ translate french Kitty_Love_End_e694f445:
 translate french Kitty_Love_End_105fdf57:
 
     # ch_k "Something like. . ."
-    ch_k "Something like. . ."
+    ch_k "Quelque chose comme..."
 
 # game/Kitty_Scenes.rpy:659
 translate french Kitty_Love_Redux_ad1cbe22:
 
     # ch_p "I hope you've forgiven me, I still love you."
-    ch_p "I hope you've forgiven me, I still love you."
+    ch_p "J'espère que tu m'as pardonné, je t'aime toujours."
 
 # game/Kitty_Scenes.rpy:665
 translate french Kitty_Love_Redux_44abbec6:
@@ -850,7 +850,7 @@ translate french Kitty_Love_Redux_d0891bec:
 translate french Kitty_Love_Redux_7d31a37b:
 
     # ch_p "Remember when I told you that I didn't love you?"
-    ch_p "Remember when I told you that I didn't love you?"
+    ch_p "Tu te souviens quand je t'ai dit que je ne t'aimais pas ?"
 
 # game/Kitty_Scenes.rpy:670
 translate french Kitty_Love_Redux_dadbb533:
@@ -922,7 +922,7 @@ translate french Kitty_Love_Redux_b1b3f9fe:
 translate french Kitty_Sub_f20b67f3:
 
     # "Suddenly, [KittyX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [KittyX.Name] shows up and says she needs to talk to you."
+    "Soudain, [KittyX.Name] se présente et dit qu'elle doit te parler."
 
 # game/Kitty_Scenes.rpy:731
 translate french Kitty_Sub_35209d87:
@@ -952,7 +952,7 @@ translate french Kitty_Sub_03a5468a:
 translate french Kitty_Sub_aaadbca4:
 
     # ch_k "I guess not."
-    ch_k "I guess not."
+    ch_k "Je suppose que non."
 
 # game/Kitty_Scenes.rpy:765
 translate french Kitty_Sub_fe4132a4:
@@ -988,19 +988,19 @@ translate french Kitty_Sub_39f1384b:
 translate french Kitty_Sub_e335809e:
 
     # ch_k "Y'know, you're such a jerk, [Player.Name]!"
-    ch_k "Y'know, you're such a jerk, [Player.Name]!"
+    ch_k "Tu sais, t'es vraiment un connard, [Player.Name] !"
 
 # game/Kitty_Scenes.rpy:800
 translate french Kitty_Sub_1277dca4:
 
     # ch_k "Uhm. . .yeah. It's[KittyX.like]. . kinda hot."
-    ch_k "Uhm. . .yeah. It's[KittyX.like]. . kinda hot."
+    ch_k "Uhm..... ouais. C'est[KittyX.like]...un peu chaud."
 
 # game/Kitty_Scenes.rpy:807
 translate french Kitty_Sub_1277dca4_1:
 
     # ch_k "Uhm. . .yeah. It's[KittyX.like]. . kinda hot."
-    ch_k "Uhm. . .yeah. It's[KittyX.like]. . kinda hot."
+    ch_k "Uhm..... ouais. C'est[KittyX.like]...un peu chaud."
 
 # game/Kitty_Scenes.rpy:812
 translate french Kitty_Sub_95e8e17e:
@@ -1012,7 +1012,7 @@ translate french Kitty_Sub_95e8e17e:
 translate french Kitty_Sub_e335809e_1:
 
     # ch_k "Y'know, you're such a jerk, [Player.Name]!"
-    ch_k "Y'know, you're such a jerk, [Player.Name]!"
+    ch_k "Tu sais, t'es vraiment un connard, [Player.Name] !"
 
 # game/Kitty_Scenes.rpy:835
 translate french Kitty_Sub_00346dd5:
@@ -1048,7 +1048,7 @@ translate french Kitty_Sub_Choice_3c3dfdf9:
 translate french Kitty_Sub_Choice_dc203c57:
 
     # ch_k "Awesome. So. . .if you wanted me to, I could[KittyX.like]call you {i}sir{/i} or something."
-    ch_k "Awesome. So. . .if you wanted me to, I could[KittyX.like]call you {i}sir{/i} or something."
+    ch_k "Génial. Alors....si tu le voulais, je pourrais[KittyX.like]t'appeler {i}monsieur{/i} ou quelque chose comme ça."
 
 # game/Kitty_Scenes.rpy:863
 translate french Kitty_Sub_Choice_0c6b669b:
@@ -1168,7 +1168,7 @@ translate french Kitty_Sub_Asked_5d8d8dfb:
 translate french Kitty_Sub_Asked_da98a310:
 
     # ch_k "That's all you had to say."
-    ch_k "That's all you had to say."
+    ch_k "C'est tout ce que tu avais à dire."
 
 # game/Kitty_Scenes.rpy:967
 translate french Kitty_Sub_Asked_fe4132a4:
@@ -1192,7 +1192,7 @@ translate french Kitty_Sub_Asked_105c3673:
 translate french Kitty_Sub_Asked_f839e06e:
 
     # ch_k "You really don't learn, do you?"
-    ch_k "You really don't learn, do you?"
+    ch_k "Tu n'apprends vraiment pas, n'est-ce pas ?"
 
 # game/Kitty_Scenes.rpy:988
 translate french Kitty_Sub_Asked_9f30705e:
@@ -1228,7 +1228,7 @@ translate french Kitty_Sub_Asked_af6b1825:
 translate french Kitty_Master_f20b67f3:
 
     # "Suddenly, [KittyX.Name] shows up and says she needs to talk to you."
-    "Suddenly, [KittyX.Name] shows up and says she needs to talk to you."
+    "Soudain, [KittyX.Name] se présente et dit qu'elle doit te parler."
 
 # game/Kitty_Scenes.rpy:1036
 translate french Kitty_Master_ff5bae58:
@@ -1252,7 +1252,7 @@ translate french Kitty_Master_120bd235:
 translate french Kitty_Master_caf1265a:
 
     # ch_k "Oh. Well, okay, I guess."
-    ch_k "Oh. Well, okay, I guess."
+    ch_k "Oh. Bien, ok, je suppose."
 
 # game/Kitty_Scenes.rpy:1053
 translate french Kitty_Master_e38dedb7:
@@ -1270,19 +1270,19 @@ translate french Kitty_Master_bf7e5eb8:
 translate french Kitty_Master_98df3c67:
 
     # ch_k "Cool. . ."
-    ch_k "Cool. . ."
+    ch_k "Cool..."
 
 # game/Kitty_Scenes.rpy:1064
 translate french Kitty_Master_caf1265a_1:
 
     # ch_k "Oh. Well, okay, I guess."
-    ch_k "Oh. Well, okay, I guess."
+    ch_k "Oh. Bien, ok, je suppose."
 
 # game/Kitty_Scenes.rpy:1072
 translate french Kitty_Master_b703d602:
 
     # ch_k "Aw, I guess I can't get mad about that. . ."
-    ch_k "Aw, I guess I can't get mad about that. . ."
+    ch_k "Aw, je suppose que je ne peux pas m'énerver pour ça..."
 
 # game/Kitty_Scenes.rpy:1080
 translate french Kitty_Master_6f5a1cd9:
@@ -1300,7 +1300,7 @@ translate french Kitty_Master_6ea0ecb8:
 translate french Kitty_Master_7f48bcdb:
 
     # ch_k "That's so. . ."
-    ch_k "That's so. . ."
+    ch_k "C'est ainsi..."
 
 # game/Kitty_Scenes.rpy:1098
 translate french Kitty_Master_e36eb9dd:
@@ -1456,7 +1456,7 @@ translate french Kitty_Sexfriend_ccf10da3:
 translate french Kitty_Sexfriend_793be9ac:
 
     # ch_k "Sorry. I knew this was a mistake."
-    ch_k "Sorry. I knew this was a mistake."
+    ch_k "Désolé. Je savais que c'était une erreur."
 
 # game/Kitty_Scenes.rpy:1260
 translate french Kitty_Sexfriend_c425e213:
@@ -1468,7 +1468,7 @@ translate french Kitty_Sexfriend_c425e213:
 translate french Kitty_Sexfriend_793be9ac_1:
 
     # ch_k "Sorry. I knew this was a mistake."
-    ch_k "Sorry. I knew this was a mistake."
+    ch_k "Désolé. Je savais que c'était une erreur."
 
 # game/Kitty_Scenes.rpy:1272
 translate french Kitty_Sexfriend_62e62cc0:
@@ -1606,7 +1606,7 @@ translate french Kitty_Fuckbuddy_055950e1:
 translate french Kitty_Fuckbuddy_998a1af8:
 
     # "Looking around, you don't see anyone nearby, and it doesn't look like anyone else noticed what happened."
-    "Looking around, you don't see anyone nearby, and it doesn't look like anyone else noticed what happened."
+    "En regardant autour de toi, tu ne vois personne à proximité, et il semble que personne d'autre n'ait remarqué ce qui s'est passé."
 
 # game/Kitty_Scenes.rpy:1356
 translate french Kitty_Fuckbuddy_04ae379c:
@@ -1720,7 +1720,7 @@ translate french Kitty_Yoink_045d9f95:
 translate french Kitty_Yoink_990de6e1:
 
     # ch_k "I really couldn't do that to her."
-    ch_k "I really couldn't do that to her."
+    ch_k "Je ne pourrais vraiment pas lui faire ça."
 
 # game/Kitty_Scenes.rpy:1961
 translate french Kitty_Yoink_705d92ad:
@@ -1762,7 +1762,7 @@ translate french Kitty_Yoink_d48ceb19:
 translate french Kitty_Yoink_2d31d5f3:
 
     # "She reaches down through [Girl.Name]'s [Girl.Legs] and snags her [Line]."
-    "She reaches down through [Girl.Name]'s [Girl.Legs] and snags her [Line]."
+    "Elle tend la main vers les [Girl.Legs] de [Girl.Petname] et chope sa [Line]."
 
 # game/Kitty_Scenes.rpy:1998
 translate french Kitty_Yoink_07cb2edf:
@@ -1774,19 +1774,19 @@ translate french Kitty_Yoink_07cb2edf:
 translate french Kitty_Yoink_ae68517d:
 
     # "She reaches out and snags [Girl.Name]'s [Line], tugging them free."
-    "She reaches out and snags [Girl.Name]'s [Line], tugging them free."
+    "Elle tend la main et chope à la [Line] de [Girl.Petname], les tirant vers le haut."
 
 # game/Kitty_Scenes.rpy:2006
 translate french Kitty_Yoink_2d31d5f3_1:
 
     # "She reaches down through [Girl.Name]'s [Girl.Legs] and snags her [Line]."
-    "She reaches down through [Girl.Name]'s [Girl.Legs] and snags her [Line]."
+    "Elle tend la main vers les [Girl.Legs] de [Girl.Petname] et chope sa [Line]."
 
 # game/Kitty_Scenes.rpy:2008
 translate french Kitty_Yoink_ae68517d_1:
 
     # "She reaches out and snags [Girl.Name]'s [Line], tugging them free."
-    "She reaches out and snags [Girl.Name]'s [Line], tugging them free."
+    "Elle tend la main et chope à la [Line] de [Girl.Petname], les tirant vers le haut."
 
 # game/Kitty_Scenes.rpy:2010
 translate french Kitty_Yoink_a3f041b0:
@@ -1798,19 +1798,19 @@ translate french Kitty_Yoink_a3f041b0:
 translate french Kitty_Yoink_3e953b3c:
 
     # "[Girl.Name] glances back in surprise, but then breaks into a quick smile."
-    "[Girl.Name] glances back in surprise, but then breaks into a quick smile."
+    "[Girl.Name] jette un regard surpris, puis fait un petit sourire."
 
 # game/Kitty_Scenes.rpy:2035
 translate french Kitty_Yoink_49214ae1:
 
     # "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
-    "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
+    "[Girl.Name] jette un coup d'œil surpris, surprise, puis te regarde avec un regard furieux."
 
 # game/Kitty_Scenes.rpy:2039
 translate french Kitty_Yoink_49214ae1_1:
 
     # "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
-    "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
+    "[Girl.Name] jette un coup d'œil surpris, surprise, puis te regarde avec un regard furieux."
 
 # game/Kitty_Scenes.rpy:2040
 translate french Kitty_Yoink_79156d6a:
@@ -1822,7 +1822,7 @@ translate french Kitty_Yoink_79156d6a:
 translate french Kitty_Yoink_3e953b3c_1:
 
     # "[Girl.Name] glances back in surprise, but then breaks into a quick smile."
-    "[Girl.Name] glances back in surprise, but then breaks into a quick smile."
+    "[Girl.Name] jette un regard surpris, puis fait un petit sourire."
 
 # game/Kitty_Scenes.rpy:2050
 translate french Kitty_Yoink_c7c1bc62:
@@ -1834,7 +1834,7 @@ translate french Kitty_Yoink_c7c1bc62:
 translate french Kitty_Yoink_49214ae1_2:
 
     # "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
-    "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
+    "[Girl.Name] jette un coup d'œil surpris, surprise, puis te regarde avec un regard furieux."
 
 # game/Kitty_Scenes.rpy:2059
 translate french Kitty_Yoink_c7167a45:
@@ -1846,19 +1846,19 @@ translate french Kitty_Yoink_c7167a45:
 translate french Kitty_Yoink_49214ae1_3:
 
     # "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
-    "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
+    "[Girl.Name] jette un coup d'œil surpris, surprise, puis te regarde avec un regard furieux."
 
 # game/Kitty_Scenes.rpy:2065
 translate french Kitty_Yoink_72ba4ce3:
 
     # "She dashes away in embarassment."
-    "She dashes away in embarassment."
+    "Elle s'enfuit en courant dans l'embarras."
 
 # game/Kitty_Scenes.rpy:2074
 translate french Kitty_Yoink_3e953b3c_2:
 
     # "[Girl.Name] glances back in surprise, but then breaks into a quick smile."
-    "[Girl.Name] glances back in surprise, but then breaks into a quick smile."
+    "[Girl.Name] jette un regard surpris, puis fait un petit sourire."
 
 # game/Kitty_Scenes.rpy:2075
 translate french Kitty_Yoink_263dc086:
@@ -1870,7 +1870,7 @@ translate french Kitty_Yoink_263dc086:
 translate french Kitty_Yoink_49214ae1_4:
 
     # "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
-    "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
+    "[Girl.Name] jette un coup d'œil surpris, surprise, puis te regarde avec un regard furieux."
 
 # game/Kitty_Scenes.rpy:2082
 translate french Kitty_Yoink_1529adc6:
@@ -1882,13 +1882,13 @@ translate french Kitty_Yoink_1529adc6:
 translate french Kitty_Yoink_49214ae1_5:
 
     # "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
-    "[Girl.Name] glances back in surprise, and then glances over at you with a glare."
+    "[Girl.Name] jette un coup d'œil surpris, surprise, puis te regarde avec un regard furieux."
 
 # game/Kitty_Scenes.rpy:2088
 translate french Kitty_Yoink_72ba4ce3_1:
 
     # "She dashes away in embarassment."
-    "She dashes away in embarassment."
+    "Elle s'enfuit en courant dans l'embarras."
 
 # game/Kitty_Scenes.rpy:2104
 translate french Kitty_Yoink_734dda68:
@@ -2038,7 +2038,7 @@ translate french strings:
 
     # game/Kitty_Scenes.rpy:33
     old "You crashed into me!"
-    new "You crashed into me!"
+    new "Tu m'as percuté !"
 
     # game/Kitty_Scenes.rpy:33
     old "Sorry about that."
@@ -2046,35 +2046,35 @@ translate french strings:
 
     # game/Kitty_Scenes.rpy:33
     old "A meet-cute?"
-    new "A meet-cute?"
+    new "Une jolie rencontre ?"
 
     # game/Kitty_Scenes.rpy:66
     old "Losing your touch?"
-    new "Losing your touch?"
+    new "Tu perds la main ?"
 
     # game/Kitty_Scenes.rpy:66
     old "Was I too distracting?"
-    new "Was I too distracting?"
+    new "Ai-je été trop distrayant ?"
 
     # game/Kitty_Scenes.rpy:66
     old "It must be my powers."
-    new "It must be my powers."
+    new "Ce doit être mes pouvoirs."
 
     # game/Kitty_Scenes.rpy:90
     old "Want to give it a try?"
-    new "Want to give it a try?"
+    new "Tu veux essayer ?"
 
     # game/Kitty_Scenes.rpy:90
     old "I guess so."
-    new "I guess so."
+    new "J'imagine."
 
     # game/Kitty_Scenes.rpy:90
     old "Does that turn you on?"
-    new "Does that turn you on?"
+    new "Cela t'excite ?"
 
     # game/Kitty_Scenes.rpy:120
     old "Let her go."
-    new "Let her go."
+    new "Laisse-la partir."
 
     # game/Kitty_Scenes.rpy:120
     old "Hold on."
@@ -2082,7 +2082,7 @@ translate french strings:
 
     # game/Kitty_Scenes.rpy:120
     old "Pull her in for a hug."
-    new "Pull her in for a hug."
+    new "Fais-lui un câlin."
 
     # game/Kitty_Scenes.rpy:274
     old "Uhm[KittyX.like]okay."
@@ -2242,19 +2242,19 @@ translate french strings:
 
     # game/Kitty_Scenes.rpy:1814
     old ". . . [Girl.Over]?"
-    new "... [Girl.Over]?"
+    new "...[Girl.Over]?"
 
     # game/Kitty_Scenes.rpy:1814
     old ". . . [Girl.Chest]?"
-    new "... [Girl.Chest]?"
+    new "...[Girl.Chest]?"
 
     # game/Kitty_Scenes.rpy:1814
     old ". . . [Girl.Legs]?"
-    new "... [Girl.Legs]?"
+    new "...[Girl.Legs]?"
 
     # game/Kitty_Scenes.rpy:1814
     old ". . . [Girl.Panties]?"
-    new "... [Girl.Panties]?"
+    new "...[Girl.Panties]?"
 
     # game/Kitty_Scenes.rpy:1814
     old ". . . [Girl.Hose]?"
@@ -2306,7 +2306,7 @@ translate french strings:
 
     # game/Kitty_Scenes.rpy:2178
     old "I suppose, but \"Kitty\" is such a pretty name."
-    new "I suppose, but \"Kitty\" is such a pretty name."
+    new "Je suppose, mais \"Kitty\" est un si joli nom."
 
     # game/Kitty_Scenes.rpy:2178
     old "Why not \"Katherine\" then?"
@@ -2319,4 +2319,8 @@ translate french strings:
     # game/Kitty_Scenes.rpy:2217
     old "Ok, then back to \"Kitty?\""
     new "Ok, alors retour à \"Kitty\" ?"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

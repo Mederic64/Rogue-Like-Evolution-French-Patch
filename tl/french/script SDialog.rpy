@@ -94,7 +94,7 @@ translate french Three_Change_43188b17:
 translate french Three_Change_Menu_74a503b0:
 
     # ch_p "Hey [Partner.Name]. . ." nointeract
-    ch_p "Hey [Partner.Name]. . ." nointeract
+    ch_p "Hé [Partner.Name].." nointeract
 
 # game/script SDialog.rpy:2705
 translate french Three_Change_Menu_7c2b26c5:
@@ -226,13 +226,13 @@ translate french Dirty_Talk_4aeb4cd6:
 translate french Sex_Basic_Dialog_dccb3ff5:
 
     # ch_r "You might want to wrap this up, it's getting late."
-    ch_r "You might want to wrap this up, it's getting late."
+    ch_r "Tu veux peut-être conclure, c'est tard."
 
 # game/script SDialog.rpy:3708
 translate french Sex_Basic_Dialog_dc36b67c:
 
     # ch_r "Seriously, it'll be time to stop soon."
-    ch_r "Seriously, it'll be time to stop soon."
+    ch_r "Sérieusement, il sera bientôt temps d'arrêter."
 
 # game/script SDialog.rpy:3710
 translate french Sex_Basic_Dialog_881046c4:
@@ -250,13 +250,13 @@ translate french Sex_Basic_Dialog_a88eac20:
 translate french Sex_Basic_Dialog_e80fbd8f:
 
     # ch_r "I'm actually getting a little tired, so maybe we could wrap this up?"
-    ch_r "I'm actually getting a little tired, so maybe we could wrap this up?"
+    ch_r "Je suis un peu fatigué, alors on pourrait peut-être conclure ?"
 
 # game/script SDialog.rpy:3717
 translate french Sex_Basic_Dialog_cd4c684a:
 
     # ch_r "Mmm, so what else did you have in mind?"
-    ch_r "Mmm, so what else did you have in mind?"
+    ch_r "Mmm, alors qu'as-tu d'autre à l'esprit ?"
 
 # game/script SDialog.rpy:3720
 translate french Sex_Basic_Dialog_4d3cc406:
@@ -268,13 +268,13 @@ translate french Sex_Basic_Dialog_4d3cc406:
 translate french Sex_Basic_Dialog_1ee39d51:
 
     # ch_k "We should wrap this up."
-    ch_k "We should wrap this up."
+    ch_k "On devrait finir."
 
 # game/script SDialog.rpy:3724
 translate french Sex_Basic_Dialog_c1930c12:
 
     # ch_k "Time to take a little break, for now."
-    ch_k "Time to take a little break, for now."
+    ch_k "Il est temps de faire une petite pause, pour l'instant."
 
 # game/script SDialog.rpy:3727
 translate french Sex_Basic_Dialog_54f1d7b5:
@@ -286,13 +286,13 @@ translate french Sex_Basic_Dialog_54f1d7b5:
 translate french Sex_Basic_Dialog_1abf2d7c:
 
     # ch_k "I kinda need a break, so if we could wrap this up?"
-    ch_k "I kinda need a break, so if we could wrap this up?"
+    ch_k "J'ai besoin d'une pause, alors si on pouvait conclure ?"
 
 # game/script SDialog.rpy:3731
 translate french Sex_Basic_Dialog_f4334819:
 
     # ch_k "Mmm, so what else did you have in mind?"
-    ch_k "Mmm, so what else did you have in mind?"
+    ch_k "Mmm, alors qu'as-tu d'autre à l'esprit ?"
 
 # game/script SDialog.rpy:3734
 translate french Sex_Basic_Dialog_641c903c:
@@ -310,7 +310,7 @@ translate french Sex_Basic_Dialog_643d53b2:
 translate french Sex_Basic_Dialog_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/script SDialog.rpy:3741
 translate french Sex_Basic_Dialog_9f55612c:
@@ -328,13 +328,13 @@ translate french Sex_Basic_Dialog_dfa8ceec:
 translate french Sex_Basic_Dialog_db94afe9:
 
     # ch_e "Ok then, what were you thinking?"
-    ch_e "Ok then, what were you thinking?"
+    ch_e "Alors, à quoi tu pensais ?"
 
 # game/script SDialog.rpy:3748
 translate french Sex_Basic_Dialog_b9152619:
 
     # ch_l "It's getting late, we should wrap this up."
-    ch_l "It's getting late, we should wrap this up."
+    ch_l "Il se fait tard, on devrait conclure."
 
 # game/script SDialog.rpy:3750
 translate french Sex_Basic_Dialog_6d2cb658:
@@ -358,7 +358,7 @@ translate french Sex_Basic_Dialog_dc278ba8:
 translate french Sex_Basic_Dialog_40b8ffcd:
 
     # ch_l "Maybe we could finish this up for now?"
-    ch_l "Maybe we could finish this up for now?"
+    ch_l "On pourrait peut-être finir pour l'instant ?"
 
 # game/script SDialog.rpy:3759
 translate french Sex_Basic_Dialog_2f8a00c8:
@@ -386,7 +386,7 @@ translate french strings:
 
     # game/script SDialog.rpy:27
     old "She moves very smoothly, stroking casually and very gently, like she's been doing this for years"
-    new "Elle se déplace très doucement, caressant avec désinvolture et avec beaucoup de douceur, comme elle le fait depuis des années"
+    new "Elle se déplace très doucement, caressant avec désinvolture et avec beaucoup de douceur, depuis des années"
 
     # game/script SDialog.rpy:27
     old "You can't tell where she is at any moment, all you know is that it works"
@@ -478,7 +478,7 @@ translate french strings:
 
     # game/script SDialog.rpy:248
     old "Her deft licks are masterful, your cock twitches with each stroke"
-    new "Ses coups de langue habiles sont puissants, ta queue tremble à chaque fois."
+    new "Ses coups de langue habiles sont puissants, ta queue tremble à chaque fois"
 
     # game/script SDialog.rpy:248
     old "She gently blows across the head as she covers your cock in smooth licks"
@@ -734,11 +734,11 @@ translate french strings:
 
     # game/script SDialog.rpy:503
     old "You quickly grind back and forth along her crack"
-    new "You quickly grind back and forth along her crack"
+    new "Tu fais rapidement des va-et-vient le long de sa raie"
 
     # game/script SDialog.rpy:503
     old "You grind away at her"
-    new "You grind away at her"
+    new "Tu te frottes contre son"
 
     # game/script SDialog.rpy:514
     old "She grinds slowly against your cock"
@@ -826,15 +826,15 @@ translate french strings:
 
     # game/script SDialog.rpy:665
     old " and massage her breasts"
-    new "et masser ses seins"
+    new " et masser ses seins"
 
     # game/script SDialog.rpy:665
     old "Her nipples catch on the fabric of her "
-    new "Ses tétons s'accrochent au tissu de son"
+    new "Ses tétons s'accrochent au tissu de son "
 
     # game/script SDialog.rpy:665
     old " as you grasp her warm flesh, you can see them stiffen"
-    new "lorsque vous saisissez sa chair chaude, tu peux les voir se raidir"
+    new " lorsque vous saisissez sa chair chaude, tu peux les voir se raidir"
 
     # game/script SDialog.rpy:673
     old "You reach out and massage her glorious breasts"
@@ -866,7 +866,7 @@ translate french strings:
 
     # game/script SDialog.rpy:698
     old "You bend down and motor-boat her breasts"
-    new "You bend down and motor-boat her breasts"
+    new "Tu te penches et secoues ta tête dans ses seins"
 
     # game/script SDialog.rpy:698
     old "You gently nibble at her nipples as you suck on them through the layered tops"
@@ -1014,7 +1014,7 @@ translate french strings:
 
     # game/script SDialog.rpy:827
     old "'s pussy. "
-    new "'s pussy. "
+    new "et sa chatte."
 
     # game/script SDialog.rpy:827
     old "You continue to finger bang "
@@ -1022,7 +1022,7 @@ translate french strings:
 
     # game/script SDialog.rpy:827
     old "You continue to finger blast "
-    new "You continue to finger blast "
+    new "Tu continues à mettre des doigts "
 
     # game/script SDialog.rpy:833
     old "You slide a hand down her pants, and slide your fingers into her pussy underneath"
@@ -1042,7 +1042,7 @@ translate french strings:
 
     # game/script SDialog.rpy:833
     old "You rub her clit with your palm as you dive into her pussy with your middle finger"
-    new " Tu frottes son clito avec ta paume en doigtant sa chatte avec ton majeur"
+    new "Tu frottes son clito avec ta paume en doigtant sa chatte avec ton majeur"
 
     # game/script SDialog.rpy:841
     old "You push her skirt and "
@@ -1050,7 +1050,7 @@ translate french strings:
 
     # game/script SDialog.rpy:841
     old " aside, and slide a finger between her lips"
-    new "de côté, et glissez un doigt entre ses lèvres"
+    new " de côté, et glisse un doigt entre ses lèvres"
 
     # game/script SDialog.rpy:841
     old "You slide a finger under her "
@@ -1058,7 +1058,7 @@ translate french strings:
 
     # game/script SDialog.rpy:841
     old " and stroke the top or her pussy"
-    new "et caresse le haut de sa chatte"
+    new " et caresse le haut de sa chatte"
 
     # game/script SDialog.rpy:841
     old "You lift her skirt a bit and she gasps as you pull her "
@@ -1066,11 +1066,11 @@ translate french strings:
 
     # game/script SDialog.rpy:841
     old " aside and slide two fingers between her lips"
-    new "de côté et glisser deux doigts entre ses lèvres"
+    new " de côté et glisser deux doigts entre ses lèvres"
 
     # game/script SDialog.rpy:841
     old "You rub her clit with your thumb as you dive into her pussy with your middle finger"
-    new " Tu frottes son clito avec ton pouce en doigtant sa chatte avec ton majeur"
+    new "Tu frottes son clito avec ton pouce en doigtant sa chatte avec ton majeur"
 
     # game/script SDialog.rpy:846
     old "You push her skirt aside, and slide a finger between her lips"
@@ -1110,11 +1110,11 @@ translate french strings:
 
     # game/script SDialog.rpy:878
     old "You continue to stroke "
-    new "You continue to stroke "
+    new "Tu continues à caresser "
 
     # game/script SDialog.rpy:878
     old "You continue to rub "
-    new "You continue to rub "
+    new "Tu continues à frotter "
 
     # game/script SDialog.rpy:878
     old "You continue to caress "
@@ -1130,7 +1130,7 @@ translate french strings:
 
     # game/script SDialog.rpy:884
     old "You put your hand against her mound and grind against it"
-    new "You put your hand against her mound and grind against it"
+    new "Tu mets ta main contre sa pêche et tu la frottes."
 
     # game/script SDialog.rpy:884
     old "You reach into her gap and she gasps as you slide your hand across and stroke her warm mound"
@@ -1194,7 +1194,7 @@ translate french strings:
 
     # game/script SDialog.rpy:911
     old "Her legs twitch a bit as you press your thumb against her"
-    new "Ses jambes tremblent un peu quand tu presses ton pouce contre elle."
+    new "Ses jambes tremblent un peu quand tu presses ton pouce contre elle"
 
     # game/script SDialog.rpy:911
     old "She gasps as you reach under her hose and lightly stroke her ass"
@@ -1230,7 +1230,7 @@ translate french strings:
 
     # game/script SDialog.rpy:945
     old "You grab her panties and pull them taut, elliciting a small gasp"
-    new "Tu saisais sa culotte et les déchire."
+    new "Tu saisis sa culotte et la déchire, provoquant un sursaut"
 
     # game/script SDialog.rpy:945
     old "She gasps as you reach under her panties and lightly stroke her ass"
@@ -1250,11 +1250,11 @@ translate french strings:
 
     # game/script SDialog.rpy:991
     old "You continue to lick "
-    new "You continue to lick "
+    new "Tu continues à lécher "
 
     # game/script SDialog.rpy:991
     old "You continue to suck "
-    new "You continue to suck "
+    new "Tu continues à sucer "
 
     # game/script SDialog.rpy:991
     old "You continue to tongue "
@@ -1270,11 +1270,11 @@ translate french strings:
 
     # game/script SDialog.rpy:996
     old "You rub her clit with your nose as you dive into her pussy with your tongue"
-    new " Tu frottes son clito avec ton nez en lèchant vigoureusement sa chatte."
+    new "Tu frottes son clito avec ton nez en lèchant vigoureusement sa chatte"
 
     # game/script SDialog.rpy:996
     old "You put your hand against her mound and lick the surface of her pants"
-    new " Tu poses ta main contre sa pêche et lèche la surface de son pantalon"
+    new "Tu poses ta main contre sa pêche et lèche la surface de son pantalon"
 
     # game/script SDialog.rpy:996
     old "With a little nibble, you tug at the denim"
@@ -1306,7 +1306,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1008
     old "You rub her clit with your thumb as you dive into her pussy with your tongue"
-    new " Tu frottes son clito avec ton pouce en lèchant vigoureusement sa chatte."
+    new "Tu frottes son clito avec ton pouce en lèchant vigoureusement sa chatte"
 
     # game/script SDialog.rpy:1008
     old "You put your hand against her mound and lick the juice from her thin shorts"
@@ -1370,7 +1370,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1043
     old "You put your hand against her mound and lick around her lips"
-    new "You put your hand against her mound and lick around her lips"
+    new "Tu mets ta main contre sa pêche et tu lui lèches les lèvres"
 
     # game/script SDialog.rpy:1043
     old "With a little nibble, you tug on her lower lips"
@@ -1378,7 +1378,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1064
     old "You bend down and lick the edges of her lips through her shorts"
-    new "You bend down and lick the edges of her lips through her shorts"
+    new "Tu te penches et lèches les bords de ses lèvres à travers son short"
 
     # game/script SDialog.rpy:1086
     old "You bend down and stroke her lips with your tongue"
@@ -1386,15 +1386,15 @@ translate french strings:
 
     # game/script SDialog.rpy:1127
     old "You continue to fondle "
-    new "You continue to fondle "
+    new "Tu continues à malaxer "
 
     # game/script SDialog.rpy:1127
     old "'s ass. "
-    new "'s ass. "
+    new "et son cul."
 
     # game/script SDialog.rpy:1127
     old "You continue to feel up "
-    new "You continue to feel up "
+    new "Tu continues à toucher "
 
     # game/script SDialog.rpy:1127
     old "You continue to grope "
@@ -1526,7 +1526,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1232
     old "'s asshole. "
-    new "'s asshole. "
+    new "et son trou du cul."
 
     # game/script SDialog.rpy:1232
     old "'s rim. "
@@ -1682,7 +1682,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1335
     old "You put your hand against her mound and lick around her rim"
-    new "You put your hand against her mound and lick around her rim"
+    new "Tu mets ta main contre sa pêche et tu lèches autour de sa fente"
 
     # game/script SDialog.rpy:1335
     old "You slowly lick into her gap and she gasps as you press the rim apart"
@@ -1726,7 +1726,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1411
     old "You rub the dildo against the outside of her pants"
-    new "You rub the dildo against the outside of her pants"
+    new "Tu frottes le gode sur l'extérieur de son pantalon"
 
     # game/script SDialog.rpy:1411
     old "You slap the dildo lightly against her mound"
@@ -1734,7 +1734,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1416
     old "You rub the dildo against the outside of her tights"
-    new "You rub the dildo against the outside of her tights"
+    new "Tu frottes le gode sur l'extérieur de ses collants"
 
     # game/script SDialog.rpy:1416
     old "You slap the dildo lightly at the outside of her tights"
@@ -1742,7 +1742,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1421
     old "You rub the dildo against the outside of her hose"
-    new "You rub the dildo against the outside of her hose"
+    new "Tu frottes le gode sur l'extérieur de son bas"
 
     # game/script SDialog.rpy:1421
     old "You slap the dildo lightly at the outside of her hose"
@@ -1966,7 +1966,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1613
     old "Her tongue dances around yours"
-    new "Sa langue dance autour de la tienne."
+    new "Sa langue dance autour de la tienne"
 
     # game/script SDialog.rpy:1613
     old "She nibbles your ear as her hands slide across your back"
@@ -1974,7 +1974,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1613
     old "Your hands slide down her body as your lips press hers"
-    new "Your hands slide down her body as your lips press hers"
+    new "Tes mains glissent sur son corps tandis que tes lèvres pressent les siennes"
 
     # game/script SDialog.rpy:1626
     old "You softly kiss her plump lips"
@@ -1994,7 +1994,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1626
     old "Your hands slide down her body as your lips brush hers"
-    new "Your hands slide down her body as your lips brush hers"
+    new "Tes mains glissent sur son corps tandis que tes lèvres effleurent les siennes"
 
     # game/script SDialog.rpy:1637
     old "She tentatively presses her lips against yours"
@@ -2010,7 +2010,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1675
     old " Her lips part as you hold her close."
-    new "Ses lèvres se séparent alors que tu la serres de près."
+    new " Ses lèvres se séparent alors que tu la serres de près."
 
     # game/script SDialog.rpy:1675
     old " You nibble her neck as she groans in pleasure."
@@ -2022,7 +2022,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1675
     old " Her tongue dances around yours."
-    new "Sa langue dance autour de la tienne."
+    new " Sa langue dance autour de la tienne."
 
     # game/script SDialog.rpy:1675
     old " She nibbles your ear as her hands slide across your back."
@@ -2034,7 +2034,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1675
     old " You kiss her passionately."
-    new "Tu l'embrasses passionnément."
+    new " Tu l'embrasses passionnément."
 
     # game/script SDialog.rpy:1675
     old " Your tongues swirl around each other's."
@@ -2062,7 +2062,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1698
     old " Her nipples catch lightly on your fingers as you grasp her warm flesh, you can feel them stiffen."
-    new "Ses mamelons effleurent tes doigts alors que tu saisis sa chair torride, tu les sens se raidir."
+    new " Ses mamelons effleurent tes doigts alors que tu saisis sa chair torride, tu les sens se raidir."
 
     # game/script SDialog.rpy:1698
     old " She gasps as you lightly thumb her rigid nipples."
@@ -2126,7 +2126,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1728
     old " Her legs twitch a bit as you press your thumb against her."
-    new "Ses jambes tremblent un peu quand tu presses ton pouce contre elle."
+    new " Ses jambes tremblent un peu quand tu presses ton pouce contre elle."
 
     # game/script SDialog.rpy:1728
     old " You slide a singer along her lower lips, and she lets out a small shudder."
@@ -2254,7 +2254,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1789
     old " As she does so, you polish the knob a bit."
-    new "Ce faisant, vous polissez un peu le bouton."
+    new " Ce faisant, vous polissez un peu le bouton."
 
     # game/script SDialog.rpy:1789
     old " You help."
@@ -2266,7 +2266,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1797
     old " As she does so, you work the shaft a bit."
-    new "Ce faisant, tu te frottes un peu le manche."
+    new " Ce faisant, tu te frottes un peu le manche."
 
     # game/script SDialog.rpy:1797
     old " Your fingers brush her lips."
@@ -2274,7 +2274,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1797
     old " Her lips brush your hand occasionally."
-    new "Ses lèvres effleurent parfois ta main."
+    new " Ses lèvres effleurent parfois ta main."
 
     # game/script SDialog.rpy:1802
     old " With your other hand, you stroke your shaft."
@@ -2286,7 +2286,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1802
     old " As you do, you stoke yourself."
-    new "Ce faisant, tu t'échauffes."
+    new " Ce faisant, tu t'échauffes."
 
     # game/script SDialog.rpy:1848
     old "Also kiss her."
@@ -2342,7 +2342,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1943
     old "Her hand rapidly moves across her mound, firmly stroking her clit"
-    new "Sa main se déplace rapidement sur son monticule, caressant fermement son clitoris"
+    new "Sa main se déplace rapidement sur sa pêche, caressant fermement son clitoris"
 
     # game/script SDialog.rpy:1943
     old "She inserts two fingers into her dripping pussy and rapidly pistons them"
@@ -2506,7 +2506,7 @@ translate french strings:
 
     # game/script SDialog.rpy:1994
     old "Her hand moves in circles across her mound, firmly rubbing into it"
-    new "Sa main tourne en rond sur son monticule, se frottant fermement contre lui"
+    new "Sa main tourne en rond sur sa pêche, se frottant fermement contre lui"
 
     # game/script SDialog.rpy:1994
     old "Her hands move along her sides, carefully caressing them"
@@ -2618,7 +2618,7 @@ translate french strings:
 
     # game/script SDialog.rpy:2040
     old "Her hand traces slowly down her body, barely grazing her mound"
-    new "Sa main trace lentement le long de son corps, frôlant à peine son monticule"
+    new "Sa main trace lentement le long de son corps, frôlant à peine sa pêche"
 
     # game/script SDialog.rpy:2040
     old "Her fingers move lightly across her pubic region, subtly avoiding her lips"
@@ -2914,11 +2914,11 @@ translate french strings:
 
     # game/script SDialog.rpy:2657
     old ", taking in "
-    new ", prenant"
+    new ", prenant "
 
     # game/script SDialog.rpy:2657
     old "'s body"
-    new "'s body"
+    new "et son corps"
 
     # game/script SDialog.rpy:2657
     old ", transfixed by the action"

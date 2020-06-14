@@ -28,7 +28,7 @@ translate french Emma_Fondle_Breasts_47251337:
 translate french Emma_Fondle_Breasts_c29e0571:
 
     # ch_e "This does seem less. . . exposed."
-    ch_e "This does seem less. . . exposed."
+    ch_e "Ici, ça a l'air moins... exposé."
 
 # game/Emma_Fondle.rpy:84
 translate french Emma_Fondle_Breasts_5ae5e2c5:
@@ -94,7 +94,7 @@ translate french Emma_Fondle_Breasts_b6c1a83a:
 translate french Emma_Fondle_Breasts_d7462468:
 
     # "She re-adjusts her cleavage."
-    "She re-adjusts her cleavage."
+    "Elle réajuste son décolleté."
 
 # game/Emma_Fondle.rpy:131
 translate french Emma_Fondle_Breasts_7438fcfc:
@@ -172,7 +172,7 @@ translate french Emma_FB_Prep_4ba05c7e:
 translate french Emma_FB_Prep_d4ad47b7:
 
     # "She then grabs your arm and mashes your hand against her breast, clearly intending you to get to work."
-    "She then grabs your arm and mashes your hand against her breast, clearly intending you to get to work."
+    "Elle te saisit alors le bras et te claque la main contre sa poitrine, avec l'intention claire que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:228
 translate french Emma_FB_Prep_aaac4794:
@@ -190,7 +190,7 @@ translate french Emma_FB_Prep_3c642e29:
 translate french Emma_FB_Prep_3124b2da:
 
     # "You start to fondle it."
-    "You start to fondle it."
+    "Tu commences à caresser ses seins."
 
 # game/Emma_Fondle.rpy:240
 translate french Emma_FB_Prep_8ec60b07:
@@ -202,13 +202,13 @@ translate french Emma_FB_Prep_8ec60b07:
 translate french Emma_FB_Prep_3124b2da_1:
 
     # "You start to fondle it."
-    "You start to fondle it."
+    "Tu commences à caresser ses seins."
 
 # game/Emma_Fondle.rpy:247
 translate french Emma_FB_Prep_2322338c:
 
     # "You pull your hand back."
-    "You pull your hand back."
+    "Tu enlèves ta main."
 
 # game/Emma_Fondle.rpy:250
 translate french Emma_FB_Prep_ac257de5:
@@ -238,7 +238,7 @@ translate french Emma_FB_Cycle_b032f1d0:
 translate french Emma_FB_Cycle_f77e75d5:
 
     # "As you lean in to suck on her breast, she grabs your head and pushes back."
-    "As you lean in to suck on her breast, she grabs your head and pushes back."
+    "Lorsque tu te penches pour lui sucer le sein, elle te saisit la tête et te repousse."
 
 # game/Emma_Fondle.rpy:390
 translate french Emma_FB_Cycle_83673efb:
@@ -256,7 +256,7 @@ translate french Emma_FB_Cycle_2c55fb6c:
 translate french Emma_FB_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:442
 translate french Emma_FB_Cycle_9f15853d:
@@ -286,19 +286,19 @@ translate french Emma_FB_Cycle_3b7357c3:
 translate french Emma_FB_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:480
 translate french Emma_FB_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:484
 translate french Emma_FB_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:485
 translate french Emma_FB_Cycle_f1e9869d:
@@ -328,7 +328,7 @@ translate french Emma_FB_Cycle_d99713bb:
 translate french Emma_FB_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:530
 translate french Emma_FB_After_81c41677:
@@ -442,7 +442,7 @@ translate french Emma_Suck_Breasts_bb750cf6:
 translate french Emma_Suck_Breasts_93aaaa75:
 
     # "She shoves your head back out."
-    "She shoves your head back out."
+    "Elle te repousse la tête."
 
 # game/Emma_Fondle.rpy:687
 translate french Emma_Suck_Breasts_91998f1e:
@@ -454,7 +454,7 @@ translate french Emma_Suck_Breasts_91998f1e:
 translate french Emma_Suck_Breasts_ad3c2da6:
 
     # ch_e "Not worth it."
-    ch_e "Not worth it."
+    ch_e "Ca en vaut pas le coup."
 
 # game/Emma_Fondle.rpy:701
 translate french Emma_Suck_Breasts_f8aa085c:
@@ -484,7 +484,7 @@ translate french Emma_SB_Prep_4ba05c7e:
 translate french Emma_SB_Prep_77de6379:
 
     # "She then grabs your head and crams your face into her chest, clearly intending you to get to work."
-    "She then grabs your head and crams your face into her chest, clearly intending you to get to work."
+    "Elle te saisit alors la tête et te fourre le visage dans la poitrine, avec l'intention claire de te mettre au travail."
 
 # game/Emma_Fondle.rpy:735
 translate french Emma_SB_Prep_423739a6:
@@ -502,7 +502,7 @@ translate french Emma_SB_Prep_423739a6_1:
 translate french Emma_SB_Prep_49b4dffd:
 
     # "You start to run your tongue along her nipple."
-    "You start to run your tongue along her nipple."
+    "Tu commences à faire courir ta langue le long de son mamelon."
 
 # game/Emma_Fondle.rpy:747
 translate french Emma_SB_Prep_e3102fed:
@@ -514,13 +514,13 @@ translate french Emma_SB_Prep_e3102fed:
 translate french Emma_SB_Prep_3124b2da:
 
     # "You start to fondle it."
-    "You start to fondle it."
+    "Tu commences à caresser ses seins."
 
 # game/Emma_Fondle.rpy:754
 translate french Emma_SB_Prep_7e6d131a:
 
     # "You pull your head back."
-    "You pull your head back."
+    "Tu tires la tête en arrière."
 
 # game/Emma_Fondle.rpy:757
 translate french Emma_SB_Prep_ac257de5:
@@ -568,7 +568,7 @@ translate french Emma_SB_Cycle_2c55fb6c:
 translate french Emma_SB_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:944
 translate french Emma_SB_Cycle_9f15853d:
@@ -598,19 +598,19 @@ translate french Emma_SB_Cycle_2175e001:
 translate french Emma_SB_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:982
 translate french Emma_SB_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:986
 translate french Emma_SB_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:987
 translate french Emma_SB_Cycle_f1e9869d:
@@ -640,7 +640,7 @@ translate french Emma_SB_Cycle_d99713bb:
 translate french Emma_SB_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:1033
 translate french Emma_SB_After_5fafb85e:
@@ -652,7 +652,7 @@ translate french Emma_SB_After_5fafb85e:
 translate french Emma_SB_After_92e09b0d:
 
     # ch_e "Did you get enough?"
-    ch_e "Did you get enough?"
+    ch_e "T'en as eu assez ?"
 
 # game/Emma_Fondle.rpy:1083
 translate french Emma_Fondle_Thighs_938676d3:
@@ -682,7 +682,7 @@ translate french Emma_Fondle_Thighs_5ae5e2c5:
 translate french Emma_Fondle_Thighs_5d111317:
 
     # ch_e "You didn't get enough earlier?"
-    ch_e "You didn't get enough earlier?"
+    ch_e "Tu n'en as pas eu assez tout à l'heure ?"
 
 # game/Emma_Fondle.rpy:1117
 translate french Emma_Fondle_Thighs_421b80b5:
@@ -700,7 +700,7 @@ translate french Emma_Fondle_Thighs_bed50ec4:
 translate french Emma_Fondle_Thighs_88cbbdde:
 
     # ch_e "I told you not to touch me like that in public!"
-    ch_e "I told you not to touch me like that in public!"
+    ch_e "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Emma_Fondle.rpy:1129
 translate french Emma_Fondle_Thighs_18057432:
@@ -808,7 +808,7 @@ translate french Emma_FT_Cycle_b032f1d0:
 translate french Emma_FT_Cycle_dfe93c22:
 
     # "As your hands creep upwards, she grabs your wrists."
-    "As your hands creep upwards, she grabs your wrists."
+    "Alors que tes mains se lèvent, elle te saisit les poignets."
 
 # game/Emma_Fondle.rpy:1361
 translate french Emma_FT_Cycle_83673efb:
@@ -826,7 +826,7 @@ translate french Emma_FT_Cycle_2c55fb6c:
 translate french Emma_FT_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:1413
 translate french Emma_FT_Cycle_9f15853d:
@@ -856,19 +856,19 @@ translate french Emma_FT_Cycle_2175e001:
 translate french Emma_FT_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:1449
 translate french Emma_FT_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:1453
 translate french Emma_FT_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:1454
 translate french Emma_FT_Cycle_ad84e812:
@@ -892,7 +892,7 @@ translate french Emma_FT_Cycle_643d53b2:
 translate french Emma_FT_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:1497
 translate french Emma_FT_After_ebf3a324:
@@ -904,7 +904,7 @@ translate french Emma_FT_After_ebf3a324:
 translate french Emma_FT_After_a14438bd:
 
     # ch_e "Was that enough?"
-    ch_e "Was that enough?"
+    ch_e "C'était assez ?"
 
 # game/Emma_Fondle.rpy:1548
 translate french Emma_Fondle_Pussy_29700755:
@@ -940,7 +940,7 @@ translate french Emma_Fondle_Pussy_6b86b89b:
 translate french Emma_Fondle_Pussy_78378327:
 
     # ch_e "Mmmm, I couldn't refuse. . ."
-    ch_e "Mmmm, I couldn't refuse. . ."
+    ch_e "Mmmm, je ne pouvais pas refuser..."
 
 # game/Emma_Fondle.rpy:1595
 translate french Emma_Fondle_Pussy_bed50ec4:
@@ -952,7 +952,7 @@ translate french Emma_Fondle_Pussy_bed50ec4:
 translate french Emma_Fondle_Pussy_88cbbdde:
 
     # ch_e "I told you not to touch me like that in public!"
-    ch_e "I told you not to touch me like that in public!"
+    ch_e "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Emma_Fondle.rpy:1599
 translate french Emma_Fondle_Pussy_18057432:
@@ -1036,13 +1036,13 @@ translate french Emma_Fondle_Pussy_f8aa085c:
 translate french Emma_Fondle_Pussy_9a893fd0:
 
     # ch_e "Sorry, keep your hands out of there."
-    ch_e "Sorry, keep your hands out of there."
+    ch_e "Désolé, ne me touche pas là."
 
 # game/Emma_Fondle.rpy:1680
 translate french Emma_Fondle_Pussy_8f357854:
 
     # ch_e "No thank you, [EmmaX.Petname]."
-    ch_e "No thank you, [EmmaX.Petname]."
+    ch_e "Non merci, [EmmaX.Petname]."
 
 # game/Emma_Fondle.rpy:1710
 translate french Emma_FP_Prep_00e02cd4:
@@ -1066,7 +1066,7 @@ translate french Emma_FP_Prep_c14c748f:
 translate french Emma_FP_Prep_678e8779:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:1718
 translate french Emma_FP_Prep_eaad7aa1:
@@ -1078,7 +1078,7 @@ translate french Emma_FP_Prep_eaad7aa1:
 translate french Emma_FP_Prep_678e8779_1:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:1722
 translate french Emma_FP_Prep_2d33c793:
@@ -1096,7 +1096,7 @@ translate french Emma_FP_Prep_2d33c793_1:
 translate french Emma_FP_Prep_3195176c:
 
     # "You start to run your fingers along her pussy."
-    "You start to run your fingers along her pussy."
+    "Tu commences à faire courir tes doigts le long de sa chatte."
 
 # game/Emma_Fondle.rpy:1734
 translate french Emma_FP_Prep_8ec60b07:
@@ -1108,13 +1108,13 @@ translate french Emma_FP_Prep_8ec60b07:
 translate french Emma_FP_Prep_3195176c_1:
 
     # "You start to run your fingers along her pussy."
-    "You start to run your fingers along her pussy."
+    "Tu commences à faire courir tes doigts le long de sa chatte."
 
 # game/Emma_Fondle.rpy:1741
 translate french Emma_FP_Prep_2322338c:
 
     # "You pull your hand back."
-    "You pull your hand back."
+    "Tu enlèves ta main."
 
 # game/Emma_Fondle.rpy:1744
 translate french Emma_FP_Prep_ac257de5:
@@ -1156,7 +1156,7 @@ translate french Emma_FP_Cycle_2c55fb6c:
 translate french Emma_FP_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:1960
 translate french Emma_FP_Cycle_9f15853d:
@@ -1174,7 +1174,7 @@ translate french Emma_FP_Cycle_054b65ff:
 translate french Emma_FP_Cycle_7ba5631a:
 
     # ch_e "You like how that feels, huh?"
-    ch_e "You like how that feels, huh?"
+    ch_e "Tu aimes caresser mon minou, hein ?"
 
 # game/Emma_Fondle.rpy:1984
 translate french Emma_FP_Cycle_2175e001:
@@ -1186,19 +1186,19 @@ translate french Emma_FP_Cycle_2175e001:
 translate french Emma_FP_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:1998
 translate french Emma_FP_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:2002
 translate french Emma_FP_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:2003
 translate french Emma_FP_Cycle_ad84e812:
@@ -1222,7 +1222,7 @@ translate french Emma_FP_Cycle_643d53b2:
 translate french Emma_FP_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:2043
 translate french Emma_FP_After_95d8f2d5:
@@ -1234,7 +1234,7 @@ translate french Emma_FP_After_95d8f2d5:
 translate french Emma_FP_After_221a98e4:
 
     # ch_e "Did you find what you were looking for?"
-    ch_e "Did you find what you were looking for?"
+    ch_e "As-tu trouvé ce que tu cherchais ?"
 
 # game/Emma_Fondle.rpy:2066
 translate french Emma_Insert_Pussy_436f3b96:
@@ -1252,7 +1252,7 @@ translate french Emma_Insert_Pussy_c736584f:
 translate french Emma_Insert_Pussy_f1f801a6:
 
     # "She slaps your hand back."
-    "She slaps your hand back."
+    "Elle te gifle la main en retour."
 
 # game/Emma_Fondle.rpy:2075
 translate french Emma_Insert_Pussy_38283465:
@@ -1264,7 +1264,7 @@ translate french Emma_Insert_Pussy_38283465:
 translate french Emma_Insert_Pussy_e3ae910c:
 
     # ch_e "If you must. . ."
-    ch_e "If you must. . ."
+    ch_e "Si tu es obligé..."
 
 # game/Emma_Fondle.rpy:2090
 translate french Emma_Insert_Pussy_16311a7a:
@@ -1276,7 +1276,7 @@ translate french Emma_Insert_Pussy_16311a7a:
 translate french Emma_Insert_Pussy_32d665fb:
 
     # ch_e "No. Thank you."
-    ch_e "No. Thank you."
+    ch_e "Non. Merci."
 
 # game/Emma_Fondle.rpy:2179
 translate french Emma_Lick_Pussy_8e948638:
@@ -1294,7 +1294,7 @@ translate french Emma_Lick_Pussy_939947e1:
 translate french Emma_Lick_Pussy_674ae3b3:
 
     # "She pushes your head back away from her."
-    "She pushes your head back away from her."
+    "Elle repousse ta tête loin d'elle."
 
 # game/Emma_Fondle.rpy:2195
 translate french Emma_Lick_Pussy_5ae5e2c5:
@@ -1312,7 +1312,7 @@ translate french Emma_Lick_Pussy_6b86b89b:
 translate french Emma_Lick_Pussy_e3ae910c:
 
     # ch_e "If you must. . ."
-    ch_e "If you must. . ."
+    ch_e "Si tu es obligé..."
 
 # game/Emma_Fondle.rpy:2220
 translate french Emma_Lick_Pussy_16311a7a:
@@ -1330,7 +1330,7 @@ translate french Emma_Lick_Pussy_bed50ec4:
 translate french Emma_Lick_Pussy_6fc85877:
 
     # ch_e "You already got your answer!"
-    ch_e "You already got your answer!"
+    ch_e "Tu as déjà ta réponse !"
 
 # game/Emma_Fondle.rpy:2233
 translate french Emma_Lick_Pussy_18057432:
@@ -1390,7 +1390,7 @@ translate french Emma_Lick_Pussy_091cbb5a:
 translate french Emma_Lick_Pussy_d5b0d244:
 
     # "She shoves your head back."
-    "She shoves your head back."
+    "Elle te pousse la tête en arrière."
 
 # game/Emma_Fondle.rpy:2293
 translate french Emma_Lick_Pussy_91998f1e:
@@ -1414,7 +1414,7 @@ translate french Emma_Lick_Pussy_f8aa085c:
 translate french Emma_Lick_Pussy_6149c5b8:
 
     # ch_e "Keep your head out of there."
-    ch_e "Keep your head out of there."
+    ch_e "N'approche pas ta tête par ici."
 
 # game/Emma_Fondle.rpy:2313
 translate french Emma_Lick_Pussy_5777aa55:
@@ -1432,7 +1432,7 @@ translate french Emma_LP_Prep_00e02cd4:
 translate french Emma_LP_Prep_dd20fbcb:
 
     # "She then grabs your head and pulls it to her crotch, clearly intending you to get to work."
-    "She then grabs your head and pulls it to her crotch, clearly intending you to get to work."
+    "Elle te saisit alors la tête et la tire jusqu'à l'entrejambe, voulant clairement que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:2348
 translate french Emma_LP_Prep_8932aebb:
@@ -1444,19 +1444,19 @@ translate french Emma_LP_Prep_8932aebb:
 translate french Emma_LP_Prep_678e8779:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:2352
 translate french Emma_LP_Prep_15ed07e6:
 
     # "[Line], and then shoves your face into her crotch."
-    "[Line], and then shoves your face into her crotch."
+    "[Line], et ensuite t'enfonce ton visage dans l'entrejambe."
 
 # game/Emma_Fondle.rpy:2353
 translate french Emma_LP_Prep_678e8779_1:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:2356
 translate french Emma_LP_Prep_c39ded7e:
@@ -1474,7 +1474,7 @@ translate french Emma_LP_Prep_c39ded7e_1:
 translate french Emma_LP_Prep_0e2f0537:
 
     # "You start licking."
-    "You start licking."
+    "Tu commences à lécher."
 
 # game/Emma_Fondle.rpy:2368
 translate french Emma_LP_Prep_254a823b:
@@ -1486,13 +1486,13 @@ translate french Emma_LP_Prep_254a823b:
 translate french Emma_LP_Prep_0e2f0537_1:
 
     # "You start licking."
-    "You start licking."
+    "Tu commences à lécher."
 
 # game/Emma_Fondle.rpy:2375
 translate french Emma_LP_Prep_9c12444d:
 
     # "You pull your head away."
-    "You pull your head away."
+    "Tu éloignes la tête."
 
 # game/Emma_Fondle.rpy:2378
 translate french Emma_LP_Prep_ac257de5:
@@ -1534,7 +1534,7 @@ translate french Emma_LP_Cycle_2c55fb6c:
 translate french Emma_LP_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:2585
 translate french Emma_LP_Cycle_9f15853d:
@@ -1552,7 +1552,7 @@ translate french Emma_LP_Cycle_054b65ff:
 translate french Emma_LP_Cycle_5154dd9a:
 
     # ch_e "Isn't it just delicious?"
-    ch_e "Isn't it just delicious?"
+    ch_e "N'est-ce pas tout simplement délicieux ?"
 
 # game/Emma_Fondle.rpy:2609
 translate french Emma_LP_Cycle_ac5c44de:
@@ -1564,19 +1564,19 @@ translate french Emma_LP_Cycle_ac5c44de:
 translate french Emma_LP_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:2623
 translate french Emma_LP_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:2627
 translate french Emma_LP_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:2628
 translate french Emma_LP_Cycle_ad84e812:
@@ -1600,7 +1600,7 @@ translate french Emma_LP_Cycle_643d53b2:
 translate french Emma_LP_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:2673
 translate french Emma_LP_After_af8a9aff:
@@ -1666,7 +1666,7 @@ translate french Emma_Fondle_Ass_bed50ec4:
 translate french Emma_Fondle_Ass_88cbbdde:
 
     # ch_e "I told you not to touch me like that in public!"
-    ch_e "I told you not to touch me like that in public!"
+    ch_e "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Emma_Fondle.rpy:2778
 translate french Emma_Fondle_Ass_18057432:
@@ -1720,7 +1720,7 @@ translate french Emma_Fondle_Ass_dde8af42:
 translate french Emma_Fondle_Ass_6c061f13:
 
     # ch_e "Fine, I suppose."
-    ch_e "Fine, I suppose."
+    ch_e "D'accord, on va dire."
 
 # game/Emma_Fondle.rpy:2832
 translate french Emma_Fondle_Ass_ef0557ab:
@@ -1738,7 +1738,7 @@ translate french Emma_Fondle_Ass_91998f1e:
 translate french Emma_Fondle_Ass_e2b1f369:
 
     # ch_e "Do you want to keep those fingers?"
-    ch_e "Do you want to keep those fingers?"
+    ch_e "Tu veux garder ces doigts ?"
 
 # game/Emma_Fondle.rpy:2851
 translate french Emma_Fondle_Ass_f8aa085c:
@@ -1762,7 +1762,7 @@ translate french Emma_Fondle_Ass_dde8af42_1:
 translate french Emma_Fondle_Ass_6054b8d0:
 
     # ch_e "Sorry, I don't even know how I got here. . ."
-    ch_e "Sorry, I don't even know how I got here. . ."
+    ch_e "Désolé, je ne sais même pas comment je suis arrivé ici..."
 
 # game/Emma_Fondle.rpy:2922
 translate french Emma_FA_Cycle_dbab1d12:
@@ -1792,7 +1792,7 @@ translate french Emma_FA_Cycle_2c55fb6c:
 translate french Emma_FA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:3066
 translate french Emma_FA_Cycle_9f15853d:
@@ -1822,19 +1822,19 @@ translate french Emma_FA_Cycle_cf27761f:
 translate french Emma_FA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:3104
 translate french Emma_FA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:3108
 translate french Emma_FA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:3109
 translate french Emma_FA_Cycle_ad84e812:
@@ -1858,7 +1858,7 @@ translate french Emma_FA_Cycle_643d53b2:
 translate french Emma_FA_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:3151
 translate french Emma_FA_After_872e706d:
@@ -1870,7 +1870,7 @@ translate french Emma_FA_After_872e706d:
 translate french Emma_FA_After_d5a1f6d3:
 
     # ch_e "Did you enjoy that?"
-    ch_e "Did you enjoy that?"
+    ch_e "T'as aimé ça ?"
 
 # game/Emma_Fondle.rpy:3209
 translate french Emma_Insert_Ass_08bf8212:
@@ -1894,7 +1894,7 @@ translate french Emma_Insert_Ass_6b86b89b:
 translate french Emma_Insert_Ass_e3ae910c:
 
     # ch_e "If you must. . ."
-    ch_e "If you must. . ."
+    ch_e "Si tu es obligé..."
 
 # game/Emma_Fondle.rpy:3242
 translate french Emma_Insert_Ass_4966c3a3:
@@ -1912,7 +1912,7 @@ translate french Emma_Insert_Ass_bed50ec4:
 translate french Emma_Insert_Ass_0c74c4c2:
 
     # ch_e "I told you that wasn't appropriate!"
-    ch_e "I told you that wasn't appropriate!"
+    ch_e "Je t'ai dit que c'était embarassant !"
 
 # game/Emma_Fondle.rpy:3255
 translate french Emma_Insert_Ass_18057432:
@@ -1936,7 +1936,7 @@ translate french Emma_Insert_Ass_6f68aa91:
 translate french Emma_Insert_Ass_c6aaae17:
 
     # ch_e "I'd rather not today. . ."
-    ch_e "I'd rather not today. . ."
+    ch_e "Je préfère ne pas le faire aujourd'hui..."
 
 # game/Emma_Fondle.rpy:3268
 translate french Emma_Insert_Ass_ed38064d:
@@ -1954,19 +1954,19 @@ translate french Emma_Insert_Ass_3c07f4f2:
 translate french Emma_Insert_Ass_36814e59:
 
     # ch_e "You're probably right. . ."
-    ch_e "You're probably right. . ."
+    ch_e "Tu as probablement raison.."
 
 # game/Emma_Fondle.rpy:3292
 translate french Emma_Insert_Ass_7c583fee:
 
     # ch_e "I don't think that I would."
-    ch_e "I don't think that I would."
+    ch_e "Je ne pense pas que je le ferais."
 
 # game/Emma_Fondle.rpy:3300
 translate french Emma_Insert_Ass_701d4960:
 
     # ch_e "Well hello there. . ."
-    ch_e "Well hello there. . ."
+    ch_e "Eh bien, bonjour..."
 
 # game/Emma_Fondle.rpy:3311
 translate french Emma_Insert_Ass_ef0557ab:
@@ -2014,7 +2014,7 @@ translate french Emma_IA_Prep_00e02cd4:
 translate french Emma_IA_Prep_73a627f7:
 
     # "She then grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
-    "She then grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
+    "Elle t'attrape alors le bras et presse ta main contre son trou de cul, avec l'intention manifeste que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:3375
 translate french Emma_IA_Prep_ba3d0021:
@@ -2026,55 +2026,55 @@ translate french Emma_IA_Prep_ba3d0021:
 translate french Emma_IA_Prep_678e8779:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:3379
 translate french Emma_IA_Prep_0a9c5cb2:
 
     # "[Line], and then presses your hand against her asshole."
-    "[Line], and then presses your hand against her asshole."
+    "[Line], puis presse ta main contre son trou du cul."
 
 # game/Emma_Fondle.rpy:3380
 translate french Emma_IA_Prep_678e8779_1:
 
     # "She clearly intends for you to get to work."
-    "She clearly intends for you to get to work."
+    "Elle a clairement l'intention que tu t'occupes d'elle."
 
 # game/Emma_Fondle.rpy:3383
 translate french Emma_IA_Prep_104f072d:
 
     # "[EmmaX.Name] grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
-    "[EmmaX.Name] t'attrape le bras et presse ta main contre son trou du cul, avec l'intention claire de vous mettre au travail."
+    "[EmmaX.Name] t'attrape le bras et presse ta main contre son trou du cul, avec l'intention claire de te mettre au travail."
 
 # game/Emma_Fondle.rpy:3385
 translate french Emma_IA_Prep_104f072d_1:
 
     # "[EmmaX.Name] grabs your arm and presses your hand against her asshole, clearly intending you to get to work."
-    "[EmmaX.Name] t'attrape le bras et presse ta main contre son trou du cul, avec l'intention claire de vous mettre au travail."
+    "[EmmaX.Name] t'attrape le bras et presse ta main contre son trou du cul, avec l'intention claire de te mettre au travail."
 
 # game/Emma_Fondle.rpy:3391
 translate french Emma_IA_Prep_c67aa8b7:
 
     # "You press your finger into it."
-    "You press your finger into it."
+    "Tu insères ton doigt."
 
 # game/Emma_Fondle.rpy:3395
 translate french Emma_IA_Prep_5e51ab5c:
 
     # ch_p "Dirty girl, [EmmaX.Pet]."
-    ch_p "Dirty girl, [EmmaX.Pet]."
+    ch_p "Coquine, [EmmaX.Pet]."
 
 # game/Emma_Fondle.rpy:3397
 translate french Emma_IA_Prep_c67aa8b7_1:
 
     # "You press your finger into it."
-    "You press your finger into it."
+    "Tu insères ton doigt."
 
 # game/Emma_Fondle.rpy:3402
 translate french Emma_IA_Prep_2322338c:
 
     # "You pull your hand back."
-    "You pull your hand back."
+    "Tu enlèves ta main."
 
 # game/Emma_Fondle.rpy:3405
 translate french Emma_IA_Prep_ac257de5:
@@ -2116,7 +2116,7 @@ translate french Emma_IA_Cycle_2c55fb6c:
 translate french Emma_IA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:3609
 translate french Emma_IA_Cycle_9f15853d:
@@ -2146,19 +2146,19 @@ translate french Emma_IA_Cycle_a2bd754e:
 translate french Emma_IA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:3647
 translate french Emma_IA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:3651
 translate french Emma_IA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:3652
 translate french Emma_IA_Cycle_ad84e812:
@@ -2182,7 +2182,7 @@ translate french Emma_IA_Cycle_643d53b2:
 translate french Emma_IA_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:3692
 translate french Emma_IA_After_31101dde:
@@ -2218,19 +2218,19 @@ translate french Emma_Lick_Ass_5ae5e2c5:
 translate french Emma_Lick_Ass_5d111317:
 
     # ch_e "You didn't get enough earlier?"
-    ch_e "You didn't get enough earlier?"
+    ch_e "Tu n'en as pas eu assez tout à l'heure ?"
 
 # game/Emma_Fondle.rpy:3780
 translate french Emma_Lick_Ass_e3ae910c:
 
     # ch_e "If you must. . ."
-    ch_e "If you must. . ."
+    ch_e "Si tu es obligé..."
 
 # game/Emma_Fondle.rpy:3787
 translate french Emma_Lick_Ass_5ee5786c:
 
     # ch_e "Mmm. . . naughty."
-    ch_e "Mmm. . . naughty."
+    ch_e "Mmm... vilain."
 
 # game/Emma_Fondle.rpy:3796
 translate french Emma_Lick_Ass_bed50ec4:
@@ -2242,7 +2242,7 @@ translate french Emma_Lick_Ass_bed50ec4:
 translate french Emma_Lick_Ass_88cbbdde:
 
     # ch_e "I told you not to touch me like that in public!"
-    ch_e "I told you not to touch me like that in public!"
+    ch_e "Je t'ai dit de ne pas me toucher comme ça en public !"
 
 # game/Emma_Fondle.rpy:3800
 translate french Emma_Lick_Ass_18057432:
@@ -2266,13 +2266,13 @@ translate french Emma_Lick_Ass_22325d21:
 translate french Emma_Lick_Ass_419b92a0:
 
     # ch_e "Is that what gets you off?"
-    ch_e "Is that what gets you off?"
+    ch_e "C'est ça qui te fait prendre ton pied ?"
 
 # game/Emma_Fondle.rpy:3811
 translate french Emma_Lick_Ass_ae39893d:
 
     # ch_e "Hm, I didn't know that's what you were into."
-    ch_e "Hm, I didn't know that's what you were into."
+    ch_e "Hm, je savais pas que c'était ton délire."
 
 # game/Emma_Fondle.rpy:3814
 translate french Emma_Lick_Ass_323be458:
@@ -2314,7 +2314,7 @@ translate french Emma_Lick_Ass_c54d7f57:
 translate french Emma_Lick_Ass_d5b0d244:
 
     # "She shoves your head back."
-    "She shoves your head back."
+    "Elle te pousse la tête en arrière."
 
 # game/Emma_Fondle.rpy:3866
 translate french Emma_Lick_Ass_91998f1e:
@@ -2338,13 +2338,13 @@ translate french Emma_Lick_Ass_f8aa085c:
 translate french Emma_Lick_Ass_a4adfe23:
 
     # ch_e "Sorry, no more of that."
-    ch_e "Sorry, no more of that."
+    ch_e "Désolé, j'en veux pas plus."
 
 # game/Emma_Fondle.rpy:3889
 translate french Emma_Lick_Ass_1fc1399e:
 
     # ch_e "I'm sorry, not now."
-    ch_e "I'm sorry, not now."
+    ch_e "Je suis désolée, pas maintenant."
 
 # game/Emma_Fondle.rpy:3964
 translate french Emma_LA_Cycle_dbab1d12:
@@ -2374,7 +2374,7 @@ translate french Emma_LA_Cycle_2c55fb6c:
 translate french Emma_LA_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Fondle.rpy:4104
 translate french Emma_LA_Cycle_9f15853d:
@@ -2404,19 +2404,19 @@ translate french Emma_LA_Cycle_f0cff672:
 translate french Emma_LA_Cycle_ad236d17:
 
     # "You let go. . ."
-    "You let go. . ."
+    "Tu lâches prise..."
 
 # game/Emma_Fondle.rpy:4142
 translate french Emma_LA_Cycle_555b02ed:
 
     # "She grumbles but lets you keep going."
-    "She grumbles but lets you keep going."
+    "Elle grogne mais te laisse continuer."
 
 # game/Emma_Fondle.rpy:4146
 translate french Emma_LA_Cycle_21174875:
 
     # "She scowls at you and pulls back."
-    "She scowls at you and pulls back."
+    "Elle te regarde de travers et se retire."
 
 # game/Emma_Fondle.rpy:4147
 translate french Emma_LA_Cycle_ad84e812:
@@ -2440,7 +2440,7 @@ translate french Emma_LA_Cycle_643d53b2:
 translate french Emma_LA_Cycle_d3bff86e:
 
     # ch_e "We need to stop for a moment, let me catch my breath."
-    ch_e "We need to stop for a moment, let me catch my breath."
+    ch_e "Nous devons nous arrêter un instant, pour que je reprenne mon souffle."
 
 # game/Emma_Fondle.rpy:4188
 translate french Emma_LA_After_7b49d2ee:
@@ -2474,7 +2474,7 @@ translate french strings:
 
     # game/Emma_Fondle.rpy:88
     old "You didn't get enough earlier?"
-    new "You didn't get enough earlier?"
+    new "Tu n'en as pas eu assez tout à l'heure ?"
 
     # game/Emma_Fondle.rpy:88
     old "Relax, gently. . ."
@@ -2626,7 +2626,7 @@ translate french strings:
 
     # game/Emma_Fondle.rpy:443
     old "Finish her?"
-    new "Finish her?"
+    new "L'achever ?"
 
     # game/Emma_Fondle.rpy:443
     old "Yes, keep going for a bit."
@@ -2634,7 +2634,7 @@ translate french strings:
 
     # game/Emma_Fondle.rpy:443
     old "No, I'm done."
-    new "No, I'm done."
+    new "Non, j'ai fini."
 
     # game/Emma_Fondle.rpy:446
     old "You get back into it"
@@ -2787,4 +2787,8 @@ translate french strings:
     # game/Emma_Fondle.rpy:3982
     old "Just stick a finger in [[without asking]."
     new "Just stick a finger in [[without asking]."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

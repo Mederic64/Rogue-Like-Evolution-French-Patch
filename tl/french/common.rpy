@@ -680,7 +680,7 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:215
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Note:{/b} Le programme d'installation Web DirectX de Microsoft installera par défaut la barre d'outils Bing. Si vous ne voulez pas de cette barre d'outils, décochez la case appropriée."
+    new "{b}Note:{/b} Le programme d'installation Web DirectX de Microsoft installera par défaut la barre d'outils Bing. Si tu ne veux pas de cette barre d'outils, décochez la case appropriée."
 
     # renpy/common/00gltest.rpy:219
     old "When setup finishes, please click below to restart this program."

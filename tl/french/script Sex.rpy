@@ -160,7 +160,7 @@ translate french Jackin_4ccd2cd2:
 translate french Jackin_c959a544:
 
     # ch_k "I'm getting a little wet. . ."
-    ch_k "I'm getting a little wet. . ."
+    ch_k "Je mouille un peu..."
 
 # game/script Sex.rpy:165
 translate french Jackin_99d4ca94:
@@ -178,7 +178,7 @@ translate french Jackin_e8b62f10:
 translate french Jackin_e700945e:
 
     # ch_r "You've really got my ass tingling. . ."
-    ch_r "You've really got my ass tingling. . ."
+    ch_r "Tu m'as vraiment fait vibrer le cul..."
 
 # game/script Sex.rpy:172
 translate french Jackin_fea737a5:
@@ -226,7 +226,7 @@ translate french Jackin_b29227aa:
 translate french Jackin_a2a76d4d:
 
     # ch_r "Your loss, [Girl.Petname]."
-    ch_r "Your loss, [Girl.Petname]."
+    ch_r "Tant pis pour toi, [Girl.Petname]."
 
 # game/script Sex.rpy:194
 translate french Jackin_1afe90ec:
@@ -340,7 +340,7 @@ translate french Girl_Tag_fb194ffe:
 translate french Girl_Tag_89b39825:
 
     # "Appearing sated, she puts her gloves back on."
-    "Appearing sated, she puts her gloves back on."
+    "Semblant rassasiée, elle remet ses gants."
 
 # game/script Sex.rpy:349
 translate french Slap_Ass_78807669:
@@ -388,7 +388,7 @@ translate french Makeout_042fd4f4:
 translate french Makeout_10b58903:
 
     # ch_k "You are kinda cute. . ."
-    ch_k "You are kinda cute. . ."
+    ch_k "Tu es plutôt mignon..."
 
 # game/script Sex.rpy:413
 translate french Makeout_39fe3124:
@@ -442,7 +442,7 @@ translate french Makeout_d0c7ce6c:
 translate french Makeout_a9005dd8:
 
     # ch_r "Gimme some sugar, sugar."
-    ch_r "Gimme some sugar, sugar."
+    ch_r "Fais-moi un câlin, mon chou."
 
 # game/script Sex.rpy:450
 translate french Makeout_35da5460:
@@ -634,7 +634,7 @@ translate french KissPrep_a05443ff:
 translate french KissPrep_121467af:
 
     # "You lean in to the kiss."
-    "You lean in to the kiss."
+    "Tu te penches pour l'embrasser."
 
 # game/script Sex.rpy:578
 translate french KissPrep_e91b95e0:
@@ -646,7 +646,7 @@ translate french KissPrep_e91b95e0:
 translate french KissPrep_121467af_1:
 
     # "You lean in to the kiss."
-    "You lean in to the kiss."
+    "Tu te penches pour l'embrasser."
 
 # game/script Sex.rpy:585
 translate french KissPrep_054b65ff:
@@ -688,7 +688,7 @@ translate french KissCycle_fb6cd1f9:
 translate french KissCycle_dfe93c22:
 
     # "As your hands creep upwards, she grabs your wrists."
-    "As your hands creep upwards, she grabs your wrists."
+    "Alors que tes mains se lèvent, elle te saisit les poignets."
 
 # game/script Sex.rpy:695
 translate french KissCycle_1c34c94d:
@@ -748,7 +748,7 @@ translate french Kiss_After_d9379aea:
 translate french Kiss_After_fad78041:
 
     # ch_k "You're good at this. . ."
-    ch_k "You're good at this. . ."
+    ch_k "Tu es doué..."
 
 # game/script Sex.rpy:842
 translate french Kiss_After_22c12085:
@@ -760,7 +760,7 @@ translate french Kiss_After_22c12085:
 translate french Kiss_After_8d83ee05:
 
     # ch_l "You're really talented. . ."
-    ch_l "You're really talented. . ."
+    ch_l "Tu es vraiment talentueux..."
 
 # game/script Sex.rpy:852
 translate french Kiss_After_8158a872:
@@ -958,13 +958,13 @@ translate french Massage_6b56284d:
 translate french Massage_9ecc7eda:
 
     # ch_r "Heh, no thanks, [Girl.Petname]."
-    ch_r "Heh, no thanks, [Girl.Petname]."
+    ch_r "Héhé, non merci, [Girl.Petname]."
 
 # game/script Sex.rpy:980
 translate french Massage_be296629:
 
     # ch_k "Heh, sorry, [Girl.Petname]."
-    ch_k "Heh, sorry, [Girl.Petname]."
+    ch_k "Héhé, désolé, [Girl.Petname]."
 
 # game/script Sex.rpy:987
 translate french Massage_fae21e4b:
@@ -1360,7 +1360,7 @@ translate french Massage_After_0629b8ea:
 translate french Massage_After_ce641063:
 
     # ch_l "Nnnnn, [Girl.Petname], that was great!"
-    ch_l "Nnnnn, [Girl.Petname], that was great!"
+    ch_l "Nnnnn, [Girl.Petname], c'était génial !"
 
 # game/script Sex.rpy:1582
 translate french Massage_After_3d283c0c:
@@ -1540,7 +1540,7 @@ translate french Massage_BadEnd_ff6a0d04:
 translate french Group_Strip_9ae3a469:
 
     # "Nobody's here."
-    "Nobody's here."
+    "Il n'y a personne ici."
 
 # game/script Sex.rpy:1686
 translate french Group_Strip_341e87fb:
@@ -1588,7 +1588,7 @@ translate french Group_Strip_3e5c3543:
 translate french Group_Strip_71adffc4:
 
     # ch_e "You must be joking. Here?"
-    ch_e "You must be joking. Here?"
+    ch_e "Tu dois plaisanter. Ici ?"
 
 # game/script Sex.rpy:1741
 translate french Group_Strip_27b5c2a5:
@@ -1672,7 +1672,7 @@ translate french Girl_Stripping_80ee7c19:
 translate french Girl_Stripping_e9d47744:
 
     # "Her [Line] slide through her legs until they're only on her toes, before she kicks them to the floor."
-    "Her [Line] slide through her legs until they're only on her toes, before she kicks them to the floor."
+    "Sa [Line] glisse entre ses jambes jusqu'à ce qu'elles ne soient plus que sur ses orteils, avant de les jeter par terre."
 
 # game/script Sex.rpy:1985
 translate french Girl_Stripping_55340f9e:
@@ -1684,7 +1684,7 @@ translate french Girl_Stripping_55340f9e:
 translate french Girl_Stripping_dc6d2717:
 
     # "Her [Line] slide down off her legs, leaving them in a small pile."
-    "Her [Line] slide down off her legs, leaving them in a small pile."
+    "Sa [Line] glisse sur ses jambes, les laissant en petit tas."
 
 # game/script Sex.rpy:2017
 translate french Girl_Stripping_f7da7c0c:
@@ -1882,7 +1882,7 @@ translate french Girl_Stripping_7a552626:
 translate french Girl_Stripping_95449e0e:
 
     # "[Girl.Name] begins to dance again."
-    "[Girl.Name] begins to dance again."
+    "[Girl.Name] se remet à danser."
 
 # game/script Sex.rpy:2293
 translate french Girl_Stripping_1b8dd37a:
@@ -1984,13 +1984,13 @@ translate french Strip_Ultimatum_93441ab2:
 translate french Strip_Ultimatum_f4ad46e3:
 
     # ch_r "Heh, ok [Girl.Petname]."
-    ch_r "Heh, ok [Girl.Petname]."
+    ch_r "Héhé, ok [Girl.Petname]."
 
 # game/script Sex.rpy:2400
 translate french Strip_Ultimatum_20ac3980:
 
     # ch_k "Heh, alright."
-    ch_k "Hé, d'accord."
+    ch_k "Héhé, d'accord."
 
 # game/script Sex.rpy:2402
 translate french Strip_Ultimatum_6e772c98:
@@ -2026,7 +2026,7 @@ translate french Strip_Ultimatum_ae38a716:
 translate french Strip_Ultimatum_6a4e6291:
 
     # ch_k "I'm done with this."
-    ch_k "I'm done with this."
+    ch_k "J'en ai fini avec ça."
 
 # game/script Sex.rpy:2415
 translate french Strip_Ultimatum_9f55619f:
@@ -2038,13 +2038,13 @@ translate french Strip_Ultimatum_9f55619f:
 translate french Strip_Ultimatum_d79bb91f:
 
     # ch_e "Remember your place."
-    ch_e "Remember your place."
+    ch_e "N'oublies pas ce que j'ai dit."
 
 # game/script Sex.rpy:2418
 translate french Strip_Ultimatum_7a581a24:
 
     # ch_l "I don't like that tone, [Girl.Petname]."
-    ch_l "I don't like that tone, [Girl.Petname]."
+    ch_l "Je n'aime pas ce ton, [Girl.Petname]."
 
 # game/script Sex.rpy:2431
 translate french Strip_Ultimatum_01e72b79:
@@ -2086,13 +2086,13 @@ translate french Strip_Ultimatum_47a38dbc_1:
 translate french Strip_Ultimatum_ae38a716_1:
 
     # ch_k "I'm not just going to do \"whatever\"!"
-    ch_k "I'm not just going to do \"whatever\"!"
+    ch_k "Je ne vais pas faire \"tout ce que tu dis\" !"
 
 # game/script Sex.rpy:2448
 translate french Strip_Ultimatum_6a4e6291_1:
 
     # ch_k "I'm done with this."
-    ch_k "I'm done with this."
+    ch_k "J'en ai fini avec ça."
 
 # game/script Sex.rpy:2450
 translate french Strip_Ultimatum_9f55619f_1:
@@ -2104,13 +2104,13 @@ translate french Strip_Ultimatum_9f55619f_1:
 translate french Strip_Ultimatum_d79bb91f_1:
 
     # ch_e "Remember your place."
-    ch_e "Remember your place."
+    ch_e "N'oublies pas ce que j'ai dit."
 
 # game/script Sex.rpy:2453
 translate french Strip_Ultimatum_7a581a24_1:
 
     # ch_l "I don't like that tone, [Girl.Petname]."
-    ch_l "I don't like that tone, [Girl.Petname]."
+    ch_l "Je n'aime pas ce ton, [Girl.Petname]."
 
 # game/script Sex.rpy:2465
 translate french Strip_Ultimatum_198a3cdd:
@@ -2140,13 +2140,13 @@ translate french Strip_Ultimatum_a5a0fb47:
 translate french Strip_Ultimatum_95449e0e:
 
     # "[Girl.Name] begins to dance again."
-    "[Girl.Name] begins to dance again."
+    "[Girl.Name] se remet à danser."
 
 # game/script Sex.rpy:2540
 translate french Les_Interupted_a4ef1473:
 
     # ch_l "Ahhh, that hit the spot. . ."
-    ch_l "Ahhh, that hit the spot. . ."
+    ch_l "Ahhh, c'était parfait..."
 
 # game/script Sex.rpy:2550
 translate french Les_Interupted_00178f48:
@@ -2182,7 +2182,7 @@ translate french Les_Interupted_54fd50ba:
 translate french Les_Interupted_b9b7f096:
 
     # ch_r "And why is your cock out like that?!"
-    ch_r "And why is your cock out like that?!"
+    ch_r "Et pourquoi ta bite est sortie comme ça ? !"
 
 # game/script Sex.rpy:2572
 translate french Les_Interupted_040178bb:
@@ -2212,7 +2212,7 @@ translate french Les_Interupted_e8a3f534:
 translate french Les_Interupted_c64e0b09:
 
     # ch_r "Well, I imagine it was. . ."
-    ch_r "Well, I imagine it was. . ."
+    ch_r "Eh bien, j'imagine que oui..."
 
 # game/script Sex.rpy:2587
 translate french Les_Interupted_0e7c01d2:
@@ -2236,7 +2236,7 @@ translate french Les_Interupted_cd8a95a1:
 translate french Les_Interupted_d74bebaa:
 
     # ch_r "And the view from this angle ain't so bad either. . ."
-    ch_r "And the view from this angle ain't so bad either. . ."
+    ch_r "Et la vue n'est pas si mauvaise non plus..."
 
 # game/script Sex.rpy:2598
 translate french Les_Interupted_3b5fd4d0:
@@ -2260,7 +2260,7 @@ translate french Les_Interupted_b21683ad:
 translate french Les_Interupted_d90cecc6:
 
     # "She looks pointedly at your cock,"
-    "She looks pointedly at your cock,"
+    "Elle regarde ta bite avec insistance,"
 
 # game/script Sex.rpy:2613
 translate french Les_Interupted_eaa39911:
@@ -2326,7 +2326,7 @@ translate french Les_Interupted_27af9134_1:
 translate french Les_Interupted_e7211c29:
 
     # ch_e "Have you been there long?"
-    ch_e "Have you been there long?"
+    ch_e "Tu es là depuis longtemps ?"
 
 # game/script Sex.rpy:2647
 translate french Les_Interupted_54fd50ba_1:
@@ -2338,7 +2338,7 @@ translate french Les_Interupted_54fd50ba_1:
 translate french Les_Interupted_288882f1:
 
     # ch_r "Well I hope you got a good show out of it. . ."
-    ch_r "Well I hope you got a good show out of it. . ."
+    ch_r "J'espère que tu t'es rincé l'oeil..."
 
 # game/script Sex.rpy:2657
 translate french Les_Interupted_bc9fec0f:
@@ -2362,7 +2362,7 @@ translate french Les_Interupted_3aa073a7:
 translate french Les_Interupted_82000577:
 
     # ch_r "A likely story . . ."
-    ch_r "A likely story . . ."
+    ch_r "Une histoire improbable..."
 
 # game/script Sex.rpy:2669
 translate french Les_Interupted_2e529718:
@@ -2410,7 +2410,7 @@ translate french Les_Interupted_feebb8b8:
 translate french Les_Interupted_35dc92cd:
 
     # ch_r "It's getting too late to do much about it right now though."
-    ch_r "It's getting too late to do much about it right now though."
+    ch_r "C'est par contre trop tard pour faire grand-chose pour l'instant."
 
 # game/script Sex.rpy:2703
 translate french Les_Interupted_274404a9:
@@ -2464,7 +2464,7 @@ translate french LesScene_8859395c:
 translate french LesScene_fc758bab:
 
     # ch_k "You could at least stick around. . ."
-    ch_k "You could at least stick around. . ."
+    ch_k "Tu pourrais au moins rester dans le coin..."
 
 # game/script Sex.rpy:2811
 translate french LesScene_4a23dc7e:
@@ -2578,7 +2578,7 @@ translate french LesScene_d8d27cf9:
 translate french LesScene_228b652d:
 
     # ch_r "Well what did you have in mind?"
-    ch_r "Well what did you have in mind?"
+    ch_r "A quoi tu pensais ?"
 
 # game/script Sex.rpy:2871
 translate french LesScene_bbbf3b90:
@@ -2602,25 +2602,25 @@ translate french LesScene_7381d3c8:
 translate french LesScene_75318760:
 
     # ch_r "You want me and [Partner.Name] to hook up, while you watch?"
-    ch_r "You want me and [Partner.Name] to hook up, while you watch?"
+    ch_r "Tu veux que moi et [Partner.Name] on se branche, pendant que tu regardes ?"
 
 # game/script Sex.rpy:2888
 translate french LesScene_74590c5d:
 
     # ch_k "You wanna watch me and [Partner.Name] hook up?"
-    ch_k "You wanna watch me and [Partner.Name] hook up?"
+    ch_k "Tu veux me voir sortir avec [Partner.Name] ?"
 
 # game/script Sex.rpy:2890
 translate french LesScene_73e3f9fc:
 
     # ch_e "You wanna watch me and [Partner.Name] \"engaged?\""
-    ch_e "You wanna watch me and [Partner.Name] \"engaged?\""
+    ch_e "Tu veux me voir avec [Partner.Name] en \"contact\" ?"
 
 # game/script Sex.rpy:2892
 translate french LesScene_60bd7b47:
 
     # ch_l "You want to watch me and [Partner.Name] hook up?"
-    ch_l "You want to watch me and [Partner.Name] hook up?"
+    ch_l "Tu veux me voir avec [Partner.Name] en train de jouer ?"
 
 # game/script Sex.rpy:2896
 translate french LesScene_a80b5c19:
@@ -2656,7 +2656,7 @@ translate french LesScene_4b2c0c60:
 translate french LesScene_e22086d9:
 
     # ch_p "Don't worry, I can keep it turned off."
-    ch_p "Don't worry, I can keep it turned off."
+    ch_p "Ne t'inquiètes pas, je peux annuler son pouvoir."
 
 # game/script Sex.rpy:2909
 translate french LesScene_73eceeca:
@@ -2674,7 +2674,7 @@ translate french LesScene_7779f6ba:
 translate french LesScene_e22086d9_1:
 
     # ch_p "Don't worry, I can keep it turned off."
-    ch_p "Don't worry, I can keep it turned off."
+    ch_p "Ne t'inquiètes pas, je peux annuler son pouvoir."
 
 # game/script Sex.rpy:2913
 translate french LesScene_74a7cda7:
@@ -2692,7 +2692,7 @@ translate french LesScene_de33222c:
 translate french LesScene_e22086d9_2:
 
     # ch_p "Don't worry, I can keep it turned off."
-    ch_p "Don't worry, I can keep it turned off."
+    ch_p "Ne t'inquiètes pas, je peux annuler son pouvoir."
 
 # game/script Sex.rpy:2917
 translate french LesScene_b22c55f0:
@@ -2710,7 +2710,7 @@ translate french LesScene_0544898b:
 translate french LesScene_e22086d9_3:
 
     # ch_p "Don't worry, I can keep it turned off."
-    ch_p "Don't worry, I can keep it turned off."
+    ch_p "Ne t'inquiètes pas, je peux annuler son pouvoir."
 
 # game/script Sex.rpy:2921
 translate french LesScene_0cf0f091:
@@ -2728,7 +2728,7 @@ translate french LesScene_02e4eb17:
 translate french LesScene_6fb7c7e4:
 
     # ch_k "Heh, you don't know what you're asking for. . ."
-    ch_k "Heh, you don't know what you're asking for. . ."
+    ch_k "Héhé, tu ne sais pas ce que tu demandes..."
 
 # game/script Sex.rpy:2937
 translate french LesScene_c8075b53:
@@ -2770,13 +2770,13 @@ translate french LesScene_4737ecd9:
 translate french LesScene_e78c659d:
 
     # ch_r "If that's what you want, [Girl.Petname]. . ."
-    ch_r "If that's what you want, [Girl.Petname]. . ."
+    ch_r "Si c'est ce que tu veux, [Girl.Petname]..."
 
 # game/script Sex.rpy:2957
 translate french LesScene_fb61db7f:
 
     # ch_k "If that's what you want, [Girl.Petname]. . ."
-    ch_k "If that's what you want, [Girl.Petname]. . ."
+    ch_k "Si c'est ce que tu veux, [Girl.Petname]..."
 
 # game/script Sex.rpy:2959
 translate french LesScene_4559f35c:
@@ -2794,19 +2794,19 @@ translate french LesScene_8cde7a94:
 translate french LesScene_f5fa0253:
 
     # ch_r "I guess it could be fun with you watching. . ."
-    ch_r "I guess it could be fun with you watching. . ."
+    ch_r "Je suppose que ça pourrait être amusant si tu regardes.."
 
 # game/script Sex.rpy:2968
 translate french LesScene_d699f310:
 
     # ch_k "I guess it could be fun with you watching. . ."
-    ch_k "I guess it could be fun with you watching. . ."
+    ch_k "Je suppose que ça pourrait être amusant si tu regardes.."
 
 # game/script Sex.rpy:2970
 translate french LesScene_7cf026f8:
 
     # ch_e "I do enjoy an audience. . ."
-    ch_e "I do enjoy an audience. . ."
+    ch_e "J'aime bien avoir un public..."
 
 # game/script Sex.rpy:2972
 translate french LesScene_bf423758:
@@ -2866,13 +2866,13 @@ translate french LesScene_becb8545:
 translate french LesScene_22acb93d:
 
     # ch_r "You like to watch, huh?"
-    ch_r "You like to watch, huh?"
+    ch_r "Tu aimes regarder, hein ?"
 
 # game/script Sex.rpy:3013
 translate french LesScene_30da296b:
 
     # ch_k "You really do like to watch."
-    ch_k "You really do like to watch."
+    ch_k "Tu aimes vraiment regarder."
 
 # game/script Sex.rpy:3015
 translate french LesScene_555ae43a:
@@ -2950,13 +2950,13 @@ translate french LesScene_57a9a960:
 translate french LesScene_de0dd6d0:
 
     # ch_e "I don't mind getting intimate with her. . ."
-    ch_e "I don't mind getting intimate with her. . ."
+    ch_e "Ça ne me dérange pas d'être intime avec elle.."
 
 # game/script Sex.rpy:3071
 translate french LesScene_af86d6b8:
 
     # ch_l "I kinda needed to blow off some steam. . ."
-    ch_l "I kinda needed to blow off some steam. . ."
+    ch_l "J'avais besoin de me défouler un peu..."
 
 # game/script Sex.rpy:3083
 translate french LesScene_d4e1222f:
@@ -3052,7 +3052,7 @@ translate french LesScene_25e9b3b6:
 translate french LesScene_e19645d9:
 
     # ch_l "Probably not."
-    ch_l "Probably not."
+    ch_l "Probablement pas."
 
 # game/script Sex.rpy:3124
 translate french LesScene_e8147e56:
@@ -3088,19 +3088,19 @@ translate french LesScene_57a9a960_1:
 translate french LesScene_de0dd6d0_1:
 
     # ch_e "I don't mind getting intimate with her. . ."
-    ch_e "I don't mind getting intimate with her. . ."
+    ch_e "Ça ne me dérange pas d'être intime avec elle.."
 
 # game/script Sex.rpy:3157
 translate french LesScene_af86d6b8_1:
 
     # ch_l "I kinda needed to blow off some steam. . ."
-    ch_l "I kinda needed to blow off some steam. . ."
+    ch_l "J'avais besoin de me défouler un peu..."
 
 # game/script Sex.rpy:3172
 translate french LesScene_22620166:
 
     # ch_r "Ok, fine. I'll give it a try."
-    ch_r "Ok, fine. I'll give it a try."
+    ch_r "Ok, très bien. Je vais essayer."
 
 # game/script Sex.rpy:3174
 translate french LesScene_bcef8e34:
@@ -3112,7 +3112,7 @@ translate french LesScene_bcef8e34:
 translate french LesScene_e6a50449:
 
     # ch_e "Oh, fine."
-    ch_e "Oh, fine."
+    ch_e "Oh, très bien."
 
 # game/script Sex.rpy:3178
 translate french LesScene_60ec74d0:
@@ -3202,19 +3202,19 @@ translate french LesScene_6af53e28:
 translate french LesScene_8cec8d19:
 
     # ch_k "I'm just not into that."
-    ch_k "I'm just not into that."
+    ch_k "J'aime juste pas ça."
 
 # game/script Sex.rpy:3229
 translate french LesScene_68c1cd5d:
 
     # ch_e "I'm just not into that."
-    ch_e "I'm just not into that."
+    ch_e "J'aime juste pas ça."
 
 # game/script Sex.rpy:3231
 translate french LesScene_d7341748:
 
     # ch_l "I'm not into that."
-    ch_l "I'm not into that."
+    ch_l "Ce n'est pas mon truc."
 
 # game/script Sex.rpy:3243
 translate french LesScene_bb38f919:
@@ -3226,13 +3226,13 @@ translate french LesScene_bb38f919:
 translate french LesScene_0dc70418:
 
     # ch_k "Totally not around here."
-    ch_k "Totally not around here."
+    ch_k "Carrément pas par ici."
 
 # game/script Sex.rpy:3247
 translate french LesScene_e26018d3:
 
     # ch_e "Totally not around here."
-    ch_e "Totally not around here."
+    ch_e "Carrément pas par ici."
 
 # game/script Sex.rpy:3249
 translate french LesScene_f0316f1d:
@@ -3256,7 +3256,7 @@ translate french LesScene_050b882c:
 translate french LesScene_b464db3f:
 
     # ch_k "I'm not really comfortable with that."
-    ch_k "I'm not really comfortable with that."
+    ch_k "Je ne suis pas vraiment à l'aise avec cela."
 
 # game/script Sex.rpy:3263
 translate french LesScene_f7e7d74a:
@@ -3268,7 +3268,7 @@ translate french LesScene_f7e7d74a:
 translate french LesScene_000c5af3:
 
     # ch_e "I'm not really comfortable with that."
-    ch_e "I'm not really comfortable with that."
+    ch_e "Je ne suis pas vraiment à l'aise avec cela."
 
 # game/script Sex.rpy:3268
 translate french LesScene_97285792:
@@ -3292,7 +3292,7 @@ translate french LesScene_4ff20dcb:
 translate french LesScene_ea5c8e82:
 
     # ch_r "Heh, noway, I am {i}not{/i} doing that."
-    ch_r "Heh, noway, I am {i}not{/i} doing that."
+    ch_r "Héhé, non, je ne fais {i}pas{/i} ça."
 
 # game/script Sex.rpy:3279
 translate french LesScene_66e6cc16:
@@ -3334,13 +3334,13 @@ translate french Les_Cycle_b032f1d0:
 translate french Les_Cycle_aa4d1b65:
 
     # ch_p "Oh yeah, why don't you. . ."
-    ch_p "Oh yeah, why don't you. . ."
+    ch_p "Oh ouais, pourquoi ne pas..."
 
 # game/script Sex.rpy:3415
 translate french Les_Cycle_aa4d1b65_1:
 
     # ch_p "Oh yeah, why don't you. . ."
-    ch_p "Oh yeah, why don't you. . ."
+    ch_p "Oh ouais, pourquoi ne pas..."
 
 # game/script Sex.rpy:3424
 translate french Les_Cycle_dfe715cc:
@@ -3352,7 +3352,7 @@ translate french Les_Cycle_dfe715cc:
 translate french Les_Cycle_4c2fcbb1:
 
     # ch_p "Oh, yeah, take it off. . ."
-    ch_p "Oh, yeah, take it off. . ."
+    ch_p "Oh, oui, enleve-le..."
 
 # game/script Sex.rpy:3441
 translate french Les_Cycle_6af96d97:
@@ -3364,7 +3364,7 @@ translate french Les_Cycle_6af96d97:
 translate french Les_Cycle_aa4d1b65_2:
 
     # ch_p "Oh yeah, why don't you. . ."
-    ch_p "Oh yeah, why don't you. . ."
+    ch_p "Oh ouais, pourquoi ne pas..."
 
 # game/script Sex.rpy:3459
 translate french Les_Cycle_6af96d97_1:
@@ -3388,13 +3388,13 @@ translate french Les_Cycle_2c55fb6c:
 translate french Les_Cycle_a0b9f758:
 
     # "You grunt and try to hold it in."
-    "You grunt and try to hold it in."
+    "Tu grognes et essaie de te retenir."
 
 # game/script Sex.rpy:3517
 translate french Les_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/script Sex.rpy:3528
 translate french Les_Cycle_69588b67:
@@ -3418,13 +3418,13 @@ translate french Les_After_aff80df7:
 translate french Les_After_686dd493:
 
     # ch_k "Hmm, that's kinda fun with an audience. . ."
-    ch_k "Hmm, that's kinda fun with an audience. . ."
+    ch_k "Hmm, c'est plutôt amusant avec un public..."
 
 # game/script Sex.rpy:3565
 translate french Les_After_7cf026f8:
 
     # ch_e "I do enjoy an audience. . ."
-    ch_e "I do enjoy an audience. . ."
+    ch_e "J'aime bien avoir un public..."
 
 # game/script Sex.rpy:3567
 translate french Les_After_a365ab08:
@@ -3436,7 +3436,7 @@ translate french Les_After_a365ab08:
 translate french Les_After_249ba8b3:
 
     # ch_l "I enjoyed the audience. . ."
-    ch_l "I enjoyed the audience. . ."
+    ch_l "J'ai apprécié le public..."
 
 # game/script Sex.rpy:3574
 translate french Les_After_aff80df7_1:
@@ -3448,13 +3448,13 @@ translate french Les_After_aff80df7_1:
 translate french Les_After_686dd493_1:
 
     # ch_k "Hmm, that's kinda fun with an audience. . ."
-    ch_k "Hmm, that's kinda fun with an audience. . ."
+    ch_k "Hmm, c'est plutôt amusant avec un public..."
 
 # game/script Sex.rpy:3578
 translate french Les_After_7cf026f8_1:
 
     # ch_e "I do enjoy an audience. . ."
-    ch_e "I do enjoy an audience. . ."
+    ch_e "J'aime bien avoir un public..."
 
 # game/script Sex.rpy:3580
 translate french Les_After_a365ab08_1:
@@ -3466,19 +3466,19 @@ translate french Les_After_a365ab08_1:
 translate french Les_After_249ba8b3_1:
 
     # ch_l "I enjoyed the audience. . ."
-    ch_l "I enjoyed the audience. . ."
+    ch_l "J'ai apprécié le public..."
 
 # game/script Sex.rpy:3596
 translate french Post_Les_Dialog_d8432c96:
 
     # ch_r "That was nice. . ."
-    ch_r "That was nice. . ."
+    ch_r "C'était bien..."
 
 # game/script Sex.rpy:3598
 translate french Post_Les_Dialog_711d0a37:
 
     # ch_k "That was fun. . ."
-    ch_k "That was fun. . ."
+    ch_k "C'était amusant..."
 
 # game/script Sex.rpy:3600
 translate french Post_Les_Dialog_ca8a6a9c:
@@ -3490,7 +3490,7 @@ translate french Post_Les_Dialog_ca8a6a9c:
 translate french Post_Les_Dialog_d470e717:
 
     # ch_l "That was fun. . ."
-    ch_l "That was fun. . ."
+    ch_l "C'était amusant..."
 
 # game/script Sex.rpy:3607
 translate french Post_Les_Dialog_bd16c0d3:
@@ -3550,7 +3550,7 @@ translate french Post_Les_Dialog_9169434f:
 translate french Post_Les_Dialog_e2fbd3ad:
 
     # ch_k "That was. . . interesting. . ."
-    ch_k "That was. . . interesting. . ."
+    ch_k "C'était.... intéressant..."
 
 # game/script Sex.rpy:3634
 translate french Post_Les_Dialog_6707f015:
@@ -3562,7 +3562,7 @@ translate french Post_Les_Dialog_6707f015:
 translate french Post_Les_Dialog_d81405b5:
 
     # ch_l "That was ok. . ."
-    ch_l "That was ok. . ."
+    ch_l "C'était bien..."
 
 # game/script Sex.rpy:3642
 translate french Post_Les_Dialog_c74852a4:
@@ -3676,7 +3676,7 @@ translate french Les_Response_e6f43195:
 translate french Les_Response_63848e17:
 
     # ch_l "I'm in."
-    ch_l "I'm in."
+    ch_l "J'en suis."
 
 # game/script Sex.rpy:3761
 translate french Les_Response_cdd03ae6:
@@ -3778,7 +3778,7 @@ translate french Les_Response_008e0d2c:
 translate french Les_Response_eb98d27c:
 
     # ch_r "Well, I suppose."
-    ch_r "Well, I suppose."
+    ch_r "Eh bien, je suppose."
 
 # game/script Sex.rpy:3808
 translate french Les_Response_3d27dd10:
@@ -3808,13 +3808,13 @@ translate french Les_Response_8558e8c1:
 translate french Les_Response_3ff84281:
 
     # ch_k "Probably not."
-    ch_k "Probably not."
+    ch_k "Probablement pas."
 
 # game/script Sex.rpy:3821
 translate french Les_Response_8420cd1e:
 
     # ch_e "Probably not."
-    ch_e "Probably not."
+    ch_e "Probablement pas."
 
 # game/script Sex.rpy:3823
 translate french Les_Response_79fa6214:
@@ -3838,7 +3838,7 @@ translate french Les_Response_38102fde:
 translate french Les_Response_e6a50449:
 
     # ch_e "Oh, fine."
-    ch_e "Oh, fine."
+    ch_e "Oh, très bien."
 
 # game/script Sex.rpy:3834
 translate french Les_Response_f258f724:
@@ -3868,7 +3868,7 @@ translate french Les_Response_b499dd5f:
 translate french Les_Response_d3843774:
 
     # ch_l "Don't push me."
-    ch_l "Don't push me."
+    ch_l "Ne me cherche pas."
 
 # game/script Sex.rpy:3855
 translate french Les_Response_8bdd8886:
@@ -4000,7 +4000,7 @@ translate french Les_Response_e3649271:
 translate french Les_Response_b238c4e2:
 
     # ch_l "I guess so."
-    ch_l "I guess so."
+    ch_l "J'imagine."
 
 # game/script Sex.rpy:3918
 translate french Les_Response_c0b80434:
@@ -4222,7 +4222,7 @@ translate french strings:
 
     # game/script Sex.rpy:188
     old "No thanks, I've got this in hand."
-    new "No thanks, I've got this in hand."
+    new "Non merci, j'ai ça en main."
 
     # game/script Sex.rpy:188
     old "Hmm, sounds like a plan."
@@ -4270,7 +4270,7 @@ translate french strings:
 
     # game/script Sex.rpy:603
     old "You kiss deeply and passionately."
-    new "Vous vous embrassez profondément et passionnément."
+    new "Vous t'embrassez profondément et passionnément."
 
     # game/script Sex.rpy:608
     old "She's really getting into it."
@@ -4394,11 +4394,11 @@ translate french strings:
 
     # game/script Sex.rpy:1191
     old "You begin to massage "
-    new "You begin to massage "
+    new "Tu commences à masser "
 
     # game/script Sex.rpy:1225
     old "You continue to massage "
-    new "You continue to massage "
+    new "Tu continues à masser "
 
     # game/script Sex.rpy:1258
     old "You slide your hands around and grasp "
@@ -4446,35 +4446,35 @@ translate french strings:
 
     # game/script Sex.rpy:1474
     old "You begin to rub "
-    new "You begin to rub "
+    new "Tu commences à frotter "
 
     # game/script Sex.rpy:1500
     old ". She wriggles a little in contentment."
-    new ". She wriggles a little in contentment."
+    new ". Elle se tortille un peu de contentement."
 
     # game/script Sex.rpy:1500
     old ". She lets out a little hum."
-    new ". She lets out a little hum."
+    new ". Elle laisse échapper un petit bourdonnement."
 
     # game/script Sex.rpy:1500
     old ". She really seems to enjoy it."
-    new ". She really seems to enjoy it."
+    new ". Elle semble vraiment l'apprécier."
 
     # game/script Sex.rpy:1500
     old ". She seems comfortable with this."
-    new ". She seems comfortable with this."
+    new ". Elle semble à l'aise avec cela."
 
     # game/script Sex.rpy:1500
     old ". She lets out a small purr of pleasure."
-    new ". She lets out a small purr of pleasure."
+    new ". Elle laisse échapper un petit ronronnement de plaisir."
 
     # game/script Sex.rpy:1520
     old ". She stiffens a bit, but settles back into it."
-    new ". She stiffens a bit, but settles back into it."
+    new ". Elle se raidit un peu, mais s'y installe à nouveau."
 
     # game/script Sex.rpy:1520
     old ". She doesn't seem to enjoy it."
-    new ". She doesn't seem to enjoy it."
+    new ". Elle ne semble pas l'apprécier."
 
     # game/script Sex.rpy:1520
     old ". She doesn't seem comfortable with this."
@@ -4482,7 +4482,7 @@ translate french strings:
 
     # game/script Sex.rpy:1520
     old ". She lets out a small tsk of irritation."
-    new ". She lets out a small tsk of irritation."
+    new ". Elle laisse échapper une petite pointe d'irritation."
 
     # game/script Sex.rpy:1530
     old "Sorry, yeah"
@@ -4606,7 +4606,7 @@ translate french strings:
 
     # game/script Sex.rpy:3021
     old "You want me to get it on with "
-    new "You want me to get it on with "
+    new "Tu veux que je joue avec "
 
     # game/script Sex.rpy:3021
     old "?"
@@ -4618,7 +4618,7 @@ translate french strings:
 
     # game/script Sex.rpy:3057
     old "Heh, ok, fine."
-    new "Heh, ok, fine."
+    new "Oui, ok, c'est bon."
 
     # game/script Sex.rpy:3090
     old "You look like you might be into it. . ."
@@ -4670,5 +4670,9 @@ translate french strings:
 
     # game/script Sex.rpy:4060
     old "You return to what you were doing."
-    new "You return to what you were doing."
+    new "Tu retournes faire ce que tu faisais."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

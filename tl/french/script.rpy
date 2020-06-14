@@ -52,7 +52,7 @@ translate french VersionNumber_28fb1155:
 translate french VersionNumber_62965ab2:
 
     # "Let me know if there are any clothing options behaving differently than expected, and stats that seem out of place,"
-    "Faites-moi savoir si certaines options vestimentaires se comportent différemment de ce qui est prévu et si les statistiques ne semblent pas à leur place,"
+    "Fais-moi savoir si certaines options vestimentaires se comportent différemment de ce qui est prévu et si les statistiques ne semblent pas à leur place,"
 
 # game/script.rpy:848
 translate french VersionNumber_f3a04bc7:
@@ -100,7 +100,7 @@ translate french VersionNumber_328578f1_1:
 translate french VersionNumber_7fe7ed08:
 
     # "You wake up in your room, you had a weird dream, apparently."
-    "Vous vous réveillez dans ton chambre, tu as fait un rêve bizarre, apparemment."
+    "Vous vous réveillez dans ta chambre, tu as fait un rêve bizarre, apparemment."
 
 translate french strings:
 

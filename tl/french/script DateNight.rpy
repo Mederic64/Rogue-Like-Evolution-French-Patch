@@ -574,7 +574,7 @@ translate french Date_Ask_ad129f3e:
 translate french Date_Ask_03acea1d:
 
     # ch_e "Yes, see you then."
-    ch_e "Yes, see you then."
+    ch_e "Oui, à plus tard."
 
 # game/script DateNight.rpy:313
 translate french Date_Ask_3b1158f3:
@@ -604,7 +604,7 @@ translate french Date_Stood_Up_4ca1af30:
 translate french Date_Stood_Up_e654ba5c:
 
     # ch_k "Hey, what gives? You didn't show up for our date!"
-    ch_k "Hey, what gives? You didn't show up for our date!"
+    ch_k "Hé, alors ? Tu n'es pas venu à notre rendez-vous !"
 
 # game/script DateNight.rpy:334
 translate french Date_Stood_Up_0cffc775:
@@ -742,7 +742,7 @@ translate french Date_Stood_Up_5ec7113d:
 translate french Date_Stood_Up_13e37b2d:
 
     # ch_l "You're in the hole on this one."
-    ch_l "You're in the hole on this one."
+    ch_l "Tu es dans le trou sur ce coup-là."
 
 # game/script DateNight.rpy:405
 translate french Date_Stood_Up_59ea693d:
@@ -1330,7 +1330,7 @@ translate french Date_Crossed_79eac636:
 translate french Date_Crossed_845e3e48:
 
     # "[LauraX.Name] walks off."
-    "[LauraX.Name] walks off."
+    "[LauraX.Name] s'en va."
 
 # game/script DateNight.rpy:808
 translate french Date_Crossed_c3c8a9bc_1:
@@ -1390,7 +1390,7 @@ translate french Date_Crossed_ec1b5e2e:
 translate french Date_Crossed_af0c15a5:
 
     # ch_l "Almost seems like you did that on purpose."
-    ch_l "Almost seems like you did that on purpose."
+    ch_l "On dirait presque que tu l'as fait exprès."
 
 # game/script DateNight.rpy:890
 translate french Date_Crossed_0d778e25:
@@ -1408,7 +1408,7 @@ translate french Date_Crossed_afbfb84f:
 translate french Date_Crossed_0a2460ee:
 
     # ch_e "Alright, I'm in"
-    ch_e "Alright, I'm in"
+    ch_e "Très bien, j'en suis"
 
 # game/script DateNight.rpy:896
 translate french Date_Crossed_def6906f:
@@ -1504,7 +1504,7 @@ translate french Date_Dinner_8163586f:
 translate french Date_Dinner_770ded70:
 
     # "After a bit, the waitress brings you your meals."
-    "After a bit, the waitress brings you your meals."
+    "Au bout d'un moment, la serveuse vous apporte vos repas."
 
 # game/script DateNight.rpy:1001
 translate french Date_Dinner_fbde5ef7:
@@ -1804,7 +1804,7 @@ translate french Dinner_Sex_3c429df0:
 translate french Dinner_Sex_fff48f32:
 
     # "Halfway through the meal, [Girl.Name] gets a sly look on her face, then knocks her fork off the table."
-    "Halfway through the meal, [Girl.Name] gets a sly look on her face, then knocks her fork off the table."
+    "A la moitié du repas, [Girl.Petname] a un regard sournois, puis fait tomber sa fourchette de la table."
 
 # game/script DateNight.rpy:1390
 translate french Dinner_Sex_ac380917:
@@ -2116,7 +2116,7 @@ translate french Dinner_Sex_53b6fe09:
 translate french Dinner_Sex_cc667aea:
 
     # "Halfway through the meal, [Girl.Name] gets a sly look on her face, then shifts a bit lower in her seat."
-    "Halfway through the meal, [Girl.Name] gets a sly look on her face, then shifts a bit lower in her seat."
+    "A la moitié du repas, [Girl.Petname] a un regard sournois sur son visage, puis se déplace un peu plus bas sur son siège."
 
 # game/script DateNight.rpy:1568
 translate french Dinner_Sex_eeb46bf2:
@@ -2176,7 +2176,7 @@ translate french Date_Movies_1494b549:
 translate french Date_Movies_d2609c1e:
 
     # ch_k "Aw, [KittyX.Petname]. Let's see the drama."
-    ch_k "Aw, [KittyX.Petname]. Let's see the drama."
+    ch_k "Aw, [KittyX.Petname]. Voyons le drame."
 
 # game/script DateNight.rpy:1662
 translate french Date_Movies_27ac074b:
@@ -2200,7 +2200,7 @@ translate french Date_Movies_838770bf:
 translate french Date_Movies_28802c22:
 
     # ch_k "Aw, how cuuuute!"
-    ch_k "Aw, how cuuuute!"
+    ch_k "Aw, c'est trop mignoon !"
 
 # game/script DateNight.rpy:1692
 translate french Date_Movies_6b039491:
@@ -2224,7 +2224,7 @@ translate french Date_Movies_1f65ea68:
 translate french Date_Movies_5a5e90f7:
 
     # ch_k "Action movies are kind of fun."
-    ch_k "Action movies are kind of fun."
+    ch_k "Les films d'action sont plutôt amusants."
 
 # game/script DateNight.rpy:1717
 translate french Date_Movies_30886a4e:
@@ -2386,7 +2386,7 @@ translate french Movie_Sex_f7cf768e:
 translate french Movie_Sex_e907f9d8:
 
     # "As you make out, [Girl.Name] reaches down and undoes your fly. She hikes her skirt up a bit and shifts into your lap."
-    "Pendant que vous vous embrassez, [Girl.Name] passe sa main sur ton entrejambe et ouvre ta braguette. Elle relève un peu sa jupe et se glisse sur tes genoux."
+    "Pendant que vous t'embrassez, [Girl.Name] passe sa main sur ton entrejambe et ouvre ta braguette. Elle relève un peu sa jupe et se glisse sur tes genoux."
 
 # game/script DateNight.rpy:1933
 translate french Movie_Sex_eac687e2:
@@ -2422,7 +2422,7 @@ translate french Movie_Sex_9a623f5f:
 translate french Movie_Sex_9f6adfdc:
 
     # "[Previous.Name] also leans over and toys with [Girl.Name]'s pussy."
-    "[Previous.Name] also leans over and toys with [Girl.Name]'s pussy."
+    "[Previous.Name] se penche aussi et joue avec la chatte de [Previous.Name]."
 
 # game/script DateNight.rpy:1949
 translate french Movie_Sex_1684ee91:
@@ -2452,13 +2452,13 @@ translate french Movie_Sex_293fb56f:
 translate french Movie_Sex_e8b65104:
 
     # "After several minutes of this, she pulls out and shifts back into her seat, finishing you off with her hand."
-    "After several minutes of this, she pulls out and shifts back into her seat, finishing you off with her hand."
+    "Après quelques minutes, elle se retire et retourne à son siège, te faisant jouir avec sa main."
 
 # game/script DateNight.rpy:1961
 translate french Movie_Sex_edd96a0e:
 
     # "You cum into the popcorn bucket, which she and [Previous.Name] then finish off together."
-    "You cum into the popcorn bucket, which she and [Previous.Name] then finish off together."
+    "Tu éjacules dans le seau à pop-corn, qu'elle et [Previous.Name] terminent ensuite ensemble."
 
 # game/script DateNight.rpy:1963
 translate french Movie_Sex_5438e3f6:
@@ -2512,7 +2512,7 @@ translate french Movie_Sex_f7cf768e_1:
 translate french Movie_Sex_e907f9d8_1:
 
     # "As you make out, [Girl.Name] reaches down and undoes your fly. She hikes her skirt up a bit and shifts into your lap."
-    "Pendant que vous vous embrassez, [Girl.Name] passe sa main sur ton entrejambe et ouvre ta braguette. Elle relève un peu sa jupe et se glisse sur tes genoux."
+    "Pendant que vous t'embrassez, [Girl.Name] passe sa main sur ton entrejambe et ouvre ta braguette. Elle relève un peu sa jupe et se glisse sur tes genoux."
 
 # game/script DateNight.rpy:1999
 translate french Movie_Sex_eac687e2_1:
@@ -2548,7 +2548,7 @@ translate french Movie_Sex_04613cfc:
 translate french Movie_Sex_9f6adfdc_1:
 
     # "[Previous.Name] also leans over and toys with [Girl.Name]'s pussy."
-    "[Previous.Name] also leans over and toys with [Girl.Name]'s pussy."
+    "[Previous.Name] se penche aussi et joue avec la chatte de [Previous.Name]."
 
 # game/script DateNight.rpy:2015
 translate french Movie_Sex_1684ee91_2:
@@ -2578,13 +2578,13 @@ translate french Movie_Sex_6df69fe1:
 translate french Movie_Sex_e8b65104_1:
 
     # "After several minutes of this, she pulls out and shifts back into her seat, finishing you off with her hand."
-    "After several minutes of this, she pulls out and shifts back into her seat, finishing you off with her hand."
+    "Après quelques minutes, elle se retire et retourne à son siège, te faisant jouir avec sa main."
 
 # game/script DateNight.rpy:2027
 translate french Movie_Sex_edd96a0e_1:
 
     # "You cum into the popcorn bucket, which she and [Previous.Name] then finish off together."
-    "You cum into the popcorn bucket, which she and [Previous.Name] then finish off together."
+    "Tu éjacules dans le seau à pop-corn, qu'elle et [Previous.Name] terminent ensuite ensemble."
 
 # game/script DateNight.rpy:2029
 translate french Movie_Sex_5438e3f6_1:
@@ -3334,7 +3334,7 @@ translate french Date_Paying_d8d27cf9:
 translate french Date_Paying_af0e93f0:
 
     # ch_r "Aw, poor baby."
-    ch_r "Aw, poor baby."
+    ch_r "Oh, pauvre bébé."
 
 # game/script DateNight.rpy:2687
 translate french Date_Paying_da882df0:
@@ -3424,7 +3424,7 @@ translate french Girl_Date_End_28088587:
 translate french Girl_Date_End_9b7c81ae:
 
     # ch_k "You[Girl.like]really need to get your shit together, [Player.Name]."
-    ch_k "You[Girl.like]really need to get your shit together, [Player.Name]."
+    ch_k "Il faut vraiment que tu te reprennes[Girl.like], [Player.Name]."
 
 # game/script DateNight.rpy:2854
 translate french Girl_Date_End_6d41023f:
@@ -3532,7 +3532,7 @@ translate french Girl_Date_End_11fa3fde:
 translate french Girl_Date_End_b36aa19d:
 
     # ch_k "Heh, I guess so. . ."
-    ch_k "Je suppose que oui..."
+    ch_k "Héhé, je suppose que oui..."
 
 # game/script DateNight.rpy:2911
 translate french Girl_Date_End_a82fc1b5:
@@ -3628,7 +3628,7 @@ translate french Girl_Date_End_02aba9f4:
 translate french Girl_Date_End_7c3ee935:
 
     # ch_k "That was nice, text you later!"
-    ch_k "That was nice, text you later!"
+    ch_k "C'était sympa, je t'enverrai un texto plus tard !"
 
 # game/script DateNight.rpy:2957
 translate french Girl_Date_End_f8b3b1ca:
@@ -3640,19 +3640,19 @@ translate french Girl_Date_End_f8b3b1ca:
 translate french Girl_Date_End_8a933f50:
 
     # ch_l "That was nice, talk to you later."
-    ch_l "That was nice, talk to you later."
+    ch_l "C'était sympa, on se parle plus tard."
 
 # game/script DateNight.rpy:2968
 translate french Girl_Date_End_ebc14b3d:
 
     # ch_r "Alright, [Girl.Petname]. I think you've earned it."
-    ch_r "Alright, [Girl.Petname]. I think you've earned it."
+    ch_r "Très bien, [Girl.Petname]. Je pense que tu l'as mérité."
 
 # game/script DateNight.rpy:2970
 translate french Girl_Date_End_b36aa19d_1:
 
     # ch_k "Heh, I guess so. . ."
-    ch_k "Je suppose que oui..."
+    ch_k "Héhé, je suppose que oui..."
 
 # game/script DateNight.rpy:2972
 translate french Girl_Date_End_9d29cf02:
@@ -3676,13 +3676,13 @@ translate french Girl_Date_End_b4322d9a_1:
 translate french Girl_Date_End_ebc14b3d_1:
 
     # ch_r "Alright, [Girl.Petname]. I think you've earned it."
-    ch_r "Alright, [Girl.Petname]. I think you've earned it."
+    ch_r "Très bien, [Girl.Petname]. Je pense que tu l'as mérité."
 
 # game/script DateNight.rpy:2986
 translate french Girl_Date_End_b36aa19d_2:
 
     # ch_k "Heh, I guess so. . ."
-    ch_k "Je suppose que oui..."
+    ch_k "Héhé, je suppose que oui..."
 
 # game/script DateNight.rpy:2988
 translate french Girl_Date_End_9d29cf02_1:
@@ -3826,7 +3826,7 @@ translate french Date_Ditched_45578ed1:
 translate french Date_Ditched_51d5197c:
 
     # ch_e "Yes, a pity."
-    ch_e "Yes, a pity."
+    ch_e "Oui, c'est dommage."
 
 # game/script DateNight.rpy:3086
 translate french Date_Ditched_e45def3a:
@@ -3880,7 +3880,7 @@ translate french Date_Ditched_dcba4a4a:
 translate french Date_Ditched_08b87cd3:
 
     # ch_e "Good night then."
-    ch_e "Good night then."
+    ch_e "Alors, bonne nuit."
 
 # game/script DateNight.rpy:3111
 translate french Date_Ditched_76b2aa4a_1:
@@ -3928,7 +3928,7 @@ translate french Date_Ditched_f6d283b4:
 translate french Date_Ditched_b5049a0d:
 
     # ch_e "You're excused!"
-    ch_e "You're excused!"
+    ch_e "Tu es excusé !"
 
 # game/script DateNight.rpy:3133
 translate french Date_Ditched_27c27b76:
@@ -4000,7 +4000,7 @@ translate french strings:
 
     # game/script DateNight.rpy:228
     old "Good, let's get going then."
-    new "Good, let's get going then."
+    new "Bien, allons-y alors."
 
     # game/script DateNight.rpy:228
     old "And I was thinking of asking. . ."
@@ -4020,7 +4020,7 @@ translate french strings:
 
     # game/script DateNight.rpy:234
     old "[LauraX.Name] along too."
-    new "[LauraX.Name] along too."
+    new "[LauraX.Name] aussi."
 
     # game/script DateNight.rpy:234
     old "Never mind, probably a bad idea."
@@ -4060,7 +4060,7 @@ translate french strings:
 
     # game/script DateNight.rpy:666
     old "Dinner and a movie."
-    new "Dinner and a movie."
+    new "Dîner et cinéma."
 
     # game/script DateNight.rpy:762
     old "I thought we could have fun together."
@@ -4176,7 +4176,7 @@ translate french strings:
 
     # game/script DateNight.rpy:1473
     old "She"
-    new "She"
+    new "Elle"
 
     # game/script DateNight.rpy:1615
     old "What would you like to see?"
@@ -4184,11 +4184,11 @@ translate french strings:
 
     # game/script DateNight.rpy:1615
     old "A romantic comedy."
-    new "A romantic comedy."
+    new "Une comédie romantique."
 
     # game/script DateNight.rpy:1615
     old "An action movie."
-    new "An action movie."
+    new "Un film d'action."
 
     # game/script DateNight.rpy:1615
     old "A horror movie."
@@ -4421,4 +4421,8 @@ translate french strings:
     # game/script DateNight.rpy:2901
     old "Ok, good night then."
     new "Ok, bonne nuit alors."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

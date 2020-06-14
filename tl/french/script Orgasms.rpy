@@ -10,7 +10,7 @@ translate french Player_Cumming_853ccaf4:
 translate french Player_Cumming_a598c82f:
 
     # "You cum in your pants."
-    "You cum in your pants."
+    "Tu jouis dans ton pantalon."
 
 # game/script Orgasms.rpy:90
 translate french Player_Cumming_853ccaf4_1:
@@ -34,7 +34,7 @@ translate french Player_Cumming_80db5993:
 translate french Player_Cumming_66b7833a:
 
     # ch_k "You[Girl.like]sure about that?"
-    ch_k "You[Girl.like]sure about that?"
+    ch_k "T'en es[Girl.like]sûr ?"
 
 # game/script Orgasms.rpy:113
 translate french Player_Cumming_456264dd:
@@ -46,7 +46,7 @@ translate french Player_Cumming_456264dd:
 translate french Player_Cumming_fce94ec4:
 
     # ch_l "You sure?"
-    ch_l "You sure?"
+    ch_l "Tu en es sûr ?"
 
 # game/script Orgasms.rpy:124
 translate french Player_Cumming_ab990b04:
@@ -148,7 +148,7 @@ translate french Player_Cumming_0ce25c2e:
 translate french Player_Cumming_ec511433:
 
     # ch_r "Well [Girl.Petname], what next then?"
-    ch_r "Well [Girl.Petname], what next then?"
+    ch_r "Eh bien [Girl.Petname], et ensuite ?"
 
 # game/script Orgasms.rpy:189
 translate french Player_Cumming_486cbe65:
@@ -160,7 +160,7 @@ translate french Player_Cumming_486cbe65:
 translate french Player_Cumming_a647fcba:
 
     # ch_e "Well [Girl.Petname], what next then?"
-    ch_e "Well [Girl.Petname], what next then?"
+    ch_e "Eh bien [Girl.Petname], et ensuite ?"
 
 # game/script Orgasms.rpy:193
 translate french Player_Cumming_7b0a303d:
@@ -202,7 +202,7 @@ translate french Girl_Warn_Her_e43282d6:
 translate french Girl_Warn_Her_a82f067f:
 
     # "She grins and pulls out with a pop, and begins to stroke you off."
-    "She grins and pulls out with a pop, and begins to stroke you off."
+    "Elle sourit et se retire d'un coup, et commence à te caresser."
 
 # game/script Orgasms.rpy:232
 translate french Girl_Warn_Her_8534ca42:
@@ -250,7 +250,7 @@ translate french Girl_Warn_Her_51fda37d:
 translate french Girl_Warn_Her_42fed51b:
 
     # "She smiles and speeds up her actions, causing you to erupt inside her."
-    "She smiles and speeds up her actions, causing you to erupt inside her."
+    "Elle sourit et accélère ses actions, ce qui te fait gicler en elle."
 
 # game/script Orgasms.rpy:271
 translate french Girl_Warn_Her_eeee99b8:
@@ -262,7 +262,7 @@ translate french Girl_Warn_Her_eeee99b8:
 translate french Girl_Warn_Her_42fed51b_1:
 
     # "She smiles and speeds up her actions, causing you to erupt inside her."
-    "She smiles and speeds up her actions, causing you to erupt inside her."
+    "Elle sourit et accélère ses actions, ce qui te fait gicler en elle."
 
 # game/script Orgasms.rpy:295
 translate french Girl_Warn_Her_eeee99b8_1:
@@ -316,7 +316,7 @@ translate french Girl_Warn_Her_51fda37d_1:
 translate french Girl_Warn_Her_a82f067f_1:
 
     # "She grins and pulls out with a pop, and begins to stroke you off."
-    "She grins and pulls out with a pop, and begins to stroke you off."
+    "Elle sourit et se retire d'un coup, et commence à te caresser."
 
 # game/script Orgasms.rpy:337
 translate french Girl_Warn_Her_a36ebec5_1:
@@ -364,19 +364,19 @@ translate french Girl_Warn_Her_dcff6166:
 translate french Girl_Warn_Her_93135e54:
 
     # "She gently pushes you back off of her."
-    "She gently pushes you back off of her."
+    "Elle te repousse doucement."
 
 # game/script Orgasms.rpy:376
 translate french Girl_Warn_Her_93135e54_1:
 
     # "She gently pushes you back off of her."
-    "She gently pushes you back off of her."
+    "Elle te repousse doucement."
 
 # game/script Orgasms.rpy:379
 translate french Girl_Warn_Her_93135e54_2:
 
     # "She gently pushes you back off of her."
-    "She gently pushes you back off of her."
+    "Elle te repousse doucement."
 
 # game/script Orgasms.rpy:389
 translate french Girl_Warn_Her_65a50063:
@@ -466,7 +466,7 @@ translate french Girl_In_Mouth_8f0daed3:
 translate french Girl_In_Mouth_b0f0ca60:
 
     # ch_r "That was real sweet, [Girl.Petname]."
-    ch_r "That was real sweet, [Girl.Petname]."
+    ch_r "C'était vraiment gentil, [Girl.Petname]."
 
 # game/script Orgasms.rpy:449
 translate french Girl_In_Mouth_b729074c:
@@ -508,13 +508,13 @@ translate french Girl_In_Mouth_aec556ae:
 translate french Girl_In_Mouth_0bd3774c:
 
     # ch_e "Your. . . flavor is growing on me, but perhaps some warning?"
-    ch_e "Your. . . flavor is growing on me, but perhaps some warning?"
+    ch_e "J'aime de plus en plus ton... goût, mais préviens peut-être avant ?"
 
 # game/script Orgasms.rpy:468
 translate french Girl_In_Mouth_df8ccb94:
 
     # ch_l "Your. . . flavor is. . . distinct, but maybe a heads up?"
-    ch_l "Your. . . flavor is. . . distinct, but maybe a heads up?"
+    ch_l "Je reconnais de plus en plus ton... goût, mais préviens-moi peut-être avant ?"
 
 # game/script Orgasms.rpy:477
 translate french Girl_In_Mouth_c00d7ddd:
@@ -532,7 +532,7 @@ translate french Girl_In_Mouth_0b32b359:
 translate french Girl_In_Mouth_9ac84f43:
 
     # ch_k "I'm not into that taste."
-    ch_k "I'm not into that taste."
+    ch_k "Ce n'est pas à mon goût."
 
 # game/script Orgasms.rpy:484
 translate french Girl_In_Mouth_4ccd8cfe:
@@ -562,7 +562,7 @@ translate french Girl_In_Mouth_e9f4aca8:
 translate french Girl_In_Mouth_6be773ba:
 
     # ch_k "You coulda warned me."
-    ch_k "You coulda warned me."
+    ch_k "Tu aurais pu m'avertir."
 
 # game/script Orgasms.rpy:507
 translate french Girl_In_Mouth_025c5d5d:
@@ -610,7 +610,7 @@ translate french Girl_In_Mouth_d078b3b3:
 translate french Girl_In_Mouth_fea64003:
 
     # ch_r "Aw, well a little warning wouldn't hurt, [Girl.Petname]."
-    ch_r "Aw, well a little warning wouldn't hurt, [Girl.Petname]."
+    ch_r "Un petit avertissement ne ferait pas de mal, [Girl.Petname]."
 
 # game/script Orgasms.rpy:544
 translate french Girl_In_Mouth_e826232e:
@@ -772,7 +772,7 @@ translate french Girl_In_Mouth_1e880b70:
 translate french Girl_In_Mouth_b0f0ca60_1:
 
     # ch_r "That was real sweet, [Girl.Petname]."
-    ch_r "That was real sweet, [Girl.Petname]."
+    ch_r "C'était vraiment gentil, [Girl.Petname]."
 
 # game/script Orgasms.rpy:648
 translate french Girl_In_Mouth_0d7b54f7:
@@ -1036,25 +1036,25 @@ translate french Girl_In_Mouth_4a710061:
 translate french Girl_In_Mouth_d2ddf6e9:
 
     # ch_l "You think I don't have a nose, [Girl.Petname]?"
-    ch_l "You think I don't have a nose, [Girl.Petname]?"
+    ch_l "Tu penses que je n'ai pas de nez, [Girl.Petname] ?"
 
 # game/script Orgasms.rpy:824
 translate french Girl_In_Mouth_ae0cfe60:
 
     # "She scowls at you, drops you cock and pulls back."
-    "She scowls at you, drops you cock and pulls back."
+    "Elle te regarde de travers, te lâche la bite et se retire."
 
 # game/script Orgasms.rpy:830
 translate french Girl_In_Mouth_89ba3764:
 
     # ch_r "Well if that's your attitude you can handle your own business."
-    ch_r "Well if that's your attitude you can handle your own business."
+    ch_r "Bon si tu le prends comme ça, tu peux te débrouiller."
 
 # game/script Orgasms.rpy:832
 translate french Girl_In_Mouth_69b4286d:
 
     # ch_k "You can handle it yourself then."
-    ch_k "You can handle it yourself then."
+    ch_k "Tu peux donc t'en occuper toi-même."
 
 # game/script Orgasms.rpy:834
 translate french Girl_In_Mouth_a962ffe9:
@@ -1156,7 +1156,7 @@ translate french Girl_In_Mouth_73bde0e4_2:
 translate french Girl_In_Mouth_cd3b9d28:
 
     # ch_l "That's. . . intense. . ."
-    ch_l "That's. . . intense. . ."
+    ch_l "C'est... intense..."
 
 # game/script Orgasms.rpy:909
 translate french Girl_Creampie_P_83a8a160:
@@ -1180,7 +1180,7 @@ translate french Girl_Creampie_P_61e80710:
 translate french Girl_Creampie_P_470ff736:
 
     # ch_r "Hey, a little warning next time, huh?"
-    ch_r "Hey, a little warning next time, huh?"
+    ch_r "Hé, un petit avertissement la prochaine fois, hein ?"
 
 # game/script Orgasms.rpy:924
 translate french Girl_Creampie_P_43c0f59f:
@@ -1228,7 +1228,7 @@ translate french Girl_Creampie_P_e4b46953:
 translate french Girl_Creampie_P_42fed51b:
 
     # "She smiles and speeds up her actions, causing you to erupt inside her."
-    "She smiles and speeds up her actions, causing you to erupt inside her."
+    "Elle sourit et accélère ses actions, ce qui te fait gicler en elle."
 
 # game/script Orgasms.rpy:945
 translate french Girl_Creampie_P_eeee99b8:
@@ -1270,13 +1270,13 @@ translate french Girl_Creampie_P_22e484f0:
 translate french Girl_Creampie_P_5f966df7:
 
     # ch_r "Thanks for the heads up *grunt* [Girl.Petname], but I'd rather you didn't."
-    ch_r "Thanks for the heads up *grunt* [Girl.Petname], but I'd rather you didn't."
+    ch_r "Merci de m'avoir prévenu *râle* [Girl.Petname], mais je préférerais que tu ne le fasses pas."
 
 # game/script Orgasms.rpy:971
 translate french Girl_Creampie_P_5b2f9df4:
 
     # ch_k "Thanks for the warning, but maybe not this time?"
-    ch_k "Thanks for the warning, but maybe not this time?"
+    ch_k "Merci pour l'avertissement, mais peut-être pas cette fois-ci ?"
 
 # game/script Orgasms.rpy:973
 translate french Girl_Creampie_P_b6e2e629:
@@ -1312,7 +1312,7 @@ translate french Girl_Creampie_A_8274d6aa:
 translate french Girl_Creampie_A_2c9daa10:
 
     # ch_r "Hey, warn a girl, huh?"
-    ch_r "Hey, warn a girl, huh?"
+    ch_r "Hé, préviens un peu, hein ?"
 
 # game/script Orgasms.rpy:1003
 translate french Girl_Creampie_A_08adfa1c:
@@ -1336,7 +1336,7 @@ translate french Girl_Creampie_A_84eb8c30:
 translate french Girl_Creampie_A_a0662a8d:
 
     # ch_e "No advanced warning, [Girl.Petname]?"
-    ch_e "No advanced warning, [Girl.Petname]?"
+    ch_e "Pas d'avertissement d'abord, [Girl.Petname] ?"
 
 # game/script Orgasms.rpy:1011
 translate french Girl_Creampie_A_3cfe36d4:
@@ -1348,7 +1348,7 @@ translate french Girl_Creampie_A_3cfe36d4:
 translate french Girl_Creampie_A_61f08092:
 
     # ch_l "No advanced warning, [Girl.Petname]?"
-    ch_l "No advanced warning, [Girl.Petname]?"
+    ch_l "Pas d'avertissement d'abord, [Girl.Petname] ?"
 
 # game/script Orgasms.rpy:1015
 translate french Girl_Creampie_A_30afa3bd:
@@ -1360,7 +1360,7 @@ translate french Girl_Creampie_A_30afa3bd:
 translate french Girl_Creampie_A_42fed51b:
 
     # "She smiles and speeds up her actions, causing you to erupt inside her."
-    "She smiles and speeds up her actions, causing you to erupt inside her."
+    "Elle sourit et accélère ses actions, ce qui te fait gicler en elle."
 
 # game/script Orgasms.rpy:1024
 translate french Girl_Creampie_A_eeee99b8:
@@ -1402,13 +1402,13 @@ translate french Girl_Creampie_A_d401ab1e:
 translate french Girl_Creampie_A_5f966df7:
 
     # ch_r "Thanks for the heads up *grunt* [Girl.Petname], but I'd rather you didn't."
-    ch_r "Thanks for the heads up *grunt* [Girl.Petname], but I'd rather you didn't."
+    ch_r "Merci de m'avoir prévenu *râle* [Girl.Petname], mais je préférerais que tu ne le fasses pas."
 
 # game/script Orgasms.rpy:1049
 translate french Girl_Creampie_A_5b2f9df4:
 
     # ch_k "Thanks for the warning, but maybe not this time?"
-    ch_k "Thanks for the warning, but maybe not this time?"
+    ch_k "Merci pour l'avertissement, mais peut-être pas cette fois-ci ?"
 
 # game/script Orgasms.rpy:1051
 translate french Girl_Creampie_A_b6e2e629:
@@ -1588,7 +1588,7 @@ translate french Girl_Cum_Outside_7785a9d2:
 translate french Girl_Cum_Outside_19c5e18b:
 
     # ch_k "Sorry, that's just[Girl.like]sooooo good."
-    ch_k "Sorry, that's just[Girl.like]sooooo good."
+    ch_k "Désolé, c'est juste [Girl.like]siiii bon."
 
 # game/script Orgasms.rpy:1176
 translate french Girl_Cum_Outside_500004eb:
@@ -1636,7 +1636,7 @@ translate french Girl_Cum_Outside_8d61663d:
 translate french Girl_Cum_Outside_0f98ab71:
 
     # "You pick up the pace and with a grunt you spray all over her stomach."
-    "You pick up the pace and with a grunt you spray all over her stomach."
+    "Tu accélères le rythme et, d'un grognement, tu gicles tout sur son estomac."
 
 # game/script Orgasms.rpy:1206
 translate french Girl_Cum_Outside_73f2945c:
@@ -1654,7 +1654,7 @@ translate french Girl_Cum_Outside_7785a9d2_1:
 translate french Girl_Cum_Outside_19c5e18b_1:
 
     # ch_k "Sorry, that's just[Girl.like]sooooo good."
-    ch_k "Sorry, that's just[Girl.like]sooooo good."
+    ch_k "Désolé, c'est juste [Girl.like]siiii bon."
 
 # game/script Orgasms.rpy:1215
 translate french Girl_Cum_Outside_500004eb_1:
@@ -1672,13 +1672,13 @@ translate french Girl_Cum_Outside_69171948_1:
 translate french Girl_Cum_Outside_4c71049d:
 
     # ch_r "What a mess. . ."
-    ch_r "What a mess. . ."
+    ch_r "Hmm... il y en a partout..."
 
 # game/script Orgasms.rpy:1228
 translate french Girl_Cum_Outside_2b479889:
 
     # ch_k "Mmmm, all over the place. . ."
-    ch_k "Mmmm, all over the place. . ."
+    ch_k "Mmmm, partout..."
 
 # game/script Orgasms.rpy:1230
 translate french Girl_Cum_Outside_dd0638f4:
@@ -1690,7 +1690,7 @@ translate french Girl_Cum_Outside_dd0638f4:
 translate french Girl_Cum_Outside_12c6d3d5:
 
     # ch_l "Hmm. . . what a mess. . ."
-    ch_l "Hmm. . . what a mess. . ."
+    ch_l "Hmm... il y en a partout..."
 
 # game/script Orgasms.rpy:1249
 translate french Girl_SpunkBelly_3d7f7061:
@@ -1720,7 +1720,7 @@ translate french Girl_SpunkBelly_7785a9d2:
 translate french Girl_SpunkBelly_19c5e18b:
 
     # ch_k "Sorry, that's just[Girl.like]sooooo good."
-    ch_k "Sorry, that's just[Girl.like]sooooo good."
+    ch_k "Désolé, c'est juste [Girl.like]siiii bon."
 
 # game/script Orgasms.rpy:1262
 translate french Girl_SpunkBelly_500004eb:
@@ -1750,7 +1750,7 @@ translate french Girl_SpunkBelly_8d61663d:
 translate french Girl_SpunkBelly_0f98ab71:
 
     # "You pick up the pace and with a grunt you spray all over her stomach."
-    "You pick up the pace and with a grunt you spray all over her stomach."
+    "Tu accélères le rythme et, d'un grognement, tu gicles tout sur son estomac."
 
 # game/script Orgasms.rpy:1282
 translate french Girl_SpunkBelly_73f2945c:
@@ -1768,7 +1768,7 @@ translate french Girl_SpunkBelly_7785a9d2_1:
 translate french Girl_SpunkBelly_19c5e18b_1:
 
     # ch_k "Sorry, that's just[Girl.like]sooooo good."
-    ch_k "Sorry, that's just[Girl.like]sooooo good."
+    ch_k "Désolé, c'est juste [Girl.like]siiii bon."
 
 # game/script Orgasms.rpy:1291
 translate french Girl_SpunkBelly_500004eb_1:
@@ -1786,13 +1786,13 @@ translate french Girl_SpunkBelly_69171948_1:
 translate french Girl_SpunkBelly_4c71049d:
 
     # ch_r "What a mess. . ."
-    ch_r "What a mess. . ."
+    ch_r "Hmm... il y en a partout..."
 
 # game/script Orgasms.rpy:1304
 translate french Girl_SpunkBelly_2b479889:
 
     # ch_k "Mmmm, all over the place. . ."
-    ch_k "Mmmm, all over the place. . ."
+    ch_k "Mmmm, partout..."
 
 # game/script Orgasms.rpy:1306
 translate french Girl_SpunkBelly_dd0638f4:
@@ -1804,7 +1804,7 @@ translate french Girl_SpunkBelly_dd0638f4:
 translate french Girl_SpunkBelly_12c6d3d5:
 
     # ch_l "Hmm. . . what a mess. . ."
-    ch_l "Hmm. . . what a mess. . ."
+    ch_l "Hmm... il y en a partout..."
 
 # game/script Orgasms.rpy:1317
 translate french Girl_Handy_Finish_fe8f56b3:
@@ -1816,7 +1816,7 @@ translate french Girl_Handy_Finish_fe8f56b3:
 translate french Girl_Handy_Finish_a82f067f:
 
     # "She grins and pulls out with a pop, and begins to stroke you off."
-    "She grins and pulls out with a pop, and begins to stroke you off."
+    "Elle sourit et se retire d'un coup, et commence à te caresser."
 
 # game/script Orgasms.rpy:1324
 translate french Girl_Handy_Finish_a84cfc7b:
@@ -1852,7 +1852,7 @@ translate french Girl_Handy_Finish_519c9093:
 translate french Girl_Handy_Finish_eb30bc08:
 
     # ch_k "Hmm, sticky."
-    ch_k "Hmm, sticky."
+    ch_k "Hmm, collant."
 
 # game/script Orgasms.rpy:1349
 translate french Girl_Handy_Finish_c6e51a2d:
@@ -2122,7 +2122,7 @@ translate french Girl_Cumming_b032f1d0:
 translate french Girl_Cumming_77951cc5:
 
     # "She drifts off into incoherent moans."
-    "She drifts off into incoherent moans."
+    "Elle dérive dans des gémissements incohérents."
 
 # game/script Orgasms.rpy:1662
 translate french Girl_Cumming_9bf6f917:
@@ -2134,7 +2134,7 @@ translate french Girl_Cumming_9bf6f917:
 translate french Girl_Cumming_89ba3764:
 
     # ch_r "Well if that's your attitude you can handle your own business."
-    ch_r "Well if that's your attitude you can handle your own business."
+    ch_r "Bon si tu le prends comme ça, tu peux te débrouiller."
 
 # game/script Orgasms.rpy:1666
 translate french Girl_Cumming_83b4a516:
@@ -2158,13 +2158,13 @@ translate french Girl_Cumming_df9fe9da:
 translate french Girl_Cumming_77951cc5_1:
 
     # "She drifts off into incoherent moans."
-    "She drifts off into incoherent moans."
+    "Elle dérive dans des gémissements incohérents."
 
 # game/script Orgasms.rpy:1693
 translate french Girl_Cumming_95449e0e:
 
     # "[Girl.Name] begins to dance again."
-    "[Girl.Name] begins to dance again."
+    "[Girl.Name] se remet à danser."
 
 # game/script Orgasms.rpy:1747
 translate french Girl_Cleanup_c9e25b62:
@@ -2176,7 +2176,7 @@ translate french Girl_Cleanup_c9e25b62:
 translate french Girl_Cleanup_1b771e07:
 
     # ch_r "Heh, ok, [Girl.Petname]."
-    ch_r "Heh, ok, [Girl.Petname]."
+    ch_r "Héhé, ok, [Girl.Petname]."
 
 # game/script Orgasms.rpy:1762
 translate french Girl_Cleanup_1a797261:
@@ -2224,13 +2224,13 @@ translate french Girl_Cleanup_61fe049c:
 translate french Girl_Cleanup_cfc7bec5:
 
     # ch_r "Ooh, I like where your head is at. . "
-    ch_r "Ooh, I like where your head is at. . "
+    ch_r "Ooh, j'aime bien ta façon de penser... "
 
 # game/script Orgasms.rpy:1787
 translate french Girl_Cleanup_19262090:
 
     # ch_k "Ooh, I like where your head is at. . "
-    ch_k "Ooh, I like where your head is at. . "
+    ch_k "Ooh, j'aime bien ta façon de penser... "
 
 # game/script Orgasms.rpy:1789
 translate french Girl_Cleanup_9e767169:
@@ -2320,7 +2320,7 @@ translate french Girl_Cleanup_f258f724:
 translate french Girl_Cleanup_4c9d5587:
 
     # ch_r "Seriously, stop bugging me about this."
-    ch_r "Seriously, stop bugging me about this."
+    ch_r "Sérieusement, arrête de m'embêter avec ça."
 
 # game/script Orgasms.rpy:1841
 translate french Girl_Cleanup_19a949f2:
@@ -2338,7 +2338,7 @@ translate french Girl_Cleanup_9087dd55:
 translate french Girl_Cleanup_85fde264:
 
     # ch_l "I'm in no mood for this."
-    ch_l "I'm in no mood for this."
+    ch_l "Je ne suis pas d'humeur pour ça."
 
 # game/script Orgasms.rpy:1849
 translate french Girl_Cleanup_9b55ac7e:
@@ -2356,7 +2356,7 @@ translate french Girl_Cleanup_2ff74b70:
 translate french Girl_Cleanup_6cbdb5c9:
 
     # ch_e "You're persistant, but no."
-    ch_e "You're persistant, but no."
+    ch_e "Tu es persistant, mais non."
 
 # game/script Orgasms.rpy:1855
 translate french Girl_Cleanup_7ebc986d:
@@ -2392,7 +2392,7 @@ translate french Girl_Cleanup_dc3f08d6:
 translate french Girl_Cleanup_e3069e08:
 
     # ch_r "Alright, fine."
-    ch_r "Alright, fine."
+    ch_r "D'accord, très bien."
 
 # game/script Orgasms.rpy:1877
 translate french Girl_Cleanup_2e821821:
@@ -2404,7 +2404,7 @@ translate french Girl_Cleanup_2e821821:
 translate french Girl_Cleanup_a4b06881:
 
     # ch_e "Well then."
-    ch_e "Well then."
+    ch_e "Bien."
 
 # game/script Orgasms.rpy:1881
 translate french Girl_Cleanup_f258f724_1:
@@ -2440,19 +2440,19 @@ translate french Girl_Cleanup_05f51fda:
 translate french Girl_Cleanup_4c9d5587_1:
 
     # ch_r "Seriously, stop bugging me about this."
-    ch_r "Seriously, stop bugging me about this."
+    ch_r "Sérieusement, arrête de m'embêter avec ça."
 
 # game/script Orgasms.rpy:1904
 translate french Girl_Cleanup_ff87bcce:
 
     # ch_k "Seriously, stop bugging me about this."
-    ch_k "Seriously, stop bugging me about this."
+    ch_k "Sérieusement, arrête de m'embêter avec ça."
 
 # game/script Orgasms.rpy:1906
 translate french Girl_Cleanup_e2a080b6:
 
     # ch_e "That's enough of that."
-    ch_e "That's enough of that."
+    ch_e "C'est assez."
 
 # game/script Orgasms.rpy:1908
 translate french Girl_Cleanup_b8cecb3f:
@@ -2470,13 +2470,13 @@ translate french Girl_Cleanup_47bb7528:
 translate french Girl_Cleanup_18fe477b:
 
     # ch_k "That's a bit much."
-    ch_k "That's a bit much."
+    ch_k "C'est un peu trop."
 
 # game/script Orgasms.rpy:1918
 translate french Girl_Cleanup_29c8f386:
 
     # ch_e "Don't push me."
-    ch_e "Don't push me."
+    ch_e "Ne me cherche pas."
 
 # game/script Orgasms.rpy:1920
 translate french Girl_Cleanup_67520282:
@@ -2512,7 +2512,7 @@ translate french Girl_Cleanup_b0bdf774:
 translate french Girl_Cleanup_42647278:
 
     # ch_r "Alright then. . ."
-    ch_r "Alright then. . ."
+    ch_r "Très bien alors..."
 
 # game/script Orgasms.rpy:1937
 translate french Girl_Cleanup_dafcc38f:
@@ -2674,7 +2674,7 @@ translate french Girl_Cleanup_eff17954:
 translate french Girl_Cleanup_91676388:
 
     # ch_l "I could. . ."
-    ch_l "I could. . ."
+    ch_l "Je pourrais..."
 
 # game/script Orgasms.rpy:2033
 translate french Girl_Cleanup_dcaca13f:
@@ -2686,7 +2686,7 @@ translate french Girl_Cleanup_dcaca13f:
 translate french Girl_Cleanup_de1e089a:
 
     # ch_r "If that's what you really want. . ."
-    ch_r "If that's what you really want. . ."
+    ch_r "Si c'est vraiment ce que tu veux..."
 
 # game/script Orgasms.rpy:2048
 translate french Girl_Cleanup_c9313c81:
@@ -2770,7 +2770,7 @@ translate french Girl_Cleanup_267ec46a:
 translate french Girl_Cleanup_82c55651:
 
     # ch_e "If I must. . ."
-    ch_e "If I must. . ."
+    ch_e "Si je dois..."
 
 # game/script Orgasms.rpy:2088
 translate french Girl_Cleanup_6ba5b967:
@@ -3052,7 +3052,7 @@ translate french Partner_CGLine_0b5867cd:
 translate french Partner_CGLine_736d8e1f:
 
     # ch_r "You want me ta clean up your mess?"
-    ch_r "You want me ta clean up your mess?"
+    ch_r "Tu veux que je nettoie ton foutoir ?"
 
 # game/script Orgasms.rpy:2440
 translate french Partner_CGLine_5e0618a8_1:
@@ -3082,7 +3082,7 @@ translate french Partner_CGLine_0443e62e:
 translate french Partner_CGLine_f1ba1439:
 
     # ch_r "If you say so."
-    ch_r "Si vous le dites."
+    ch_r "Si tu le dis."
 
 # game/script Orgasms.rpy:2451
 translate french Partner_CGLine_22a84a68:
@@ -3364,7 +3364,7 @@ translate french Partner_CGLine_26790abf:
 translate french Partner_CGLine_cf9a4e62:
 
     # ch_l "That was easy."
-    ch_l "That was easy."
+    ch_l "C'était facile."
 
 # game/script Orgasms.rpy:2593
 translate french Partner_Clean_Girl_4ed1d9ab:
@@ -3598,7 +3598,7 @@ translate french strings:
 
     # game/script Orgasms.rpy:41
     old "As you thrust into her, you feel about to blow. . ."
-    new "As you thrust into her, you feel about to blow. . ."
+    new "En la pénétrant, tu sens que tu vas gicler..."
 
     # game/script Orgasms.rpy:43
     old "As you grind into her, you feel about to blow. . ."
@@ -3674,7 +3674,7 @@ translate french strings:
 
     # game/script Orgasms.rpy:756
     old "Give it a try, you might like it."
-    new "Give it a try, you might like it."
+    new "Essaye-le, il te plaira peut-être."
 
     # game/script Orgasms.rpy:756
     old "Seriously, put it in your mouth."
@@ -3791,4 +3791,8 @@ translate french strings:
     # game/script Orgasms.rpy:2323
     old "Yeah, go ahead."
     new "Yeah, go ahead."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

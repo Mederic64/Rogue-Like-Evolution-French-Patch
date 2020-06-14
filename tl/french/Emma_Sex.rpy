@@ -46,13 +46,13 @@ translate french Emma_SexMenu_4739546b:
 translate french Emma_SexMenu_83fc6de9:
 
     # "You're a little out of juice at the moment, you might want to wait a bit."
-    "You're a little out of juice at the moment, you might want to wait a bit."
+    "Tu es un peu à court de jus en ce moment, tu devrais peut-être attendre un peu."
 
 # game/Emma_Sex.rpy:89
 translate french Emma_SexMenu_9cb2de26:
 
     # "You're practically buzzing, the slightest breeze could set you off."
-    "You're practically buzzing, the slightest breeze could set you off."
+    "Tu es surexcité, la moindre brise pourrait te faire exploser."
 
 # game/Emma_Sex.rpy:91
 translate french Emma_SexMenu_1eebb5ff:
@@ -112,7 +112,7 @@ translate french Emma_SMenu_6247fc56:
 translate french Emma_SMenu_f94d7038:
 
     # "You really don't have it in you, maybe take a break."
-    "You really don't have it in you, maybe take a break."
+    "T'es vraiment pas à la hauteur, prends une pause, peut-être."
 
 # game/Emma_Sex.rpy:155
 translate french Emma_SMenu_170561dc:
@@ -148,7 +148,7 @@ translate french Emma_SMenu_6247fc56_3:
 translate french Emma_SMenu_1997fa78:
 
     # "The spirit is apparently willing, but the flesh is spongy and bruised."
-    "The spirit is apparently willing, but the flesh is spongy and bruised."
+    "L'esprit est apparemment disposé, mais la chair est spongieuse et meurtrie."
 
 # game/Emma_Sex.rpy:223
 translate french Emma_SMenu_105607c4:
@@ -160,7 +160,7 @@ translate french Emma_SMenu_105607c4:
 translate french Emma_SMenu_7c47957e:
 
     # ch_e "I need more contact."
-    ch_e "I need more contact."
+    ch_e "J'ai besoin de plus de contact."
 
 # game/Emma_Sex.rpy:229
 translate french Emma_SMenu_63f96f44:
@@ -214,7 +214,7 @@ translate french Emma_SMenu_68f3c220:
 translate french Emma_SMenu_5cc82778:
 
     # ch_e "Always. . ."
-    ch_e "Always. . ."
+    ch_e "Toujours..."
 
 # game/Emma_Sex.rpy:274
 translate french Emma_SMenu_246cf9c6:
@@ -334,7 +334,7 @@ translate french Emma_Masturbate_e70b2cc6:
 translate french Emma_Masturbate_94b5bab8:
 
     # "She starts to slowly rub herself."
-    "She starts to slowly rub herself."
+    "Elle commence à se caresser lentement."
 
 # game/Emma_Sex.rpy:431
 translate french Emma_Masturbate_80834770:
@@ -352,7 +352,7 @@ translate french Emma_Masturbate_fdf69c67:
 translate french Emma_Masturbate_ccf72ac1:
 
     # "You lean back and enjoy the show."
-    "You lean back and enjoy the show."
+    "Tu te penches en arrière et profite du spectacle."
 
 # game/Emma_Sex.rpy:444
 translate french Emma_Masturbate_ac257de5:
@@ -400,7 +400,7 @@ translate french Emma_Masturbate_8e407315:
 translate french Emma_Masturbate_1e02edad:
 
     # ch_e "Again? Just you only want to watch?"
-    ch_e "Again? Just you only want to watch?"
+    ch_e "Encore ? Et tu veux seulement regarder ?"
 
 # game/Emma_Sex.rpy:498
 translate french Emma_Masturbate_2013d248:
@@ -418,7 +418,7 @@ translate french Emma_Masturbate_6b86b89b:
 translate french Emma_Masturbate_061b9739:
 
     # ch_e "You enjoyed the show?"
-    ch_e "You enjoyed the show?"
+    ch_e "T'as aimé la vue ?"
 
 # game/Emma_Sex.rpy:517
 translate french Emma_Masturbate_6b86b89b_1:
@@ -544,13 +544,13 @@ translate french Emma_M_Cycle_90dc47ab:
 translate french Emma_M_Cycle_4c2fcbb1:
 
     # ch_p "Oh, yeah, take it off. . ."
-    ch_p "Oh, yeah, take it off. . ."
+    ch_p "Oh, oui, enleve-le..."
 
 # game/Emma_Sex.rpy:754
 translate french Emma_M_Cycle_6e315739:
 
     # ch_p "You've got a little something on you. . ."
-    ch_p "You've got a little something on you. . ."
+    ch_p "Tu as un petit quelque chose sur toi..."
 
 # game/Emma_Sex.rpy:762
 translate french Emma_M_Cycle_83673efb:
@@ -568,13 +568,13 @@ translate french Emma_M_Cycle_2c55fb6c:
 translate french Emma_M_Cycle_a0b9f758:
 
     # "You grunt and try to hold it in."
-    "You grunt and try to hold it in."
+    "Tu grognes et essaie de te retenir."
 
 # game/Emma_Sex.rpy:813
 translate french Emma_M_Cycle_a9f6e14c:
 
     # "You're emptied out, you should probably take a break."
-    "You're emptied out, you should probably take a break."
+    "Tu es vidé, tu devrais probablement faire une pause."
 
 # game/Emma_Sex.rpy:818
 translate french Emma_M_Cycle_9f15853d:
@@ -586,7 +586,7 @@ translate french Emma_M_Cycle_9f15853d:
 translate french Emma_M_Cycle_c4857ab4:
 
     # "You ask her to stop."
-    "You ask her to stop."
+    "Tu lui demandes d'arrêter."
 
 # game/Emma_Sex.rpy:834
 translate french Emma_M_Cycle_a913513b:
@@ -598,7 +598,7 @@ translate french Emma_M_Cycle_a913513b:
 translate french Emma_M_Cycle_94685049:
 
     # "She's definitely going to stop soon."
-    "She's definitely going to stop soon."
+    "Elle va certainement s'arrêter bientôt."
 
 # game/Emma_Sex.rpy:842
 translate french Emma_M_Cycle_cfd7f517:
@@ -664,7 +664,7 @@ translate french Emma_M_Interupted_2fc4df18:
 translate french Emma_M_Interupted_d90cecc6:
 
     # "She looks pointedly at your cock,"
-    "She looks pointedly at your cock,"
+    "Elle regarde ta bite avec insistance,"
 
 # game/Emma_Sex.rpy:892
 translate french Emma_M_Interupted_751ebd68:
@@ -718,13 +718,13 @@ translate french Emma_M_Interupted_c549a341:
 translate french Emma_M_Interupted_fbdcf815:
 
     # "error: report this if you see it."
-    "error: report this if you see it."
+    "erreur : signalez-la si vous la voyez."
 
 # game/Emma_Sex.rpy:957
 translate french Emma_M_Interupted_d6de222b:
 
     # ch_e "Allow me to collect myself. . ."
-    ch_e "Allow me to collect myself. . ."
+    ch_e "Donne-moi un moment..."
 
 # game/Emma_Sex.rpy:961
 translate french Emma_M_Interupted_10f39486:
@@ -784,7 +784,7 @@ translate french Emma_Sex_P_aa35b7be:
 translate french Emma_Sex_P_57b09fb0:
 
     # "You rub the tip of your cock against her moist slit."
-    "You rub the tip of your cock against her moist slit."
+    "Tu frottes le bout de ta bite contre sa fente humide."
 
 # game/Emma_Sex.rpy:1054
 translate french Emma_Sex_P_81423e80:
@@ -814,7 +814,7 @@ translate french Emma_Sex_P_63a41d6f:
 translate french Emma_Sex_P_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Emma_Sex.rpy:1078
 translate french Emma_Sex_P_11897359:
@@ -832,7 +832,7 @@ translate french Emma_Sex_P_bab0b8ea:
 translate french Emma_Sex_P_904cf2fa:
 
     # "You press inside some more."
-    "You press inside some more."
+    "Tu appuies encore un peu plus à l'intérieur."
 
 # game/Emma_Sex.rpy:1089
 translate french Emma_Sex_P_53960a06:
@@ -892,13 +892,13 @@ translate french Emma_Sex_P_2dd2218c:
 translate french Emma_Sex_P_3fd66400:
 
     # ch_e "I was hoping you'd ask. . ."
-    ch_e "I was hoping you'd ask. . ."
+    ch_e "J'espérais que tu proposes..."
 
 # game/Emma_Sex.rpy:1148
 translate french Emma_Sex_P_b28449c6:
 
     # ch_e "Again? You're really wearing out your welcome."
-    ch_e "Again? You're really wearing out your welcome."
+    ch_e "Encore ? Tu abuses vraiment de ma gentillesse."
 
 # game/Emma_Sex.rpy:1150
 translate french Emma_Sex_P_6a2ede6d:
@@ -910,7 +910,7 @@ translate french Emma_Sex_P_6a2ede6d:
 translate french Emma_Sex_P_626be66e:
 
     # ch_e "Again? [EmmaX.Petname], you're insatiable!"
-    ch_e "Again? [EmmaX.Petname], you're insatiable!"
+    ch_e "Encore ? [EmmaX.Petname], tu es insatiable !"
 
 # game/Emma_Sex.rpy:1160
 translate french Emma_Sex_P_6b86b89b:
@@ -922,7 +922,7 @@ translate french Emma_Sex_P_6b86b89b:
 translate french Emma_Sex_P_6635e973:
 
     # ch_e "Oh? Another round?"
-    ch_e "Oh? Another round?"
+    ch_e "Oh ? Encore une fois ?"
 
 # game/Emma_Sex.rpy:1171
 translate french Emma_Sex_P_6b86b89b_1:
@@ -970,7 +970,7 @@ translate french Emma_Sex_P_0cb02f3a:
 translate french Emma_Sex_P_b85dfa47:
 
     # ch_e "I already told you this is too public!"
-    ch_e "I already told you this is too public!"
+    ch_e "Je t'ai déjà dit que c'est trop public !"
 
 # game/Emma_Sex.rpy:1213
 translate french Emma_Sex_P_321dca06:
@@ -1006,7 +1006,7 @@ translate french Emma_Sex_P_6b86b89b_3:
 translate french Emma_Sex_P_53d92c6c:
 
     # ch_e "Fine, if it'll shut you up."
-    ch_e "Fine, if it'll shut you up."
+    ch_e "Bien, si ça peut te la fermer."
 
 # game/Emma_Sex.rpy:1269
 translate french Emma_Sex_P_1bc397bc:
@@ -1060,7 +1060,7 @@ translate french Emma_SexPrep_bd2de5e5:
 translate french Emma_SexPrep_9543a6a5:
 
     # "She slides the tip along her pussy and seems to want you to insert it."
-    "She slides the tip along her pussy and seems to want you to insert it."
+    "Elle fait glisser le bout le long de sa chatte et semble vouloir que tu l'insères."
 
 # game/Emma_Sex.rpy:1321
 translate french Emma_SexPrep_07c573a2:
@@ -1114,13 +1114,13 @@ translate french Emma_SexPrep_4d8f5818:
 translate french Emma_SexPrep_d170b9f3:
 
     # "She tugs her pants down, exposing her bare pussy."
-    "She tugs her pants down, exposing her bare pussy."
+    "Elle baisse son pantalon, exposant sa chatte nue."
 
 # game/Emma_Sex.rpy:1360
 translate french Emma_SexPrep_05eb4fc7:
 
     # "She tugs her shorts down, exposing her bare pussy."
-    "She tugs her shorts down, exposing her bare pussy."
+    "Elle tire son short vers le bas, exposant sa chatte nue."
 
 # game/Emma_Sex.rpy:1362
 translate french Emma_SexPrep_e8e2e2d6:
@@ -1162,7 +1162,7 @@ translate french Emma_SexPrep_f8f224fb:
 translate french Emma_SexPrep_604ee68a:
 
     # "She slowly presses against your rigid member."
-    "She slowly presses against your rigid member."
+    "Elle presse lentement contre ton membre rigide."
 
 # game/Emma_Sex.rpy:1386
 translate french Emma_SexPrep_a1d53410:
@@ -1180,13 +1180,13 @@ translate french Emma_SexPrep_43e8c5e2:
 translate french Emma_SexPrep_604ee68a_1:
 
     # "She slowly presses against your rigid member."
-    "She slowly presses against your rigid member."
+    "Elle presse lentement contre ton membre rigide."
 
 # game/Emma_Sex.rpy:1390
 translate french Emma_SexPrep_2cc608e1:
 
     # "She leans back a bit and your cock slides in."
-    "She leans back a bit and your cock slides in."
+    "Elle se penche un peu en arrière et ta bite se glisse dedans."
 
 # game/Emma_Sex.rpy:1394
 translate french Emma_SexPrep_235c18f5:
@@ -1210,13 +1210,13 @@ translate french Emma_SexPrep_fe7e82f6:
 translate french Emma_Sex_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Emma_Sex.rpy:1457
 translate french Emma_Sex_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Emma_Sex.rpy:1470
 translate french Emma_Sex_Cycle_dbab1d12:
@@ -1246,7 +1246,7 @@ translate french Emma_Sex_Cycle_2c55fb6c:
 translate french Emma_Sex_Cycle_fde2c318:
 
     # "She's emptied you out, you'll need to take a break."
-    "She's emptied you out, you'll need to take a break."
+    "Elle t'a vidé, tu dois faire une pause."
 
 # game/Emma_Sex.rpy:1597
 translate french Emma_Sex_Cycle_406a6c62:
@@ -1270,7 +1270,7 @@ translate french Emma_Sex_Cycle_054b65ff_1:
 translate french Emma_Sex_Cycle_5dba0a83:
 
     # ch_e "So are we getting close?"
-    ch_e "So are we getting close?"
+    ch_e "Alors, tu vas jouir ?"
 
 # game/Emma_Sex.rpy:1623
 translate french Emma_Sex_Cycle_94486ecb:
@@ -1294,13 +1294,13 @@ translate french Emma_Sex_Cycle_b032f1d0_1:
 translate french Emma_Sex_Cycle_30a09b2a:
 
     # "She grumbles but keeps moving."
-    "She grumbles but keeps moving."
+    "Elle grogne mais continue de bouger."
 
 # game/Emma_Sex.rpy:1650
 translate french Emma_Sex_Cycle_9131df8d:
 
     # "She scowls at you and pulls out."
-    "She scowls at you and pulls out."
+    "Elle fronce les sourcils et se retire."
 
 # game/Emma_Sex.rpy:1651
 translate french Emma_Sex_Cycle_4b294705:
@@ -1342,7 +1342,7 @@ translate french Emma_SexAfter_3f4c7a04:
 translate french Emma_SexAfter_a1f78213:
 
     # ch_e "I hope you enjoyed that."
-    ch_e "I hope you enjoyed that."
+    ch_e "J'espère que tu as apprécié."
 
 # game/Emma_Sex.rpy:1709
 translate french Emma_SexAfter_0d63be48:
@@ -1384,7 +1384,7 @@ translate french Emma_Sex_A_aa35b7be:
 translate french Emma_Sex_A_22b725fe:
 
     # "You press the tip of your cock against her tight rim."
-    "You press the tip of your cock against her tight rim."
+    "Tu appuies le bout de ta queue contre sa fente serrée."
 
 # game/Emma_Sex.rpy:1789
 translate french Emma_Sex_A_81423e80:
@@ -1420,7 +1420,7 @@ translate french Emma_Sex_A_bd1efe3a:
 translate french Emma_Sex_A_0ec6234b:
 
     # "You pull back before you really get it in."
-    "You pull back before you really get it in."
+    "Tu te retires avant de vraiment l'insérer."
 
 # game/Emma_Sex.rpy:1810
 translate french Emma_Sex_A_2b26a5d8:
@@ -1438,7 +1438,7 @@ translate french Emma_Sex_A_06bdbe81:
 translate french Emma_Sex_A_1b1ec0ae:
 
     # "You press into her."
-    "You press into her."
+    "Tu t'enfonces en elle."
 
 # game/Emma_Sex.rpy:1821
 translate french Emma_Sex_A_53960a06:
@@ -1510,7 +1510,7 @@ translate french Emma_Sex_A_653f94c8:
 translate french Emma_Sex_A_36cff3b7:
 
     # ch_e "You don't hold back. . ."
-    ch_e "You don't hold back. . ."
+    ch_e "Tu n'hésites pas..."
 
 # game/Emma_Sex.rpy:1886
 translate french Emma_Sex_A_28d936ed:
@@ -1522,7 +1522,7 @@ translate french Emma_Sex_A_28d936ed:
 translate french Emma_Sex_A_205ff669:
 
     # ch_e "I am warmed up. . ."
-    ch_e "I am warmed up. . ."
+    ch_e "Je suis échauffée.."
 
 # game/Emma_Sex.rpy:1899
 translate french Emma_Sex_A_6b86b89b:
@@ -1546,7 +1546,7 @@ translate french Emma_Sex_A_6b38846e:
 translate french Emma_Sex_A_9cfc4778:
 
     # ch_e "After some consideration. . ."
-    ch_e "After some consideration. . ."
+    ch_e "Après mûre réflexion..."
 
 # game/Emma_Sex.rpy:1920
 translate french Emma_Sex_A_7f760f48:
@@ -1582,13 +1582,13 @@ translate french Emma_Sex_A_0cb02f3a:
 translate french Emma_Sex_A_b85dfa47:
 
     # ch_e "I already told you this is too public!"
-    ch_e "I already told you this is too public!"
+    ch_e "Je t'ai déjà dit que c'est trop public !"
 
 # game/Emma_Sex.rpy:1950
 translate french Emma_Sex_A_9e7932c8:
 
     # ch_e "I don't know that you're ready for that yet."
-    ch_e "I don't know that you're ready for that yet."
+    ch_e "Je ne sais pas encore si tu es prêt pour cela."
 
 # game/Emma_Sex.rpy:1953
 translate french Emma_Sex_A_00270ed2:
@@ -1756,13 +1756,13 @@ translate french Emma_AnalPrep_4d8f5818:
 translate french Emma_AnalPrep_d170b9f3:
 
     # "She tugs her pants down, exposing her bare pussy."
-    "She tugs her pants down, exposing her bare pussy."
+    "Elle baisse son pantalon, exposant sa chatte nue."
 
 # game/Emma_Sex.rpy:2106
 translate french Emma_AnalPrep_05eb4fc7:
 
     # "She tugs her shorts down, exposing her bare pussy."
-    "She tugs her shorts down, exposing her bare pussy."
+    "Elle tire son short vers le bas, exposant sa chatte nue."
 
 # game/Emma_Sex.rpy:2108
 translate french Emma_AnalPrep_e8e2e2d6:
@@ -1804,7 +1804,7 @@ translate french Emma_AnalPrep_f8f224fb:
 translate french Emma_AnalPrep_604ee68a:
 
     # "She slowly presses against your rigid member."
-    "She slowly presses against your rigid member."
+    "Elle presse lentement contre ton membre rigide."
 
 # game/Emma_Sex.rpy:2132
 translate french Emma_AnalPrep_a1d53410:
@@ -1822,13 +1822,13 @@ translate french Emma_AnalPrep_43e8c5e2:
 translate french Emma_AnalPrep_604ee68a_1:
 
     # "She slowly presses against your rigid member."
-    "She slowly presses against your rigid member."
+    "Elle presse lentement contre ton membre rigide."
 
 # game/Emma_Sex.rpy:2136
 translate french Emma_AnalPrep_fd979fb6:
 
     # "She leans back a bit and your cock pops in."
-    "She leans back a bit and your cock pops in."
+    "Elle se penche un peu en arrière et ta bite entre."
 
 # game/Emma_Sex.rpy:2140
 translate french Emma_AnalPrep_6c4d0ba8:
@@ -1846,13 +1846,13 @@ translate french Emma_AnalPrep_2bac7fde:
 translate french Emma_Anal_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Emma_Sex.rpy:2207
 translate french Emma_Anal_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Emma_Sex.rpy:2220
 translate french Emma_Anal_Cycle_dbab1d12:
@@ -1882,7 +1882,7 @@ translate french Emma_Anal_Cycle_2c55fb6c:
 translate french Emma_Anal_Cycle_fde2c318:
 
     # "She's emptied you out, you'll need to take a break."
-    "She's emptied you out, you'll need to take a break."
+    "Elle t'a vidé, tu dois faire une pause."
 
 # game/Emma_Sex.rpy:2347
 translate french Emma_Anal_Cycle_406a6c62:
@@ -1918,7 +1918,7 @@ translate french Emma_Anal_Cycle_e9cff60e:
 translate french Emma_Anal_Cycle_f67610da:
 
     # ch_e "Can we. . . do something. . . else?" nointeract
-    ch_e "Can we. . . do something. . . else?" nointeract
+    ch_e "Pouvons-nous... faire quelque chose... d'autre ?" nointeract
 
 # game/Emma_Sex.rpy:2385
 translate french Emma_Anal_Cycle_b032f1d0_1:
@@ -1930,13 +1930,13 @@ translate french Emma_Anal_Cycle_b032f1d0_1:
 translate french Emma_Anal_Cycle_30a09b2a:
 
     # "She grumbles but keeps moving."
-    "She grumbles but keeps moving."
+    "Elle grogne mais continue de bouger."
 
 # game/Emma_Sex.rpy:2404
 translate french Emma_Anal_Cycle_9131df8d:
 
     # "She scowls at you and pulls out."
-    "She scowls at you and pulls out."
+    "Elle fronce les sourcils et se retire."
 
 # game/Emma_Sex.rpy:2405
 translate french Emma_Anal_Cycle_4b294705:
@@ -1990,7 +1990,7 @@ translate french Emma_AnalAfter_97d2ba3c:
 translate french Emma_AnalAfter_1317a1e9:
 
     # ch_e "You're pretty good at that."
-    ch_e "You're pretty good at that."
+    ch_e "Tu es plutôt bon."
 
 # game/Emma_Sex.rpy:2470
 translate french Emma_AnalAfter_5a0c0231:
@@ -2026,13 +2026,13 @@ translate french Emma_Sex_H_30ba5368:
 translate french Emma_Sex_H_02975280:
 
     # ch_e "Or not. . ."
-    ch_e "Or not. . ."
+    ch_e "Ou pas..."
 
 # game/Emma_Sex.rpy:2542
 translate french Emma_Sex_H_6ebc0005:
 
     # "You pull back from her."
-    "You pull back from her."
+    "Tu te retires."
 
 # game/Emma_Sex.rpy:2544
 translate french Emma_Sex_H_3ff32a16:
@@ -2044,7 +2044,7 @@ translate french Emma_Sex_H_3ff32a16:
 translate french Emma_Sex_H_e107f743:
 
     # "You grind against her crotch."
-    "You grind against her crotch."
+    "Tu te frottes contre son entrejambe."
 
 # game/Emma_Sex.rpy:2553
 translate french Emma_Sex_H_f4d0fa9a:
@@ -2086,7 +2086,7 @@ translate french Emma_Sex_H_f9ac6902:
 translate french Emma_Sex_H_623f4540:
 
     # ch_e "If that's what works for you. . ."
-    ch_e "If that's what works for you. . ."
+    ch_e "Si c'est ce qui te convient..."
 
 # game/Emma_Sex.rpy:2598
 translate french Emma_Sex_H_40a27e58:
@@ -2098,7 +2098,7 @@ translate french Emma_Sex_H_40a27e58:
 translate french Emma_Sex_H_7e7fd479:
 
     # ch_e "Well if that's what gets you off. . ."
-    ch_e "Well if that's what gets you off. . ."
+    ch_e "Héhé, si c'est ce qui te fait prendre ton pied..."
 
 # game/Emma_Sex.rpy:2610
 translate french Emma_Sex_H_216ec9e0:
@@ -2140,7 +2140,7 @@ translate french Emma_Sex_H_c457833c:
 translate french Emma_Sex_H_f11d378e:
 
     # ch_e "It was rather entertaining. . ."
-    ch_e "It was rather entertaining. . ."
+    ch_e "C'était plutôt divertissant..."
 
 # game/Emma_Sex.rpy:2653
 translate french Emma_Sex_H_6b86b89b_2:
@@ -2158,7 +2158,7 @@ translate french Emma_Sex_H_9fd9d699:
 translate french Emma_Sex_H_f1dc453a:
 
     # ch_e "I just told you. . .not in such an exposed location."
-    ch_e "I just told you. . .not in such an exposed location."
+    ch_e "Je viens de te le dire....pas dans un endroit aussi exposé."
 
 # game/Emma_Sex.rpy:2667
 translate french Emma_Sex_H_b49a7740:
@@ -2206,7 +2206,7 @@ translate french Emma_Sex_H_6b86b89b_3:
 translate french Emma_Sex_H_b48d837c:
 
     # ch_e "Alright, fine. Lay back."
-    ch_e "Alright, fine. Lay back."
+    ch_e "D'accord, très bien. Allonge-toi."
 
 # game/Emma_Sex.rpy:2727
 translate french Emma_Sex_H_05440592:
@@ -2224,7 +2224,7 @@ translate french Emma_Sex_H_7843dd15:
 translate french Emma_Sex_H_8d4521fc:
 
     # ch_e "This area is a bit too exposed for that sort of thing. . ."
-    ch_e "This area is a bit too exposed for that sort of thing. . ."
+    ch_e "Cette zone est un peu trop exposée pour ce genre de choses.."
 
 # game/Emma_Sex.rpy:2748
 translate french Emma_Sex_H_8d69214b:
@@ -2296,7 +2296,7 @@ translate french Emma_HotdogPrep_f8f224fb:
 translate french Emma_HotdogPrep_604ee68a:
 
     # "She slowly presses against your rigid member."
-    "She slowly presses against your rigid member."
+    "Elle presse lentement contre ton membre rigide."
 
 # game/Emma_Sex.rpy:2808
 translate french Emma_HotdogPrep_a1d53410:
@@ -2314,7 +2314,7 @@ translate french Emma_HotdogPrep_43e8c5e2:
 translate french Emma_HotdogPrep_604ee68a_1:
 
     # "She slowly presses against your rigid member."
-    "She slowly presses against your rigid member."
+    "Elle presse lentement contre ton membre rigide."
 
 # game/Emma_Sex.rpy:2814
 translate french Emma_HotdogPrep_d3129941:
@@ -2326,13 +2326,13 @@ translate french Emma_HotdogPrep_d3129941:
 translate french Emma_Hotdog_Cycle_df597d27:
 
     # "You ask her to up the pace a bit."
-    "You ask her to up the pace a bit."
+    "Tu lui demandes d'accélérer un peu le rythme."
 
 # game/Emma_Sex.rpy:2867
 translate french Emma_Hotdog_Cycle_f665b025:
 
     # "You ask her to slow it down a bit."
-    "You ask her to slow it down a bit."
+    "Tu lui demandes de ralentir un peu."
 
 # game/Emma_Sex.rpy:2880
 translate french Emma_Hotdog_Cycle_dbab1d12:
@@ -2362,7 +2362,7 @@ translate french Emma_Hotdog_Cycle_2c55fb6c:
 translate french Emma_Hotdog_Cycle_fde2c318:
 
     # "She's emptied you out, you'll need to take a break."
-    "She's emptied you out, you'll need to take a break."
+    "Elle t'a vidé, tu dois faire une pause."
 
 # game/Emma_Sex.rpy:3011
 translate french Emma_Hotdog_Cycle_406a6c62:
@@ -2386,7 +2386,7 @@ translate french Emma_Hotdog_Cycle_054b65ff_1:
 translate french Emma_Hotdog_Cycle_b6695150:
 
     # ch_e "Are we getting close here?"
-    ch_e "Are we getting close here?"
+    ch_e "Est-ce que tu vas jouir ?"
 
 # game/Emma_Sex.rpy:3037
 translate french Emma_Hotdog_Cycle_b0ba8d42:
@@ -2404,13 +2404,13 @@ translate french Emma_Hotdog_Cycle_b032f1d0_1:
 translate french Emma_Hotdog_Cycle_30a09b2a:
 
     # "She grumbles but keeps moving."
-    "She grumbles but keeps moving."
+    "Elle grogne mais continue de bouger."
 
 # game/Emma_Sex.rpy:3063
 translate french Emma_Hotdog_Cycle_5338dce7:
 
     # "She scowls at you and pulls away."
-    "She scowls at you and pulls away."
+    "Elle te regarde de travers et s'éloigne."
 
 # game/Emma_Sex.rpy:3064
 translate french Emma_Hotdog_Cycle_4b294705:
@@ -2446,7 +2446,7 @@ translate french Emma_HotdogAfter_ebf3a324:
 translate french Emma_HotdogAfter_5d976219:
 
     # ch_e "Was that enough for you?"
-    ch_e "Was that enough for you?"
+    ch_e "Cela t'a suffi ?"
 
 # game/Emma_Sex.rpy:3118
 translate french Emma_HotdogAfter_eb3d43e9:
@@ -2554,7 +2554,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:189
     old "What did you want to do?"
-    new "What did you want to do?"
+    new "Que voulais-tu faire ?"
 
     # game/Emma_Sex.rpy:189
     old "Come over here, I've got something in mind. . ."
@@ -2562,7 +2562,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:189
     old "Fuck your pussy."
-    new "Baise ta chatte."
+    new "Baiser ta chatte."
 
     # game/Emma_Sex.rpy:189
     old "Fuck your ass."
@@ -2626,7 +2626,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:513
     old "You really do like to watch."
-    new "You really do like to watch."
+    new "Tu aimes vraiment regarder."
 
     # game/Emma_Sex.rpy:513
     old "Once more?"
@@ -2634,11 +2634,11 @@ translate french strings:
 
     # game/Emma_Sex.rpy:513
     old "You enjoy watching me."
-    new "You enjoy watching me."
+    new "Tu aimes me regarder."
 
     # game/Emma_Sex.rpy:513
     old "You want me to take care of myself?"
-    new "You want me to take care of myself?"
+    new "Tu veux que je m'occupe de moi toute seule ?"
 
     # game/Emma_Sex.rpy:532
     old "Ok."
@@ -2662,7 +2662,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:546
     old "You look like you could use it. . ."
-    new "You look like you could use it. . ."
+    new "On dirait que t'en as besoin..."
 
     # game/Emma_Sex.rpy:546
     old "Just get at it already."
@@ -2710,7 +2710,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:910
     old "A little while."
-    new "A little while."
+    new "Un petit moment."
 
     # game/Emma_Sex.rpy:910
     old "I just got here."
@@ -2722,7 +2722,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:964
     old "You could just keep going. . ."
-    new "You could just keep going. . ."
+    new "Tu pourrais continuer..."
 
     # game/Emma_Sex.rpy:964
     old "I'm good here. [[Stop]"
@@ -2742,7 +2742,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:1155
     old "You'd like another round?"
-    new "You'd like another round?"
+    new "Tu veux repartir pour un tour ?"
 
     # game/Emma_Sex.rpy:1155
     old "I suppose I am irresistible. . ."
@@ -2762,11 +2762,11 @@ translate french strings:
 
     # game/Emma_Sex.rpy:1166
     old "Do you intend to make me melt?"
-    new "Do you intend to make me melt?"
+    new "Tu as l'intention de me faire fondre ?"
 
     # game/Emma_Sex.rpy:1166
     old "You want me to ride you?"
-    new "You want me to ride you?"
+    new "Tu veux que je te monte ?"
 
     # game/Emma_Sex.rpy:1188
     old "Well. . . fine, I accept."
@@ -2778,7 +2778,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:1188
     old "Hmmm, yes."
-    new "Hmmm, yes."
+    new "Hmmm, oui."
 
     # game/Emma_Sex.rpy:1188
     old "How could I refuse?"
@@ -2798,11 +2798,11 @@ translate french strings:
 
     # game/Emma_Sex.rpy:1241
     old "You raise a good point. . ."
-    new "You raise a good point. . ."
+    new "Tu marques un point..."
 
     # game/Emma_Sex.rpy:1316
     old "Go with it."
-    new "Go with it."
+    new "Fais avec."
 
     # game/Emma_Sex.rpy:1441
     old "Keep going. . . (locked)"
@@ -2838,15 +2838,15 @@ translate french strings:
 
     # game/Emma_Sex.rpy:1598
     old "No, I'm spent."
-    new "No, I'm spent."
+    new "Non, je suis épuisé."
 
     # game/Emma_Sex.rpy:1894
     old "So you'd like another round?"
-    new "So you'd like another round?"
+    new "Tu veux repartir pour un tour ?"
 
     # game/Emma_Sex.rpy:1894
     old "I'm still a little sore from earlier."
-    new "I'm still a little sore from earlier."
+    new "Je suis encore un peu sensible par rapport à tout à l'heure."
 
     # game/Emma_Sex.rpy:1903
     old "Oooh, you want some of this?"
@@ -2862,11 +2862,11 @@ translate french strings:
 
     # game/Emma_Sex.rpy:1925
     old "Um, yeah."
-    new "Um, yeah."
+    new "Hum, ouais."
 
     # game/Emma_Sex.rpy:1925
     old "Heh, ok, ok."
-    new "Heh, ok, ok."
+    new "Héhé, ok, ok."
 
     # game/Emma_Sex.rpy:1954
     old "I bet it would feel really good. . ."
@@ -2894,7 +2894,7 @@ translate french strings:
 
     # game/Emma_Sex.rpy:2627
     old "You want another rub?"
-    new "You want another rub?"
+    new "Tu veux que je te frotte encore ?"
 
     # game/Emma_Sex.rpy:2647
     old "Well, sure, let me give it a rub."
@@ -2910,9 +2910,13 @@ translate french strings:
 
     # game/Emma_Sex.rpy:2647
     old "Allow me. . ."
-    new "Allow me. . ."
+    new "Laisse-moi faire..."
 
     # game/Emma_Sex.rpy:2676
     old "You might like it. . ."
     new "You might like it. . ."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

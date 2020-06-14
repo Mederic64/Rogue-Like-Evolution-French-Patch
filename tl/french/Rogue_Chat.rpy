@@ -10,13 +10,13 @@ translate french Rogue_Relationship_fca9c325:
 translate french Rogue_Relationship_cf80696b:
 
     # ch_r "Seriously, stop bugging me."
-    ch_r "Seriously, stop bugging me."
+    ch_r "Sérieusement, arrête de m'embêter."
 
 # game/Rogue_Chat.rpy:244
 translate french Rogue_Relationship_f8e75380:
 
     # ch_r "You already asked about that, the answer's still no."
-    ch_r "You already asked about that, the answer's still no."
+    ch_r "Tu as déjà posé la question, la réponse est toujours non."
 
 # game/Rogue_Chat.rpy:248
 translate french Rogue_Relationship_6e94908a:
@@ -28,115 +28,115 @@ translate french Rogue_Relationship_6e94908a:
 translate french Rogue_Relationship_8c864eed:
 
     # ch_p "I'm not anymore."
-    ch_p "I'm not anymore."
+    ch_p "Je ne le suis plus."
 
 # game/Rogue_Chat.rpy:259
 translate french Rogue_Relationship_d45bead5:
 
     # ch_r "That wouldn't be fair to the others, [RogueX.Petname]."
-    ch_r "That wouldn't be fair to the others, [RogueX.Petname]."
+    ch_r "Ce ne serait pas juste pour les autres, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:261
 translate french Rogue_Relationship_b874a870:
 
     # ch_r "That wouldn't be fair to [Player.Harem[0].Name], [RogueX.Petname]."
-    ch_r "That wouldn't be fair to [Player.Harem[0].Name], [RogueX.Petname]."
+    ch_r "Ce ne serait pas juste pour [Player.Harem[0].Name], [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:266
 translate french Rogue_Relationship_1d0a73e5:
 
     # ch_r "I mean, I asked you about this before. . ."
-    ch_r "I mean, I asked you about this before. . ."
+    ch_r "Je veux dire, je t'ai déjà demandé..."
 
 # game/Rogue_Chat.rpy:269
 translate french Rogue_Relationship_9f3fb86f:
 
     # ch_r "Wow, this is unexpected, [RogueX.Petname]. . ."
-    ch_r "Wow, this is unexpected, [RogueX.Petname]. . ."
+    ch_r "Wow, c'est inattendu, [RogueX.Petname]..."
 
 # game/Rogue_Chat.rpy:278
 translate french Rogue_Relationship_962a954a:
 
     # ch_r "I'd love to!"
-    ch_r "I'd love to!"
+    ch_r "J'adorerais !"
 
 # game/Rogue_Chat.rpy:286
 translate french Rogue_Relationship_216da135:
 
     # "[RogueX.Name] leaps in and kisses you deeply."
-    "[RogueX.Name] leaps in and kisses you deeply."
+    "[RogueX.Name] se lance et t'embrasse profondément."
 
 # game/Rogue_Chat.rpy:291
 translate french Rogue_Relationship_8288d2d6:
 
     # ch_r "I'm not sure I'd call what we have \"dating.\""
-    ch_r "I'm not sure I'd call what we have \"dating.\""
+    ch_r "Je ne suis pas sûr que ce qu'on fait s'appelle \"sortir ensemble\""
 
 # game/Rogue_Chat.rpy:294
 translate french Rogue_Relationship_2512139f:
 
     # ch_r "I don't really want to be tied down like that."
-    ch_r "I don't really want to be tied down like that."
+    ch_r "Je ne veux pas vraiment être attachée comme ça."
 
 # game/Rogue_Chat.rpy:297
 translate french Rogue_Relationship_38dbbfcb:
 
     # ch_r "I don't really feel that way about you right now, [RogueX.Petname]."
-    ch_r "I don't really feel that way about you right now, [RogueX.Petname]."
+    ch_r "Je ne ressens pas vraiment cela pour toi en ce moment, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:303
 translate french Rogue_Relationship_cf80696b_1:
 
     # ch_r "Seriously, stop bugging me."
-    ch_r "Seriously, stop bugging me."
+    ch_r "Sérieusement, arrête de m'embêter."
 
 # game/Rogue_Chat.rpy:307
 translate french Rogue_Relationship_f8e75380_1:
 
     # ch_r "You already asked about that, the answer's still no."
-    ch_r "You already asked about that, the answer's still no."
+    ch_r "Tu as déjà posé la question, la réponse est toujours non."
 
 # game/Rogue_Chat.rpy:314
 translate french Rogue_Relationship_d45bead5_1:
 
     # ch_r "That wouldn't be fair to the others, [RogueX.Petname]."
-    ch_r "That wouldn't be fair to the others, [RogueX.Petname]."
+    ch_r "Ce ne serait pas juste pour les autres, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:316
 translate french Rogue_Relationship_b874a870_1:
 
     # ch_r "That wouldn't be fair to [Player.Harem[0].Name], [RogueX.Petname]."
-    ch_r "That wouldn't be fair to [Player.Harem[0].Name], [RogueX.Petname]."
+    ch_r "Ce ne serait pas juste pour [Player.Harem[0].Name], [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:326
 translate french Rogue_Relationship_5ecca238:
 
     # ch_r "If you're in, I'm in!"
-    ch_r "If you're in, I'm in!"
+    ch_r "Si t'es partant, je suis partante !"
 
 # game/Rogue_Chat.rpy:335
 translate french Rogue_Relationship_216da135_1:
 
     # "[RogueX.Name] leaps in and kisses you deeply."
-    "[RogueX.Name] leaps in and kisses you deeply."
+    "[RogueX.Name] se lance et t'embrasse profondément."
 
 # game/Rogue_Chat.rpy:342
 translate french Rogue_Relationship_94c8ae99:
 
     # ch_r "We can give this another try."
-    ch_r "We can give this another try."
+    ch_r "On peut retenter le coup."
 
 # game/Rogue_Chat.rpy:351
 translate french Rogue_Relationship_8e67236f:
 
     # "[RogueX.Name] gives you a quick kiss."
-    "[RogueX.Name] gives you a quick kiss."
+    "[RogueX.Name] te donne un baiser rapide."
 
 # game/Rogue_Chat.rpy:356
 translate french Rogue_Relationship_5910cdd7:
 
     # ch_r "Whatever we had, whatever we have right now, that's not it."
-    ch_r "Whatever we had, whatever we have right now, that's not it."
+    ch_r "Quoi que nous ayons eu, quoi que nous ayons maintenant, ce n'est pas ça."
 
 # game/Rogue_Chat.rpy:359
 translate french Rogue_Relationship_fe1cac92:
@@ -148,19 +148,19 @@ translate french Rogue_Relationship_fe1cac92:
 translate french Rogue_Relationship_48232fde:
 
     # ch_r "I'm not ready for more heartbreak, [RogueX.Petname]."
-    ch_r "I'm not ready for more heartbreak, [RogueX.Petname]."
+    ch_r "Je ne suis pas prête à avoir plus de chagrin, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:380
 translate french Rogue_Relationship_bc1a50ed:
 
     # ch_r "We were {i}just{/i} over this, not even funny."
-    ch_r "We were {i}just{/i} over this, not even funny."
+    ch_r "On vient {i}juste{/i} d'en parler, même pas drôle."
 
 # game/Rogue_Chat.rpy:382
 translate french Rogue_Relationship_953554ca:
 
     # ch_r "Tired of me again that quick?"
-    ch_r "Tired of me again that quick?"
+    ch_r "Tu en as encore marre de moi aussi vite ?"
 
 # game/Rogue_Chat.rpy:383
 translate french Rogue_Relationship_e5acf72b:
@@ -184,7 +184,7 @@ translate french Rogue_Relationship_5635bc2b:
 translate french Rogue_Relationship_426246d7:
 
     # ch_r "Well, I'm not really interested in that sort of thing anymore."
-    ch_r "Well, I'm not really interested in that sort of thing anymore."
+    ch_r "Eh bien, je ne suis plus vraiment intéressée par ce genre de choses."
 
 # game/Rogue_Chat.rpy:404
 translate french Rogue_Relationship_ac685b3b:
@@ -214,13 +214,13 @@ translate french Rogue_OtherWoman_a52ce521:
 translate french Rogue_OtherWoman_055cee4b:
 
     # ch_r "I s'pose I can learn ta share."
-    ch_r "I s'pose I can learn ta share."
+    ch_r "Je suppose que je peux apprendre à partager."
 
 # game/Rogue_Chat.rpy:436
 translate french Rogue_OtherWoman_bd7ea201:
 
     # ch_r "Well I won't be the one to get in the way a this."
-    ch_r "Well I won't be the one to get in the way a this."
+    ch_r "Eh ben, ce n'est pas moi qui vais me mêler de ça."
 
 # game/Rogue_Chat.rpy:438
 translate french Rogue_OtherWoman_209b8e8e:
@@ -232,19 +232,19 @@ translate french Rogue_OtherWoman_209b8e8e:
 translate french Rogue_OtherWoman_27289f54:
 
     # ch_r "Well that harlot!"
-    ch_r "Well that harlot!"
+    ch_r "Eh ben, cette traînée !"
 
 # game/Rogue_Chat.rpy:449
 translate french Rogue_OtherWoman_055cee4b_1:
 
     # ch_r "I s'pose I can learn ta share."
-    ch_r "I s'pose I can learn ta share."
+    ch_r "Je suppose que je peux apprendre à partager."
 
 # game/Rogue_Chat.rpy:451
 translate french Rogue_OtherWoman_bd7ea201_1:
 
     # ch_r "Well I won't be the one to get in the way a this."
-    ch_r "Well I won't be the one to get in the way a this."
+    ch_r "Eh ben, ce n'est pas moi qui vais me mêler de ça."
 
 # game/Rogue_Chat.rpy:453
 translate french Rogue_OtherWoman_209b8e8e_1:
@@ -256,13 +256,13 @@ translate french Rogue_OtherWoman_209b8e8e_1:
 translate french Rogue_OtherWoman_fe20e5d9:
 
     # ch_r "You go ask her if she's inta that, then get back to me tomorrow."
-    ch_r "You go ask her if she's inta that, then get back to me tomorrow."
+    ch_r "Va lui demander si elle est d'accord, puis reviens me voir demain."
 
 # game/Rogue_Chat.rpy:457
 translate french Rogue_OtherWoman_27289f54_1:
 
     # ch_r "Well that harlot!"
-    ch_r "Well that harlot!"
+    ch_r "Eh ben, cette traînée !"
 
 # game/Rogue_Chat.rpy:464
 translate french Rogue_OtherWoman_47851163:
@@ -280,7 +280,7 @@ translate french Rogue_OtherWoman_8595c5af:
 translate french Rogue_OtherWoman_f131bcc7:
 
     # ch_r "I s'pose somethin could be arranged. . ."
-    ch_r "I s'pose somethin could be arranged. . ."
+    ch_r "Je suppose que quelque chose pourrait être arrangé..."
 
 # game/Rogue_Chat.rpy:473
 translate french Rogue_OtherWoman_2db183ae:
@@ -292,7 +292,7 @@ translate french Rogue_OtherWoman_2db183ae:
 translate french Rogue_OtherWoman_fa2e0118:
 
     # ch_r "Don't see why not."
-    ch_r "Don't see why not."
+    ch_r "Bah pourquoi pas."
 
 # game/Rogue_Chat.rpy:480
 translate french Rogue_OtherWoman_b678eedd:
@@ -316,13 +316,13 @@ translate french Rogue_About_6d790f6f:
 translate french Rogue_About_f17584d6:
 
     # ch_r "What do I think about her? Well. . ."
-    ch_r "What do I think about her? Well. . ."
+    ch_r "Qu'est-ce que je pense d'elle ? Bah..."
 
 # game/Rogue_Chat.rpy:498
 translate french Rogue_About_ee1e662b:
 
     # ch_r "I think you know the answer to that one. . ."
-    ch_r "I think you know the answer to that one. . ."
+    ch_r "Je pense que tu connais la réponse à cette question..."
 
 # game/Rogue_Chat.rpy:500
 translate french Rogue_About_caf5a415:
@@ -352,13 +352,13 @@ translate french Rogue_About_4d013551:
 translate french Rogue_About_dbcdd957:
 
     # ch_r "I don't know, she's ok."
-    ch_r "I don't know, she's ok."
+    ch_r "Je ne sais pas, elle est correcte."
 
 # game/Rogue_Chat.rpy:510
 translate french Rogue_About_9f456907:
 
     # ch_r "We're. . . kind of off right now."
-    ch_r "We're. . . kind of off right now."
+    ch_r "Nous sommes... en quelque sorte en froid en ce moment."
 
 # game/Rogue_Chat.rpy:512
 translate french Rogue_About_8477bc9f:
@@ -370,13 +370,13 @@ translate french Rogue_About_8477bc9f:
 translate french Rogue_About_168f0c64:
 
     # ch_r "That ho-bag skank?"
-    ch_r "That ho-bag skank?"
+    ch_r "Cette salope de pute ?"
 
 # game/Rogue_Chat.rpy:517
 translate french Rogue_About_95a12717:
 
     # ch_r "Well, I sure don't kick her out of bed. . ."
-    ch_r "Well, I sure don't kick her out of bed. . ."
+    ch_r "Eh bien, je ne la jette pas du lit..."
 
 # game/Rogue_Chat.rpy:519
 translate french Rogue_About_e9dc18f8:
@@ -388,37 +388,37 @@ translate french Rogue_About_e9dc18f8:
 translate french Rogue_About_f55c2883:
 
     # ch_r "She's pretty amaz'in, right? Sometimes I wonder. . ."
-    ch_r "She's pretty amaz'in, right? Sometimes I wonder. . ."
+    ch_r "Elle est assez étonnante, non ? Parfois, je me demande..."
 
 # game/Rogue_Chat.rpy:523
 translate french Rogue_About_fd9172e8:
 
     # ch_r "We hang out sometimes after class, she's fun to talk to."
-    ch_r "We hang out sometimes after class, she's fun to talk to."
+    ch_r "Nous traînons parfois après les cours, elle est amusante."
 
 # game/Rogue_Chat.rpy:525
 translate french Rogue_About_14ec931f:
 
     # ch_r "She's a really great teach, I love her lectures."
-    ch_r "She's a really great teach, I love her lectures."
+    ch_r "C'est vraiment une excellent prof, j'adore ses conférences."
 
 # game/Rogue_Chat.rpy:527
 translate french Rogue_About_dbcdd957_1:
 
     # ch_r "I don't know, she's ok."
-    ch_r "I don't know, she's ok."
+    ch_r "Je ne sais pas, elle est correcte."
 
 # game/Rogue_Chat.rpy:529
 translate french Rogue_About_4cc3a4b2:
 
     # ch_r "I don't really like the way she looks at you in class."
-    ch_r "I don't really like the way she looks at you in class."
+    ch_r "Je n'aime pas vraiment la façon dont elle te regarde en classe."
 
 # game/Rogue_Chat.rpy:531
 translate french Rogue_About_d0555fae:
 
     # ch_r "I hate her class."
-    ch_r "I hate her class."
+    ch_r "Je déteste sa classe."
 
 # game/Rogue_Chat.rpy:533
 translate french Rogue_About_20ec0a47:
@@ -430,7 +430,7 @@ translate french Rogue_About_20ec0a47:
 translate french Rogue_About_8cd48342:
 
     # ch_r "We hook up from time to time. . ."
-    ch_r "We hook up from time to time. . ."
+    ch_r "Nous nous voyons de temps en temps..."
 
 # game/Rogue_Chat.rpy:538
 translate french Rogue_About_72cb827e:
@@ -442,7 +442,7 @@ translate french Rogue_About_72cb827e:
 translate french Rogue_About_b34676d7:
 
     # ch_r "We really seem to get along. . ."
-    ch_r "We really seem to get along. . ."
+    ch_r "Nous semblons vraiment nous entendre..."
 
 # game/Rogue_Chat.rpy:542
 translate french Rogue_About_c59467e3:
@@ -460,13 +460,13 @@ translate french Rogue_About_ad08fc5f:
 translate french Rogue_About_159630d3:
 
     # ch_r "I don't know, she's ok in a fight."
-    ch_r "I don't know, she's ok in a fight."
+    ch_r "Je ne sais pas, elle se bat bien."
 
 # game/Rogue_Chat.rpy:548
 translate french Rogue_About_47c74562:
 
     # ch_r "We're. . . not in a good place."
-    ch_r "We're. . . not in a good place."
+    ch_r "On... s'entend pas."
 
 # game/Rogue_Chat.rpy:550
 translate french Rogue_About_8477bc9f_1:
@@ -478,37 +478,37 @@ translate french Rogue_About_8477bc9f_1:
 translate french Rogue_About_168f0c64_1:
 
     # ch_r "That ho-bag skank?"
-    ch_r "That ho-bag skank?"
+    ch_r "Cette salope de pute ?"
 
 # game/Rogue_Chat.rpy:565
 translate french Rogue_Monogamy_be1c5d75:
 
     # ch_r "I might consider that, but you don't exactly make yourself available. . ."
-    ch_r "I might consider that, but you don't exactly make yourself available. . ."
+    ch_r "Je pourrais l'envisager, mais tu ne te rends pas vraiment disponible..."
 
 # game/Rogue_Chat.rpy:572
 translate french Rogue_Monogamy_7a09d36e:
 
     # ch_r "Aw, would that make you jealous?"
-    ch_r "Aw, would that make you jealous?"
+    ch_r "Aw, cela vous rendrait-il jaloux ?"
 
 # game/Rogue_Chat.rpy:573
 translate french Rogue_Monogamy_9e5aba05:
 
     # ch_r "I suppose I could restain myself. . ."
-    ch_r "I suppose I could restain myself. . ."
+    ch_r "Je suppose que je pourrais me retenir..."
 
 # game/Rogue_Chat.rpy:577
 translate french Rogue_Monogamy_de1e089a:
 
     # ch_r "If that's what you really want. . ."
-    ch_r "If that's what you really want. . ."
+    ch_r "Si c'est vraiment ce que tu veux..."
 
 # game/Rogue_Chat.rpy:581
 translate french Rogue_Monogamy_22d9cf64:
 
     # ch_r "Who I \"hook up\" with is my own damned business."
-    ch_r "Who I \"hook up\" with is my own damned business."
+    ch_r "Qui je \"branche\" est ma propre affaire."
 
 # game/Rogue_Chat.rpy:590
 translate french Rogue_Monogamy_8da56769:
@@ -520,55 +520,55 @@ translate french Rogue_Monogamy_8da56769:
 translate french Rogue_Monogamy_be1c5d75_1:
 
     # ch_r "I might consider that, but you don't exactly make yourself available. . ."
-    ch_r "I might consider that, but you don't exactly make yourself available. . ."
+    ch_r "Je pourrais l'envisager, mais tu ne te rends pas vraiment disponible..."
 
 # game/Rogue_Chat.rpy:601
 translate french Rogue_Monogamy_de1e089a_1:
 
     # ch_r "If that's what you really want. . ."
-    ch_r "If that's what you really want. . ."
+    ch_r "Si c'est vraiment ce que tu veux..."
 
 # game/Rogue_Chat.rpy:605
 translate french Rogue_Monogamy_0fc44420:
 
     # ch_r "Is that any way to ask a girl?"
-    ch_r "Is that any way to ask a girl?"
+    ch_r "Est-ce une façon de demander à une fille ?"
 
 # game/Rogue_Chat.rpy:606
 translate french Rogue_Monogamy_c37d931f:
 
     # ch_r "Still, I'll do it for you. . ."
-    ch_r "Still, I'll do it for you. . ."
+    ch_r "Je le ferai quand même pour toi..."
 
 # game/Rogue_Chat.rpy:610
 translate french Rogue_Monogamy_22d9cf64_1:
 
     # ch_r "Who I \"hook up\" with is my own damned business."
-    ch_r "Who I \"hook up\" with is my own damned business."
+    ch_r "Qui je \"branche\" est ma propre affaire."
 
 # game/Rogue_Chat.rpy:618
 translate french Rogue_Monogamy_67acfab0:
 
     # ch_r "As you wish."
-    ch_r "As you wish."
+    ch_r "Si tu veux."
 
 # game/Rogue_Chat.rpy:621
 translate french Rogue_Monogamy_d9afc985:
 
     # ch_r "I hope you don't give me any reasons to want to. . ."
-    ch_r "I hope you don't give me any reasons to want to. . ."
+    ch_r "J'espère que tu ne me donnes pas de raisons de vouloir le faire..."
 
 # game/Rogue_Chat.rpy:626
 translate french Rogue_Monogamy_48789cad:
 
     # ch_r "Oh? Well, glad I got your permission there."
-    ch_r "Oh? Well, glad I got your permission there."
+    ch_r "Oh ? Eh bien, je suis contente d'avoir eu ta permission."
 
 # game/Rogue_Chat.rpy:641
 translate french Rogue_Jumped_c318cc06:
 
     # ch_p "Hey, Remember that time you threw yourself at me?"
-    ch_p "Hey, Remember that time you threw yourself at me?"
+    ch_p "Hé, tu te souviens de la fois où tu t'es jeté sur moi ?"
 
 # game/Rogue_Chat.rpy:643
 translate french Rogue_Jumped_1dbb50a6:
@@ -580,31 +580,31 @@ translate french Rogue_Jumped_1dbb50a6:
 translate french Rogue_Jumped_8be47f95:
 
     # ch_r "Maybe don't keep me waiting then. . ."
-    ch_r "Maybe don't keep me waiting then. . ."
+    ch_r "Alors ne me fais pas attendre..."
 
 # game/Rogue_Chat.rpy:658
 translate french Rogue_Jumped_85d431c4:
 
     # ch_r "Sorry, [RogueX.Petname], I just got a little lonely. . ."
-    ch_r "Sorry, [RogueX.Petname], I just got a little lonely. . ."
+    ch_r "Désolé, [RogueX.Petname], je me suis sentie un peu seule..."
 
 # game/Rogue_Chat.rpy:659
 translate french Rogue_Jumped_d2fb75cb:
 
     # ch_r "I'll be good. . ."
-    ch_r "I'll be good. . ."
+    ch_r "Je serai gentille..."
 
 # game/Rogue_Chat.rpy:663
 translate french Rogue_Jumped_de1e089a:
 
     # ch_r "If that's what you really want. . ."
-    ch_r "If that's what you really want. . ."
+    ch_r "Si c'est vraiment ce que tu veux..."
 
 # game/Rogue_Chat.rpy:667
 translate french Rogue_Jumped_7b6dbf46:
 
     # ch_r "I can't make any promises."
-    ch_r "I can't make any promises."
+    ch_r "Je ne peux pas faire de promesses."
 
 # game/Rogue_Chat.rpy:676
 translate french Rogue_Jumped_8da56769:
@@ -616,25 +616,25 @@ translate french Rogue_Jumped_8da56769:
 translate french Rogue_Jumped_8be47f95_1:
 
     # ch_r "Maybe don't keep me waiting then. . ."
-    ch_r "Maybe don't keep me waiting then. . ."
+    ch_r "Alors ne me fais pas attendre..."
 
 # game/Rogue_Chat.rpy:687
 translate french Rogue_Jumped_de1e089a_1:
 
     # ch_r "If that's what you really want. . ."
-    ch_r "If that's what you really want. . ."
+    ch_r "Si c'est vraiment ce que tu veux..."
 
 # game/Rogue_Chat.rpy:691
 translate french Rogue_Jumped_343311ce:
 
     # ch_r "You might want to watch your mouth."
-    ch_r "You might want to watch your mouth."
+    ch_r "Tu devrais surveiller tes paroles."
 
 # game/Rogue_Chat.rpy:692
 translate french Rogue_Jumped_67491b03:
 
     # ch_r "Still, I'll try to keep to myself. . ."
-    ch_r "Still, I'll try to keep to myself. . ."
+    ch_r "Je vais quand même essayer de rester discrète..."
 
 # game/Rogue_Chat.rpy:696
 translate french Rogue_Jumped_ba74d7d2:
@@ -646,7 +646,7 @@ translate french Rogue_Jumped_ba74d7d2:
 translate french Rogue_Jumped_f8284cd9:
 
     # ch_r "Will do. . ."
-    ch_r "Will do. . ."
+    ch_r "Bien reçu..."
 
 # game/Rogue_Chat.rpy:707
 translate french Rogue_Jumped_f67682b9:
@@ -664,43 +664,43 @@ translate french Rogue_Jumped_a63bd645:
 translate french Rogue_Not_Virgin_c36b1e55:
 
     # ch_r "Oh, no! You definitely were, it's just. . . you know,"
-    ch_r "Oh, no! You definitely were, it's just. . . you know,"
+    ch_r "Oh, non ! Tu l'étais vraiment, c'est juste.... tu sais,"
 
 # game/Rogue_Chat.rpy:734
 translate french Rogue_Not_Virgin_672f6a2c:
 
     # ch_r "I lead a pretty active lifestyle, so I lost that physical barrier years ago."
-    ch_r "I lead a pretty active lifestyle, so I lost that physical barrier years ago."
+    ch_r "Je mène une vie assez active, j'ai donc perdu cette barrière physique il y a des années."
 
 # game/Rogue_Chat.rpy:742
 translate french Rogue_Not_Virgin_ac3d82c4:
 
     # ch_r "Jerk, not like that. I tore it years ago in combat training."
-    ch_r "Jerk, not like that. I tore it years ago in combat training."
+    ch_r "Idiot, pas comme ça. Je l'ai déchiré il y a des années lors d'un entraînement au combat."
 
 # game/Rogue_Chat.rpy:749
 translate french Rogue_Not_Virgin_132cc7ab:
 
     # ch_r "If you'd like to find that out, you might want to rethink how you talk to me, [RogueX.Petname]."
-    ch_r "If you'd like to find that out, you might want to rethink how you talk to me, [RogueX.Petname]."
+    ch_r "Si tu souhaites le découvrir, tu devrais peut-être repenser ta façon de me parler, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:758
 translate french Rogue_Hungry_de41c5cf:
 
     # ch_r "You know, I've really come to enjoy the taste of your. . . cum. I think I'd like some more of that."
-    ch_r "You know, I've really come to enjoy the taste of your. . . cum. I think I'd like some more of that."
+    ch_r "Tu sais, je commence vraiment à trouver ton... sperme délicieux. Je pense que j'aimerais en avoir encore un peu."
 
 # game/Rogue_Chat.rpy:760
 translate french Rogue_Hungry_f46ee859:
 
     # ch_r "You know, I've really come to enjoy the taste of your, serum. It's like my favorite drink!"
-    ch_r "You know, I've really come to enjoy the taste of your, serum. It's like my favorite drink!"
+    ch_r "Tu sais, j'en suis vraiment venu à apprécier le goût de ton, sérum. C'est comme ma boisson préférée !"
 
 # game/Rogue_Chat.rpy:762
 translate french Rogue_Hungry_de41c5cf_1:
 
     # ch_r "You know, I've really come to enjoy the taste of your. . . cum. I think I'd like some more of that."
-    ch_r "You know, I've really come to enjoy the taste of your. . . cum. I think I'd like some more of that."
+    ch_r "Tu sais, je commence vraiment à trouver ton... sperme délicieux. Je pense que j'aimerais en avoir encore un peu."
 
 # game/Rogue_Chat.rpy:773
 translate french Rogue_SexChat_73db124f:
@@ -712,67 +712,67 @@ translate french Rogue_SexChat_73db124f:
 translate french Rogue_SexChat_fc0c7cc1:
 
     # ch_r "Yeah, I know. You just told me earlier."
-    ch_r "Yeah, I know. You just told me earlier."
+    ch_r "Ouais, je sais. Tu viens de me le dire tout à l'heure."
 
 # game/Rogue_Chat.rpy:784
 translate french Rogue_SexChat_2eacf820:
 
     # ch_r "Yeah, I know that. . ."
-    ch_r "Yeah, I know that. . ."
+    ch_r "Ouais, je sais ça..."
 
 # game/Rogue_Chat.rpy:788
 translate french Rogue_SexChat_8ac018ef:
 
     # ch_r "Oooh, I love a good pipe cleaning too. . ."
-    ch_r "Oooh, I love a good pipe cleaning too. . ."
+    ch_r "Oooh, j'aime aussi un bon ramonage de cheminée..."
 
 # game/Rogue_Chat.rpy:790
 translate french Rogue_SexChat_dd81721b:
 
     # ch_r "Can't say as I mind a good roll in the hay."
-    ch_r "Can't say as I mind a good roll in the hay."
+    ch_r "Je ne peux pas dire que ça me dérange de me rouler dans le foin."
 
 # game/Rogue_Chat.rpy:793
 translate french Rogue_SexChat_c7bf96c2:
 
     # ch_r "Who {i}exactly{/i} are y'all having sex {i}with?{/i}"
-    ch_r "Who {i}exactly{/i} are y'all having sex {i}with?{/i}"
+    ch_r "Avec qui {i}exactement{/i} fais-tu l'amour ?"
 
 # game/Rogue_Chat.rpy:796
 translate french Rogue_SexChat_9792427e:
 
     # ch_r "Heh, [RogueX.Petname], flithy mouth on you. . ."
-    ch_r "Heh, [RogueX.Petname], flithy mouth on you. . ."
+    ch_r "Héhé, [RogueX.Petname], vilaines paroles..."
 
 # game/Rogue_Chat.rpy:803
 translate french Rogue_SexChat_c0f3b03c:
 
     # ch_r "So I hear. . ."
-    ch_r "So I hear. . ."
+    ch_r "C'est ce que j'ai entendu dire..."
 
 # game/Rogue_Chat.rpy:807
 translate french Rogue_SexChat_965f22fe:
 
     # ch_r "I can't say as I mind that. . ."
-    ch_r "I can't say as I mind that. . ."
+    ch_r "Je ne peux pas dire que cela me dérange..."
 
 # game/Rogue_Chat.rpy:809
 translate french Rogue_SexChat_5f41a626:
 
     # ch_r "It's not a bad way to spend some time. . ."
-    ch_r "It's not a bad way to spend some time. . ."
+    ch_r "Ce n'est pas une mauvaise façon de passer du temps..."
 
 # game/Rogue_Chat.rpy:812
 translate french Rogue_SexChat_e1a8f659:
 
     # ch_r "Who {i}exactly{/i} are y'all fucking {i}with?{/i}"
-    ch_r "Who {i}exactly{/i} are y'all fucking {i}with?{/i}"
+    ch_r "Avec qui {i}exactement{/i} tu baises ?"
 
 # game/Rogue_Chat.rpy:815
 translate french Rogue_SexChat_4b7bfff0:
 
     # ch_r "Heh, heh, I . . . I don't {i}mind{/i} it. . ."
-    ch_r "Heh, heh, I . . . I don't {i}mind{/i} it. . ."
+    ch_r "Hé, hé, ça... ça me {i}dérange{/i} pas..."
 
 # game/Rogue_Chat.rpy:822
 translate french Rogue_SexChat_8591990a:
@@ -784,7 +784,7 @@ translate french Rogue_SexChat_8591990a:
 translate french Rogue_SexChat_11067c0c:
 
     # ch_r "I guess I have developed a real taste for you. . ."
-    ch_r "I guess I have developed a real taste for you. . ."
+    ch_r "Je suppose que j'ai pris goût pour toi..."
 
 # game/Rogue_Chat.rpy:828
 translate french Rogue_SexChat_df732003:
@@ -796,49 +796,49 @@ translate french Rogue_SexChat_df732003:
 translate french Rogue_SexChat_034e2b95:
 
     # ch_r "Who {i}exactly{/i} is sucking you off?"
-    ch_r "Who {i}exactly{/i} is sucking you off?"
+    ch_r "Qui te suce, {i}exactement{/i} ?"
 
 # game/Rogue_Chat.rpy:834
 translate french Rogue_SexChat_bb6d7353:
 
     # ch_r "I'm. . . getting used to the taste. . ."
-    ch_r "I'm. . . getting used to the taste. . ."
+    ch_r "Je... m'habitue au goût..."
 
 # game/Rogue_Chat.rpy:841
 translate french Rogue_SexChat_c0f3b03c_1:
 
     # ch_r "So I hear. . ."
-    ch_r "So I hear. . ."
+    ch_r "C'est ce que j'ai entendu dire..."
 
 # game/Rogue_Chat.rpy:845
 translate french Rogue_SexChat_e5ecdc15:
 
     # ch_r "I really enjoy it too. . ."
-    ch_r "I really enjoy it too. . ."
+    ch_r "J'apprécie aussi beaucoup..."
 
 # game/Rogue_Chat.rpy:847
 translate french Rogue_SexChat_594f3b19:
 
     # ch_r "It's certainly an interesting experience . . ."
-    ch_r "It's certainly an interesting experience . . ."
+    ch_r "C'est sûrement une expérience intéressante..."
 
 # game/Rogue_Chat.rpy:850
 translate french Rogue_SexChat_271abae2:
 
     # ch_r "Who {i}exactly{/i} is tit fucking you?"
-    ch_r "Who {i}exactly{/i} is tit fucking you?"
+    ch_r "Qui te baise les seins, {i}exactement{/i} ?"
 
 # game/Rogue_Chat.rpy:853
 translate french Rogue_SexChat_9fbfafd1:
 
     # ch_r "I can't say as I blame you. . ."
-    ch_r "I can't say as I blame you. . ."
+    ch_r "Je ne peux pas vraiment t'en vouloir..."
 
 # game/Rogue_Chat.rpy:860
 translate french Rogue_SexChat_bd702aba:
 
     # ch_r "Yeah, you've said that before. . ."
-    ch_r "Yeah, you've said that before. . ."
+    ch_r "Ouais, tu l'as déjà dit.."
 
 # game/Rogue_Chat.rpy:864
 translate french Rogue_SexChat_4de5c467:
@@ -850,55 +850,55 @@ translate french Rogue_SexChat_4de5c467:
 translate french Rogue_SexChat_309a4ad5:
 
     # ch_r "It is pretty nice to touch someone like that . . ."
-    ch_r "It is pretty nice to touch someone like that . . ."
+    ch_r "C'est assez agréable de toucher quelqu'un comme ça..."
 
 # game/Rogue_Chat.rpy:869
 translate french Rogue_SexChat_94984757:
 
     # ch_r "Who {i}exactly{/i} is jerking you off?"
-    ch_r "Who {i}exactly{/i} is jerking you off?"
+    ch_r "Qui te branle {i}exactement{/i} ?"
 
 # game/Rogue_Chat.rpy:872
 translate french Rogue_SexChat_d2b51f15:
 
     # ch_r "I do like the sensation. . ."
-    ch_r "I do like the sensation. . ."
+    ch_r "J'aime cette sensation..."
 
 # game/Rogue_Chat.rpy:879
 translate french Rogue_SexChat_bd702aba_1:
 
     # ch_r "Yeah, you've said that before. . ."
-    ch_r "Yeah, you've said that before. . ."
+    ch_r "Ouais, tu l'as déjà dit.."
 
 # game/Rogue_Chat.rpy:883
 translate french Rogue_SexChat_16ce5c8f:
 
     # ch_r "I love how you feel in my hand. . ."
-    ch_r "I love how you feel in my hand. . ."
+    ch_r "J'aime te sentir dans ma main..."
 
 # game/Rogue_Chat.rpy:885
 translate french Rogue_SexChat_309a4ad5_1:
 
     # ch_r "It is pretty nice to touch someone like that . . ."
-    ch_r "It is pretty nice to touch someone like that . . ."
+    ch_r "C'est assez agréable de toucher quelqu'un comme ça..."
 
 # game/Rogue_Chat.rpy:888
 translate french Rogue_SexChat_94984757_1:
 
     # ch_r "Who {i}exactly{/i} is jerking you off?"
-    ch_r "Who {i}exactly{/i} is jerking you off?"
+    ch_r "Qui te branle {i}exactement{/i} ?"
 
 # game/Rogue_Chat.rpy:891
 translate french Rogue_SexChat_d2b51f15_1:
 
     # ch_r "I do like the sensation. . ."
-    ch_r "I do like the sensation. . ."
+    ch_r "J'aime cette sensation..."
 
 # game/Rogue_Chat.rpy:899
 translate french Rogue_SexChat_487ff01a:
 
     # ch_r "Yeah, I think we've established that. . ."
-    ch_r "Yeah, I think we've established that. . ."
+    ch_r "Oui, je pense que nous avons établi cela..."
 
 # game/Rogue_Chat.rpy:903
 translate french Rogue_SexChat_7a729fd3:
@@ -910,7 +910,7 @@ translate french Rogue_SexChat_7a729fd3:
 translate french Rogue_SexChat_87cdb832:
 
     # ch_r "It's nice to have someone who can really touch me . . ."
-    ch_r "It's nice to have someone who can really touch me . . ."
+    ch_r "C'est bien d'avoir quelqu'un qui peut vraiment me toucher..."
 
 # game/Rogue_Chat.rpy:908
 translate french Rogue_SexChat_dcb4ba57:
@@ -922,7 +922,7 @@ translate french Rogue_SexChat_dcb4ba57:
 translate french Rogue_SexChat_9e8ae5ba:
 
     # ch_r "I do like how that feels. . ."
-    ch_r "I do like how that feels. . ."
+    ch_r "J'aime bien cette sensation..."
 
 # game/Rogue_Chat.rpy:919
 translate french Rogue_SexChat_b690a953:
@@ -970,13 +970,13 @@ translate french Rogue_SexChat_2d0f139a:
 translate french Rogue_SexChat_60239bec:
 
     # ch_r "I don't know, I guess maybe. . ."
-    ch_r "I don't know, I guess maybe. . ."
+    ch_r "Je ne sais pas, je suppose que peut-être.."
 
 # game/Rogue_Chat.rpy:951
 translate french Rogue_SexChat_1ef5dbf9:
 
     # ch_r "I guess I love it when we kiss. . ."
-    ch_r "I guess I love it when we kiss. . ."
+    ch_r "Je suppose que j'aime quand on s'embrasse.."
 
 # game/Rogue_Chat.rpy:954
 translate french Rogue_SexChat_6f7a1c76:
@@ -994,31 +994,31 @@ translate french Rogue_SexChat_857e050f:
 translate french Rogue_SexChat_ab01395a:
 
     # ch_r "I like when you lick my. . . asshole."
-    ch_r "I like when you lick my. . . asshole."
+    ch_r "J'aime quand tu me lèches le... trou du cul."
 
 # game/Rogue_Chat.rpy:960
 translate french Rogue_SexChat_09715259:
 
     # ch_r "I like when you . . . finger my asshole."
-    ch_r "I like when you . . . finger my asshole."
+    ch_r "J'aime quand tu.... me doigte le cul."
 
 # game/Rogue_Chat.rpy:962
 translate french Rogue_SexChat_70fec540:
 
     # ch_r "I like when you fuck me hard."
-    ch_r "I like when you fuck me hard."
+    ch_r "J'aime quand tu me baises fort."
 
 # game/Rogue_Chat.rpy:964
 translate french Rogue_SexChat_33dc97e0:
 
     # ch_r "I like when you lick my pussy."
-    ch_r "I like when you lick my pussy."
+    ch_r "J'aime quand tu me lèches la chatte."
 
 # game/Rogue_Chat.rpy:966
 translate french Rogue_SexChat_0981ebdf:
 
     # ch_r "I like when you fingerblast me."
-    ch_r "I like when you fingerblast me."
+    ch_r "J'aime quand tu me doigtes la chatte."
 
 # game/Rogue_Chat.rpy:968
 translate french Rogue_SexChat_55d5d2cc:
@@ -1030,7 +1030,7 @@ translate french Rogue_SexChat_55d5d2cc:
 translate french Rogue_SexChat_9095e0f6:
 
     # ch_r "I like to work your cock with my tits."
-    ch_r "I like to work your cock with my tits."
+    ch_r "J'aime branler ta bite avec mes seins."
 
 # game/Rogue_Chat.rpy:972
 translate french Rogue_SexChat_6a0a7b30:
@@ -1048,55 +1048,55 @@ translate french Rogue_SexChat_95fcea1e:
 translate french Rogue_SexChat_90edc1f1:
 
     # ch_r "I like it when you grind against me."
-    ch_r "I like it when you grind against me."
+    ch_r "J'aime quand tu te frottes contre moi."
 
 # game/Rogue_Chat.rpy:978
 translate french Rogue_SexChat_d6ba898a:
 
     # ch_r "I like it when you suck on my tits."
-    ch_r "I like it when you suck on my tits."
+    ch_r "J'aime quand tu me suces les seins."
 
 # game/Rogue_Chat.rpy:980
 translate french Rogue_SexChat_252493c1:
 
     # ch_r "I like it when you feel up my tits."
-    ch_r "I like it when you feel up my tits."
+    ch_r "J'aime quand tu me masses les seins."
 
 # game/Rogue_Chat.rpy:982
 translate french Rogue_SexChat_7877560f:
 
     # ch_r "I like it when you massage my thighs."
-    ch_r "I like it when you massage my thighs."
+    ch_r "J'aime bien quand tu me masses les cuisses."
 
 # game/Rogue_Chat.rpy:984
 translate french Rogue_SexChat_a50f2633:
 
     # ch_r "I don't really know. . ."
-    ch_r "I don't really know. . ."
+    ch_r "Je ne sais pas vraiment..."
 
 # game/Rogue_Chat.rpy:991
 translate french Rogue_SexChat_75d2789f:
 
     # ch_r "We've been over this already."
-    ch_r "We've been over this already."
+    ch_r "Nous en avons déjà parlé."
 
 # game/Rogue_Chat.rpy:996
 translate french Rogue_SexChat_d2b55c4e:
 
     # ch_r "Heh, ok, if that's what you want. . ."
-    ch_r "Heh, ok, if that's what you want. . ."
+    ch_r "Héhé, ok, si c'est ce que tu veux..."
 
 # game/Rogue_Chat.rpy:1001
 translate french Rogue_SexChat_2a26445b:
 
     # ch_r "If that's what you want, [RogueX.Petname]."
-    ch_r "If that's what you want, [RogueX.Petname]."
+    ch_r "Si c'est ce que tu veux, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1008
 translate french Rogue_SexChat_412e78e8:
 
     # ch_r "I'll say what I want, and you'll like it, [RogueX.Petname]."
-    ch_r "I'll say what I want, and you'll like it, [RogueX.Petname]."
+    ch_r "Je dis ce que je veux, et ça te plaira, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1014
 translate french Rogue_SexChat_239a925b:
@@ -1108,19 +1108,19 @@ translate french Rogue_SexChat_239a925b:
 translate french Rogue_SexChat_75d2789f_1:
 
     # ch_r "We've been over this already."
-    ch_r "We've been over this already."
+    ch_r "Nous en avons déjà parlé."
 
 # game/Rogue_Chat.rpy:1025
 translate french Rogue_SexChat_d2b55c4e_1:
 
     # ch_r "Heh, ok, if that's what you want. . ."
-    ch_r "Heh, ok, if that's what you want. . ."
+    ch_r "Héhé, ok, si c'est ce que tu veux..."
 
 # game/Rogue_Chat.rpy:1030
 translate french Rogue_SexChat_2a26445b_1:
 
     # ch_r "If that's what you want, [RogueX.Petname]."
-    ch_r "If that's what you want, [RogueX.Petname]."
+    ch_r "Si c'est ce que tu veux, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1035
 translate french Rogue_SexChat_7b3fa427:
@@ -1138,43 +1138,43 @@ translate french Rogue_SexChat_60fd485c:
 translate french Rogue_SexChat_75d2789f_2:
 
     # ch_r "We've been over this already."
-    ch_r "We've been over this already."
+    ch_r "Nous en avons déjà parlé."
 
 # game/Rogue_Chat.rpy:1053
 translate french Rogue_SexChat_68e5cdfe:
 
     # ch_r "Heh, ok, lead the way. . ."
-    ch_r "Heh, ok, passe devant..."
+    ch_r "Héhé, ok, passe devant..."
 
 # game/Rogue_Chat.rpy:1058
 translate french Rogue_SexChat_6e37e78a:
 
     # ch_r "I'll restrain myself then, [RogueX.Petname]."
-    ch_r "I'll restrain myself then, [RogueX.Petname]."
+    ch_r "Je vais donc me retenir, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1065
 translate french Rogue_SexChat_609b203e:
 
     # ch_r "You know you don't want that, [RogueX.Petname]."
-    ch_r "You know you don't want that, [RogueX.Petname]."
+    ch_r "Tu sais que tu ne veux pas cela, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1071
 translate french Rogue_SexChat_223d8b55:
 
     # ch_r "I'll do what I want, prick."
-    ch_r "I'll do what I want, prick."
+    ch_r "Je fais ce que je veux, connard."
 
 # game/Rogue_Chat.rpy:1077
 translate french Rogue_SexChat_75d2789f_3:
 
     # ch_r "We've been over this already."
-    ch_r "We've been over this already."
+    ch_r "Nous en avons déjà parlé."
 
 # game/Rogue_Chat.rpy:1082
 translate french Rogue_SexChat_e7e2c809:
 
     # ch_r "Heh, I think I can handle that. . ."
-    ch_r "Heh, I think I can handle that. . ."
+    ch_r "Héhé, je pense que je peux gérer ça..."
 
 # game/Rogue_Chat.rpy:1087
 translate french Rogue_SexChat_866ad2c6:
@@ -1186,25 +1186,25 @@ translate french Rogue_SexChat_866ad2c6:
 translate french Rogue_SexChat_87a334bb:
 
     # ch_r "I can certainly try, [RogueX.Petname]."
-    ch_r "I can certainly try, [RogueX.Petname]."
+    ch_r "Je peux certainement essayer, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1097
 translate french Rogue_SexChat_7a434abc:
 
     # ch_r "If I want to, I will, but not because you say so."
-    ch_r "If I want to, I will, but not because you say so."
+    ch_r "Si je le veux, je le ferai, mais pas parce que tu le dis."
 
 # game/Rogue_Chat.rpy:1125
 translate french Rogue_Chitchat_9a7560d0:
 
     # ch_r "You know, I never got around to giving you my number, here you go."
-    ch_r "You know, I never got around to giving you my number, here you go."
+    ch_r "Tu sais, je n'ai jamais eu le temps de te donner mon numéro, voilà."
 
 # game/Rogue_Chat.rpy:1129
 translate french Rogue_Chitchat_cd2a6c4c:
 
     # ch_r "You know, you should probably have my number, here you go."
-    ch_r "You know, you should probably have my number, here you go."
+    ch_r "Tu sais, tu devrais probablement avoir mon numéro, alors voilà."
 
 # game/Rogue_Chat.rpy:1138
 translate french Rogue_Chitchat_3ef3f152:
@@ -1216,7 +1216,7 @@ translate french Rogue_Chitchat_3ef3f152:
 translate french Rogue_Chitchat_e6ed354c:
 
     # ch_r "(sniff, sniff). . . something kind of smells like monkey butt in here. . ."
-    ch_r "(sniff, sniff). . . something kind of smells like monkey butt in here. . ."
+    ch_r "(sniff, sniff).. quelque chose sent le cul de singe ici..."
 
 # game/Rogue_Chat.rpy:1206
 translate french Rogue_Chitchat_559eadc2:
@@ -1294,13 +1294,13 @@ translate french Rogue_Chitchat_0ec01ede:
 translate french Rogue_Chitchat_1e7c324f:
 
     # ch_r "I'm glad you have my key now, just don't use it for any funny business. . ."
-    ch_r "I'm glad you have my key now, just don't use it for any funny business. . ."
+    ch_r "Je suis contente que tu aies ma clé maintenant, mais ne l'utilise pas pour des trucs bizarres..."
 
 # game/Rogue_Chat.rpy:1242
 translate french Rogue_Chitchat_bb3f9721:
 
     # ch_r "I'm glad you have my key now, maybe you could . . . \"surprise\" me sometime. . ."
-    ch_r "I'm glad you have my key now, maybe you could . . . \"surprise\" me sometime. . ."
+    ch_r "Je suis contente que tu aies ma clé maintenant, peut-être que tu peux me... \"surprendre\" un jour..."
 
 # game/Rogue_Chat.rpy:1245
 translate french Rogue_Chitchat_a32c67a0:
@@ -1360,13 +1360,13 @@ translate french Rogue_Chitchat_da1ce27e:
 translate french Rogue_Chitchat_fa0e1712:
 
     # ch_r "Did you like what you saw?"
-    ch_r "Did you like what you saw?"
+    ch_r "T'as aimé ce que t'as vu ?"
 
 # game/Rogue_Chat.rpy:1286
 translate french Rogue_Chitchat_86e0bc8a:
 
     # ch_r "Hey, when you saw me bottomless earlier, you didn't have much to say. . ."
-    ch_r "Hey, when you saw me bottomless earlier, you didn't have much to say. . ."
+    ch_r "Hé, quand tu m'as vu sans le bas tout à l'heure, tu n'avais pas grand chose à dire..."
 
 # game/Rogue_Chat.rpy:1292
 translate french Rogue_Chitchat_ff6d9574:
@@ -1504,7 +1504,7 @@ translate french Rogue_Chitchat_60a6870a:
 translate french Rogue_Chitchat_766172cc:
 
     # ch_r "You been outside today? Wow, is it gorgeous!"
-    ch_r "You been outside today? Wow, is it gorgeous!"
+    ch_r "Tu es sorti aujourd'hui ? Wow, c'est magnifique !"
 
 # game/Rogue_Chat.rpy:1409
 translate french Rogue_Chitchat_7114fc5c:
@@ -1534,7 +1534,7 @@ translate french Rogue_Names_02e41341:
 translate french Rogue_Names_2c2f65b1:
 
     # ch_r "Oh? What would you like me to call you?" nointeract
-    ch_r "Oh? What would you like me to call you?" nointeract
+    ch_r "Comment veux-tu que je t'appelle ?" nointeract
 
 # game/Rogue_Chat.rpy:1432
 translate french Rogue_Names_9a25d8b4:
@@ -1564,19 +1564,19 @@ translate french Rogue_Names_2db51607:
 translate french Rogue_Names_3b80d3ab:
 
     # ch_r "Yes, [RogueX.Petname]."
-    ch_r "Yes, [RogueX.Petname]."
+    ch_r "Oui, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1447
 translate french Rogue_Names_356780c8:
 
     # ch_r "As you wish, [RogueX.Petname]."
-    ch_r "As you wish, [RogueX.Petname]."
+    ch_r "Comme tu veux, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1450
 translate french Rogue_Names_36dcf76d:
 
     # ch_r "Heh, very cheeky, [RogueX.Petname]."
-    ch_r "Heh, very cheeky, [RogueX.Petname]."
+    ch_r "Héhé, très espiègle, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1453
 translate french Rogue_Names_4ed2787f:
@@ -1630,7 +1630,7 @@ translate french Rogue_Pet_533169ea:
 translate french Rogue_Pet_985d8f5a:
 
     # ch_r "Aw, I am your boo, [RogueX.Petname]."
-    ch_r "Aw, I am your boo, [RogueX.Petname]."
+    ch_r "Aw, je suis ta chouchou, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1496
 translate french Rogue_Pet_6679289c:
@@ -1642,7 +1642,7 @@ translate french Rogue_Pet_6679289c:
 translate french Rogue_Pet_39461d06:
 
     # ch_r "Aw, I am your bae, [RogueX.Petname]."
-    ch_r "Aw, I am your bae, [RogueX.Petname]."
+    ch_r "Aw, je suis ton chérichou, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1505
 translate french Rogue_Pet_7eb336bb:
@@ -1696,7 +1696,7 @@ translate french Rogue_Pet_cdaa1dc2:
 translate french Rogue_Pet_a13302c3:
 
     # ch_r "Inappropriate, [RogueX.Petname]."
-    ch_r "Inappropriate, [RogueX.Petname]."
+    ch_r "Inapproprié, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1547
 translate french Rogue_Pet_aaf06b43:
@@ -1714,7 +1714,7 @@ translate french Rogue_Pet_d891bb0f:
 translate french Rogue_Pet_356780c8:
 
     # ch_r "As you wish, [RogueX.Petname]."
-    ch_r "As you wish, [RogueX.Petname]."
+    ch_r "Comme tu veux, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1564
 translate french Rogue_Pet_817c2a20:
@@ -1744,7 +1744,7 @@ translate french Rogue_Pet_c189e03f:
 translate french Rogue_Pet_2770a6c9:
 
     # ch_r "Well I never!"
-    ch_r "Well I never!"
+    ch_r "Pince-moi, je rêve !"
 
 # game/Rogue_Chat.rpy:1589
 translate french Rogue_Pet_18b5f946:
@@ -1792,7 +1792,7 @@ translate french Rogue_Pet_85d9da2c:
 translate french Rogue_Pet_a13302c3_1:
 
     # ch_r "Inappropriate, [RogueX.Petname]."
-    ch_r "Inappropriate, [RogueX.Petname]."
+    ch_r "Inapproprié, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1626
 translate french Rogue_Pet_8315c8d0:
@@ -1822,19 +1822,19 @@ translate french Rogue_Rename_ce67b145:
 translate french Rogue_Rename_30452768:
 
     # ch_r "Yeah, I could go by that again. . ."
-    ch_r "Yeah, I could go by that again. . ."
+    ch_r "Oui, je pourrais encore passer par là..."
 
 # game/Rogue_Chat.rpy:1655
 translate french Rogue_Rename_30452768_1:
 
     # ch_r "Yeah, I could go by that again. . ."
-    ch_r "Yeah, I could go by that again. . ."
+    ch_r "Oui, je pourrais encore passer par là..."
 
 # game/Rogue_Chat.rpy:1658
 translate french Rogue_Rename_30452768_2:
 
     # ch_r "Yeah, I could go by that again. . ."
-    ch_r "Yeah, I could go by that again. . ."
+    ch_r "Oui, je pourrais encore passer par là..."
 
 # game/Rogue_Chat.rpy:1667
 translate french Rogue_Personality_de9477b5:
@@ -1846,25 +1846,25 @@ translate french Rogue_Personality_de9477b5:
 translate french Rogue_Personality_e1f0c127:
 
     # "Any time you go over the limit in a given stat, the excess will spill over into the chosen stat instead."
-    "Any time you go over the limit in a given stat, the excess will spill over into the chosen stat instead."
+    "Chaque fois que tu dépasses la limite d'une statistique donnée, l'excès se répercute sur la statistique choisie."
 
 # game/Rogue_Chat.rpy:1669
 translate french Rogue_Personality_a888509f:
 
     # "This will also impact which personality trait takes priority in dialog."
-    "This will also impact which personality trait takes priority in dialog."
+    "Cela aura également un impact sur le choix du trait de personnalité prioritaire dans le dialogue."
 
 # game/Rogue_Chat.rpy:1670
 translate french Rogue_Personality_e9f29bfd:
 
     # ch_r "Sure, what's up?" nointeract
-    ch_r "Sure, what's up?" nointeract
+    ch_r "Bien sûr, qu'est-ce qu'il y a ?" nointeract
 
 # game/Rogue_Chat.rpy:1673
 translate french Rogue_Personality_28bff007:
 
     # ch_p "If you really love me, could you please just do what I say?"
-    ch_p "If you really love me, could you please just do what I say?"
+    ch_p "Si tu m'aimes vraiment, pourrais-tu s'il te plaît faire ce que je te dis ?"
 
 # game/Rogue_Chat.rpy:1674
 translate french Rogue_Personality_a30c87d9:
@@ -1876,7 +1876,7 @@ translate french Rogue_Personality_a30c87d9:
 translate french Rogue_Personality_a78a6eae:
 
     # ch_p "If you really love me, could lighten up a bit, just have some fun?"
-    ch_p "If you really love me, could lighten up a bit, just have some fun?"
+    ch_p "Si tu m'aimes vraiment, tu pourrais te détendre un peu, juste t'amuser ?"
 
 # game/Rogue_Chat.rpy:1678
 translate french Rogue_Personality_f17e0929:
@@ -1888,7 +1888,7 @@ translate french Rogue_Personality_f17e0929:
 translate french Rogue_Personality_078973f9:
 
     # ch_p "I want you to be less inhibited."
-    ch_p "I want you to be less inhibited."
+    ch_p "Je veux que tu sois plus extravertie."
 
 # game/Rogue_Chat.rpy:1683
 translate french Rogue_Personality_a5df682a:
@@ -1900,7 +1900,7 @@ translate french Rogue_Personality_a5df682a:
 translate french Rogue_Personality_0f2cf842:
 
     # ch_p "I'd like you to learn to love me."
-    ch_p "I'd like you to learn to love me."
+    ch_p "J'aimerais que tu apprennes à m'aimer."
 
 # game/Rogue_Chat.rpy:1687
 translate french Rogue_Personality_ead2b443:
@@ -1912,7 +1912,7 @@ translate french Rogue_Personality_ead2b443:
 translate french Rogue_Personality_8de00de6:
 
     # ch_p "I know we're having fun, but couldn't you listen to me sometimes?"
-    ch_p "I know we're having fun, but couldn't you listen to me sometimes?"
+    ch_p "Je sais qu'on s'amuse, mais ne pourrais-tu pas m'écouter parfois ?"
 
 # game/Rogue_Chat.rpy:1692
 translate french Rogue_Personality_7fb526bb:
@@ -1924,7 +1924,7 @@ translate french Rogue_Personality_7fb526bb:
 translate french Rogue_Personality_e064ece1:
 
     # ch_p "I know we're having fun, but do you even care about me?"
-    ch_p "I know we're having fun, but do you even care about me?"
+    ch_p "Je sais qu'on s'amuse, mais est-ce que tu te soucies de moi au moins ?"
 
 # game/Rogue_Chat.rpy:1697
 translate french Rogue_Personality_19800b11:
@@ -1936,7 +1936,7 @@ translate french Rogue_Personality_19800b11:
 translate french Rogue_Personality_667b4829:
 
     # ch_p "You know what we talked about before? Nevermind that stuff."
-    ch_p "You know what we talked about before? Nevermind that stuff."
+    ch_p "Tu sais, le truc dont on a parlé ? Oublie tout ça."
 
 # game/Rogue_Chat.rpy:1702
 translate french Rogue_Personality_0ce55e55:
@@ -2038,7 +2038,7 @@ translate french Rogue_Summon_ae83ca53:
 translate french Rogue_Summon_e991d186:
 
     # ch_r "I'm in my room, [RogueX.Petname], want to swing by?"
-    ch_r "I'm in my room, [RogueX.Petname], want to swing by?"
+    ch_r "Je suis dans ma chambre, [RogueX.Petname], tu veux passer ?"
 
 # game/Rogue_Chat.rpy:1791
 translate french Rogue_Summon_b5ac920d:
@@ -2086,13 +2086,13 @@ translate french Rogue_Summon_4056b0c2:
 translate french Rogue_Summon_a205d66d:
 
     # ch_r "Fine by me."
-    ch_r "Fine by me."
+    ch_r "Ça me convient."
 
 # game/Rogue_Chat.rpy:1830
 translate french Rogue_Summon_c041d495:
 
     # ch_r "I suppose I can, [RogueX.Petname]."
-    ch_r "I suppose I can, [RogueX.Petname]."
+    ch_r "Je suppose que je peux, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1834
 translate french Rogue_Summon_8558e8c1:
@@ -2104,7 +2104,7 @@ translate french Rogue_Summon_8558e8c1:
 translate french Rogue_Summon_46b1dd4b:
 
     # ch_r "If you want to see me, you know where to find me."
-    ch_r "If you want to see me, you know where to find me."
+    ch_r "Si tu veux me voir, tu sais où me trouver."
 
 # game/Rogue_Chat.rpy:1845
 translate french Rogue_Summon_4056b0c2_1:
@@ -2116,25 +2116,25 @@ translate french Rogue_Summon_4056b0c2_1:
 translate french Rogue_Summon_e23a9e04:
 
     # ch_r "Oh, ok. Talk to you later then."
-    ch_r "Oh, ok. Talk to you later then."
+    ch_r "Oh, ok. On se parle plus tard alors."
 
 # game/Rogue_Chat.rpy:1876
 translate french Rogue_Summon_c041d495_1:
 
     # ch_r "I suppose I can, [RogueX.Petname]."
-    ch_r "I suppose I can, [RogueX.Petname]."
+    ch_r "Je suppose que je peux, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1883
 translate french Rogue_Summon_ca6d747c:
 
     # ch_r "I don't know who you think you are, boss'in me around like that."
-    ch_r "I don't know who you think you are, boss'in me around like that."
+    ch_r "Je ne sais pas pour qui tu te prends, tu me donnes des ordres comme ça."
 
 # game/Rogue_Chat.rpy:1887
 translate french Rogue_Summon_46b1dd4b_1:
 
     # ch_r "If you want to see me, you know where to find me."
-    ch_r "If you want to see me, you know where to find me."
+    ch_r "Si tu veux me voir, tu sais où me trouver."
 
 # game/Rogue_Chat.rpy:1899
 translate french Rogue_Summon_aacb5350:
@@ -2152,19 +2152,19 @@ translate french Rogue_Summon_c23bdc03:
 translate french Rogue_Summon_0f700ea3:
 
     # ch_r "I seriously can't, [RogueX.Petname], big test coming up."
-    ch_r "I seriously can't, [RogueX.Petname], big test coming up."
+    ch_r "Je ne peux sérieusement pas, [RogueX.Petname], un grand test arrive."
 
 # game/Rogue_Chat.rpy:1916
 translate french Rogue_Summon_b73efc56:
 
     # ch_r "Wish I could, [RogueX.Petname], but I need to get some hours in."
-    ch_r "Wish I could, [RogueX.Petname], but I need to get some hours in."
+    ch_r "J'aimerais bien, [RogueX.Petname], mais j'ai besoin de quelques heures."
 
 # game/Rogue_Chat.rpy:1918
 translate french Rogue_Summon_c69b5e46:
 
     # ch_r "I'm sorry, [RogueX.Petname], but I'm kinda busy right now."
-    ch_r "I'm sorry, [RogueX.Petname], but I'm kinda busy right now."
+    ch_r "Je suis désolée, [RogueX.Petname], mais je suis un peu occupée en ce moment."
 
 # game/Rogue_Chat.rpy:1930
 translate french Rogue_Summon_4056b0c2_2:
@@ -2188,7 +2188,7 @@ translate french Rogue_Summon_67e8e22a:
 translate french Rogue_Summon_c683ef55:
 
     # ch_r "I'll be waiting."
-    ch_r "I'll be waiting."
+    ch_r "Je t'attendrai."
 
 # game/Rogue_Chat.rpy:1942
 translate french Rogue_Summon_5f0015c5:
@@ -2206,37 +2206,37 @@ translate french Rogue_Summon_d7085445:
 translate french Rogue_Summon_c3202d7a:
 
     # ch_r "I'll see you there."
-    ch_r "I'll see you there."
+    ch_r "Je t'y retrouve."
 
 # game/Rogue_Chat.rpy:1951
 translate french Rogue_Summon_c3202d7a_1:
 
     # ch_r "I'll see you there."
-    ch_r "I'll see you there."
+    ch_r "Je t'y retrouve."
 
 # game/Rogue_Chat.rpy:1954
 translate french Rogue_Summon_c3202d7a_2:
 
     # ch_r "I'll see you there."
-    ch_r "I'll see you there."
+    ch_r "Je t'y retrouve."
 
 # game/Rogue_Chat.rpy:1957
 translate french Rogue_Summon_44fb8da6:
 
     # ch_r "You know, I'll just meet you in my room."
-    ch_r "You know, I'll just meet you in my room."
+    ch_r "Je te retrouve dans ma chambre."
 
 # game/Rogue_Chat.rpy:1963
 translate french Rogue_Summon_749eef23:
 
     # ch_r "Oh, how could I say \"no\" to you, [RogueX.Petname]?"
-    ch_r "Oh, how could I say \"no\" to you, [RogueX.Petname]?"
+    ch_r "Oh, comment pourrais-je te dire \"non\", [RogueX.Petname] ?"
 
 # game/Rogue_Chat.rpy:1965
 translate french Rogue_Summon_c3344004:
 
     # ch_r "Fine, if you insist, [RogueX.Petname]."
-    ch_r "Fine, if you insist, [RogueX.Petname]."
+    ch_r "Bien, si tu insistes, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:1969
 translate french Rogue_Summon_55a2bba3:
@@ -2254,7 +2254,7 @@ translate french Rogue_Leave_a4d3e5bd:
 translate french Rogue_Leave_8ce4ea15:
 
     # ch_r "I'm headed out, see you later."
-    ch_r "I'm headed out, see you later."
+    ch_r "Je m'en vais, à plus tard."
 
 # game/Rogue_Chat.rpy:2007
 translate french Rogue_Leave_67ccabf7:
@@ -2284,7 +2284,7 @@ translate french Rogue_Leave_9a9af869:
 translate french Rogue_Leave_3c03e643:
 
     # ch_r "I'll be heading to your room, [RogueX.Petname]."
-    ch_r "I'll be heading to your room, [RogueX.Petname]."
+    ch_r "Je vais aller dans ta chambre, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:2017
 translate french Rogue_Leave_506d80f0:
@@ -2296,7 +2296,7 @@ translate french Rogue_Leave_506d80f0:
 translate french Rogue_Leave_7dbd9184:
 
     # ch_r "I'm hitting the showers, later."
-    ch_r "I'm hitting the showers, later."
+    ch_r "Je vais prendre une douche, à plus."
 
 # game/Rogue_Chat.rpy:2022
 translate french Rogue_Leave_b8c54446:
@@ -2308,7 +2308,7 @@ translate french Rogue_Leave_b8c54446:
 translate french Rogue_Leave_8ce4ea15_1:
 
     # ch_r "I'm headed out, see you later."
-    ch_r "I'm headed out, see you later."
+    ch_r "Je m'en vais, à plus tard."
 
 # game/Rogue_Chat.rpy:2047
 translate french Rogue_Leave_45c912a0:
@@ -2338,7 +2338,7 @@ translate french Rogue_Leave_c036dc1f:
 translate french Rogue_Leave_3c03e643_1:
 
     # ch_r "I'll be heading to your room, [RogueX.Petname]."
-    ch_r "I'll be heading to your room, [RogueX.Petname]."
+    ch_r "Je vais aller dans ta chambre, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:2058
 translate french Rogue_Leave_c700559e:
@@ -2368,43 +2368,43 @@ translate french Rogue_Leave_183ec677:
 translate french Rogue_Leave_e23a9e04:
 
     # ch_r "Oh, ok. Talk to you later then."
-    ch_r "Oh, ok. Talk to you later then."
+    ch_r "Oh, ok. On se parle plus tard alors."
 
 # game/Rogue_Chat.rpy:2108
 translate french Rogue_Leave_c041d495:
 
     # ch_r "I suppose I can, [RogueX.Petname]."
-    ch_r "I suppose I can, [RogueX.Petname]."
+    ch_r "Je suppose que je peux, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:2116
 translate french Rogue_Leave_ca6d747c:
 
     # ch_r "I don't know who you think you are, boss'in me around like that."
-    ch_r "I don't know who you think you are, boss'in me around like that."
+    ch_r "Je ne sais pas pour qui tu te prends, tu me donnes des ordres comme ça."
 
 # game/Rogue_Chat.rpy:2121
 translate french Rogue_Leave_46b1dd4b:
 
     # ch_r "If you want to see me, you know where to find me."
-    ch_r "If you want to see me, you know where to find me."
+    ch_r "Si tu veux me voir, tu sais où me trouver."
 
 # game/Rogue_Chat.rpy:2142
 translate french Rogue_Leave_0f700ea3:
 
     # ch_r "I seriously can't, [RogueX.Petname], big test coming up."
-    ch_r "I seriously can't, [RogueX.Petname], big test coming up."
+    ch_r "Je ne peux sérieusement pas, [RogueX.Petname], un grand test arrive."
 
 # game/Rogue_Chat.rpy:2144
 translate french Rogue_Leave_b73efc56:
 
     # ch_r "Wish I could, [RogueX.Petname], but I need to get some hours in."
-    ch_r "Wish I could, [RogueX.Petname], but I need to get some hours in."
+    ch_r "J'aimerais bien, [RogueX.Petname], mais j'ai besoin de quelques heures."
 
 # game/Rogue_Chat.rpy:2146
 translate french Rogue_Leave_c69b5e46:
 
     # ch_r "I'm sorry, [RogueX.Petname], but I'm kinda busy right now."
-    ch_r "I'm sorry, [RogueX.Petname], but I'm kinda busy right now."
+    ch_r "Je suis désolée, [RogueX.Petname], mais je suis un peu occupée en ce moment."
 
 # game/Rogue_Chat.rpy:2160
 translate french Rogue_Leave_4056b0c2:
@@ -2422,19 +2422,19 @@ translate french Rogue_Leave_7042f369:
 translate french Rogue_Leave_fa4d4b59:
 
     # ch_r "I'll meet you there."
-    ch_r "I'll meet you there."
+    ch_r "Je t'y retrouve."
 
 # game/Rogue_Chat.rpy:2169
 translate french Rogue_Leave_c683ef55:
 
     # ch_r "I'll be waiting."
-    ch_r "I'll be waiting."
+    ch_r "Je t'attendrai."
 
 # game/Rogue_Chat.rpy:2172
 translate french Rogue_Leave_feff6fb5:
 
     # ch_r "I guess I'll see you there."
-    ch_r "I guess I'll see you there."
+    ch_r "Je suppose que je t'y retrouverai."
 
 # game/Rogue_Chat.rpy:2175
 translate french Rogue_Leave_79a2c2a7:
@@ -2452,31 +2452,31 @@ translate french Rogue_Leave_79a2c2a7_1:
 translate french Rogue_Leave_44fb8da6:
 
     # ch_r "You know, I'll just meet you in my room."
-    ch_r "You know, I'll just meet you in my room."
+    ch_r "Je te retrouve dans ma chambre."
 
 # game/Rogue_Chat.rpy:2188
 translate french Rogue_Leave_749eef23:
 
     # ch_r "Oh, how could I say \"no\" to you, [RogueX.Petname]?"
-    ch_r "Oh, how could I say \"no\" to you, [RogueX.Petname]?"
+    ch_r "Oh, comment pourrais-je te dire \"non\", [RogueX.Petname] ?"
 
 # game/Rogue_Chat.rpy:2190
 translate french Rogue_Leave_c3344004:
 
     # ch_r "Fine, if you insist, [RogueX.Petname]."
-    ch_r "Fine, if you insist, [RogueX.Petname]."
+    ch_r "Bien, si tu insistes, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:2193
 translate french Rogue_Leave_37b4116f:
 
     # ch_r "I can stay for a bit."
-    ch_r "I can stay for a bit."
+    ch_r "Je peux rester un peu."
 
 # game/Rogue_Chat.rpy:2320
 translate french Rogue_Clothes_f4bd2cef:
 
     # ch_r "Oooh, naughty. . ."
-    ch_r "Oooh, naughty. . ."
+    ch_r "Oooh, vilain..."
 
 # game/Rogue_Chat.rpy:2322
 translate french Rogue_Clothes_d4c895b9:
@@ -2542,7 +2542,7 @@ translate french Rogue_Wardrobe_Menu_f95a8ea8:
 translate french Rogue_Wardrobe_Menu_de5f16b2:
 
     # ch_r "Aw, that's sweet."
-    ch_r "Aw, that's sweet."
+    ch_r "Aw, c'est gentil."
 
 # game/Rogue_Chat.rpy:2406
 translate french Rogue_Wardrobe_Menu_5096cf50:
@@ -2602,19 +2602,19 @@ translate french Rogue_Clothes_Outfits_e0dbd7bb:
 translate french Rogue_Clothes_Outfits_20d2b1da:
 
     # ch_r "Ok, no problem."
-    ch_r "Ok, no problem."
+    ch_r "Ok, pas de problème."
 
 # game/Rogue_Chat.rpy:2516
 translate french Rogue_Clothes_Outfits_20d2b1da_1:
 
     # ch_r "Ok, no problem."
-    ch_r "Ok, no problem."
+    ch_r "Ok, pas de problème."
 
 # game/Rogue_Chat.rpy:2521
 translate french Rogue_Clothes_Outfits_20d2b1da_2:
 
     # ch_r "Ok, no problem."
-    ch_r "Ok, no problem."
+    ch_r "Ok, pas de problème."
 
 # game/Rogue_Chat.rpy:2558
 translate french Rogue_Clothes_Outfits_b29e79fb:
@@ -2626,7 +2626,7 @@ translate french Rogue_Clothes_Outfits_b29e79fb:
 translate french Rogue_Clothes_Outfits_56c612b1:
 
     # ch_r "Naughty boy. . ."
-    ch_r "Naughty boy. . ."
+    ch_r "Vilain garçon.."
 
 # game/Rogue_Chat.rpy:2563
 translate french Rogue_Clothes_Outfits_559c1674:
@@ -2698,7 +2698,7 @@ translate french Rogue_Clothes_Outfits_9c5dbf7e:
 translate french Rogue_Clothes_Outfits_3403a2e8:
 
     # ch_r "Hehe, um. . ."
-    ch_r "Hehe, hum..."
+    ch_r "Héhé, hum..."
 
 # game/Rogue_Chat.rpy:2605
 translate french Rogue_Clothes_Outfits_05716ec9:
@@ -2752,7 +2752,7 @@ translate french Rogue_Clothes_Over_92bd88f0:
 translate french Rogue_Clothes_Over_30613c9a:
 
     # ch_r "Fresh."
-    ch_r "Fresh."
+    ch_r "Provocant."
 
 # game/Rogue_Chat.rpy:2692
 translate french Rogue_Clothes_Over_9f2a8fb8:
@@ -2776,7 +2776,7 @@ translate french Rogue_Clothes_Over_e1010a98:
 translate french Rogue_Clothes_Over_d3445da1:
 
     # ch_r "That's a bit . . . revealing."
-    ch_r "That's a bit . . . revealing."
+    ch_r "C'est un peu... révélateur."
 
 # game/Rogue_Chat.rpy:2709
 translate french Rogue_Clothes_Over_04a4db35:
@@ -2812,13 +2812,13 @@ translate french Rogue_Clothes_Over_665b5bb7:
 translate french Rogue_NoBra_07a025f0:
 
     # ch_r "I don't have anything under this. . ." nointeract
-    ch_r "I don't have anything under this. . ." nointeract
+    ch_r "Je n'ai rien en dessous..." nointeract
 
 # game/Rogue_Chat.rpy:2750
 translate french Rogue_NoBra_40e91601:
 
     # ch_r "'course, I don't exactly need something under it either. . ."
-    ch_r "'course, I don't exactly need something under it either. . ."
+    ch_r "Bien sûr, je n'ai pas vraiment besoin de quelque chose en dessous non plus. . ."
 
 # game/Rogue_Chat.rpy:2753
 translate french Rogue_NoBra_78535b4e:
@@ -2836,7 +2836,7 @@ translate french Rogue_NoBra_f390a562:
 translate french Rogue_NoBra_6cadb792:
 
     # ch_r "Yeah, I guess."
-    ch_r "Yeah, I guess."
+    ch_r "Ouais, je pense aussi."
 
 # game/Rogue_Chat.rpy:2759
 translate french Rogue_NoBra_60741485:
@@ -2848,7 +2848,7 @@ translate french Rogue_NoBra_60741485:
 translate french Rogue_NoBra_6cadb792_1:
 
     # ch_r "Yeah, I guess."
-    ch_r "Yeah, I guess."
+    ch_r "Ouais, je pense aussi."
 
 # game/Rogue_Chat.rpy:2763
 translate french Rogue_NoBra_ff477dc3:
@@ -2860,7 +2860,7 @@ translate french Rogue_NoBra_ff477dc3:
 translate french Rogue_NoBra_17f04c93:
 
     # ch_r "Yeah, I don't think so."
-    ch_r "Yeah, I don't think so."
+    ch_r "Ouais, je pense pas."
 
 # game/Rogue_Chat.rpy:2770
 translate french Rogue_NoBra_35b4d79d:
@@ -2890,7 +2890,7 @@ translate french Rogue_NoBra_087c26b4:
 translate french Rogue_NoBra_8442038f:
 
     # ch_r "Not in public, [RogueX.Petname]!"
-    ch_r "Not in public, [RogueX.Petname]!"
+    ch_r "Pas en public, [RogueX.Petname] !"
 
 # game/Rogue_Chat.rpy:2783
 translate french Rogue_NoBra_3bc9602b:
@@ -2920,31 +2920,31 @@ translate french Rogue_Clothes_Legs_afc06fc2:
 translate french Rogue_Clothes_Legs_42b44411:
 
     # ch_r "Well, I suppose if it's for you. . ."
-    ch_r "Well, I suppose if it's for you. . ."
+    ch_r "Eh bien, je suppose que si c'est pour toi..."
 
 # game/Rogue_Chat.rpy:2816
 translate french Rogue_Clothes_Legs_38841ec1:
 
     # ch_r "Not in front of you, [RogueX.Petname]."
-    ch_r "Not in front of you, [RogueX.Petname]."
+    ch_r "Pas devant toi, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:2818
 translate french Rogue_Clothes_Legs_f7681339:
 
     # ch_r "Maybe if I put some panties on first. . ."
-    ch_r "Maybe if I put some panties on first. . ."
+    ch_r "Peut-être que si je mettais d'abord une culotte.."
 
 # game/Rogue_Chat.rpy:2822
 translate french Rogue_Clothes_Legs_9e748697:
 
     # "She tugs her pants off and drops them to the ground."
-    "She tugs her pants off and drops them to the ground."
+    "Elle enlève son pantalon et le laisse tomber par terre."
 
 # game/Rogue_Chat.rpy:2825
 translate french Rogue_Clothes_Legs_21cfad63:
 
     # "She tugs her skirt off and drops it to the ground."
-    "She tugs her skirt off and drops it to the ground."
+    "Elle tire sa jupe et la laisse tomber sur le sol."
 
 # game/Rogue_Chat.rpy:2849
 translate french Rogue_Clothes_Legs_79d09955:
@@ -2968,19 +2968,19 @@ translate french Rogue_Clothes_Legs_afc06fc2_1:
 translate french Rogue_Clothes_Legs_42b44411_1:
 
     # ch_r "Well, I suppose if it's for you. . ."
-    ch_r "Well, I suppose if it's for you. . ."
+    ch_r "Eh bien, je suppose que si c'est pour toi..."
 
 # game/Rogue_Chat.rpy:2871
 translate french Rogue_Clothes_Legs_38841ec1_1:
 
     # ch_r "Not in front of you, [RogueX.Petname]."
-    ch_r "Not in front of you, [RogueX.Petname]."
+    ch_r "Pas devant toi, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:2873
 translate french Rogue_Clothes_Legs_f7681339_1:
 
     # ch_r "Maybe if I put some panties on first. . ."
-    ch_r "Maybe if I put some panties on first. . ."
+    ch_r "Peut-être que si je mettais d'abord une culotte.."
 
 # game/Rogue_Chat.rpy:2877
 translate french Rogue_Clothes_Legs_37c7894c:
@@ -3016,55 +3016,55 @@ translate french Rogue_NoPantiesOn_a54f889e:
 translate french Rogue_NoPantiesOn_d2843d60:
 
     # "She pulls off her [Line] and slips on the lace panties."
-    "She pulls off her [Line] and slips on the lace panties."
+    "Elle retire sa [Line] et enfile la culotte en dentelle."
 
 # game/Rogue_Chat.rpy:2912
 translate french Rogue_NoPantiesOn_8f442866:
 
     # "She pulls out her lace panties and pulls them up under her skirt."
-    "She pulls out her lace panties and pulls them up under her skirt."
+    "Elle sort sa culotte en dentelle et la remonte sous sa jupe."
 
 # game/Rogue_Chat.rpy:2914
 translate french Rogue_NoPantiesOn_5f75b01e:
 
     # "Then she drops the skirt to the floor."
-    "Then she drops the skirt to the floor."
+    "Puis elle fait tomber la jupe sur le sol."
 
 # game/Rogue_Chat.rpy:2918
 translate french Rogue_NoPantiesOn_139afd37:
 
     # "She steps away a moment and then comes back wearing only the lace panties."
-    "She steps away a moment and then comes back wearing only the lace panties."
+    "Elle s'éloigne un moment puis revient en ne portant que la culotte en dentelle."
 
 # game/Rogue_Chat.rpy:2921
 translate french Rogue_NoPantiesOn_6cadb792:
 
     # ch_r "Yeah, I guess."
-    ch_r "Yeah, I guess."
+    ch_r "Ouais, je pense aussi."
 
 # game/Rogue_Chat.rpy:2926
 translate french Rogue_NoPantiesOn_8afbbe5c:
 
     # "She pulls off her [Line] and slips on the black panties."
-    "She pulls off her [Line] and slips on the black panties."
+    "Elle sort de sa [Line] et enfile la culotte noire."
 
 # game/Rogue_Chat.rpy:2928
 translate french Rogue_NoPantiesOn_a3081a95:
 
     # "She pulls out her black panties and pulls them up under her skirt."
-    "She pulls out her black panties and pulls them up under her skirt."
+    "Elle sort sa culotte noire et la remonte sous sa jupe."
 
 # game/Rogue_Chat.rpy:2930
 translate french Rogue_NoPantiesOn_5f75b01e_1:
 
     # "Then she drops the skirt to the floor."
-    "Then she drops the skirt to the floor."
+    "Puis elle fait tomber la jupe sur le sol."
 
 # game/Rogue_Chat.rpy:2934
 translate french Rogue_NoPantiesOn_6a05370a:
 
     # "She steps away a moment and then comes back wearing only the black panties."
-    "She steps away a moment and then comes back wearing only the black panties."
+    "Elle s'éloigne un moment puis revient en ne portant que la culotte noire."
 
 # game/Rogue_Chat.rpy:2937
 translate french Rogue_NoPantiesOn_6a45a7cd:
@@ -3076,25 +3076,25 @@ translate french Rogue_NoPantiesOn_6a45a7cd:
 translate french Rogue_NoPantiesOn_3d2bc12d:
 
     # ch_r "Well aren't you cheeky. . . I suppose I could give you a show. . ."
-    ch_r "Well aren't you cheeky. . . I suppose I could give you a show. . ."
+    ch_r "Eh bien, n'es-tu pas audacieux... Je suppose que je pourrais te donner un coup d'oeil..."
 
 # game/Rogue_Chat.rpy:2944
 translate french Rogue_NoPantiesOn_25b4653b:
 
     # ch_r "If that's what you want."
-    ch_r "If that's what you want."
+    ch_r "Si c'est ce que tu veux."
 
 # game/Rogue_Chat.rpy:2946
 translate french Rogue_NoPantiesOn_a46ce4ec:
 
     # ch_r "Oooh, naughty."
-    ch_r "Oooh, naughty."
+    ch_r "Oooh, vilain."
 
 # game/Rogue_Chat.rpy:2948
 translate french Rogue_NoPantiesOn_c1d29843:
 
     # ch_r "Oh, fine. You've been a good boy."
-    ch_r "Oh, fine. You've been a good boy."
+    ch_r "Oh, très bien. Tu as été un bon garçon."
 
 # game/Rogue_Chat.rpy:2953
 translate french Rogue_NoPantiesOn_6f224bb2:
@@ -3106,7 +3106,7 @@ translate french Rogue_NoPantiesOn_6f224bb2:
 translate french Rogue_NoPantiesOn_5de02ff8:
 
     # ch_r "Not with you around,[RogueX.Petname]!"
-    ch_r "Not with you around,[RogueX.Petname]!"
+    ch_r "Pas avec toi dans les parages, [RogueX.Petname] !"
 
 # game/Rogue_Chat.rpy:2959
 translate french Rogue_NoPantiesOn_1b8dd37a:
@@ -3136,7 +3136,7 @@ translate french Rogue_Clothes_Under_ec8231da:
 translate french Rogue_Clothes_Under_d381ec33:
 
     # ch_r "This look is a bit revealing. . ."
-    ch_r "This look is a bit revealing. . ."
+    ch_r "Ce look est un peu révélateur..."
 
 # game/Rogue_Chat.rpy:2982
 translate french Rogue_Clothes_Under_566f6aef:
@@ -3148,7 +3148,7 @@ translate french Rogue_Clothes_Under_566f6aef:
 translate french Rogue_Clothes_Under_606c23d0:
 
     # ch_r "Not without a little coverage, for modesty."
-    ch_r "Not without a little coverage, for modesty."
+    ch_r "Non sans un peu de couverture, pour la modestie."
 
 # game/Rogue_Chat.rpy:2986
 translate french Rogue_Clothes_Under_fbb68b80:
@@ -3166,7 +3166,7 @@ translate french Rogue_Clothes_Under_d76acff0:
 translate french Rogue_Clothes_Under_e2b42eb7:
 
     # "She lets her [Line] fall to the ground."
-    "She lets her [Line] fall to the ground."
+    "Elle laisse sa [Line] tomber au sol."
 
 # game/Rogue_Chat.rpy:3004
 translate french Rogue_Clothes_Under_e2583c3a_1:
@@ -3190,7 +3190,7 @@ translate french Rogue_Clothes_Under_e2583c3a_2:
 translate french Rogue_Clothes_Under_4c2115c0:
 
     # ch_r "That's a bit too revealing. . ."
-    ch_r "That's a bit too revealing. . ."
+    ch_r "C'est un peu trop révélateur..."
 
 # game/Rogue_Chat.rpy:3024
 translate french Rogue_Clothes_Under_e2583c3a_3:
@@ -3202,7 +3202,7 @@ translate french Rogue_Clothes_Under_e2583c3a_3:
 translate french Rogue_Clothes_Under_4c2115c0_1:
 
     # ch_r "That's a bit too revealing. . ."
-    ch_r "That's a bit too revealing. . ."
+    ch_r "C'est un peu trop révélateur..."
 
 # game/Rogue_Chat.rpy:3034
 translate french Rogue_Clothes_Under_e2583c3a_4:
@@ -3220,7 +3220,7 @@ translate french Rogue_Clothes_Under_e2583c3a_5:
 translate french Rogue_Clothes_Under_4a6d6e01:
 
     # ch_r "I kinda don't feel right about that. . ."
-    ch_r "I kinda don't feel right about that. . ."
+    ch_r "Ca ne me dit rien qui vaille..."
 
 # game/Rogue_Chat.rpy:3076
 translate french Rogue_Clothes_Under_be923b83:
@@ -3232,13 +3232,13 @@ translate french Rogue_Clothes_Under_be923b83:
 translate french Rogue_Clothes_Under_a205d66d:
 
     # ch_r "Fine by me."
-    ch_r "Fine by me."
+    ch_r "Ça me convient."
 
 # game/Rogue_Chat.rpy:3080
 translate french Rogue_Clothes_Under_a46ce4ec:
 
     # ch_r "Oooh, naughty."
-    ch_r "Oooh, naughty."
+    ch_r "Oooh, vilain."
 
 # game/Rogue_Chat.rpy:3082
 translate french Rogue_Clothes_Under_74cebe27:
@@ -3250,37 +3250,37 @@ translate french Rogue_Clothes_Under_74cebe27:
 translate french Rogue_Clothes_Under_3d2bc12d:
 
     # ch_r "Well aren't you cheeky. . . I suppose I could give you a show. . ."
-    ch_r "Well aren't you cheeky. . . I suppose I could give you a show. . ."
+    ch_r "Eh bien, n'es-tu pas audacieux... Je suppose que je pourrais te donner un coup d'oeil..."
 
 # game/Rogue_Chat.rpy:3087
 translate french Rogue_Clothes_Under_25b4653b:
 
     # ch_r "If that's what you want."
-    ch_r "If that's what you want."
+    ch_r "Si c'est ce que tu veux."
 
 # game/Rogue_Chat.rpy:3089
 translate french Rogue_Clothes_Under_a46ce4ec_1:
 
     # ch_r "Oooh, naughty."
-    ch_r "Oooh, naughty."
+    ch_r "Oooh, vilain."
 
 # game/Rogue_Chat.rpy:3091
 translate french Rogue_Clothes_Under_c1d29843:
 
     # ch_r "Oh, fine. You've been a good boy."
-    ch_r "Oh, fine. You've been a good boy."
+    ch_r "Oh, très bien. Tu as été un bon garçon."
 
 # game/Rogue_Chat.rpy:3098
 translate french Rogue_Clothes_Under_8442038f:
 
     # ch_r "Not in public, [RogueX.Petname]!"
-    ch_r "Not in public, [RogueX.Petname]!"
+    ch_r "Pas en public, [RogueX.Petname] !"
 
 # game/Rogue_Chat.rpy:3100
 translate french Rogue_Clothes_Under_5de02ff8:
 
     # ch_r "Not with you around,[RogueX.Petname]!"
-    ch_r "Not with you around,[RogueX.Petname]!"
+    ch_r "Pas avec toi dans les parages, [RogueX.Petname] !"
 
 # game/Rogue_Chat.rpy:3105
 translate french Rogue_Clothes_Under_639b6ca5:
@@ -3316,7 +3316,7 @@ translate french Rogue_Clothes_Under_7a8c3ce7:
 translate french Rogue_Clothes_Under_a11247e7:
 
     # ch_r "Heh, no, I think I'll stick with these, thanks."
-    ch_r "Heh, no, I think I'll stick with these, thanks."
+    ch_r "Héhé, non, je pense que je vais m'en tenir à ça, merci."
 
 # game/Rogue_Chat.rpy:3126
 translate french Rogue_Clothes_Under_69b0273a:
@@ -3334,13 +3334,13 @@ translate french Rogue_Clothes_Under_e2583c3a_6:
 translate french Rogue_Clothes_Under_a11247e7_1:
 
     # ch_r "Heh, no, I think I'll stick with these, thanks."
-    ch_r "Heh, no, I think I'll stick with these, thanks."
+    ch_r "Héhé, non, je pense que je vais m'en tenir à ça, merci."
 
 # game/Rogue_Chat.rpy:3137
 translate french Rogue_Clothes_Under_bc56bd86:
 
     # ch_r "I don't see how that's any business of yours, [RogueX.Petname]."
-    ch_r "I don't see how that's any business of yours, [RogueX.Petname]."
+    ch_r "Je ne vois pas en quoi cela te regarde, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:3141
 translate french Rogue_Clothes_Under_e2583c3a_7:
@@ -3352,13 +3352,13 @@ translate french Rogue_Clothes_Under_e2583c3a_7:
 translate french Rogue_Clothes_Under_a11247e7_2:
 
     # ch_r "Heh, no, I think I'll stick with these, thanks."
-    ch_r "Heh, no, I think I'll stick with these, thanks."
+    ch_r "Héhé, non, je pense que je vais m'en tenir à ça, merci."
 
 # game/Rogue_Chat.rpy:3148
 translate french Rogue_Clothes_Under_bc56bd86_1:
 
     # ch_r "I don't see how that's any business of yours, [RogueX.Petname]."
-    ch_r "I don't see how that's any business of yours, [RogueX.Petname]."
+    ch_r "Je ne vois pas en quoi cela te regarde, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:3152
 translate french Rogue_Clothes_Under_e2583c3a_8:
@@ -3376,19 +3376,19 @@ translate french Rogue_Clothes_Under_e2583c3a_9:
 translate french Rogue_Clothes_Under_4a6d6e01_1:
 
     # ch_r "I kinda don't feel right about that. . ."
-    ch_r "I kinda don't feel right about that. . ."
+    ch_r "Ca ne me dit rien qui vaille..."
 
 # game/Rogue_Chat.rpy:3166
 translate french Rogue_Clothes_Under_7eafb351:
 
     # ch_r "No thanks, [RogueX.Petname]."
-    ch_r "No thanks, [RogueX.Petname]."
+    ch_r "Non merci, [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:3173
 translate french Rogue_Clothes_Under_b6a7c2b5:
 
     # ch_r "Well too bad."
-    ch_r "Well too bad."
+    ch_r "C'est bien dommage."
 
 # game/Rogue_Chat.rpy:3177
 translate french Rogue_Clothes_Under_80a69c8a:
@@ -3430,19 +3430,19 @@ translate french Rogue_Clothes_Misc_d22a3192:
 translate french Rogue_Clothes_Misc_138749c9:
 
     # ch_r "Hmm?"
-    ch_r "Hmm?"
+    ch_r "Hmm ?"
 
 # game/Rogue_Chat.rpy:3215
 translate french Rogue_Clothes_Misc_6d4d2abd:
 
     # "She wanders off for a minute and comes back."
-    "She wanders off for a minute and comes back."
+    "Elle s'éloigne une minute et revient."
 
 # game/Rogue_Chat.rpy:3216
 translate french Rogue_Clothes_Misc_fee5a126:
 
     # ch_r "Like this?"
-    ch_r "Like this?"
+    ch_r "Comme ça ?"
 
 # game/Rogue_Chat.rpy:3218
 translate french Rogue_Clothes_Misc_2e8aa568:
@@ -3466,7 +3466,7 @@ translate french Rogue_Clothes_Misc_44e3b558:
 translate french Rogue_Clothes_Misc_25b4653b:
 
     # ch_r "If that's what you want."
-    ch_r "If that's what you want."
+    ch_r "Si c'est ce que tu veux."
 
 # game/Rogue_Chat.rpy:3233
 translate french Rogue_Clothes_Misc_e916c170:
@@ -3508,67 +3508,67 @@ translate french Rogue_Clothes_Misc_769e4a80:
 translate french Rogue_Clothes_Misc_e6f039e6:
 
     # ch_r "I don't see how that's any of your beeswax, [RogueX.Petname]."
-    ch_r "I don't see how that's any of your beeswax, [RogueX.Petname]."
+    ch_r "De quoi tu te mêles ? [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:3265
 translate french Rogue_Clothes_Misc_2c117e8f:
 
     # ch_r "Yeah, I know, I'll get to it."
-    ch_r "Yeah, I know, I'll get to it."
+    ch_r "Ouais, je sais, j'y arriverai."
 
 # game/Rogue_Chat.rpy:3270
 translate french Rogue_Clothes_Misc_faa62ae9:
 
     # ch_r "You really like those? Well, I suppose. . ."
-    ch_r "You really like those? Well, I suppose. . ."
+    ch_r "Tu les aimes vraiment ? Eh ben, je suppose..."
 
 # game/Rogue_Chat.rpy:3272
 translate french Rogue_Clothes_Misc_012b2851:
 
     # ch_r "I'll go get that taken care of."
-    ch_r "I'll go get that taken care of."
+    ch_r "Je vais aller m'occuper de ça."
 
 # game/Rogue_Chat.rpy:3274
 translate french Rogue_Clothes_Misc_0600e0a8:
 
     # ch_r "I've always kind of liked the look of those. . ."
-    ch_r "I've always kind of liked the look of those. . ."
+    ch_r "J'ai toujours aimé leur look..."
 
 # game/Rogue_Chat.rpy:3278
 translate french Rogue_Clothes_Misc_e6f039e6_1:
 
     # ch_r "I don't see how that's any of your beeswax, [RogueX.Petname]."
-    ch_r "I don't see how that's any of your beeswax, [RogueX.Petname]."
+    ch_r "De quoi tu te mêles ? [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:3284
 translate french Rogue_Clothes_Misc_2c117e8f_1:
 
     # ch_r "Yeah, I know, I'll get to it."
-    ch_r "Yeah, I know, I'll get to it."
+    ch_r "Ouais, je sais, j'y arriverai."
 
 # game/Rogue_Chat.rpy:3289
 translate french Rogue_Clothes_Misc_faa62ae9_1:
 
     # ch_r "You really like those? Well, I suppose. . ."
-    ch_r "You really like those? Well, I suppose. . ."
+    ch_r "Tu les aimes vraiment ? Eh ben, je suppose..."
 
 # game/Rogue_Chat.rpy:3291
 translate french Rogue_Clothes_Misc_012b2851_1:
 
     # ch_r "I'll go get that taken care of."
-    ch_r "I'll go get that taken care of."
+    ch_r "Je vais aller m'occuper de ça."
 
 # game/Rogue_Chat.rpy:3293
 translate french Rogue_Clothes_Misc_0600e0a8_1:
 
     # ch_r "I've always kind of liked the look of those. . ."
-    ch_r "I've always kind of liked the look of those. . ."
+    ch_r "J'ai toujours aimé leur look..."
 
 # game/Rogue_Chat.rpy:3297
 translate french Rogue_Clothes_Misc_e6f039e6_2:
 
     # ch_r "I don't see how that's any of your beeswax, [RogueX.Petname]."
-    ch_r "I don't see how that's any of your beeswax, [RogueX.Petname]."
+    ch_r "De quoi tu te mêles ? [RogueX.Petname]."
 
 # game/Rogue_Chat.rpy:3306
 translate french Rogue_Clothes_Misc_4679db3b:
@@ -3580,7 +3580,7 @@ translate french Rogue_Clothes_Misc_4679db3b:
 translate french Rogue_Clothes_Misc_db8d3dea:
 
     # ch_r "I'll take them out then."
-    ch_r "I'll take them out then."
+    ch_r "Je les sortirai alors."
 
 # game/Rogue_Chat.rpy:3310
 translate french Rogue_Clothes_Misc_0645a9bc:
@@ -3602,7 +3602,7 @@ translate french strings:
 
     # game/Rogue_Chat.rpy:393
     old "I'm ok with that now."
-    new "I'm ok with that now."
+    new "Je suis d'accord avec ça maintenant."
 
     # game/Rogue_Chat.rpy:727
     old "I noticed that when we had sex, you didn't seem to be a virgin."
@@ -3626,7 +3626,7 @@ translate french strings:
 
     # game/Rogue_Chat.rpy:1220
     old "You're making my jaw a bit sore there."
-    new "You're making my jaw a bit sore there."
+    new "Tu me fais un peu mal à la mâchoire là."
 
     # game/Rogue_Chat.rpy:1220
     old "Let me know if you want a little mouth attention."
@@ -3734,7 +3734,7 @@ translate french strings:
 
     # game/Rogue_Chat.rpy:2794
     old "Your ripped tights would look good with that."
-    new "Your ripped tights would look good with that."
+    new "Tes collants déchirés iraient bien avec ça."
 
     # game/Rogue_Chat.rpy:2794
     old "You could lose the tights."
@@ -3770,7 +3770,7 @@ translate french strings:
 
     # game/Rogue_Chat.rpy:3052
     old "Your ripped pantyhose would look good with that."
-    new "Your ripped pantyhose would look good with that."
+    new "Ton porte-jarretelles déchiré iraient bien avec ça."
 
     # game/Rogue_Chat.rpy:3070
     old "Why don't you wear the black panties instead?"
@@ -3782,7 +3782,7 @@ translate french strings:
 
     # game/Rogue_Chat.rpy:3202
     old "You could lose that spiked collar."
-    new "You could lose that spiked collar."
+    new "Tu pourrais perdre ce collier à pointes."
 
     # game/Rogue_Chat.rpy:3202
     old "Throw the gloves on."
@@ -3791,4 +3791,8 @@ translate french strings:
     # game/Rogue_Chat.rpy:3202
     old "Take a little risk, no gloves."
     new "Take a little risk, no gloves."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

@@ -154,7 +154,7 @@ translate french Wait_a5c5d724:
 translate french Wait_28b315b9:
 
     # "You've reached max level!"
-    "You've reached max level!"
+    "Tu as atteint le niveau maximum !"
 
 # game/script Functions.rpy:818
 translate french EventCalls_e335678e:
@@ -658,7 +658,7 @@ translate french Hanks_Lab_2896f715:
 translate french Hanks_Lab_e2816a31:
 
     # "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
-    "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
+    "A-[ActiveGirls[0].Tag], [ActiveGirls[1].Tag], [ActiveGirls[2].Tag], [ActiveGirls[3].Tag]"
 
 # game/script Functions.rpy:1289
 translate french Hanks_Lab_78a2dac8:
@@ -670,7 +670,7 @@ translate french Hanks_Lab_78a2dac8:
 translate french Hanks_Lab_e2816a31_1:
 
     # "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
-    "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
+    "A-[ActiveGirls[0].Tag], [ActiveGirls[1].Tag], [ActiveGirls[2].Tag], [ActiveGirls[3].Tag]"
 
 # game/script Functions.rpy:1292
 translate french Hanks_Lab_8e86dce3:
@@ -682,7 +682,7 @@ translate french Hanks_Lab_8e86dce3:
 translate french Hanks_Lab_e2816a31_2:
 
     # "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
-    "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
+    "A-[ActiveGirls[0].Tag], [ActiveGirls[1].Tag], [ActiveGirls[2].Tag], [ActiveGirls[3].Tag]"
 
 # game/script Functions.rpy:1295
 translate french Hanks_Lab_d79d8975:
@@ -694,7 +694,7 @@ translate french Hanks_Lab_d79d8975:
 translate french Hanks_Lab_e2816a31_3:
 
     # "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
-    "A-[ActiveGirls[0].Tag],[ActiveGirls[1].Tag],[ActiveGirls[2].Tag],[ActiveGirls[3].Tag]"
+    "A-[ActiveGirls[0].Tag], [ActiveGirls[1].Tag], [ActiveGirls[2].Tag], [ActiveGirls[3].Tag]"
 
 # game/script Functions.rpy:1298
 translate french Hanks_Lab_c4c30940:
@@ -736,7 +736,7 @@ translate french Hanks_Lab_2896f715_1:
 translate french Hanks_Lab_eff70679:
 
     # "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
-    "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
+    "A-[TotalGirls[0].Tag], [TotalGirls[1].Tag], [TotalGirls[2].Tag], [TotalGirls[3].Tag]"
 
 # game/script Functions.rpy:1313
 translate french Hanks_Lab_1a42453b:
@@ -748,7 +748,7 @@ translate french Hanks_Lab_1a42453b:
 translate french Hanks_Lab_eff70679_1:
 
     # "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
-    "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
+    "A-[TotalGirls[0].Tag], [TotalGirls[1].Tag], [TotalGirls[2].Tag], [TotalGirls[3].Tag]"
 
 # game/script Functions.rpy:1316
 translate french Hanks_Lab_80299fec:
@@ -760,7 +760,7 @@ translate french Hanks_Lab_80299fec:
 translate french Hanks_Lab_eff70679_2:
 
     # "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
-    "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
+    "A-[TotalGirls[0].Tag], [TotalGirls[1].Tag], [TotalGirls[2].Tag], [TotalGirls[3].Tag]"
 
 # game/script Functions.rpy:1319
 translate french Hanks_Lab_4179c73a:
@@ -772,7 +772,7 @@ translate french Hanks_Lab_4179c73a:
 translate french Hanks_Lab_eff70679_3:
 
     # "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
-    "A-[TotalGirls[0].Tag],[TotalGirls[1].Tag],[TotalGirls[2].Tag],[TotalGirls[3].Tag]"
+    "A-[TotalGirls[0].Tag], [TotalGirls[1].Tag], [TotalGirls[2].Tag], [TotalGirls[3].Tag]"
 
 # game/script Functions.rpy:1322
 translate french Hanks_Lab_37b76fc2:
@@ -844,7 +844,7 @@ translate french Level_Up_6b829337:
 translate french Level_Up_3beb6545:
 
     # "You are already at the max addictiveness level."
-    "You are already at the max addictiveness level."
+    "Tu es déjà au niveau maximum de dépendance."
 
 # game/script Functions.rpy:1415
 translate french Level_Up_6cdafb41_1:
@@ -946,13 +946,13 @@ translate french CleartheRoom_2fa3201d:
 translate french CleartheRoom_e14d73d1:
 
     # ch_r "[Girls[0].Name], could I talk to [Player.Name] alone for a minute?"
-    ch_r "[Girls[0].Name], could I talk to [Player.Name] alone for a minute?"
+    ch_r "[Girls[0].Name], pourrais-je parler à [Player.Name] seul à seul pendant une minute ?"
 
 # game/script Functions.rpy:1617
 translate french CleartheRoom_8fcf51a2:
 
     # ch_k "Girls, could I talk to [Player.Name] alone for a sec?"
-    ch_k "Girls, could I talk to [Player.Name] alone for a sec?"
+    ch_k "Les filles, je peux parler à [Player.Name] seul à seul une seconde ?"
 
 # game/script Functions.rpy:1619
 translate french CleartheRoom_85cf4c69:
@@ -964,7 +964,7 @@ translate french CleartheRoom_85cf4c69:
 translate french CleartheRoom_d3362095:
 
     # ch_e "Girls, would you mind if I had a word alone with [Player.Name]?"
-    ch_e "Girls, would you mind if I had a word alone with [Player.Name]?"
+    ch_e "Les filles, ça vous dérangerait si je parle un moment à [Player.Name] ?"
 
 # game/script Functions.rpy:1626
 translate french CleartheRoom_7dade56e:
@@ -976,7 +976,7 @@ translate french CleartheRoom_7dade56e:
 translate french CleartheRoom_dbfd2d40:
 
     # ch_l "Hey, clear out, I need to talk with [Player.Name]."
-    ch_l "Hey, clear out, I need to talk with [Player.Name]."
+    ch_l "Hé, dégage, je dois parler avec [Player.Name]."
 
 # game/script Functions.rpy:1633
 translate french CleartheRoom_3a34bb54:
@@ -1030,7 +1030,7 @@ translate french CleartheRoom_61d0348d:
 translate french CleartheRoom_b1ef95b0:
 
     # ch_l "I'm leaving."
-    ch_l "I'm leaving."
+    ch_l "Je m'en vais."
 
 # game/script Functions.rpy:1676
 translate french CleartheRoom_6337adf8:
@@ -1060,7 +1060,7 @@ translate french Girls_Arrive_1c90924d:
 translate french Girls_Arrive_acca0914:
 
     # "[Primary.Name] just entered your room."
-    "[Primary.Name] vient d'entrer dans ton chambre."
+    "[Primary.Name] vient d'entrer dans ta chambre."
 
 # game/script Functions.rpy:1835
 translate french Girls_Arrive_324c9849:
@@ -1108,7 +1108,7 @@ translate french Girls_Arrive_1c76acfc:
 translate french Girls_Arrive_67988851:
 
     # ch_p ". . . [[She seems to want to stay]."
-    ch_p "... [[Elle semble vouloir rester]."
+    ch_p "...[[Elle semble vouloir rester]."
 
 # game/script Functions.rpy:1865
 translate french Girls_Arrive_5096cf50:
@@ -1210,7 +1210,7 @@ translate french Girls_Arrive_3d8cd0c9:
 translate french Girls_Arrive_5e8ff57f:
 
     # ch_r "Well fine!"
-    ch_r "Well fine!"
+    ch_r "Eh ben, très bien !"
 
 # game/script Functions.rpy:1943
 translate french Girls_Arrive_b5cb24c5:
@@ -1258,7 +1258,7 @@ translate french Girls_Arrive_3d8cd0c9_1:
 translate french Girls_Arrive_5e8ff57f_1:
 
     # ch_r "Well fine!"
-    ch_r "Well fine!"
+    ch_r "Eh ben, très bien !"
 
 # game/script Functions.rpy:1976
 translate french Girls_Arrive_b5cb24c5_1:
@@ -1624,7 +1624,7 @@ translate french Girls_Arrive_7abaefe2:
 translate french Girls_Arrive_69b534cf:
 
     # ch_e "You must be joking."
-    ch_e "You must be joking."
+    ch_e "Tu dois plaisanter."
 
 # game/script Functions.rpy:2150
 translate french Girls_Arrive_ff3d61ae:
@@ -2032,7 +2032,7 @@ translate french Locked_Door_257f126a:
 translate french Locked_Door_c9f6646f:
 
     # "The door swings open."
-    "The door swings open."
+    "La porte s'ouvre."
 
 # game/script Functions.rpy:2661
 translate french Locked_Door_8f88bfdd:
@@ -2062,7 +2062,7 @@ translate french Shop_1120fd2f:
 translate french Shop_2e35e770:
 
     # "You purchase one dildo."
-    "You purchase one dildo."
+    "Tu achètes un gode."
 
 # game/script Functions.rpy:2787
 translate french Shop_a63e523f:
@@ -2080,7 +2080,7 @@ translate french Shop_7ffb4c8e:
 translate french Shop_3e04b6b3:
 
     # "You purchase one vibrator."
-    "You purchase one vibrator."
+    "Tu achètes un vibrateur."
 
 # game/script Functions.rpy:2796
 translate french Shop_a63e523f_1:
@@ -2440,7 +2440,7 @@ translate french Shop_Books_95526a24:
 translate french Shop_Books_bad8a530:
 
     # "You purchase one bottle of Mandrill Cologne."
-    "You purchase one bottle of Mandrill Cologne."
+    "Tu achètes une bouteille de Mandrill Cologne."
 
 # game/script Functions.rpy:3028
 translate french Shop_Books_a63e523f_3:
@@ -2458,7 +2458,7 @@ translate french Shop_Books_95526a24_1:
 translate french Shop_Books_bbd8e6ef:
 
     # "You purchase one bottle of Purple Rain Cologne."
-    "You purchase one bottle of Purple Rain Cologne."
+    "Tu achètes une bouteille de Purple Rain Cologne."
 
 # game/script Functions.rpy:3048
 translate french Shop_Books_a63e523f_4:
@@ -2476,7 +2476,7 @@ translate french Shop_Books_95526a24_2:
 translate french Shop_Books_8d371fc0:
 
     # "You purchase one bottle of Corruption Cologne."
-    "You purchase one bottle of Corruption Cologne."
+    "Tu achètes une bouteille de Cologne de la corruption."
 
 # game/script Functions.rpy:3067
 translate french Shop_Books_a63e523f_5:
@@ -2578,7 +2578,7 @@ translate french Sex_Menu_Threesome_2e322e53:
 translate french Sex_Menu_Threesome_559e8cfb:
 
     # ch_l "Her loss. . ."
-    ch_l "Her loss. . ."
+    ch_l "Tant pis pour elle..."
 
 # game/script Functions.rpy:3540
 translate french Sex_Menu_Threesome_af29af3b:
@@ -2602,7 +2602,7 @@ translate french Jumped_41a80356:
 translate french Jumped_b1d50061:
 
     # "You follow after her."
-    "You follow after her."
+    "Tu la suis."
 
 # game/script Functions.rpy:3910
 translate french Jumped_b2d26125:
@@ -2674,7 +2674,7 @@ translate french Jumped_009fec3f:
 translate french Jumped_5a0d8111:
 
     # "[Girls[0].Name] reaches down and unzips your fly. . ."
-    "[Girls[0].Name] reaches down and unzips your fly. . ."
+    "[Girls[0].Name] tend la main et ouvre ta braguette..."
 
 # game/script Functions.rpy:4016
 translate french Quick_Sex_09d4f6cd:
@@ -2710,7 +2710,7 @@ translate french Quick_Sex_89d291b9:
 translate french Quick_Sex_79d32847:
 
     # ch_k "Seriously"
-    ch_k "Seriously"
+    ch_k "Sérieusement"
 
 # game/script Functions.rpy:4042
 translate french Quick_Sex_2f0e515f:
@@ -2794,7 +2794,7 @@ translate french Quick_Sex_a2055316:
 translate french Quick_Sex_50a75853:
 
     # ch_e ". . .Please?"
-    ch_e ". . .Please?"
+    ch_e ".... S'il te plaît ?"
 
 # game/script Functions.rpy:4133
 translate french Quick_Sex_bfebe422:
@@ -2860,7 +2860,7 @@ translate french Quick_Sex_44e7b531:
 translate french Quick_Sex_814f046d:
 
     # ch_k "That's. . . rude."
-    ch_k "That's. . . rude."
+    ch_k "C'est... grossier."
 
 # game/script Functions.rpy:4185
 translate french Quick_Sex_d7a4a7f1:
@@ -3076,7 +3076,7 @@ translate french Girl_First_Peen_06600d86:
 translate french Girl_First_Peen_85863b93:
 
     # ch_l "Huh, that's a pretty good one you got there. . ."
-    ch_l "Huh, that's a pretty good one you got there. . ."
+    ch_l "Hm, tu en as une belle..."
 
 # game/script Functions.rpy:4828
 translate french Girl_First_Peen_15a679c9:
@@ -3172,7 +3172,7 @@ translate french Girl_First_Peen_ae0b029e:
 translate french Girl_First_Peen_192b52ee:
 
     # ch_l "Aw, come on, it's not that bad. . ."
-    ch_l "Aw, come on, it's not that bad. . ."
+    ch_l "Allons, ce n'est pas si mal..."
 
 # game/script Functions.rpy:4878
 translate french Girl_First_Peen_3970d61f:
@@ -3316,7 +3316,7 @@ translate french Girl_First_Peen_25d31776:
 translate french Girl_First_Peen_78847f12:
 
     # ch_k "That's. . . impressive."
-    ch_k "That's. . . impressive."
+    ch_k "C'est... impressionnant."
 
 # game/script Functions.rpy:4987
 translate french Girl_First_Peen_1202dc08:
@@ -3328,7 +3328,7 @@ translate french Girl_First_Peen_1202dc08:
 translate french Girl_First_Peen_85863b93_1:
 
     # ch_l "Huh, that's a pretty good one you got there. . ."
-    ch_l "Huh, that's a pretty good one you got there. . ."
+    ch_l "Hm, tu en as une belle..."
 
 # game/script Functions.rpy:4999
 translate french Girl_First_Peen_4bccdcd1:
@@ -3442,7 +3442,7 @@ translate french Girl_First_Peen_9350641e:
 translate french Girl_First_Peen_1f9963eb:
 
     # ch_e "You might want to put that away, [Girl.Petname]."
-    ch_e "You might want to put that away, [Girl.Petname]."
+    ch_e "Tu veux peut-être cacher ça, [Girl.Petname]."
 
 # game/script Functions.rpy:5073
 translate french Girl_First_Peen_1b42e1b4:
@@ -3454,7 +3454,7 @@ translate french Girl_First_Peen_1b42e1b4:
 translate french Girl_First_Peen_2cccf52b:
 
     # ch_l "You might want to put that away, [Girl.Petname]."
-    ch_l "You might want to put that away, [Girl.Petname]."
+    ch_l "Tu veux peut-être cacher ça, [Girl.Petname]."
 
 # game/script Functions.rpy:5078
 translate french Girl_First_Peen_23f8cf88:
@@ -3520,7 +3520,7 @@ translate french Girls_Taboo_dc082b08:
 translate french Girls_Taboo_a1f89d49:
 
     # "You've got quite an audience."
-    "You've got quite an audience."
+    "Tu as un sacré public."
 
 # game/script Functions.rpy:5218
 translate french Girls_Taboo_4c529ca5:
@@ -3634,7 +3634,7 @@ translate french Girls_Taboo_92f399cf:
 translate french Girls_Taboo_835190df:
 
     # ch_r "That's what I'm talking about."
-    ch_r "That's what I'm talking about."
+    ch_r "C'est de cela que je parle."
 
 # game/script Functions.rpy:5284
 translate french Girls_Taboo_24bbfe60:
@@ -3664,7 +3664,7 @@ translate french Girls_Taboo_b138640b:
 translate french Girls_Taboo_41b87192:
 
     # ch_k "Hehe, um, yeah."
-    ch_k "Hehe, um, yeah."
+    ch_k "Héhé, hum, ouais."
 
 # game/script Functions.rpy:5297
 translate french Girls_Taboo_e31a8015:
@@ -3754,7 +3754,7 @@ translate french Girls_Taboo_3a2ed99c:
 translate french Girls_Taboo_b4992f9b:
 
     # ch_k "Um, yeah."
-    ch_k "Um, yeah."
+    ch_k "Hum, ouais."
 
 # game/script Functions.rpy:5345
 translate french Girls_Taboo_3f2c452c:
@@ -3772,13 +3772,13 @@ translate french Girls_Taboo_c9feeb11:
 translate french Girls_Taboo_aa0ea7cf:
 
     # ch_r "Heh, thanks [Girl.Petname]"
-    ch_r "Heh, thanks [Girl.Petname]"
+    ch_r "Héhé, merci [Girl.Petname]"
 
 # game/script Functions.rpy:5354
 translate french Girls_Taboo_9fb9da3c:
 
     # ch_k "Heh, thanks [Girl.Petname]."
-    ch_k "Heh, thanks [Girl.Petname]."
+    ch_k "Héhé, merci [Girl.Petname]."
 
 # game/script Functions.rpy:5357
 translate french Girls_Taboo_76957105:
@@ -3808,7 +3808,7 @@ translate french Girls_Taboo_7da26cce:
 translate french Girls_Taboo_48b5bcb3:
 
     # "The crowd cheers."
-    "The crowd cheers."
+    "La foule acclame."
 
 # game/script Functions.rpy:5397
 translate french Girls_Noticed_51e0815e:
@@ -3982,7 +3982,7 @@ translate french Sex_Over_d8be2b71:
 translate french Sex_Over_5c3c812c:
 
     # ch_l "[LauraX.Petname], you've got a little something. . ."
-    ch_l "[LauraX.Petname], you've got a little something. . ."
+    ch_l "[LauraX.Petname], tu as un petit quelque chose..."
 
 # game/script Functions.rpy:5678
 translate french Sex_Over_96d5e458:
@@ -4662,7 +4662,7 @@ translate french strings:
 
     # game/script Functions.rpy:3901
     old "Go along with it"
-    new "Go along with it"
+    new "Jouer le jeu"
 
     # game/script Functions.rpy:3901
     old "Pull away from her and head back."
@@ -4674,7 +4674,7 @@ translate french strings:
 
     # game/script Functions.rpy:4023
     old ". . . [[say nothing, still no]."
-    new "... [[ne rien dire, toujours pas]."
+    new "...[[ne rien dire, toujours pas]."
 
     # game/script Functions.rpy:4054
     old "Ok, fine."
@@ -4711,4 +4711,8 @@ translate french strings:
     # game/script Functions.rpy:5276
     old "Ok, let's stop."
     new "Ok, let's stop."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

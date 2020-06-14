@@ -64,7 +64,7 @@ translate french EmmaMeet_6c09b00d:
 translate french EmmaMeet_481d7ec8:
 
     # ch_e "All right students, class dismissed."
-    ch_e "All right students, class dismissed."
+    ch_e "Très bien chers élèves, la classe est terminée."
 
 # game/Emma_Scenes.rpy:48
 translate french EmmaMeet_1f5ee1cc:
@@ -298,7 +298,7 @@ translate french EmmaMeet_6721dbe3:
 translate french EmmaMeet_3a116b3b:
 
     # ch_e ". . .never. . ."
-    ch_e ". . .never. . ."
+    ch_e "....jamais..."
 
 # game/Emma_Scenes.rpy:224
 translate french EmmaMeet_6803b472:
@@ -436,7 +436,7 @@ translate french Emma_Caught_Classroom_00d9df3b:
 translate french Emma_Caught_Classroom_6529c661:
 
     # ch_e "-surrounded by attractive co-eds all day long. . ."
-    ch_e "-surrounded by attractive co-eds all day long. . ."
+    ch_e "-entouré d'étudiantes séduisantes toute la journée..."
 
 # game/Emma_Scenes.rpy:373
 translate french Emma_Caught_Classroom_cbd69fe3:
@@ -772,7 +772,7 @@ translate french Emma_Detention_5737d141:
 translate french Emma_Detention_e56e0b9e:
 
     # ch_e "Yes. . . Exactly. . ."
-    ch_e "Yes. . . Exactly. . ."
+    ch_e "Oui.... Exactement..."
 
 # game/Emma_Scenes.rpy:631
 translate french Emma_Detention_5737d141_1:
@@ -856,7 +856,7 @@ translate french Emma_Taboo_Talk_1cb04d51:
 translate french Emma_Taboo_Talk_65ccd86e:
 
     # ch_e "You're a student."
-    ch_e "You're a student."
+    ch_e "Tu es un étudiant."
 
 # game/Emma_Scenes.rpy:706
 translate french Emma_Taboo_Talk_4966fd61:
@@ -1150,7 +1150,7 @@ translate french Emma_ThreeCheck_c27d1bf5:
 translate french Emma_ThreeCheck_e682c847:
 
     # ch_e "harem with the students."
-    ch_e "harem with the students."
+    ch_e "harem avec les étudiants."
 
 # game/Emma_Scenes.rpy:923
 translate french Emma_ThreeCheck_9d7c3fd1:
@@ -1306,7 +1306,7 @@ translate french Emma_ThreeCheck_46e5a8b8:
 translate french Emma_ThreeCheck_6e75e8e5:
 
     # ch_l "Say what now?"
-    ch_l "Say what now?"
+    ch_l "De quoi ?"
 
 # game/Emma_Scenes.rpy:1001
 translate french Emma_ThreeCheck_17ba5244:
@@ -1474,7 +1474,7 @@ translate french Emma_BF_01da0929:
 translate french Emma_BF_01afc145:
 
     # ch_e "-or something to that effect."
-    ch_e "-or something to that effect."
+    ch_e "-ou quelque chose dans ce sens."
 
 # game/Emma_Scenes.rpy:1126
 translate french Emma_BF_f0a78716:
@@ -1564,7 +1564,7 @@ translate french Emma_BF_Jerk_bd0c7608:
 translate french Emma_BF_Jerk_c22dd11e:
 
     # ch_e "Get away from me."
-    ch_e "Get away from me."
+    ch_e "Eloigne-toi de moi."
 
 # game/Emma_Scenes.rpy:1233
 translate french Emma_Love_18401bcc:
@@ -1636,7 +1636,7 @@ translate french Emma_Love_ccc15199:
 translate french Emma_Love_8c6059b3:
 
     # ch_e "Yes, \"fun.\""
-    ch_e "Yes, \"fun.\""
+    ch_e "Oui, \"fun\""
 
 # game/Emma_Scenes.rpy:1271
 translate french Emma_Love_bdb7e6c7:
@@ -1786,7 +1786,7 @@ translate french Emma_Love_68887388:
 translate french Emma_Love_5f69e7cb:
 
     # ch_e "Awkward?!"
-    ch_e "Awkward?!"
+    ch_e "Gênant ? !"
 
 # game/Emma_Scenes.rpy:1368
 translate french Emma_Love_254ae64e:
@@ -1810,7 +1810,7 @@ translate french Emma_Love_99e529ca:
 translate french Emma_Love_022d7029:
 
     # ch_e "Do you love me, or not?"
-    ch_e "Do you love me, or not?"
+    ch_e "Tu m'aimes ou pas ?"
 
 # game/Emma_Scenes.rpy:1383
 translate french Emma_Love_83edfc6a:
@@ -1870,7 +1870,7 @@ translate french Emma_Love_c34d4537:
 translate french Emma_Love_8e966fa8:
 
     # ch_e "Yes, she is lovely."
-    ch_e "Yes, she is lovely."
+    ch_e "Oui, elle est charmante."
 
 # game/Emma_Scenes.rpy:1454
 translate french Emma_Love_cc29f158:
@@ -1930,13 +1930,13 @@ translate french Emma_Love_End_9ec472c8:
 translate french Emma_Love_End_0e156779:
 
     # ch_e "Something like. . ."
-    ch_e "Something like. . ."
+    ch_e "Quelque chose comme..."
 
 # game/Emma_Scenes.rpy:1500
 translate french Emma_Love_Redux_ad1cbe22:
 
     # ch_p "I hope you've forgiven me, I still love you."
-    ch_p "I hope you've forgiven me, I still love you."
+    ch_p "J'espère que tu m'as pardonné, je t'aime toujours."
 
 # game/Emma_Scenes.rpy:1506
 translate french Emma_Love_Redux_09cae768:
@@ -1960,7 +1960,7 @@ translate french Emma_Love_Redux_a5c3d334:
 translate french Emma_Love_Redux_7d31a37b:
 
     # ch_p "Remember when I told you that I didn't love you?"
-    ch_p "Remember when I told you that I didn't love you?"
+    ch_p "Tu te souviens quand je t'ai dit que je ne t'aimais pas ?"
 
 # game/Emma_Scenes.rpy:1514
 translate french Emma_Love_Redux_a2055316_1:
@@ -2032,7 +2032,7 @@ translate french Emma_Love_Redux_d7893236:
 translate french Emma_Love_Redux_65f28b39:
 
     # "She grabs the back of your head and pulls you close."
-    "She grabs the back of your head and pulls you close."
+    "Elle te saisit par l'arrière de la tête et te tire tout près."
 
 # game/Emma_Scenes.rpy:1557
 translate french Emma_Love_Redux_dbfa5421:
@@ -2122,7 +2122,7 @@ translate french Emma_Sub_f0a98fc3:
 translate french Emma_Sub_1b3ea4b0:
 
     # ch_e "That's good to hear."
-    ch_e "That's good to hear."
+    ch_e "C'est bon à entendre."
 
 # game/Emma_Scenes.rpy:1659
 translate french Emma_Sub_9093fd61:
@@ -2314,7 +2314,7 @@ translate french Emma_Sub_Asked_9c9db950:
 translate french Emma_Sub_Asked_bf9965c4:
 
     # ch_e "You really don't learn, do you?"
-    ch_e "You really don't learn, do you?"
+    ch_e "Tu n'apprends vraiment pas, n'est-ce pas ?"
 
 # game/Emma_Scenes.rpy:1821
 translate french Emma_Sub_Asked_018f4618:
@@ -2368,13 +2368,13 @@ translate french Emma_Master_d42d19d2:
 translate french Emma_Master_975cfa00:
 
     # ch_e ". . . exhilarating."
-    ch_e ". . . exhilarating."
+    ch_e ".... exaltant."
 
 # game/Emma_Scenes.rpy:1874
 translate french Emma_Master_47785185:
 
     # ch_e "Good, good. . ."
-    ch_e "Good, good. . ."
+    ch_e "Bien, bien..."
 
 # game/Emma_Scenes.rpy:1875
 translate french Emma_Master_d97238f5:
@@ -2386,7 +2386,7 @@ translate french Emma_Master_d97238f5:
 translate french Emma_Master_fced6f4f:
 
     # ch_e "Go a bit deeper?"
-    ch_e "Go a bit deeper?"
+    ch_e "Aller un peu plus loin ?"
 
 # game/Emma_Scenes.rpy:1883
 translate french Emma_Master_7dd22d9f:
@@ -2404,7 +2404,7 @@ translate french Emma_Master_bba847a1:
 translate french Emma_Master_4822ee6d:
 
     # ch_e ". . . {i}master{/i}?"
-    ch_e ". . . {i}master{/i}?"
+    ch_e "... {i}maître{/i} ?"
 
 # game/Emma_Scenes.rpy:1890
 translate french Emma_Master_7797a075:
@@ -2464,7 +2464,7 @@ translate french Emma_Master_7a56db41:
 translate french Emma_Master_90677018:
 
     # ch_e "That's. . ."
-    ch_e "That's. . ."
+    ch_e "C'est..."
 
 # game/Emma_Scenes.rpy:1936
 translate french Emma_Master_0344c451:
@@ -2512,7 +2512,7 @@ translate french Emma_Master_c5868c65:
 translate french Emma_Sexfriend_8737e2fd:
 
     # "After class, the students file out of the room."
-    "After class, the students file out of the room."
+    "Après la classe, les élèves sortent de la salle."
 
 # game/Emma_Scenes.rpy:1994
 translate french Emma_Sexfriend_87bf3037:
@@ -2566,7 +2566,7 @@ translate french Emma_Sexfriend_657b5c2c:
 translate french Emma_Sexfriend_3a9a822f:
 
     # ch_e "Certainly."
-    ch_e "Certainly."
+    ch_e "Avec joie."
 
 # game/Emma_Scenes.rpy:2043
 translate french Emma_Sexfriend_e50ab69c:
@@ -2608,7 +2608,7 @@ translate french Emma_Sexfriend_956c8b51:
 translate french Emma_Sexfriend_40abe589:
 
     # ch_e "Hmm. . . never mind, then."
-    ch_e "Hmm. . . never mind, then."
+    ch_e "Hmm... peu importe, alors."
 
 # game/Emma_Scenes.rpy:2073
 translate french Emma_Sexfriend_2b0c6f0a:
@@ -2770,7 +2770,7 @@ translate french Emma_Fuckbuddy_055950e1:
 translate french Emma_Fuckbuddy_998a1af8:
 
     # "Looking around, you don't see anyone nearby, and it doesn't look like anyone else noticed what happened."
-    "Looking around, you don't see anyone nearby, and it doesn't look like anyone else noticed what happened."
+    "En regardant autour de toi, tu ne vois personne à proximité, et il semble que personne d'autre n'ait remarqué ce qui s'est passé."
 
 # game/Emma_Scenes.rpy:2164
 translate french Emma_Fuckbuddy_586952fe:
@@ -2926,7 +2926,7 @@ translate french strings:
 
     # game/Emma_Scenes.rpy:193
     old "A kiss?"
-    new "A kiss?"
+    new "Un baiser ?"
 
     # game/Emma_Scenes.rpy:193
     old "I think you know what I'd want. . ."
@@ -3066,11 +3066,11 @@ translate french strings:
 
     # game/Emma_Scenes.rpy:1130
     old "Not really."
-    new "Not really."
+    new "Pas vraiment."
 
     # game/Emma_Scenes.rpy:1144
     old "Yes. Absolutely."
-    new "Yes. Absolutely."
+    new "Oui. Absolument."
 
     # game/Emma_Scenes.rpy:1144
     old "She wouldn't understand."
@@ -3214,7 +3214,7 @@ translate french strings:
 
     # game/Emma_Scenes.rpy:1603
     old "Guess you don't know me so well, huh?"
-    new "Guess you don't know me so well, huh?"
+    new "On dirait que tu ne me connais pas très bien, hein ?"
 
     # game/Emma_Scenes.rpy:1603
     old "Sorry. I kind of thought you were getting into me being like that."
@@ -3354,7 +3354,7 @@ translate french strings:
 
     # game/Emma_Scenes.rpy:1995
     old "I'm in a hurry."
-    new "I'm in a hurry."
+    new "Je suis pressée."
 
     # game/Emma_Scenes.rpy:1995
     old "This doesn't sound good."
@@ -3451,4 +3451,8 @@ translate french strings:
     # game/Emma_Scenes.rpy:2200
     old "You've got some real daddy issues, uh?"
     new "Tu as de vrais problèmes avec ton père, hein ?"
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 

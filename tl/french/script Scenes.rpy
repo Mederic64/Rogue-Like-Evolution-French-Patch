@@ -46,7 +46,7 @@ translate french Sleepover_53c2ce6a:
 translate french Sleepover_3cffab0d:
 
     # ch_k "I'm getting kinda tired. . ."
-    ch_k "I'm getting kinda tired. . ."
+    ch_k "Je suis un peu fatiguée..."
 
 # game/script Scenes.rpy:68
 translate french Sleepover_55a21b7b:
@@ -208,7 +208,7 @@ translate french Sleepover_9c22a797:
 translate french Sleepover_18aad3c3:
 
     # ch_k "Alright. . . see you tomorrow. . ."
-    ch_k "Alright. . . see you tomorrow. . ."
+    ch_k "D'accord... à demain..."
 
 # game/script Scenes.rpy:191
 translate french Sleepover_0e58b153:
@@ -292,7 +292,7 @@ translate french Sleepover_9b878193:
 translate french Sleepover_1824e2d4:
 
     # ch_e "Yes, good night, [EmmaX.Petname]."
-    ch_e "Yes, good night, [EmmaX.Petname]."
+    ch_e "Oui, bonne nuit, [EmmaX.Petname]."
 
 # game/script Scenes.rpy:252
 translate french Sleepover_84bdf2d1:
@@ -520,7 +520,7 @@ translate french Sleepover_df737bd8_1:
 translate french Sleepover_d2fc0ecb:
 
     # ch_r "Sure, I guess."
-    ch_r "Sure, I guess."
+    ch_r "Okay, j'imagine."
 
 # game/script Scenes.rpy:385
 translate french Sleepover_e45a8c5b:
@@ -772,19 +772,19 @@ translate french Sleepover_Morning_b0dda555:
 translate french Sleepover_Morning_93b3a929:
 
     # ch_l "Anyway, 'Morning."
-    ch_l "Anyway, 'Morning."
+    ch_l "Bref, Bonjour."
 
 # game/script Scenes.rpy:560
 translate french Sleepover_Morning_440301a6:
 
     # ch_r "'Morning [RogueX.Petname]. Sleep well?"
-    ch_r "'Morning [RogueX.Petname]. Sleep well?"
+    ch_r "'jour [RogueX.Petname]. Bien dormi ?"
 
 # game/script Scenes.rpy:562
 translate french Sleepover_Morning_86a9b767:
 
     # ch_k "G'morning . . ."
-    ch_k "G'morning . . ."
+    ch_k "B'jour..."
 
 # game/script Scenes.rpy:564
 translate french Sleepover_Morning_4c39402c:
@@ -874,7 +874,7 @@ translate french Sleepover_Morning_f55ff7f6:
 translate french Sleepover_Morning_93b10187:
 
     # ch_l "Yeah, I guess?"
-    ch_l "Yeah, I guess?"
+    ch_l "Ouais, d'accord ?"
 
 # game/script Scenes.rpy:633
 translate french Sleepover_Morning_c1728d3f:
@@ -1000,7 +1000,7 @@ translate french Sleepover_Morning_e6885010:
 translate french Sleepover_Morning_4df147bc:
 
     # ch_k "You know, some other time. . . "
-    ch_k "Tu sais, une autre fois. . ."
+    ch_k "Tu sais, une autre fois. . . "
 
 # game/script Scenes.rpy:702
 translate french Sleepover_Morning_c627a725:
@@ -1138,7 +1138,7 @@ translate french Sleepover_Morning_f55ff7f6_1:
 translate french Sleepover_Morning_93b10187_1:
 
     # ch_l "Yeah, I guess?"
-    ch_l "Yeah, I guess?"
+    ch_l "Ouais, d'accord ?"
 
 # game/script Scenes.rpy:802
 translate french Sleepover_Morning_c6c72c93_2:
@@ -1174,7 +1174,7 @@ translate french Sleepover_Morning_e6885010_1:
 translate french Sleepover_Morning_4df147bc_1:
 
     # ch_k "You know, some other time. . . "
-    ch_k "Tu sais, une autre fois. . ."
+    ch_k "Tu sais, une autre fois. . . "
 
 # game/script Scenes.rpy:813
 translate french Sleepover_Morning_1ee81c04:
@@ -1408,7 +1408,7 @@ translate french Sleepover_MorningWood_5ab4b079:
 translate french Sleepover_MorningWood_77dfaa7b:
 
     # ch_u "\"Squish, squish, squish.\""
-    ch_u "\"Squish, squish, squish.\""
+    ch_u "\"Shlp, shlp, shlp\""
 
 # game/script Scenes.rpy:1152
 translate french Sleepover_MorningWood_534722ef:
@@ -1432,13 +1432,13 @@ translate french Sleepover_MorningWood_5ab4b079_1:
 translate french Sleepover_MorningWood_a3c680ea:
 
     # ch_u "\"Squish, squish, squish.\" \n \ \"Slurp, slurp, slurp.\""
-    ch_u "\"Squish, squish, squish.\" \n \ \"Slurp, slurp, slurp.\""
+    ch_u "\"Shlp, shlp, shlp.\"\n \\\"Slurp, slurp, slurp.\""
 
 # game/script Scenes.rpy:1162
 translate french Sleepover_MorningWood_77dfaa7b_1:
 
     # ch_u "\"Squish, squish, squish.\""
-    ch_u "\"Squish, squish, squish.\""
+    ch_u "\"Shlp, shlp, shlp\""
 
 # game/script Scenes.rpy:1166
 translate french Sleepover_MorningWood_180af6f1:
@@ -1462,13 +1462,13 @@ translate french Sleepover_MorningWood_5ab4b079_2:
 translate french Sleepover_MorningWood_a3c680ea_1:
 
     # ch_u "\"Squish, squish, squish.\" \n \ \"Slurp, slurp, slurp.\""
-    ch_u "\"Squish, squish, squish.\" \n \ \"Slurp, slurp, slurp.\""
+    ch_u "\"Shlp, shlp, shlp.\"\n \\\"Slurp, slurp, slurp.\""
 
 # game/script Scenes.rpy:1176
 translate french Sleepover_MorningWood_77dfaa7b_2:
 
     # ch_u "\"Squish, squish, squish.\""
-    ch_u "\"Squish, squish, squish.\""
+    ch_u "\"Shlp, shlp, shlp\""
 
 # game/script Scenes.rpy:1180
 translate french Sleepover_MorningWood_ff325a21:
@@ -1546,7 +1546,7 @@ translate french Sleepover_MorningWood_20fa7f1f:
 translate french Sleepover_MorningWood_fb56ad24:
 
     # ch_l "Guess."
-    ch_l "Guess."
+    ch_l "Devine."
 
 # game/script Scenes.rpy:1246
 translate french Sleepover_MorningWood_0e38fb16:
@@ -1570,7 +1570,7 @@ translate french Sleepover_MorningWood_452eb466:
 translate french Sleepover_MorningWood_93b10187:
 
     # ch_l "Yeah, I guess?"
-    ch_l "Yeah, I guess?"
+    ch_l "Ouais, d'accord ?"
 
 # game/script Scenes.rpy:1257
 translate french Sleepover_MorningWood_baecfddb:
@@ -1606,7 +1606,7 @@ translate french Sleepover_MorningWood_a64aac0d:
 translate french Sleepover_MorningWood_ba8b474a:
 
     # ch_r "You've been. . . more responsive."
-    ch_r "You've been. . . more responsive."
+    ch_r "Tu as été... plus réactif."
 
 # game/script Scenes.rpy:1269
 translate french Sleepover_MorningWood_d3900cc2:
@@ -1720,7 +1720,7 @@ translate french Sleepover_MorningWood_bd574541:
 translate french Sleepover_MorningWood_c6483ad2:
 
     # ch_k "Hehe, mmmm. . ."
-    ch_k "Hehe, mmmm. . ."
+    ch_k "Héhé, mmmm..."
 
 # game/script Scenes.rpy:1323
 translate french Sleepover_MorningWood_091cbb5a:
@@ -1732,13 +1732,13 @@ translate french Sleepover_MorningWood_091cbb5a:
 translate french Sleepover_MorningWood_d785eb0c:
 
     # ch_l "That's the plan. . ."
-    ch_l "That's the plan. . ."
+    ch_l "C'est le plan..."
 
 # game/script Scenes.rpy:1330
 translate french Sleepover_MorningWood_78ae691b:
 
     # ch_r "You're lucky I'm so into you. . ."
-    ch_r "You're lucky I'm so into you. . ."
+    ch_r "Tu as de la chance que je t'adore..."
 
 # game/script Scenes.rpy:1332
 translate french Sleepover_MorningWood_ed5aa16b:
@@ -1822,7 +1822,7 @@ translate french Sleepover_MorningWood_3d8bebb0:
 translate french Sleepover_MorningWood_93b10187_1:
 
     # ch_l "Yeah, I guess?"
-    ch_l "Yeah, I guess?"
+    ch_l "Ouais, d'accord ?"
 
 # game/script Scenes.rpy:1369
 translate french Sleepover_MorningWood_771d403f:
@@ -1858,7 +1858,7 @@ translate french Sleepover_MorningWood_f7cb20fa:
 translate french Sleepover_MorningWood_93b10187_2:
 
     # ch_l "Yeah, I guess?"
-    ch_l "Yeah, I guess?"
+    ch_l "Ouais, d'accord ?"
 
 # game/script Scenes.rpy:1383
 translate french Sleepover_MorningWood_27b5e18e_1:
@@ -1924,7 +1924,7 @@ translate french Sleepover_MorningWood_97b9e2a6:
 translate french Sleepover_MorningWood_93b10187_3:
 
     # ch_l "Yeah, I guess?"
-    ch_l "Yeah, I guess?"
+    ch_l "Ouais, d'accord ?"
 
 # game/script Scenes.rpy:1410
 translate french Sleepover_MorningWood_27b5e18e_2:
@@ -2002,7 +2002,7 @@ translate french Sleepover_MorningWood_c6f3ca71:
 translate french Sleepover_MorningWood_93b10187_4:
 
     # ch_l "Yeah, I guess?"
-    ch_l "Yeah, I guess?"
+    ch_l "Ouais, d'accord ?"
 
 # game/script Scenes.rpy:1439
 translate french Sleepover_MorningWood_27b5e18e_3:
@@ -2062,7 +2062,7 @@ translate french Sleepover_MorningWood_e844bed0:
 translate french Sleepover_MorningWood_1d6e2441:
 
     # ch_k "Aw. . ."
-    ch_k "Aw. . ."
+    ch_k "Aw..."
 
 # game/script Scenes.rpy:1458
 translate french Sleepover_MorningWood_9e9f9d9d:
@@ -2296,7 +2296,7 @@ translate french Poly_Start_73f0d73c:
 translate french Poly_Start_b0db03bf:
 
     # ch_r "Great, sounds fun."
-    ch_r "Great, sounds fun."
+    ch_r "Super, ça a l'air amusant."
 
 # game/script Scenes.rpy:1771
 translate french Poly_Start_c7c20409:
@@ -2308,7 +2308,7 @@ translate french Poly_Start_c7c20409:
 translate french Poly_Start_268c0cde:
 
     # ch_r "Oh. Well maybe you should!"
-    ch_r "Oh. Well maybe you should!"
+    ch_r "Oh. Eh bien, peut-être que tu devrais !"
 
 # game/script Scenes.rpy:1778
 translate french Poly_Start_334d6a96:
@@ -2332,13 +2332,13 @@ translate french Poly_Start_dbf35d1f:
 translate french Poly_Start_8c180d96:
 
     # ch_r "Good to hear."
-    ch_r "Good to hear."
+    ch_r "C'est bon à entendre."
 
 # game/script Scenes.rpy:1793
 translate french Poly_Start_ed2f8473:
 
     # ch_k "Cool, sounds fun."
-    ch_k "Cool, sounds fun."
+    ch_k "Cool, ça a l'air amusant."
 
 # game/script Scenes.rpy:1796
 translate french Poly_Start_f89429d4:
@@ -2350,7 +2350,7 @@ translate french Poly_Start_f89429d4:
 translate french Poly_Start_cf2ef8f8:
 
     # ch_k "You might want to, she's hot!"
-    ch_k "You might want to, she's hot!"
+    ch_k "Tu devrais le faire, elle est sexy !"
 
 # game/script Scenes.rpy:1803
 translate french Poly_Start_f9784f13:
@@ -2428,19 +2428,19 @@ translate french Poly_Start_6a818c6e:
 translate french Poly_Start_adc0bfd4:
 
     # ch_l "Come on, she's pretty great."
-    ch_l "Come on, she's pretty great."
+    ch_l "Allez, elle est plutôt géniale."
 
 # game/script Scenes.rpy:1849
 translate french Poly_Start_d4bfa2aa:
 
     # ch_l "You sure? She's hot."
-    ch_l "You sure? She's hot."
+    ch_l "Tu en es sûr ? Elle est sexy."
 
 # game/script Scenes.rpy:1853
 translate french Poly_Start_067dc6b9:
 
     # ch_l "Fine, I can work with that."
-    ch_l "Fine, I can work with that."
+    ch_l "Okay, je peux accepter ça."
 
 # game/script Scenes.rpy:1856
 translate french Poly_Start_fa0b3ddd:
@@ -2464,13 +2464,13 @@ translate french Poly_Start_21cd863b:
 translate french Poly_Start_b0db03bf_1:
 
     # ch_r "Great, sounds fun."
-    ch_r "Great, sounds fun."
+    ch_r "Super, ça a l'air amusant."
 
 # game/script Scenes.rpy:1879
 translate french Poly_Start_ed2f8473_1:
 
     # ch_k "Cool, sounds fun."
-    ch_k "Cool, sounds fun."
+    ch_k "Cool, ça a l'air amusant."
 
 # game/script Scenes.rpy:1881
 translate french Poly_Start_674af9b9_1:
@@ -2488,7 +2488,7 @@ translate french Poly_Start_6a818c6e_1:
 translate french Poly_Start_8c180d96_1:
 
     # ch_r "Good to hear."
-    ch_r "Good to hear."
+    ch_r "C'est bon à entendre."
 
 # game/script Scenes.rpy:1893
 translate french Poly_Start_0f116907_1:
@@ -2518,7 +2518,7 @@ translate french Poly_Start_91aeb049:
 translate french Poly_Start_6de4d7a5:
 
     # ch_k "That's fine."
-    ch_k "That's fine."
+    ch_k "Très bien alors..."
 
 # game/script Scenes.rpy:1913
 translate french Poly_Start_fc1052ec:
@@ -2536,7 +2536,7 @@ translate french Poly_Start_df737bd8:
 translate french Poly_Start_83b8e2fd:
 
     # ch_r "Fine, she's in."
-    ch_r "Fine, she's in."
+    ch_r "Très bien, elle en est."
 
 # game/script Scenes.rpy:1929
 translate french Poly_Start_6f21b6bd:
@@ -2572,7 +2572,7 @@ translate french Poly_Start_da37c643:
 translate french Poly_Start_ed97efcd:
 
     # ch_k "You aren't that cute, [KittyX.Petname]."
-    ch_k "You aren't that cute, [KittyX.Petname]."
+    ch_k "Tu n'es pas si mignon que ça, [KittyX.Petname]."
 
 # game/script Scenes.rpy:1944
 translate french Poly_Start_4a038a28:
@@ -2602,7 +2602,7 @@ translate french Poly_Start_a32e9b47:
 translate french Poly_Start_89859795:
 
     # ch_l "I'm out of here."
-    ch_l "I'm out of here."
+    ch_l "Je m'en vais."
 
 # game/script Scenes.rpy:1965
 translate french Poly_Start_36426d25:
@@ -2824,7 +2824,7 @@ translate french Harem_Start_73f0d73c:
 translate french Harem_Start_b0db03bf:
 
     # ch_r "Great, sounds fun."
-    ch_r "Great, sounds fun."
+    ch_r "Super, ça a l'air amusant."
 
 # game/script Scenes.rpy:2230
 translate french Harem_Start_c7c20409:
@@ -2836,7 +2836,7 @@ translate french Harem_Start_c7c20409:
 translate french Harem_Start_268c0cde:
 
     # ch_r "Oh. Well maybe you should!"
-    ch_r "Oh. Well maybe you should!"
+    ch_r "Oh. Eh bien, peut-être que tu devrais !"
 
 # game/script Scenes.rpy:2237
 translate french Harem_Start_71f5a430:
@@ -2860,13 +2860,13 @@ translate french Harem_Start_48e2152d:
 translate french Harem_Start_8c180d96:
 
     # ch_r "Good to hear."
-    ch_r "Good to hear."
+    ch_r "C'est bon à entendre."
 
 # game/script Scenes.rpy:2252
 translate french Harem_Start_ed2f8473:
 
     # ch_k "Cool, sounds fun."
-    ch_k "Cool, sounds fun."
+    ch_k "Cool, ça a l'air amusant."
 
 # game/script Scenes.rpy:2255
 translate french Harem_Start_2547a0d6:
@@ -2878,7 +2878,7 @@ translate french Harem_Start_2547a0d6:
 translate french Harem_Start_cf2ef8f8:
 
     # ch_k "You might want to, she's hot!"
-    ch_k "You might want to, she's hot!"
+    ch_k "Tu devrais le faire, elle est sexy !"
 
 # game/script Scenes.rpy:2262
 translate french Harem_Start_081a77c9:
@@ -2956,13 +2956,13 @@ translate french Harem_Start_6a818c6e:
 translate french Harem_Start_adc0bfd4:
 
     # ch_l "Come on, she's pretty great."
-    ch_l "Come on, she's pretty great."
+    ch_l "Allez, elle est plutôt géniale."
 
 # game/script Scenes.rpy:2308
 translate french Harem_Start_d4bfa2aa:
 
     # ch_l "You sure? She's hot."
-    ch_l "You sure? She's hot."
+    ch_l "Tu en es sûr ? Elle est sexy."
 
 # game/script Scenes.rpy:2312
 translate french Harem_Start_7b116fd4:
@@ -2992,13 +2992,13 @@ translate french Harem_Start_21cd863b:
 translate french Harem_Start_b0db03bf_1:
 
     # ch_r "Great, sounds fun."
-    ch_r "Great, sounds fun."
+    ch_r "Super, ça a l'air amusant."
 
 # game/script Scenes.rpy:2341
 translate french Harem_Start_ed2f8473_1:
 
     # ch_k "Cool, sounds fun."
-    ch_k "Cool, sounds fun."
+    ch_k "Cool, ça a l'air amusant."
 
 # game/script Scenes.rpy:2343
 translate french Harem_Start_674af9b9_1:
@@ -3016,7 +3016,7 @@ translate french Harem_Start_6a818c6e_1:
 translate french Harem_Start_8c180d96_1:
 
     # ch_r "Good to hear."
-    ch_r "Good to hear."
+    ch_r "C'est bon à entendre."
 
 # game/script Scenes.rpy:2358
 translate french Harem_Start_0f116907_1:
@@ -3046,7 +3046,7 @@ translate french Harem_Start_91aeb049:
 translate french Harem_Start_6de4d7a5:
 
     # ch_k "That's fine."
-    ch_k "That's fine."
+    ch_k "Très bien alors..."
 
 # game/script Scenes.rpy:2379
 translate french Harem_Start_fc1052ec:
@@ -3088,7 +3088,7 @@ translate french Harem_Start_923124f1:
 translate french Harem_Start_83b8e2fd:
 
     # ch_r "Fine, she's in."
-    ch_r "Fine, she's in."
+    ch_r "Très bien, elle en est."
 
 # game/script Scenes.rpy:2412
 translate french Harem_Start_6f21b6bd:
@@ -3124,7 +3124,7 @@ translate french Harem_Start_da37c643:
 translate french Harem_Start_ed97efcd:
 
     # ch_k "You aren't that cute, [KittyX.Petname]."
-    ch_k "You aren't that cute, [KittyX.Petname]."
+    ch_k "Tu n'es pas si mignon que ça, [KittyX.Petname]."
 
 # game/script Scenes.rpy:2428
 translate french Harem_Start_4a038a28:
@@ -3154,7 +3154,7 @@ translate french Harem_Start_a32e9b47:
 translate french Harem_Start_89859795:
 
     # ch_l "I'm out of here."
-    ch_l "I'm out of here."
+    ch_l "Je m'en vais."
 
 # game/script Scenes.rpy:2454
 translate french Harem_Start_36426d25:
@@ -3304,13 +3304,13 @@ translate french Frisky_Study_e12e079f:
 translate french Frisky_Study_cf2a0f8b:
 
     # "[KittyX.Name] reaches her hand through your textbook and you can feel it in your lap."
-    "[KittyX.Name] reaches her hand through your textbook and you can feel it in your lap."
+    "[KittyX.Name] tend sa main à travers ton manuel et tu peux la sentir sur tes genoux."
 
 # game/script Scenes.rpy:2638
 translate french Frisky_Study_b963dd2e:
 
     # "She unzips you pants and pulls your dick out, stroking it slowly."
-    "She unzips you pants and pulls your dick out, stroking it slowly."
+    "Elle ouvre ton pantalon et sort ta bite, en la caressant lentement."
 
 # game/script Scenes.rpy:2639
 translate french Frisky_Study_44908296:
@@ -3322,7 +3322,7 @@ translate french Frisky_Study_44908296:
 translate french Frisky_Study_ab47cb8c:
 
     # "[Party[0].Name] get predatory grin, and begins to unzip your pants."
-    "[Party[0].Name] get predatory grin, and begins to unzip your pants."
+    "[Party[0].Name] a un sourire de prédateur, et commence à dézipper ton pantalon."
 
 # game/script Scenes.rpy:2642
 translate french Frisky_Study_fe7718d7:
@@ -3334,7 +3334,7 @@ translate french Frisky_Study_fe7718d7:
 translate french Frisky_Study_cf2a0f8b_1:
 
     # "[KittyX.Name] reaches her hand through your textbook and you can feel it in your lap."
-    "[KittyX.Name] reaches her hand through your textbook and you can feel it in your lap."
+    "[KittyX.Name] tend sa main à travers ton manuel et tu peux la sentir sur tes genoux."
 
 # game/script Scenes.rpy:2647
 translate french Frisky_Study_bb00a359:
@@ -3346,13 +3346,13 @@ translate french Frisky_Study_bb00a359:
 translate french Frisky_Study_b963dd2e_1:
 
     # "She unzips you pants and pulls your dick out, stroking it slowly."
-    "She unzips you pants and pulls your dick out, stroking it slowly."
+    "Elle ouvre ton pantalon et sort ta bite, en la caressant lentement."
 
 # game/script Scenes.rpy:2650
 translate french Frisky_Study_ab47cb8c_1:
 
     # "[Party[0].Name] get predatory grin, and begins to unzip your pants."
-    "[Party[0].Name] get predatory grin, and begins to unzip your pants."
+    "[Party[0].Name] a un sourire de prédateur, et commence à dézipper ton pantalon."
 
 # game/script Scenes.rpy:2651
 translate french Frisky_Study_30f40514:
@@ -3394,7 +3394,7 @@ translate french Frisky_Study_3205e810:
 translate french Frisky_Study_b7a9219a:
 
     # "You zip your pants back up."
-    "You zip your pants back up."
+    "Tu remontes la fermeture éclair de ton pantalon."
 
 # game/script Scenes.rpy:2686
 translate french Frisky_Study_dce10d29:
@@ -3406,7 +3406,7 @@ translate french Frisky_Study_dce10d29:
 translate french Frisky_Study_b7a9219a_1:
 
     # "You zip your pants back up."
-    "You zip your pants back up."
+    "Tu remontes la fermeture éclair de ton pantalon."
 
 # game/script Scenes.rpy:2689
 translate french Frisky_Study_3e4dca8a:
@@ -3436,7 +3436,7 @@ translate french Frisky_Study_13d04e17:
 translate french Frisky_Study_4f16a77b:
 
     # ch_l "Be that way."
-    ch_l "Be that way."
+    ch_l "Soit."
 
 # game/script Scenes.rpy:2706
 translate french Frisky_Study_ac45551f:
@@ -4330,7 +4330,7 @@ translate french Xavier_Plan_71317208:
 translate french Xavier_Plan_0995ab14:
 
     # ch_k "Hey, what gives?!"
-    ch_k "Hey, what gives?!"
+    ch_k "Hé, t'es fou ?!"
 
 # game/script Scenes.rpy:3354
 translate french Xavier_Plan_aa4b1b32:
@@ -4366,7 +4366,7 @@ translate french Xavier_Plan_93b18403:
 translate french Xavier_Plan_7b65ae6f:
 
     # ch_l "If you say so."
-    ch_l "Si vous le dites."
+    ch_l "Si tu le dis."
 
 # game/script Scenes.rpy:3380
 translate french Xavier_Plan_bc60a049:
@@ -4462,7 +4462,7 @@ translate french Xavier_Plan_5bc69e0c:
 translate french Xavier_Plan_7b65ae6f_1:
 
     # ch_l "If you say so."
-    ch_l "Si vous le dites."
+    ch_l "Si tu le dis."
 
 # game/script Scenes.rpy:3444
 translate french Xavier_Plan_89c4fc44:
@@ -4576,7 +4576,7 @@ translate french Girl_Caught_Changing_a331c7bc:
 translate french Girl_Caught_Changing_c91b5b5b:
 
     # ch_r "Hey! Learn to knock maybe?!"
-    ch_r "Hey! Learn to knock maybe?!"
+    ch_r "Hé ! Apprends à frapper peut-être ? !"
 
 # game/script Scenes.rpy:3619
 translate french Girl_Caught_Changing_cb81397a:
@@ -5038,7 +5038,7 @@ translate french Call_For_Les_104e7ec5:
 translate french Call_For_Les_cfa3b80d:
 
     # ch_k "-thought you might wanna join us?"
-    ch_k "-thought you might wanna join us?"
+    ch_k "-tu as pensé à te joindre à nous ?"
 
 # game/script Scenes.rpy:3960
 translate french Call_For_Les_74ca7e73:
@@ -5068,7 +5068,7 @@ translate french Call_For_Les_7ad34806:
 translate french Call_For_Les_5e51f7b5:
 
     # ch_l "You packing, or what?"
-    ch_l "You packing, or what?"
+    ch_l "Tu fais tes valises ou quoi ?"
 
 # game/script Scenes.rpy:3993
 translate french Call_For_Les_3ce33d37:
@@ -5302,7 +5302,7 @@ translate french Girl_Caught_Shower_a331c7bc:
 translate french Girl_Caught_Shower_c91b5b5b:
 
     # ch_r "Hey! Learn to knock maybe?!"
-    ch_r "Hey! Learn to knock maybe?!"
+    ch_r "Hé ! Apprends à frapper peut-être ? !"
 
 # game/script Scenes.rpy:4264
 translate french Girl_Caught_Shower_b5b2ff7e:
@@ -5314,7 +5314,7 @@ translate french Girl_Caught_Shower_b5b2ff7e:
 translate french Girl_Caught_Shower_9f04b0c4:
 
     # ch_e "Hello. Haven't you learned to knock before entering?"
-    ch_e "Hello. Haven't you learned to knock before entering?"
+    ch_e "Bonjour. N'as-tu pas appris à frapper avant d'entrer ?"
 
 # game/script Scenes.rpy:4268
 translate french Girl_Caught_Shower_beef0759:
@@ -5392,7 +5392,7 @@ translate french Girl_Caught_Shower_67dbcb05_1:
 translate french Girl_Caught_Shower_02db0f24:
 
     # ch_k "Well too bad."
-    ch_k "Well too bad."
+    ch_k "C'est bien dommage."
 
 # game/script Scenes.rpy:4350
 translate french Girl_Caught_Shower_8b1b1e8b_1:
@@ -5440,7 +5440,7 @@ translate french Girl_Caught_Shower_3731b249:
 translate french Girl_Caught_Shower_9be0e006:
 
     # ch_l "Heh!"
-    ch_l "Heh!"
+    ch_l "Héhé !"
 
 # game/script Scenes.rpy:4379
 translate french Girl_Caught_Shower_a5d4cc89:
@@ -5470,7 +5470,7 @@ translate french Girl_Caught_Shower_1d971b91:
 translate french Girl_Caught_Shower_2b159160:
 
     # ch_r "Sure, what's up?"
-    ch_r "Sure, what's up?"
+    ch_r "Bien sûr, qu'est-ce qu'il y a ?"
 
 # game/script Scenes.rpy:4395
 translate french Girl_Caught_Shower_c147127b:
@@ -5578,7 +5578,7 @@ translate french Pool_Sunbathe_5f52b2d5:
 translate french Pool_Sunbathe_cc01e5ff:
 
     # ch_e "Not with this sort of company. . ."
-    ch_e "Not with this sort of company. . ."
+    ch_e "Pas avec ce genre de compagnie..."
 
 # game/script Scenes.rpy:4492
 translate french Pool_Sunbathe_00a90fed:
@@ -5638,7 +5638,7 @@ translate french Pool_Sunbathe_5efc424c:
 translate french Pool_Sunbathe_8509d165:
 
     # ch_k "\"And\". . . AND!"
-    ch_k "\"And\". . . AND!"
+    ch_k "\"Et\"... ET !"
 
 # game/script Scenes.rpy:4608
 translate french Pool_Sunbathe_e8092313:
@@ -5662,7 +5662,7 @@ translate french Pool_Sunbathe_401149a2:
 translate french Pool_Sunbathe_9a4835d1:
 
     # ch_k "Yeah, ok. . ."
-    ch_k "Yeah, ok. . ."
+    ch_k "Ouais, ok..."
 
 # game/script Scenes.rpy:4625
 translate french Pool_Sunbathe_091cbb5a:
@@ -5686,7 +5686,7 @@ translate french Pool_Sunbathe_66b3e067:
 translate french Pool_Sunbathe_2300bfe7:
 
     # ch_k "How about \"no\". . ."
-    ch_k "How about \"no\". . ."
+    ch_k "Que dirais-tu de \"non\"..."
 
 # game/script Scenes.rpy:4642
 translate french Pool_Sunbathe_e222aede:
@@ -5698,19 +5698,19 @@ translate french Pool_Sunbathe_e222aede:
 translate french Pool_Sunbathe_d3843774:
 
     # ch_l "Don't push me."
-    ch_l "Don't push me."
+    ch_l "Ne me cherche pas."
 
 # game/script Scenes.rpy:4657
 translate french Pool_Sunbathe_245e4973:
 
     # ch_r "Heh, you're a sweetie. . ."
-    ch_r "Heh, you're a sweetie. . ."
+    ch_r "Héhé, tu es un amour..."
 
 # game/script Scenes.rpy:4659
 translate french Pool_Sunbathe_a95ad9dd:
 
     # ch_k "Hehe. . ."
-    ch_k "Hehe..."
+    ch_k "Héhé..."
 
 # game/script Scenes.rpy:4661
 translate french Pool_Sunbathe_f7a311d9:
@@ -5842,13 +5842,13 @@ translate french Pool_Sunbathe_0fef6aeb:
 translate french Pool_Sunbathe_8c9b6d98:
 
     # ch_l "Nah. . ."
-    ch_l "Nah. . ."
+    ch_l "Nan..."
 
 # game/script Scenes.rpy:4794
 translate french Pool_Sunbathe_298c3525:
 
     # ch_r "Not interested, [RogueX.Petname]. . ."
-    ch_r "Not interested, [RogueX.Petname]. . ."
+    ch_r "Pas intéressée, [RogueX.Petname]..."
 
 # game/script Scenes.rpy:4796
 translate french Pool_Sunbathe_474536d1:
@@ -5860,19 +5860,19 @@ translate french Pool_Sunbathe_474536d1:
 translate french Pool_Sunbathe_e905ebc6:
 
     # ch_e "You must be dreaming. . ."
-    ch_e "You must be dreaming. . ."
+    ch_e "Tu dois rêver..."
 
 # game/script Scenes.rpy:4800
 translate french Pool_Sunbathe_9b4b47b7:
 
     # ch_l "Nope. . ."
-    ch_l "Nope. . ."
+    ch_l "Non..."
 
 # game/script Scenes.rpy:4809
 translate french Pool_Sunbathe_f4947972:
 
     # "Anything else?"
-    "Anything else?"
+    "Autre chose ?"
 
 # game/script Scenes.rpy:4837
 translate french Pool_Skinnydip_5c2fbc01:
@@ -5896,7 +5896,7 @@ translate french Pool_Skinnydip_70844549:
 translate french Pool_Skinnydip_cc01e5ff:
 
     # ch_e "Not with this sort of company. . ."
-    ch_e "Not with this sort of company. . ."
+    ch_e "Pas avec ce genre de compagnie..."
 
 # game/script Scenes.rpy:4877
 translate french Pool_Skinnydip_36ea11c9:
@@ -5920,25 +5920,25 @@ translate french Pool_Skinnydip_944d6830:
 translate french Pool_Skinnydip_63848e17:
 
     # ch_l "I'm in."
-    ch_l "I'm in."
+    ch_l "J'en suis."
 
 # game/script Scenes.rpy:4915
 translate french Pool_Skinnydip_df87e0d7:
 
     # ch_r "Sounds fun. . ."
-    ch_r "Sounds fun. . ."
+    ch_r "Ça a l'air amusant..."
 
 # game/script Scenes.rpy:4917
 translate french Pool_Skinnydip_d7088b3a:
 
     # ch_k "Oooh, naughty. . ."
-    ch_k "Oooh, naughty. . ."
+    ch_k "Oooh, vilain..."
 
 # game/script Scenes.rpy:4919
 translate french Pool_Skinnydip_0af1ab29:
 
     # ch_e "How daring. . ."
-    ch_e "How daring. . ."
+    ch_e "Quelle audace..."
 
 # game/script Scenes.rpy:4921
 translate french Pool_Skinnydip_d8d27cf9:
@@ -5968,7 +5968,7 @@ translate french Pool_Skinnydip_97be58ed:
 translate french Pool_Skinnydip_8c9b6d98:
 
     # ch_l "Nah. . ."
-    ch_l "Nah. . ."
+    ch_l "Nan..."
 
 # game/script Scenes.rpy:4961
 translate french Pool_Skinnydip_ff6030b5:
@@ -6046,7 +6046,7 @@ translate french Pool_Skinnydip_c191b684:
 translate french Pool_Skinnydip_d34461fb:
 
     # ch_k "Bummer."
-    ch_k "Bummer."
+    ch_k "Dommage."
 
 # game/script Scenes.rpy:5025
 translate french Pool_Skinnydip_bdad6d99:
@@ -6064,7 +6064,7 @@ translate french Pool_Skinnydip_f86b32f8:
 translate french Pool_Skinnydip_298c3525:
 
     # ch_r "Not interested, [RogueX.Petname]. . ."
-    ch_r "Not interested, [RogueX.Petname]. . ."
+    ch_r "Pas intéressée, [RogueX.Petname]..."
 
 # game/script Scenes.rpy:5041
 translate french Pool_Skinnydip_474536d1:
@@ -6076,13 +6076,13 @@ translate french Pool_Skinnydip_474536d1:
 translate french Pool_Skinnydip_e905ebc6:
 
     # ch_e "You must be dreaming. . ."
-    ch_e "You must be dreaming. . ."
+    ch_e "Tu dois rêver..."
 
 # game/script Scenes.rpy:5045
 translate french Pool_Skinnydip_9b4b47b7:
 
     # ch_l "Nope. . ."
-    ch_l "Nope. . ."
+    ch_l "Non..."
 
 # game/script Scenes.rpy:5053
 translate french Pool_Skinnydip_524d9197:
@@ -6346,7 +6346,7 @@ translate french Breakup_Bargaining_39e6ee4e:
 translate french Breakup_Bargaining_be11ae3c:
 
     # ch_l "You're gonna want to back up a few steps."
-    ch_l "You're gonna want to back up a few steps."
+    ch_l "Tu vas devoir reculer de quelques pas."
 
 # game/script Scenes.rpy:5641
 translate french Breakup_Bargaining_2ed22e76:
@@ -6382,7 +6382,7 @@ translate french Breakup_Bargaining_7f079c3d:
 translate french Breakup_Bargaining_af755d85:
 
     # ch_r "You're abandoning me."
-    ch_r "You're abandoning me."
+    ch_r "Tu m'abandonnes."
 
 # game/script Scenes.rpy:5656
 translate french Breakup_Bargaining_43b23220:
@@ -6538,7 +6538,7 @@ translate french Cheated_cd557ab5:
 translate french Cheated_c4b18b92:
 
     # ch_k "Again with this?!"
-    ch_k "Again with this?!"
+    ch_k "Encore avec ça ? !"
 
 # game/script Scenes.rpy:5945
 translate french Cheated_a03baf00:
@@ -6550,7 +6550,7 @@ translate french Cheated_a03baf00:
 translate french Cheated_d33047ab:
 
     # ch_l "You were screwing someone else again."
-    ch_l "You were screwing someone else again."
+    ch_l "Tu baisais encore avec quelqu'un d'autre."
 
 # game/script Scenes.rpy:5953
 translate french Cheated_57b47ef5:
@@ -6604,7 +6604,7 @@ translate french Cheated_939099e3:
 translate french Cheated_d0adad1c:
 
     # ch_l "You will be."
-    ch_l "You will be."
+    ch_l "Tu le seras."
 
 # game/script Scenes.rpy:6032
 translate french Cheated_c73bb604:
@@ -6652,7 +6652,7 @@ translate french Cheated_1952862c:
 translate french Cheated_69d482df:
 
     # ch_l "Ok, that's fair."
-    ch_l "Ok, that's fair."
+    ch_l "Ok, c'est raisonnable."
 
 # game/script Scenes.rpy:6063
 translate french Cheated_315420b9:
@@ -6730,7 +6730,7 @@ translate french Cheated_9eaecd2f_1:
 translate french Cheated_5bd28eaf:
 
     # ch_e "That's entirely irrelevant!"
-    ch_e "That's entirely irrelevant!"
+    ch_e "C'est totalement hors sujet !"
 
 # game/script Scenes.rpy:6124
 translate french Cheated_5aa89145:
@@ -6886,7 +6886,7 @@ translate french Cheated_547e53f7:
 translate french Cheated_76718a90:
 
     # ch_r "You betrayed my trust, [RogueX.Petname]."
-    ch_r "You betrayed my trust, [RogueX.Petname]."
+    ch_r "Tu as trahi ma confiance, [RogueX.Petname]."
 
 # game/script Scenes.rpy:6250
 translate french Cheated_d23e1c6f:
@@ -7042,7 +7042,7 @@ translate french Cheated_c7ce8ce4:
 translate french Cheated_6c0edf7e:
 
     # ch_e "Yes, delightful."
-    ch_e "Yes, delightful."
+    ch_e "Oui, délicieux."
 
 # game/script Scenes.rpy:6343
 translate french Cheated_4c6d6779:
@@ -7174,7 +7174,7 @@ translate french Cheated_9770459e:
 translate french NoFap_ad813bfe:
 
     # ch_p "About when you masturbate on your own time. . ."
-    ch_p "About when you masturbate on your own time. . ."
+    ch_p "Quand tu te masturbes sur ton temps libre..."
 
 # game/script Scenes.rpy:6468
 translate french NoFap_e546bccf:
@@ -7228,7 +7228,7 @@ translate french NoFap_eab41e93:
 translate french NoFap_eb353b08:
 
     # extend "hey! That's not any of your business!"
-    extend "hey! That's not any of your business!"
+    extend "hé ! Ce n'est pas tes affaires !"
 
 # game/script Scenes.rpy:6507
 translate french NoFap_9aa9e0d8:
@@ -7360,7 +7360,7 @@ translate french NoFap_c824f6f0:
 translate french NoFap_3b80d3ab:
 
     # ch_r "Yes, [RogueX.Petname]."
-    ch_r "Yes, [RogueX.Petname]."
+    ch_r "Oui, [RogueX.Petname]."
 
 # game/script Scenes.rpy:6610
 translate french NoFap_b2ca19f3:
@@ -7420,7 +7420,7 @@ translate french NoFap_8ef0f4a9:
 translate french NoFap_3b80d3ab_1:
 
     # ch_r "Yes, [RogueX.Petname]."
-    ch_r "Yes, [RogueX.Petname]."
+    ch_r "Oui, [RogueX.Petname]."
 
 # game/script Scenes.rpy:6666
 translate french NoFap_b2ca19f3_1:
@@ -7480,7 +7480,7 @@ translate french NoFap_7f5e7673:
 translate french NoFap_2df13816:
 
     # ch_k "Girls don't do that. But even if I did, you're being rude."
-    ch_k "Girls don't do that. But even if I did, you're being rude."
+    ch_k "Les filles ne font pas ça. Mais même si c'était le cas, tu es grossier."
 
 # game/script Scenes.rpy:6701
 translate french NoFap_17effb28:
@@ -7498,7 +7498,7 @@ translate french NoFap_6d6cfc3c:
 translate french NoFap_d7efa9ac:
 
     # ch_r "Fuck you I won't."
-    ch_r "Fuck you I won't."
+    ch_r "J'le ferai pas, enculé."
 
 # game/script Scenes.rpy:6718
 translate french NoFap_0be81db6_1:
@@ -7516,7 +7516,7 @@ translate french NoFap_17effb28_1:
 translate french NoFap_92328987:
 
     # ch_l "Don't tell me what to do."
-    ch_l "Don't tell me what to do."
+    ch_l "Ne me dis pas ce que je dois faire."
 
 # game/script Scenes.rpy:6733
 translate french NoFap_d383c313_1:
@@ -7978,7 +7978,7 @@ translate french CalltoFap_7fbc944f:
 translate french CalltoFap_5aa85462:
 
     # ch_k "Heh, heh, um, I don't think I could. . ."
-    ch_k "Heh, heh, um, je ne pense pas que je pourrais..."
+    ch_k "Héhé, heh, um, je ne pense pas que je pourrais..."
 
 # game/script Scenes.rpy:7073
 translate french CalltoFap_5ae2e3dc:
@@ -8104,7 +8104,7 @@ translate french MindFuck_Menu_24a95fc1:
 translate french MindFuck_Menu_88824ee6:
 
     # ch_e "That'll be all for now. . ."
-    ch_e "That'll be all for now. . ."
+    ch_e "Ce sera tout pour l'instant..."
 
 # game/script Scenes.rpy:7258
 translate french MindFuck_Menu_3714cc15:
@@ -8242,7 +8242,7 @@ translate french strings:
 
     # game/script Scenes.rpy:1195
     old "Stay Quiet"
-    new "Stay Quiet"
+    new "Rester calme"
 
     # game/script Scenes.rpy:1195
     old "Um. . . [Party[0].Pet], what're you doing?"
@@ -8478,7 +8478,7 @@ translate french strings:
 
     # game/script Scenes.rpy:3017
     old "Dammit [RogueX.Name]. . ."
-    new "Dammit [RogueX.Name]. . ."
+    new "Merde, [RogueX.Name].."
 
     # game/script Scenes.rpy:3017
     old "Yeah, I guess you're right. . ."
@@ -8486,15 +8486,15 @@ translate french strings:
 
     # game/script Scenes.rpy:3044
     old "Dammit [KittyX.Name]. . ."
-    new "Dammit [KittyX.Name]. . ."
+    new "Merde [KittyX.Name].."
 
     # game/script Scenes.rpy:3066
     old "Dammit [EmmaX.Name]. . ."
-    new "Dammit [EmmaX.Name]. . ."
+    new "Merde [EmmaX.Name].."
 
     # game/script Scenes.rpy:3087
     old "Dammit [LauraX.Name]. . ."
-    new "Dammit [LauraX.Name]. . ."
+    new "Merde [LauraX.Name].."
 
     # game/script Scenes.rpy:3185
     old "first"
@@ -8506,7 +8506,7 @@ translate french strings:
 
     # game/script Scenes.rpy:3297
     old "You know, it's kinda fun dodging you, catch us if you can."
-    new "Vous savez, c'est assez amusant de vous esquiver, attrapez si vous le pouvez."
+    new "Tu sais, c'est assez amusant de vous esquiver, attrapez si vous le pouvez."
 
     # game/script Scenes.rpy:3297
     old "Raise my stipend."
@@ -8566,7 +8566,7 @@ translate french strings:
 
     # game/script Scenes.rpy:3473
     old "Give me the key to [Girl.Name]'s room.[[Owned] (locked)"
-    new "Donnez-moi la clé de la chambre de [Girl.Name]. [[Acquis] (fermée à clé)"
+    new "Donne-moi la clé de la chambre de [Girl.Name]. [[Acquis] (fermée à clé)"
 
     # game/script Scenes.rpy:3473
     old "Never mind the keys."
@@ -8698,7 +8698,7 @@ translate french strings:
 
     # game/script Scenes.rpy:4581
     old "And?"
-    new "And?"
+    new "Et ?"
 
     # game/script Scenes.rpy:4581
     old "Take it off anyway."
@@ -8730,7 +8730,7 @@ translate french strings:
 
     # game/script Scenes.rpy:5082
     old "Say nothing"
-    new "Say nothing"
+    new "Ne rien dire"
 
     # game/script Scenes.rpy:5178
     old "It's not you, it's me."
@@ -8834,7 +8834,7 @@ translate french strings:
 
     # game/script Scenes.rpy:5554
     old "That was nice, but we're still over."
-    new "That was nice, but we're still over."
+    new "C'était bien, mais c'est quand même fini."
 
     # game/script Scenes.rpy:5574
     old "[RogueX.Name]?"
@@ -8991,4 +8991,8 @@ translate french strings:
     # game/script Scenes.rpy:7243
     old "Nah, over the phone is fine."
     new "Nah, over the phone is fine."
+
+# TODO: Translation updated at 2020-06-05 16:46
+
+# TODO: Translation updated at 2020-06-14 19:22
 
