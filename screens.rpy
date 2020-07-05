@@ -498,7 +498,7 @@ screen preferences():
 
                 label _("Language")
                 textbutton _("French") action Language("french")
-                textbutton _("English") action Language("none")
+                textbutton _("English") action Language(None)
 
             frame:
                 style_group "pref"
