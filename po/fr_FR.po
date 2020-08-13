@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr_FR\n"
-"X-Generator: Poedit 2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 "X-Poedit-Basepath: ../../../../Desktop/Rogue-Like-0.990m-win/game\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -81374,7 +81374,6 @@ msgstr ""
 "Tu soulèves un peu sa jupe et elle gémit quand tu caresses ses lèvres humides"
 
 #: game/script SDialog.rpy:919
-#, fuzzy
 msgid "She gasps as you rub her bare pussy"
 msgstr "Elle baisse son pantalon, exposant sa chatte nue."
 
@@ -86395,17 +86394,14 @@ msgid "Yeah, we can[KittyX.like]live with that."
 msgstr "Ouais, on peut[KittyX.like]vivre avec ça."
 
 #: game/script Scenes.rpy:2265
-#, fuzzy
 msgid "Ok, we would have been ok with it though."
 msgstr "Ok, nous aurions été d'accord avec ça."
 
 #: game/script Scenes.rpy:2269
-#, fuzzy
 msgid "That's not really cool with us."
 msgstr "Ce n'est pas vraiment cool pour nous."
 
 #: game/script Scenes.rpy:2272
-#, fuzzy
 msgctxt "Harem_Start_0f116907"
 msgid "Good, that wouldn't have been cool."
 msgstr "Bien, ça n'aurait pas été cool."
@@ -87172,7 +87168,6 @@ msgstr ""
 "Retournez maintenant dans vos chambres et réfléchissez à ce que vous avez fait."
 
 #: game/script Scenes.rpy:2922
-#, fuzzy
 msgctxt "Girls_Caught_89ce797f"
 msgid "If that's your attitude, harsher methods might be necessary."
 msgstr ""
@@ -87181,13 +87176,12 @@ msgstr ""
 #: game/script Scenes.rpy:2924
 msgctxt "Girls_Caught_9dda062a_1"
 msgid "I'm extending your punishment by [Count] days."
-msgstr "Je prolonge ton punition de [Count] jours."
+msgstr "Je prolonge ta punition de [Count] jours."
 
 #: game/script Scenes.rpy:2926
-#, fuzzy
 msgctxt "Girls_Caught_80826ff4_1"
 msgid "I'm halving your daily stipend for [Count] days."
-msgstr "Je réduis de moitié ton allocation journalière pour les jours [Count]."
+msgstr "Je réduis de moitié ton allocation journalière pour [Count] jours."
 
 #: game/script Scenes.rpy:2946
 msgctxt "Girls_Caught_8c6ab89a"
@@ -87211,7 +87205,6 @@ msgid "Chi"
 msgstr "Chi"
 
 #: game/script Scenes.rpy:2980
-#, fuzzy
 msgctxt "Girls_Caught_89ce797f_1"
 msgid "If that's your attitude, harsher methods might be necessary."
 msgstr ""
@@ -87226,12 +87219,10 @@ msgid "I'm halving your daily stipend for [Count] days!"
 msgstr "Je réduis de moitié ton allocation journalière pendant [Count] jours !"
 
 #: game/script Scenes.rpy:3007
-#, fuzzy
 msgid "Now get out of my sight."
 msgstr "Maintenant, disparaissez de ma vue."
 
 #: game/script Scenes.rpy:3016
-#, fuzzy
 msgid "I'm not comfortable with something that extreme, [RogueX.Petname]. . ."
 msgstr ""
 "Je ne suis pas à l'aise avec quelque chose d'aussi extrême, [RogueX.Petname]..."
@@ -87240,75 +87231,61 @@ msgid "Dammit [RogueX.Name]. . ."
 msgstr "Merde, [RogueX.Name].."
 
 #: game/script Scenes.rpy:3017
-#, fuzzy
 msgid "Yeah, I guess you're right. . ."
-msgstr "Oui, je suppose que tu as raison.."
+msgstr "Ouais, je suppose que tu as raison.."
 
 #: game/script Scenes.rpy:3026
-#, fuzzy
 msgid "What nonsense are you talking now?"
-msgstr "Quelles sont les absurdités que vous racontez maintenant ?"
+msgstr "Qu'est-ce que tu dis comme absurdités, maintenant ?"
 
 #: game/script Scenes.rpy:3027
-#, fuzzy
 msgid "Plan {i}Omega!{/i} . . you know. . ."
-msgstr "Plan Omega ! . tu sais..."
+msgstr "Plan {i}Omega{/i} !... tu sais..."
 
 #: game/script Scenes.rpy:3028
-#, fuzzy
 msgid "Sounds like gibberish."
 msgstr "On dirait du charabia."
 
 #: game/script Scenes.rpy:3029
-#, fuzzy
 msgctxt "Girls_Caught_72625d5a"
 msgid "Oh, yeah, I guess I haven't mentioned that. . ."
-msgstr "Oh, oui, je suppose que je n'en ai pas parlé..."
+msgstr "Oh, ouais, je suppose que je n'en ai pas parlé..."
 
 #: game/script Scenes.rpy:3038
-#, fuzzy
 msgid "You know. . . I really don't think that's a good idea. . ."
 msgstr "Tu sais... Je ne pense vraiment pas que ce soit une bonne idée..."
 
 #: game/script Scenes.rpy:3040
-#, fuzzy
 msgid "Maybe if we came back later we could find something. . ."
 msgstr ""
 "Peut-être que si nous revenions plus tard, nous pourrions trouver quelque "
 "chose.."
 
 #: game/script Scenes.rpy:3042
-#, fuzzy
 msgid "We don't really have any way to pull that off atm. . ."
-msgstr ""
-"Nous n'avons pas vraiment de moyen de faire cela au guichet automatique..."
+msgstr "Nous n'avons pas vraiment de moyen de faire cela pour le moment..."
 
 msgid "Dammit [KittyX.Name]. . ."
-msgstr "Merde [KittyX.Name].."
+msgstr "Merde, [KittyX.Name]..."
 
 #: game/script Scenes.rpy:3054
-#, fuzzy
 msgid "Wait, Plan what??"
 msgstr "Attends, Plan quoi ?"
 
 #: game/script Scenes.rpy:3055
-#, fuzzy
 msgid "Plan {i}Kappa!{/i} . . you know. . ."
-msgstr "Plan Kappa ! . tu sais..."
+msgstr "Plan {i}Kappa{/i} !... tu sais..."
 
 #: game/script Scenes.rpy:3056
-#, fuzzy
 msgid "I have no {i}idea{/i} what you're talking about."
-msgstr "Je n'ai aucune idée de ce dont vous parlez."
+msgstr "Je n'ai aucune {i}idée{/i} de ce dont tu parles."
 
 #: game/script Scenes.rpy:3057
-#, fuzzy
 msgctxt "Girls_Caught_b907a900"
 msgid "oh, yeah, I guess I haven't mentioned that. . ."
-msgstr "oh, oui, je suppose que je n'en ai pas parlé..."
+msgstr "oh, ouais, je suppose que je n'en ai pas parlé..."
 
 #: game/script Scenes.rpy:3065
-#, fuzzy
 msgid "Um, I don't believe we're quite at that point yet, [EmmaX.Petname]. . ."
 msgstr "Hum, je ne crois pas que nous en soyons encore là, [EmmaX.Petname]..."
 
@@ -87316,28 +87293,23 @@ msgid "Dammit [EmmaX.Name]. . ."
 msgstr "Merde [EmmaX.Name].."
 
 #: game/script Scenes.rpy:3075
-#, fuzzy
 msgid "Lord child, what are you talking about now?"
-msgstr "Seigneur enfant, de quoi parles-tu maintenant ?"
+msgstr "Bonté divine, de quoi parles-tu maintenant ?"
 
 #: game/script Scenes.rpy:3076
-#, fuzzy
 msgid "Plan {i}Psi!{/i} . . you know. . ."
-msgstr "Plan {i}Psi!{/i}.. tu sais..."
+msgstr "Plan {i}Psi!{/i}... tu sais..."
 
 #: game/script Scenes.rpy:3077
-#, fuzzy
 msgid "I wish that I did."
-msgstr "J'aimerais que ce soit le cas."
+msgstr "J'aimerais le savoir."
 
 #: game/script Scenes.rpy:3078
-#, fuzzy
 msgctxt "Girls_Caught_72625d5a_1"
 msgid "Oh, yeah, I guess I haven't mentioned that. . ."
-msgstr "Oh, oui, je suppose que je n'en ai pas parlé..."
+msgstr "Oh, ouais, je suppose que je n'en ai pas parlé..."
 
 #: game/script Scenes.rpy:3086
-#, fuzzy
 msgid "I told you that was a stupid idea. . ."
 msgstr "Je t'ai dit que c'était une idée stupide..."
 
@@ -87355,28 +87327,23 @@ msgid ". . ."
 msgstr "..."
 
 #: game/script Scenes.rpy:3099
-#, fuzzy
 msgid "Wait, plan \"key,\" what??"
-msgstr "Attends, le plan \"clé\", quoi ?"
+msgstr "Attends, le plan \"Qui\", quoi ?"
 
 #: game/script Scenes.rpy:3100
-#, fuzzy
 msgid "Plan {i}Chi!{/i} . . you know. . ."
 msgstr "Plan {i}Chi!{/i}.. tu sais..."
 
 #: game/script Scenes.rpy:3101
-#, fuzzy
 msgid "Um. No?"
 msgstr "Hum. Non ?"
 
 #: game/script Scenes.rpy:3102
-#, fuzzy
 msgctxt "Girls_Caught_b907a900_1"
 msgid "oh, yeah, I guess I haven't mentioned that. . ."
-msgstr "oh, oui, je suppose que je n'en ai pas parlé..."
+msgstr "oh, ouais, je suppose que je n'en ai pas parlé..."
 
 #: game/script Scenes.rpy:3109
-#, fuzzy
 msgid ""
 "I have no idea what that was about, but it sounds like you haven't learned."
 msgstr ""
@@ -87385,13 +87352,12 @@ msgstr ""
 #: game/script Scenes.rpy:3111
 msgctxt "Girls_Caught_9dda062a_2"
 msgid "I'm extending your punishment by [Count] days."
-msgstr "Je prolonge ton punition de [Count] jours."
+msgstr "Je prolonge ta punition de [Count] jours."
 
 #: game/script Scenes.rpy:3113
-#, fuzzy
 msgctxt "Girls_Caught_80826ff4_2"
 msgid "I'm halving your daily stipend for [Count] days."
-msgstr "Je réduis de moitié ton allocation journalière pour les jours [Count]."
+msgstr "Je réduis de moitié ton allocation journalière pour [Count] jours."
 
 #: game/script Scenes.rpy:3133
 msgctxt "Girls_Caught_8c6ab89a_1"
@@ -87399,7 +87365,6 @@ msgid "I've had enough of you, begone."
 msgstr "J'en ai assez de toi, va-t'en."
 
 #: game/script Scenes.rpy:3137
-#, fuzzy
 msgid ""
 "It would probably be a good idea to find some way to get Xavier to leave you "
 "alone."
@@ -87408,36 +87373,30 @@ msgstr ""
 "Xavier vous laisse tranquille."
 
 #: game/script Scenes.rpy:3138
-#, fuzzy
 msgid "There probably isn't a way available right now though. . ."
 msgstr "Mais il n'y a probablement pas de moyen disponible pour le moment..."
 
 #: game/script Scenes.rpy:3140
-#, fuzzy
 msgid "Maybe I should try searching the office when he's not around."
 msgstr "Je devrais peut-être essayer de fouiller le bureau quand il n'est pas là."
 
 #: game/script Scenes.rpy:3142
-#, fuzzy
 msgid "I bet [KittyX.Name] could help me get in."
 msgstr "Je parie que [KittyX.Name] pourrait m'aider à entrer."
 
 #: game/script Scenes.rpy:3144
-#, fuzzy
 msgid "I bet there's something in that lefthand drawer. . ."
 msgstr "Je parie qu'il y a quelque chose dans ce tiroir de gauche..."
 
 #: game/script Scenes.rpy:3146
-#, fuzzy
 msgid ""
 "Emma, I'd like you to stay after for a brief discussion about \"boundaries"
 "\". . ."
 msgstr ""
-"Emma, j'aimerais que vous restiez après pour une brève discussion sur les "
-"\"limites\"..."
+"Emma, j'aimerais que tu restes après pour une brève discussion sur les \"limites"
+"\"..."
 
 #: game/script Scenes.rpy:3150
-#, fuzzy
 msgid "Not again. . ."
 msgstr "Pas encore..."
 
@@ -87447,28 +87406,22 @@ msgid "You return to your room"
 msgstr "Tu retournes dans ta chambre"
 
 #: game/script Scenes.rpy:3166
-#, fuzzy
 msgid "The Professor seems pretty out of it."
-msgstr "Le professeur semble assez hors de lui."
+msgstr "Le professeur semble assez dans les choux."
 
 #: game/script Scenes.rpy:3167
-#, fuzzy
 msgid "You don't think you'll be able to get anything more out of him today."
-msgstr "Vous ne pensez pas pouvoir en tirer plus de profit aujourd'hui."
+msgstr "Tu ne penses pas pouvoir en tirer plus de profit aujourd'hui."
 
 #: game/script Scenes.rpy:3168
-#, fuzzy
 msgid "You leave him to it."
-msgstr "Vous le laissez faire."
+msgstr "Tu le laisses."
 
 #: game/script Scenes.rpy:3176
-#, fuzzy
 msgid "As you say this, a sly grin crosses [Girl.Name]'s face."
-msgstr ""
-"Comme tu le dis, un sourire sournois traverse le visage de [Girl.Petname]."
+msgstr "En le disant, un sourire sournois traverse le visage de [Girl.Petname]."
 
 #: game/script Scenes.rpy:3177
-#, fuzzy
 msgid "You quickly approach Xavier and place your hands on his head."
 msgstr "Tu t'approches rapidement de Xavier et place tes mains sur sa tête."
 
@@ -87478,7 +87431,6 @@ msgid ". . ."
 msgstr "..."
 
 #: game/script Scenes.rpy:3181
-#, fuzzy
 msgid ""
 "Xavier realizes with a shock that with your powers, his telepathy is useless."
 msgstr ""
@@ -87490,25 +87442,22 @@ msgid "first"
 msgstr "first"
 
 #: game/script Scenes.rpy:3198
-#, fuzzy
 msgid "[Partner.Name] looks a bit caught off guard, but goes along with the idea."
 msgstr ""
-"[Partner.Name] semble un peu pris au dépourvu, mais il est d'accord avec l'idée."
+"[Partner.Name] semble un peu pris au dépourvu, mais elle est d'accord avec "
+"l'idée."
 
 #: game/script Scenes.rpy:3202
-#, fuzzy
 msgid ""
 "[Partner.Name] looks a bit uncomfortable with what's happening and takes off."
 msgstr ""
-"[Partner.Name] semble un peu mal à l'aise avec ce qui se passe et s'envole."
+"[Partner.Name] semble un peu mal à l'aise avec ce qui se passe et s'en va."
 
 #: game/script Scenes.rpy:3207
-#, fuzzy
 msgid "[Partner.Name] understands what's going on here."
 msgstr "[Partner.Name] comprend ce qui se passe ici."
 
 #: game/script Scenes.rpy:3215
-#, fuzzy
 msgid ""
 "[RogueX.Name] moves in and also grabs his head, duplicating his powers as he "
 "watches helplessly."
@@ -87517,7 +87466,6 @@ msgstr ""
 "alors qu'il regarde sans défense."
 
 #: game/script Scenes.rpy:3216
-#, fuzzy
 msgid ""
 "Now that she posesses his full power, while his are negated, he has no defenses."
 msgstr ""
@@ -87535,17 +87483,14 @@ msgid "What is it you want this time?"
 msgstr "Que veux-tu cette fois-ci ?"
 
 #: game/script Scenes.rpy:3226
-#, fuzzy
 msgid "Well, [RogueX.Petname], what would you like to do with this opportunity?"
 msgstr "Eh bien, [RogueX.Petname], que souhaites-tu faire de cette opportunité ?"
 
 #: game/script Scenes.rpy:3227
-#, fuzzy
 msgid "I think we'll only get three tries at this. . ."
 msgstr "Je pense que nous n'aurons que trois essais..."
 
 #: game/script Scenes.rpy:3232
-#, fuzzy
 msgid "[KittyX.Name] moves in sits on his lap, pinning his arms to the chair."
 msgstr ""
 "[KittyX.Name] s'installe sur ses genoux, en plaçant ses bras sur la chaise."
@@ -87566,27 +87511,22 @@ msgid "What is the meaning of this? Unhand me!"
 msgstr "Qu'est-ce que cela signifie ? Lâchez-moi !"
 
 #: game/script Scenes.rpy:3240
-#, fuzzy
 msgid "You pull out the photo you found earlier in his study."
-msgstr "Tu sors la photo que tu as trouvée plus tôt dans son étude."
+msgstr "Tu sors la photo que tu as trouvée plus tôt dans son bureau."
 
 #: game/script Scenes.rpy:3243
-#, fuzzy
 msgid "I have here a rather. . . compromising photo of you and Mystique."
-msgstr "J'ai ici un plutôt.... compromettante de vous et du Mystique."
+msgstr "J'ai ici une photo plutôt.... compromettante de vous et du Mystique."
 
 #: game/script Scenes.rpy:3244
-#, fuzzy
 msgid "I was thinking maybe you could cut me a little slack around here."
-msgstr "Je pensais que tu pourrais peut-être me laisser un peu de mou ici."
+msgstr "Je pensais que tu pourrais peut-être me laisser un peu tranquille."
 
 #: game/script Scenes.rpy:3245
-#, fuzzy
 msgid "And if I do not?"
 msgstr "Et si je ne le fais pas ?"
 
 #: game/script Scenes.rpy:3246
-#, fuzzy
 msgid ""
 "[KittyX.Name] here's set it to distribute to every computer in school, every "
 "day."
@@ -87595,14 +87535,13 @@ msgstr ""
 "l'école, tous les jours."
 
 #: game/script Scenes.rpy:3247
-#, fuzzy
 msgid "And only I know the password."
 msgstr "Et je suis le seul à connaître le mot de passe."
 
 #: game/script Scenes.rpy:3248
 msgctxt "Xavier_Plan_b2f19940"
 msgid "Very well. . . I'll forget about your punishment."
-msgstr "Très bien... J'oublierai ton punition."
+msgstr "Très bien... J'oublierai ta punition."
 
 #: game/script Scenes.rpy:3249
 msgctxt "Xavier_Plan_b941670d"
@@ -87610,22 +87549,18 @@ msgid "Oh, I think we can do a bit better than that. . ."
 msgstr "Oh, je pense que nous pouvons faire un peu mieux que cela..."
 
 #: game/script Scenes.rpy:3252
-#, fuzzy
 msgid "Well, [KittyX.Petname], what should we ask for?"
 msgstr "Eh bien, [KittyX.Petname], que devrions-nous demander ?"
 
 #: game/script Scenes.rpy:3255
-#, fuzzy
 msgid "[EmmaX.Name] moves behind Xavier and activates her own telepathy."
 msgstr "[EmmaX.Name] se place derrière Xavier et active sa propre télépathie."
 
 #: game/script Scenes.rpy:3258
-#, fuzzy
 msgid "Oh, not again. . ."
 msgstr "Oh, pas encore..."
 
 #: game/script Scenes.rpy:3266
-#, fuzzy
 msgid "Well, [EmmaX.Petname], what should we ask for?"
 msgstr "Eh bien, [EmmaX.Petname], que devrions-nous demander ?"
 
@@ -87645,7 +87580,6 @@ msgid "What is the meaning of this? Unhand me!"
 msgstr "Qu'est-ce que cela signifie ? Lâchez-moi !"
 
 #: game/script Scenes.rpy:3277
-#, fuzzy
 msgid ""
 "[LauraX.Name] and I were talking, and it seems like neither of us appreciates "
 "you bothering us."
@@ -87654,25 +87588,22 @@ msgstr ""
 "que vous nous dérangiez."
 
 #: game/script Scenes.rpy:3278
-#, fuzzy
 msgid "And if I continue?"
 msgstr "Et si je continue ?"
 
 #: game/script Scenes.rpy:3279
-#, fuzzy
 msgid ""
 "My little [LauraX.Pet] here has a very particular set of skills, you know. . ."
-msgstr "Ma petite [LauraX.Pet] a des compétences très particulières, tu sais..."
+msgstr ""
+"Ma petite [LauraX.Pet] a des compétences très particulières, vous savez..."
 
 #: game/script Scenes.rpy:3283
-#, fuzzy
 msgid ""
 "She could cause a lot of trouble if she keeps getting called down here. . ."
 msgstr ""
 "Elle pourrait causer beaucoup d'ennuis si elle continue à être appelée ici..."
 
 #: game/script Scenes.rpy:3284
-#, fuzzy
 msgid ""
 "[LauraX.Name] draws her claws along the arm of the Professor's chair, tracing "
 "fine lines into the metal."
@@ -87691,7 +87622,6 @@ msgid "Oh, I think we can do a bit better than that. . ."
 msgstr "Oh, je pense que nous pouvons faire un peu mieux que cela..."
 
 #: game/script Scenes.rpy:3291
-#, fuzzy
 msgid "Well, [LauraX.Petname], what should we ask for?"
 msgstr "Eh bien, [LauraX.Petname], que devrions-nous demander ?"
 
@@ -87737,7 +87667,6 @@ msgid "Very well. . . I could offer you some. . . discretion. . ."
 msgstr "Très bien... Je pourrais te donner de la... discrétion..."
 
 #: game/script Scenes.rpy:3303
-#, fuzzy
 msgid "If you. . . want me to, I suppose. . ."
 msgstr "Si vous.... voulez que je le fasse, je suppose..."
 
@@ -87762,33 +87691,27 @@ msgid "Very well. . . but I can only raise it by so much. . ."
 msgstr "Très bien.... mais l'augmentation est limitée..."
 
 #: game/script Scenes.rpy:3320
-#, fuzzy
 msgid "I'm afraid I can't manage any more than I have. . ."
 msgstr "J'ai peur de ne pas pouvoir en faire plus que ce que j'ai fait..."
 
 #: game/script Scenes.rpy:3326
-#, fuzzy
 msgid "This will send a girl away, temporarily removing her from the game."
 msgstr ""
 "Cela aura pour effet d'éloigner une fille, de la retirer temporairement du jeu."
 
 #: game/script Scenes.rpy:3327
-#, fuzzy
 msgid "You can always ask to bring her back later."
 msgstr "Tu peux toujours demander à la ramener plus tard."
 
 #: game/script Scenes.rpy:3329
-#, fuzzy
 msgid "Could you get rid of. . ."
-msgstr "Pourrais-tu t'en débarrasser ?.."
+msgstr "Pourrais-tu te débarasser de..."
 
 #: game/script Scenes.rpy:3329
-#, fuzzy
 msgid "Never mind. . ."
 msgstr "Peu importe..."
 
 #: game/script Scenes.rpy:3343
-#, fuzzy
 msgid ""
 "Very well, I suppose I can keep her occupied with various tasks around the "
 "campus. . ."
@@ -87797,34 +87720,29 @@ msgstr ""
 "campus..."
 
 #: game/script Scenes.rpy:3344
-#, fuzzy
 msgid "She should be out of your hair for the time being."
 msgstr "Elle ne devrait pas être dans tes pattes pour le moment."
 
 #: game/script Scenes.rpy:3350
-#, fuzzy
 msgid "What do you mean, I'm \"bothering\" you?"
-msgstr "Comment ça, je vous \"dérange\" ?"
+msgstr "Comment ça, je te \"dérange\" ?"
 
 msgid "Hey, what gives?!"
 msgstr "Hé, t'es fou ?!"
 
 #: game/script Scenes.rpy:3354
-#, fuzzy
 msgid "Excuse me? I must not have heard that right."
-msgstr "Excusez-moi ? Je ne dois pas avoir bien entendu."
+msgstr "Excuse-moi ? Je ne dois pas avoir bien entendu."
 
 #: game/script Scenes.rpy:3356
 msgid "Explain."
 msgstr "Explique."
 
 #: game/script Scenes.rpy:3357
-#, fuzzy
 msgid "Oh, sorry, never mind."
 msgstr "Oh, désolé, peu importe."
 
 #: game/script Scenes.rpy:3357
-#, fuzzy
 msgid "Sorry, but I just need some \"me\" time."
 msgstr "Désolé, mais j'ai juste besoin d'un peu de temps pour moi."
 
@@ -87839,14 +87757,12 @@ msgid "Right. . ."
 msgstr "Bien..."
 
 #: game/script Scenes.rpy:3369
-#, fuzzy
 msgid "Uh-huh?"
 msgstr "Uh-huh ?"
 
 #: game/script Scenes.rpy:3371
-#, fuzzy
 msgid ". . . right. . ."
-msgstr "... bien...."
+msgstr "... d'accord..."
 
 #: game/script Scenes.rpy:3373
 msgctxt "Xavier_Plan_7b65ae6f"
@@ -87854,67 +87770,54 @@ msgid "If you say so."
 msgstr "Si tu le dis."
 
 #: game/script Scenes.rpy:3380
-#, fuzzy
 msgid "Damned right you are."
 msgstr "Tu as bien raison."
 
 #: game/script Scenes.rpy:3382
-#, fuzzy
 msgid "Yeah, right."
-msgstr "Oui, c'est vrai."
+msgstr "Ouais, d'accord."
 
 #: game/script Scenes.rpy:3384
-#, fuzzy
 msgid "I don't know what you were thinking."
-msgstr "Je ne sais pas à quoi vous pensiez."
+msgstr "Je ne sais pas à quoi tu penses."
 
 #: game/script Scenes.rpy:3386
-#, fuzzy
 msgid "Uh. . . huh."
 msgstr "Euh... huh."
 
 #: game/script Scenes.rpy:3396
-#, fuzzy
 msgid "I suppose if you do, I can give you some space."
 msgstr "Je suppose que si tu le fais, je peux te donner un peu d'espace."
 
 #: game/script Scenes.rpy:3398
-#, fuzzy
 msgid "I guess we both could. . ."
 msgstr "Je suppose que nous pourrions tous les deux le faire..."
 
 #: game/script Scenes.rpy:3400
-#, fuzzy
 msgid "I wouldn't want to be a bother. . ."
 msgstr "Je ne voudrais pas être une gêne..."
 
 #: game/script Scenes.rpy:3402
-#, fuzzy
 msgid "I can make myself scarce. . ."
 msgstr "Je peux me faire rare..."
 
 #: game/script Scenes.rpy:3409
-#, fuzzy
 msgid "Oh, I think you'll be getting it."
-msgstr "Oh, je pense que vous l'aurez."
+msgstr "Oh, je pense que tu l'auras."
 
 #: game/script Scenes.rpy:3411
-#, fuzzy
 msgid "Yeah, \"me\" too, I guess!"
 msgstr "Oui, \"moi\" aussi, je suppose !"
 
 #: game/script Scenes.rpy:3413
-#, fuzzy
 msgid "I do have other things with which to occupy myself."
 msgstr "J'ai d'autres choses à faire."
 
 #: game/script Scenes.rpy:3415
-#, fuzzy
 msgid "I'm busy too."
-msgstr "Je suis aussi très occupé."
+msgstr "Je suis aussi très occupée."
 
 #: game/script Scenes.rpy:3432
-#, fuzzy
 msgid "Loud and clear."
 msgstr "Fort et clair."
 
@@ -87924,7 +87827,6 @@ msgid ". . ."
 msgstr "..."
 
 #: game/script Scenes.rpy:3436
-#, fuzzy
 msgid "I suppose I did."
 msgstr "Je suppose que oui."
 
@@ -87939,48 +87841,39 @@ msgid "Oh. . ."
 msgstr "Oh..."
 
 #: game/script Scenes.rpy:3444
-#, fuzzy
 msgid "I'll forget you asked."
 msgstr "J'oublierai que tu as demandé."
 
 #: game/script Scenes.rpy:3450
-#, fuzzy
 msgid "This will bring the girl back into active play."
 msgstr "Cela permettra à la jeune fille de retrouver un rôle actif."
 
 #: game/script Scenes.rpy:3451
-#, fuzzy
 msgid "You can always ask to send her away again later."
 msgstr "Tu peux toujours demander à la renvoyer plus tard."
 
 #: game/script Scenes.rpy:3453
-#, fuzzy
 msgid "Could you bring back. . ."
-msgstr "Pourrais-tu rapporter..."
+msgstr "Pourrais-tu ramener..."
 
 #: game/script Scenes.rpy:3468
-#, fuzzy
 msgid "Certainly. I've kept her busy, but I can let her off the hook. . ."
 msgstr ""
 "Certainement. Je l'ai tenue occupée, mais je peux la laisser tranquille..."
 
 #: game/script Scenes.rpy:3469
-#, fuzzy
 msgid "She should have more free time now. . ."
 msgstr "Elle devrait avoir plus de temps libre maintenant..."
 
 #: game/script Scenes.rpy:3473
-#, fuzzy
 msgid "Give me the key to your study."
-msgstr "Donne-moi la clé de ton étude."
+msgstr "Donne-moi la clé de ton bureau."
 
 #: game/script Scenes.rpy:3473
-#, fuzzy
 msgid "Give me the key to your study.[[Owned] (locked)"
-msgstr "Donne-moi la clé de ton bureau [[propriétaire] (verrouillé)"
+msgstr "Donne-moi la clé de ton bureau [[Acquis] (verrouillé)"
 
 #: game/script Scenes.rpy:3473
-#, fuzzy
 msgid "Give me the key to [Girl.Name]'s room."
 msgstr "Donne-moi la clé de la chambre de [Girl.Name]."
 
@@ -87989,22 +87882,18 @@ msgid "Give me the key to [Girl.Name]'s room.[[Owned] (locked)"
 msgstr "Donne-moi la clé de la chambre de [Girl.Name]. [[Acquis] (fermée à clé)"
 
 #: game/script Scenes.rpy:3473
-#, fuzzy
 msgid "Never mind the keys."
 msgstr "Peu importe les clés."
 
 #: game/script Scenes.rpy:3475
-#, fuzzy
 msgid "Fine, take it. . ."
-msgstr "Bien, prenez-le..."
+msgstr "Bien, prends-la..."
 
 #: game/script Scenes.rpy:3481
-#, fuzzy
 msgid "I. . . suppose I could do that. . ."
-msgstr "I.... suppose que je pourrais faire cela..."
+msgstr "Je... suppose que je pourrais faire cela..."
 
 #: game/script Scenes.rpy:3491
-#, fuzzy
 msgid "Very well, that should conclude our business. Please leave."
 msgstr ""
 "Très bien, cela devrait conclure notre affaire. Je vous prie de bien vouloir "
@@ -88034,7 +87923,6 @@ msgid "You return to your room"
 msgstr "Tu retournes dans ta chambre"
 
 #: game/script Scenes.rpy:3574
-#, fuzzy
 msgid ""
 "As you enter the room, you see [Girl.Name] is naked, and seems to be getting "
 "dressed."
@@ -88042,7 +87930,6 @@ msgstr ""
 "En entrant dans la pièce, tu vois que [Girl.Name] est nue et semble s'habiller."
 
 #: game/script Scenes.rpy:3577
-#, fuzzy
 msgid ""
 "As you enter the room, you see [Girl.Name] is practically naked, and seems to "
 "be getting dressed."
@@ -88051,16 +87938,14 @@ msgstr ""
 "semble s'habiller."
 
 #: game/script Scenes.rpy:3580
-#, fuzzy
 msgid ""
 "As you enter the room, you see [Girl.Name] is in her underwear, and seems to be "
 "getting dressed."
 msgstr ""
-"Lorsque vous entrez dans la pièce, tu vois que [Girl.Name] est en sous-"
-"vêtements et semble s'habiller."
+"Lorsque tu entres dans la pièce, tu vois que [Girl.Name] est en sous-vêtements "
+"et semble s'habiller."
 
 #: game/script Scenes.rpy:3583
-#, fuzzy
 msgid ""
 "As you enter the room, you see [Girl.Name] has her top off, and seems to be "
 "getting dressed."
@@ -88069,7 +87954,6 @@ msgstr ""
 "s'habiller."
 
 #: game/script Scenes.rpy:3586
-#, fuzzy
 msgid ""
 "As you enter the room, you see [Girl.Name] has just pulled her top on, and "
 "seems to have been getting dressed."
@@ -88078,7 +87962,6 @@ msgstr ""
 "semble s'être habillée."
 
 #: game/script Scenes.rpy:3597
-#, fuzzy
 msgctxt "Girl_Caught_Changing_a331c7bc"
 msgid "She grabs a towel and covers up."
 msgstr "Elle attrape une serviette et se couvre."
@@ -88089,122 +87972,101 @@ msgid "Hey! Learn to knock maybe?!"
 msgstr "Hé ! Apprends à frapper peut-être ? !"
 
 #: game/script Scenes.rpy:3619
-#, fuzzy
 msgid "Why didn't you knock?!"
 msgstr "Pourquoi n'as-tu pas frappé ? !"
 
 #: game/script Scenes.rpy:3621
-#, fuzzy
 msgid "Did you consider knocking?"
 msgstr "As-tu pensé à frapper ?"
 
 #: game/script Scenes.rpy:3623
-#, fuzzy
 msgid "Didn't think about knocking?"
 msgstr "Tu n'as pas pensé à frapper ?"
 
 #: game/script Scenes.rpy:3624
-#, fuzzy
 msgid "Sorry, I should have knocked."
 msgstr "Désolé, j'aurais dû frapper."
 
 #: game/script Scenes.rpy:3624
-#, fuzzy
 msgid "And miss the view?"
-msgstr "Et la vue vous manque ?"
+msgstr "Et rater la vue ?"
 
 #: game/script Scenes.rpy:3644
-#, fuzzy
 msgctxt "Girl_Caught_Changing_26e582f8"
 msgid "Well hello there, [RogueX.Petname]. Hoping to see something more?"
 msgstr ""
-"Eh bien bonjour, [RogueX.Petname]. Vous espérez voir quelque chose de plus ?"
+"Eh bien bonjour, [RogueX.Petname]. Tu espérais voir quelque chose de plus ?"
 
 #: game/script Scenes.rpy:3646
-#, fuzzy
 msgid "Hey, [KittyX.Petname]. . . {i}you{/i} were hoping I'd be naaaked."
-msgstr "Hé, [KittyX.Petname]... tu espérais que je sois nu."
+msgstr "Hé, [KittyX.Petname]... {i}tu{/i} espérais que je sois nuuue."
 
 #: game/script Scenes.rpy:3648
 msgid "Were you hoping to catch me in a compromising position?."
 msgstr "Tu esperais me trouver dans une position compromettante ?..."
 
 #: game/script Scenes.rpy:3650
-#, fuzzy
 msgid "Hey, [LauraX.Petname]. Trying to catch a peek?"
-msgstr "Hé, [LauraX.Petname]. Tu veux jeter un coup d'œil ?"
+msgstr "Hé, [LauraX.Petname]. Tu essaies de jeter un coup d'œil ?"
 
 #: game/script Scenes.rpy:3652
-#, fuzzy
 msgid "Well, to be honest. . ."
 msgstr "Eh bien, pour être honnête.."
 
 #: game/script Scenes.rpy:3666
-#, fuzzy
 msgctxt "Girl_Caught_Changing_2f61e988"
 msgid "You could have just asked, [RogueX.Petname]."
 msgstr "Tu aurais pu simplement demander, [RogueX.Petname]."
 
 #: game/script Scenes.rpy:3668
-#, fuzzy
 msgid "I didn't say that I {i}minded{/i}. . ."
-msgstr "Je n'ai pas dit que j'avais de l'esprit..."
+msgstr "Je n'ai pas dit que ça me {i}dérangeait{/i}..."
 
 #: game/script Scenes.rpy:3670
-#, fuzzy
 msgid "That does show initiative. . ."
-msgstr "Cela montre bien l'initiative..."
+msgstr "Cela montre bien de l'initiative..."
 
 #: game/script Scenes.rpy:3672
 msgid "I don't mind."
 msgstr "Cela ne me dérange pas."
 
 #: game/script Scenes.rpy:3681
-#, fuzzy
 msgctxt "Girl_Caught_Changing_3731b249"
 msgid "She flashes you real quick."
-msgstr "Elle vous montre très rapidement."
+msgstr "Elle te montre très rapidement."
 
 #: game/script Scenes.rpy:3685
-#, fuzzy
 msgctxt "Girl_Caught_Changing_67dbcb05"
 msgid "Well, it happens, just be careful next time."
-msgstr "Eh bien, ça arrive, mais faites attention la prochaine fois."
+msgstr "Eh bien, ça arrive, mais fais attention la prochaine fois."
 
 #: game/script Scenes.rpy:3687
-#, fuzzy
 msgid "Yeah. . . we wouldn't want any accidents. . ."
-msgstr "Oui.... nous ne voudrions pas d'accidents..."
+msgstr "Ouais.... nous ne voudrions pas d'accidents..."
 
 #: game/script Scenes.rpy:3689
-#, fuzzy
 msgid "Hmm, show a bit more care next time. . ."
-msgstr "Hmm, soyez un peu plus attentifs la prochaine fois..."
+msgstr "Hmm, sois un peu plus attentif la prochaine fois..."
 
 #: game/script Scenes.rpy:3691
-#, fuzzy
 msgid "Uh-huh . . ."
 msgstr "Uh-huh..."
 
 #: game/script Scenes.rpy:3693
-#, fuzzy
 msgid "Well, are you planning to stick around?"
-msgstr "Vous comptez rester dans le coin ?"
+msgstr "Alors, tu comptes rester dans le coin ?"
 
 #: game/script Scenes.rpy:3695
-#, fuzzy
 msgid "So were you planning on staying?"
 msgstr "Alors, tu avais prévu de rester ?"
 
 #: game/script Scenes.rpy:3697
-#, fuzzy
 msgid "Did you have business with me?"
-msgstr "Tu as fait affaire avec moi ?"
+msgstr "Tu avais quelque chose à faire avec moi ?"
 
 #: game/script Scenes.rpy:3699
-#, fuzzy
 msgid "So did you plan to stay?"
-msgstr "Tu avais donc prévu de rester ?"
+msgstr "Donc, tu avais prévu de rester ?"
 
 #: game/script Scenes.rpy:3700
 msgid "Sure, for a bit."
@@ -88224,9 +88086,8 @@ msgstr ""
 "et tu remarques que la porte est légèrement entrouverte."
 
 #: game/script Scenes.rpy:3718
-#, fuzzy
 msgid "Peek inside"
-msgstr "Jetez un coup d'œil à l'intérieur"
+msgstr "Jeter un coup d'œil à l'intérieur"
 
 #: game/script Scenes.rpy:3718
 msgid "Enter quietly"
@@ -88237,174 +88098,146 @@ msgid "Leave quietly"
 msgstr "Partir tranquillement"
 
 #: game/script Scenes.rpy:3727
-#, fuzzy
 msgid "You see [Girl.Name], eyes closed and stroking herself vigorously."
 msgstr "Tu vois [Girl.Petname], les yeux fermés et se caressant vigoureusement."
 
 #: game/script Scenes.rpy:3728
-#, fuzzy
 msgid "Enter Quietly"
-msgstr "Entrez tranquillement"
+msgstr "Entrer tranquillement"
 
 #: game/script Scenes.rpy:3728
-#, fuzzy
 msgid "Pull back and knock"
-msgstr "Recule et frappez"
+msgstr "Reculer et frapper"
 
 #: game/script Scenes.rpy:3731
 msgid "enter"
 msgstr "enter"
 
 #: game/script Scenes.rpy:3743
-#, fuzzy
 msgid "You leave [Girl.Name] to her business and slip out."
-msgstr "Vous laissez [Girl.Petname] à ses affaires et vous vous éclipsez."
+msgstr "Tu laisses [Girl.Petname] à ses affaires et tu t'éclipses."
 
 #: game/script Scenes.rpy:3747
-#, fuzzy
 msgctxt "Girl_Caught_Mastubating_f8feb191"
 msgid ""
 "You hear some soft moans, followed by some shuffling around as items tumble to "
 "the ground."
 msgstr ""
-"Tu entends de doux gémissements, suivis de quelques traînements, alors que des "
+"Tu entends de doux gémissements, suivis de quelques frottements, alors que des "
 "objets tombent par terre."
 
 #: game/script Scenes.rpy:3748
-#, fuzzy
 msgctxt "Girl_Caught_Mastubating_de10d18b"
 msgid ""
 "After several seconds and some more shuffling of clothing, [Girl.Name] comes to "
 "the door."
 msgstr ""
-"Après quelques secondes et un nouveau mélange de vêtements, [Girl.Name] arrive "
-"à la porte."
+"Après quelques secondes et plus de bruits de vêtements, [Girl.Name] arrive à la "
+"porte."
 
 #: game/script Scenes.rpy:3754
-#, fuzzy
 msgid "Sorry about that [RogueX.Petname], I was. . . working out."
-msgstr "Désolé pour ce [RogueX.Petname], j'étais... en train de m'entraîner."
+msgstr ""
+"Désolée pour ça [RogueX.Petname], j'étais... en train de faire de l'exercice."
 
 #: game/script Scenes.rpy:3756
-#, fuzzy
 msgid "Oh, hey, [KittyX.Petname], I was. . . never mind."
 msgstr "Oh, hey, [KittyX.Petname], j'étais... peu importe."
 
 #: game/script Scenes.rpy:3758
-#, fuzzy
 msgctxt "Girl_Caught_Mastubating_415d1e32"
 msgid "Well, I suppose you could tell I was a bit. . . occupied."
-msgstr "Eh bien, je suppose que tu peux dire que j'étais un peu... occupé."
+msgstr "Eh bien, je suppose que tu peux dire que j'étais un peu... occupée."
 
 #: game/script Scenes.rpy:3760
-#, fuzzy
 msgid "Um, hey [LauraX.Petname], just working off some stress."
-msgstr "Hum, salut [LauraX.Petname], je travaille juste pour évacuer le stress."
+msgstr ""
+"Oh, hey [LauraX.Petname]. J'étais juste....en train d'évacuer un peu de stress."
 
 #: game/script Scenes.rpy:3764
-#, fuzzy
 msgid "You hear some odd noises coming from [Girl.Name]'s room as you enter."
 msgstr ""
 "Tu entends des bruits bizarres provenant de la chambre de [Girl.Name] lorsque "
-"vous entrez."
+"tu entres."
 
 #: game/script Scenes.rpy:3790
-#, fuzzy
 msgid "Well that was a bit unexpected. . ."
 msgstr "Eh bien, c'était un peu inattendu..."
 
 #: game/script Scenes.rpy:3793
-#, fuzzy
 msgid "but not exactly unpleasant. . ."
 msgstr "mais pas exactement désagréable.."
 
 #: game/script Scenes.rpy:3797
-#, fuzzy
 msgid "Maybe next time I'll give you a heads up first."
-msgstr "La prochaine fois, je vous préviendrai peut-être avant."
+msgstr "La prochaine fois, je te préviendrai peut-être avant."
 
 #: game/script Scenes.rpy:3800
-#, fuzzy
 msgid "So[KittyX.like]I wasn't expecting company. . ."
-msgstr "Donc [KittyX.like]Je ne m'attendais pas à avoir de la compagnie..."
+msgstr "Donc Je ne m'attendais pas[KittyX.like]à avoir de la compagnie..."
 
 #: game/script Scenes.rpy:3803
-#, fuzzy
 msgid "but I didn't exactly mind it either. . ."
 msgstr "mais ça ne me dérangeait pas vraiment non plus..."
 
 #: game/script Scenes.rpy:3807
-#, fuzzy
 msgid "Maybe knock next time?"
-msgstr "Peut-être frapperez-vous la prochaine fois ?"
+msgstr "Peut-être frappe la prochaine fois ?"
 
 #: game/script Scenes.rpy:3810
-#, fuzzy
 msgctxt "Girl_Caught_Mastubating_d6f57a19"
 msgid "I wasn't expecting visitors. . ."
 msgstr "Je n'attendais pas de visiteurs..."
 
 #: game/script Scenes.rpy:3813
-#, fuzzy
 msgid "although for you I could make an exception. . ."
-msgstr "bien que pour vous je puisse faire une exception..."
+msgstr "bien que pour toi je puisse faire une exception..."
 
 #: game/script Scenes.rpy:3817
-#, fuzzy
 msgid "Perhaps next time you could knock?"
 msgstr "La prochaine fois, tu pourrais peut-être frapper ?"
 
 #: game/script Scenes.rpy:3820
-#, fuzzy
 msgid "So what are you doing here? . ."
 msgstr "Alors, que fais-tu ici ?..."
 
 #: game/script Scenes.rpy:3823
-#, fuzzy
 msgid "not that I mind the company. . ."
-msgstr "non pas que l'entreprise me dérange..."
+msgstr "non pas que la compagnie me dérange..."
 
 #: game/script Scenes.rpy:3827
-#, fuzzy
 msgid "But you know, give me a heads up first."
-msgstr "Mais tu sais, prévenez-moi d'abord."
+msgstr "Mais tu sais, préviens-moi d'abord."
 
 #: game/script Scenes.rpy:3830
-#, fuzzy
 msgid ""
 "Fancy seeing you here again, [Girl.Petname]. Almost like it was intentional. . ."
 msgstr ""
-"J'ai envie de vous revoir ici, [Girl.Petname]. Presque comme si c'était "
+"Curieux de te revoir ici, [Girl.Petname]. Presque comme si c'était "
 "intentionnel..."
 
 #: game/script Scenes.rpy:3832
-#, fuzzy
 msgid "You seem to be making a habit of dropping in."
-msgstr "Vous semblez prendre l'habitude de passer."
+msgstr "Tu sembles prendre l'habitude de passer."
 
 #: game/script Scenes.rpy:3834
-#, fuzzy
 msgctxt "Girl_Caught_Mastubating_43b8f268"
 msgid "I notice you make a habit of dropping in."
 msgstr "Je remarque que tu as l'habitude de passer."
 
 #: game/script Scenes.rpy:3836
-#, fuzzy
 msgid "You're around a lot. . ."
-msgstr "Tu es souvent dans le coin.."
+msgstr "Tu es souvent dans le coin..."
 
 #: game/script Scenes.rpy:3879
-#, fuzzy
 msgid "You get a call from [Girl.Name]."
-msgstr "Vous recevez un appel de [Girl.Name]."
+msgstr "Tu reçois un appel de [Girl.Name]."
 
 #: game/script Scenes.rpy:3881
-#, fuzzy
 msgid "Hey, [Player.Name]. . . I was just over here with [Girl2.Name] and. . ."
 msgstr "Hé, [Player.Name]... J'étais juste ici avec [Girl2.Name] et...."
 
 #: game/script Scenes.rpy:3882
-#, fuzzy
 msgid ""
 "One thing lead to another, you know how that goes. . . and we were just "
 "wondering,"
@@ -88413,32 +88246,27 @@ msgstr ""
 "nous demandions simplement,"
 
 #: game/script Scenes.rpy:3883
-#, fuzzy
 msgid "Would you like to come over and join us?"
-msgstr "Tu souhaites vous joindre à nous ?"
+msgstr "Tu souhaites te joindre à nous ?"
 
 #: game/script Scenes.rpy:3885
-#, fuzzy
 msgid ""
 "Oh, hi, [Girl.Petname]. . . I was just hanging out with [Girl2.Name] and. . ."
 msgstr "Oh, bonjour, [Girl.Petname]... Je traînais juste avec [Girl2.Name] et...."
 
 #: game/script Scenes.rpy:3886
-#, fuzzy
 msgid "we got to thinking[Girl.like]"
-msgstr "on s'est mis à penser [Girl.like]"
+msgstr "on s'est mis à penser[Girl.like]"
 
 #: game/script Scenes.rpy:3887
 msgid "Did you wanna come over and join us?"
 msgstr "Tu veux venir nous rejoindre ?"
 
 #: game/script Scenes.rpy:3889
-#, fuzzy
 msgid "[Girl.Petname]. . . I was just here entertaining [Girl2.Name]. . ."
 msgstr "[Girl.Petname].. J'étais juste là pour divertir [Girl2.Name]...."
 
 #: game/script Scenes.rpy:3890
-#, fuzzy
 msgid ""
 "One thing lead to another, I'm sure you get the picture. . . and we were just "
 "wondering,"
@@ -88447,62 +88275,50 @@ msgstr ""
 "nous demandions simplement,"
 
 #: game/script Scenes.rpy:3891
-#, fuzzy
 msgid "Would you like to come lend us a hand?"
 msgstr "Tu veux venir nous donner un coup de main ?"
 
 #: game/script Scenes.rpy:3892
-#, fuzzy
 msgid "Or other bits. . ."
-msgstr "Ou d'autres bits..."
+msgstr "Ou d'autres parties..."
 
 #: game/script Scenes.rpy:3894
-#, fuzzy
 msgid "Hey, [Player.Name]. . . I was with [Girl2.Name] here, and. . ."
 msgstr "Hé, [Player.Name]... J'étais avec [Girl2.Name] ici, et...."
 
 #: game/script Scenes.rpy:3895
-#, fuzzy
 msgid "You know, feeling each other up-"
-msgstr "Tu sais, se sentir l'un l'autre.."
+msgstr "Tu sais, on se touchait-"
 
 #: game/script Scenes.rpy:3897
-#, fuzzy
 msgid ". . . so . . ."
 msgstr ".... donc..."
 
 #: game/script Scenes.rpy:3898
-#, fuzzy
 msgid "Want in on this action?"
-msgstr "Tu veux participer à cette action ?"
+msgstr "Tu veux passer à l'action ?"
 
 #: game/script Scenes.rpy:3901
-#, fuzzy
 msgid "Sure, I'll be right there!"
 msgstr "Bien sûr, j'arrive tout de suite !"
 
 #: game/script Scenes.rpy:3901
-#, fuzzy
 msgid "Nah, have fun though."
-msgstr "Mais non, amusez-vous bien."
+msgstr "Non, mais amusez-vous bien."
 
 #: game/script Scenes.rpy:3901
-#, fuzzy
 msgid "What, are you watching a movie?"
-msgstr "Tu regardes un film ?"
+msgstr "Vous regardez un film ?"
 
 #: game/script Scenes.rpy:3908
-#, fuzzy
 msgid "Lovely, see you in a bit."
-msgstr "Lovely, à tout de suite."
+msgstr "Parfait, à tout de suite."
 
 #: game/script Scenes.rpy:3920
-#, fuzzy
 msgid "Oh. Ok then. . ."
 msgstr "Oh. Ok alors..."
 
 #: game/script Scenes.rpy:3922
-#, fuzzy
 msgid "Wow, ok, I guess."
 msgstr "Wow, ok, je suppose."
 
@@ -88511,9 +88327,8 @@ msgid "I admire your restraint. . ."
 msgstr "J'admire ta retenue..."
 
 #: game/script Scenes.rpy:3926
-#, fuzzy
 msgid "If not your wisdom. . ."
-msgstr "Sinon, ton sagesse..."
+msgstr "Sinon, ta sagesse..."
 
 #: game/script Scenes.rpy:3928
 msgctxt "Call_For_Les_24d2372c"
@@ -88521,78 +88336,63 @@ msgid "Huh. Ok."
 msgstr "Hm. Ok."
 
 #: game/script Scenes.rpy:3932
-#, fuzzy
 msgid "She hangs up."
 msgstr "Elle raccroche."
 
 #: game/script Scenes.rpy:3939
-#, fuzzy
 msgid "Oh, we're putting on quite the show, but no."
-msgstr "Oh, nous faisons un sacré spectacle, mais non."
+msgstr "Oh, c'est du grand spectable, mais non."
 
 #: game/script Scenes.rpy:3942
-#, fuzzy
 msgid "Um. . . no. . .we're, um. . ."
 msgstr "Um... non..... nous sommes, euh...."
 
 #: game/script Scenes.rpy:3945
-#, fuzzy
 msgid "Oh, that's adorable. No, of course not."
 msgstr "Oh, c'est adorable. Non, bien sûr que non."
 
 #: game/script Scenes.rpy:3947
-#, fuzzy
 msgid "You hit your head or something?"
 msgstr "Tu t'es cogné la tête ou quoi ?"
 
 #: game/script Scenes.rpy:3952
-#, fuzzy
 msgid "We're bumpin uglies, [Girl2.Petname]."
-msgstr "Nous sommes des mochetés, [Girl2.Petname]."
+msgstr "On s'envoie en l'air, [Girl2.Petname]."
 
 #: game/script Scenes.rpy:3953
-#, fuzzy
 msgid "Thought you might want in."
 msgstr "J'ai pensé que tu pourrais vouloir en faire partie."
 
 #: game/script Scenes.rpy:3956
-#, fuzzy
 msgid "It's, um. . . sex."
-msgstr "C'est, euh... le sexe."
+msgstr "C'est, euh... l'amour."
 
 #: game/script Scenes.rpy:3957
-#, fuzzy
 msgid "We're having sex."
-msgstr "Nous faisons l'amour."
+msgstr "On fait l'amour."
 
 #: game/script Scenes.rpy:3958
 msgid "-thought you might wanna join us?"
 msgstr "-tu as pensé à te joindre à nous ?"
 
 #: game/script Scenes.rpy:3960
-#, fuzzy
 msgid "We're having -intercourse-, [Girl2.Petname]."
-msgstr "Nous avons un -cours-, [Girl2.Petname]."
+msgstr "Nous sommes en pleine -copulation-, [Girl2.Petname]."
 
 #: game/script Scenes.rpy:3961
-#, fuzzy
 msgid "Did - you - want - to - join - us?"
-msgstr "As-tu - vous - voulez - vous - joindre à nous ?"
+msgstr "Veux - tu - te - joindre - à - nous ?"
 
 #: game/script Scenes.rpy:3963
-#, fuzzy
 msgid "Sex, dumbass."
-msgstr "Le sexe, idiot."
+msgstr "On baise, idiot."
 
 #: game/script Scenes.rpy:3964
-#, fuzzy
 msgid "We're shucking clams over here and wanted someone to bring the meat."
-msgstr ""
-"Nous écaillons des palourdes ici et nous voulions que quelqu'un apporte la "
-"viande."
+msgstr "On se broute le minou et il nous manquait une saucisse."
 
 msgid "You packing, or what?"
-msgstr "Tu fais tes valises ou quoi ?"
+msgstr "Tu nous l'apportes ou quoi ?"
 
 #: game/script Scenes.rpy:3966
 msgid "what"
@@ -88608,19 +88408,16 @@ msgstr ""
 "et tu remarques que la porte est légèrement entrouverte."
 
 #: game/script Scenes.rpy:3999
-#, fuzzy
 msgid "Come on in, [RogueX.Petname]!"
-msgstr "Entrez, [RogueX.Petname] !"
+msgstr "Entre, [RogueX.Petname] !"
 
 #: game/script Scenes.rpy:4001
-#, fuzzy
 msgid "Oh! Come in!"
-msgstr "Oh ! Entrez !"
+msgstr "Oh ! Entre !"
 
 #: game/script Scenes.rpy:4003
-#, fuzzy
 msgid "No need to wait on our account. . ."
-msgstr "Pas besoin d'attendre pour notre compte..."
+msgstr "Pas besoin de nous attendre..."
 
 #: game/script Scenes.rpy:4005
 msgid "Come in!"
@@ -88641,24 +88438,20 @@ msgid "You leave the girls to their business and slip out."
 msgstr "Tu laisses les filles à leurs affaires et tu t'éclipses."
 
 #: game/script Scenes.rpy:4036
-#, fuzzy
 msgid "Sorry we got started without you."
-msgstr "Désolé d'avoir commencé sans vous."
+msgstr "Désolé d'avoir commencé sans toi."
 
 #: game/script Scenes.rpy:4038
-#, fuzzy
 msgid "Oh, hey, [KittyX.Petname], we. . . got a little bored."
-msgstr "Oh, hey, [KittyX.Petname], nous.... nous nous sommes un peu ennuyés."
+msgstr "Oh, hey, [KittyX.Petname], nous.... nous nous sommes un peu ennuyées."
 
 #: game/script Scenes.rpy:4040
-#, fuzzy
 msgid "We certainly didn't."
-msgstr "Nous ne l'avons certainement pas fait."
+msgstr "Nous ne t'avons pas attendu."
 
 #: game/script Scenes.rpy:4042
-#, fuzzy
 msgid "So you waiting for another invitation?"
-msgstr "Tu attends donc une autre invitation ?"
+msgstr "Alors tu attends une autre invitation ?"
 
 #: game/script Scenes.rpy:4093
 msgctxt "Girls_Caught_Lesing_3ce33d37"
@@ -88670,51 +88463,44 @@ msgstr ""
 "et tu remarques que la porte est légèrement entrouverte."
 
 #: game/script Scenes.rpy:4099
-#, fuzzy
 msgctxt "Girls_Caught_Lesing_f8feb191"
 msgid ""
 "You hear some soft moans, followed by some shuffling around as items tumble to "
 "the ground."
 msgstr ""
-"Tu entends de doux gémissements, suivis de quelques traînements, alors que des "
-"objets tombent par terre."
+"Tu entends de doux gémissements, suivis de quelques bruits de fond, alors que "
+"des objets tombent par terre."
 
 #: game/script Scenes.rpy:4100
-#, fuzzy
 msgctxt "Girls_Caught_Lesing_de10d18b"
 msgid ""
 "After several seconds and some more shuffling of clothing, [Girl.Name] comes to "
 "the door."
 msgstr ""
-"Après quelques secondes et un nouveau mélange de vêtements, [Girl.Name] arrive "
-"à la porte."
+"Après quelques secondes et d'autres bruits de vêtements, [Girl.Name] arrive à "
+"la porte."
 
 #: game/script Scenes.rpy:4109
-#, fuzzy
 msgid "Sorry about that [RogueX.Petname], we were, um. . . working out."
 msgstr ""
-"Désolé pour ce [RogueX.Petname], nous étions, hum.... en train de faire de "
+"Désolée pour ça [RogueX.Petname], nous étions, hum.... en train de faire de "
 "l'exercice."
 
 #: game/script Scenes.rpy:4111
-#, fuzzy
 msgid "Oh, hey, [KittyX.Petname], hi, we were. . . never mind."
 msgstr "Oh, hey, [KittyX.Petname], salut, nous étions... peu importe."
 
 #: game/script Scenes.rpy:4113
-#, fuzzy
 msgid "Well, I hope you have a good reason for interrupting us."
 msgstr "J'espère que tu as une bonne raison de nous interrompre."
 
 #: game/script Scenes.rpy:4114
-#, fuzzy
 msgid "I was. . . teaching her a few things. . ."
-msgstr "J'étais.... je lui apprenais quelques trucs..."
+msgstr "Je lui... apprenais quelques trucs..."
 
 #: game/script Scenes.rpy:4116
-#, fuzzy
 msgid "Um, hey [LauraX.Petname], we were a bit busy."
-msgstr "Hum, salut [LauraX.Petname], nous étions un peu occupés."
+msgstr "Hum, salut [LauraX.Petname], nous étions un peu occupées."
 
 #: game/script Scenes.rpy:4128
 msgctxt "Girls_Caught_Lesing_c10f0df1"
@@ -88731,38 +88517,32 @@ msgid "You leave the girls to their business and slip out."
 msgstr "Tu laisses les filles à leurs affaires et tu t'éclipses."
 
 #: game/script Scenes.rpy:4173
-#, fuzzy
 msgid "As you approach the showers, you hear some shallow moans from inside."
 msgstr ""
-"A l'approche des douches, on entend des gémissements peu profonds de "
-"l'intérieur."
+"A l'approche des douches, on entend des petits gémissements de l'intérieur."
 
 #: game/script Scenes.rpy:4175
-#, fuzzy
 msgid "As you approach the showers, you hear some humming noises from inside."
-msgstr "À l'approche des douches, on entend des bourdonnements de l'intérieur."
+msgstr ""
+"À l'approche des douches, on entend des petits fredonnements de l'intérieur."
 
 #: game/script Scenes.rpy:4176
 msgid "Enter"
 msgstr "Entrer"
 
 #: game/script Scenes.rpy:4176
-#, fuzzy
 msgid "Come back later"
-msgstr "Revenez plus tard"
+msgstr "Revenir plus tard"
 
 #: game/script Scenes.rpy:4193
-#, fuzzy
 msgid "You knock on the door. You hear some shuffling inside"
-msgstr "Vous frappez à la porte. Tu entends des bruits de pas à l'intérieur"
+msgstr "Tu frappes à la porte. Tu entends des bruits de fond à l'intérieur"
 
 #: game/script Scenes.rpy:4197
-#, fuzzy
 msgid "You hear a sharp shuffling sound and the water gets cut off."
 msgstr "Tu entends un bruit sec et l'eau est coupée."
 
 #: game/script Scenes.rpy:4198
-#, fuzzy
 msgid ""
 "After several seconds and some more shuffling, [Girl.Name] comes to the door."
 msgstr ""
@@ -88770,17 +88550,16 @@ msgstr ""
 "Petname] arrive à la porte."
 
 #: game/script Scenes.rpy:4202
-#, fuzzy
 msgid "Sorry about that [RogueX.Petname], I was. . . just wrapping up my shower."
-msgstr "Désolé pour ce [RogueX.Petname], j'étais..... je terminais ma douche."
+msgstr "Désolé pour ça [RogueX.Petname], Je... terminais ma douche."
 
 #: game/script Scenes.rpy:4204
-#, fuzzy
 msgid "Oh, hey, [KittyX.Petname]. I was just. . . showering. Yeah."
-msgstr "Oh, hey, [KittyX.Petname]. J'étais juste.... prendre une douche. Ouais."
+msgstr ""
+"Oh, hey, [KittyX.Petname]. J'étais juste.... en train de prendre une douche. "
+"Ouais."
 
 #: game/script Scenes.rpy:4206
-#, fuzzy
 msgid ""
 "Oh, hello [EmmaX.Petname]. I was. . . taking care of some personal business."
 msgstr ""
@@ -88793,7 +88572,6 @@ msgstr ""
 "Oh, hey [LauraX.Petname]. J'étais juste....en train d'évacuer un peu de stress."
 
 #: game/script Scenes.rpy:4213
-#, fuzzy
 msgid ""
 "You hear the rustling of a towel and some knocking around, but after a few "
 "seconds [Girl.Name] comes to the door."
@@ -88835,7 +88613,6 @@ msgstr ""
 "vaisselle."
 
 #: game/script Scenes.rpy:4248
-#, fuzzy
 msgctxt "Girl_Caught_Shower_a331c7bc"
 msgid "She grabs a towel and covers up."
 msgstr "Elle attrape une serviette et se couvre."
@@ -88846,58 +88623,47 @@ msgid "Hey! Learn to knock maybe?!"
 msgstr "Hé ! Apprends à frapper peut-être ? !"
 
 #: game/script Scenes.rpy:4264
-#, fuzzy
 msgid "Did you[KittyX.like]get a good look?"
-msgstr "As-tu [KittyX.like]bien regardé ?"
+msgstr "As-tu[KittyX.like]bien regardé ?"
 
 msgid "Hello. Haven't you learned to knock before entering?"
 msgstr "Bonjour. N'as-tu pas appris à frapper avant d'entrer ?"
 
 #: game/script Scenes.rpy:4268
-#, fuzzy
 msgid "Um, hey? Don't knock much?"
-msgstr "Um, hey ? Vous ne frappez pas beaucoup ?"
+msgstr "Um, hey ? Tu ne sais pas frapper ?"
 
 #: game/script Scenes.rpy:4269
-#, fuzzy
 msgid "Why, would it have made a difference?"
 msgstr "Pourquoi, cela aurait-il fait une différence ?"
 
 #: game/script Scenes.rpy:4269
-#, fuzzy
 msgid "It's not as if you're leaving that much to the imagination. . ."
-msgstr "Ce n'est pas comme si vous laissiez autant de choses à l'imagination..."
+msgstr "Ce n'est pas comme si tu laissais autant de choses à l'imagination..."
 
 #: game/script Scenes.rpy:4294
-#, fuzzy
 msgid "As you enter the showers, you see [Girl.Name] putting on a towel."
 msgstr "En entrant dans les douches, tu vois [Girl.Name] mettre une serviette."
 
 #: game/script Scenes.rpy:4302
-#, fuzzy
 msgctxt "Girl_Caught_Shower_26e582f8"
 msgid "Well hello there, [RogueX.Petname]. Hoping to see something more?"
 msgstr ""
-"Eh bien bonjour, [RogueX.Petname]. Vous espérez voir quelque chose de plus ?"
+"Eh bien bonjour, [RogueX.Petname]. Tu espérais voir quelque chose de plus ?"
 
 #: game/script Scenes.rpy:4304
-#, fuzzy
 msgid "Oh, hey. Were you hoping I'd be naaaaaked?"
-msgstr "Oh hey. Espériez-vous que je serais naaaaaked?"
+msgstr "Oh hey. Espériez-vous que je serais nuue ?"
 
 #: game/script Scenes.rpy:4306
-#, fuzzy
 msgid "Oh, hello, [EmmaX.Petname]. Sorry you didn't get here sooner?"
-msgstr ""
-"Oh, bonjour, [EmmaX.Petname]. Désolé que vous ne soyez pas arrivé plus tôt ?"
+msgstr "Oh, bonjour, [EmmaX.Petname]. Déçu de ne pas être arrivé plus tôt ?"
 
 #: game/script Scenes.rpy:4308
-#, fuzzy
 msgid "Oh, hey [LauraX.Petname]. Trying to slip in unnoticed?"
-msgstr "Oh, hey [LauraX.Petname]. Vous essayez de passer inaperçu ?"
+msgstr "Oh, hey [LauraX.Petname]. Tu essayais de passer inaperçu ?"
 
 #: game/script Scenes.rpy:4309
-#, fuzzy
 msgid "I still like the view. . ."
 msgstr "J'aime toujours la vue..."
 
@@ -88951,62 +88717,51 @@ msgid "Uh-huh."
 msgstr "Uh-huh."
 
 #: game/script Scenes.rpy:4355
-#, fuzzy
 msgctxt "Girl_Caught_Shower_2f61e988"
 msgid "You could have just asked, [RogueX.Petname]."
 msgstr "Tu aurais pu simplement demander, [RogueX.Petname]."
 
 #: game/script Scenes.rpy:4357
-#, fuzzy
 msgid "Well, it's not like it's totally off the table. . ."
 msgstr "Eh bien, ce n'est pas comme si c'était totalement hors jeu..."
 
 #: game/script Scenes.rpy:4359
-#, fuzzy
 msgid "Well, it's not that I mind. . ."
 msgstr "Ce n'est pas que ça me dérange..."
 
 #: game/script Scenes.rpy:4361
-#, fuzzy
 msgid "Nah, I don't mind much. . ."
 msgstr "Non, ça ne me dérange pas beaucoup..."
 
 #: game/script Scenes.rpy:4368
-#, fuzzy
 msgctxt "Girl_Caught_Shower_3731b249"
 msgid "She flashes you real quick."
-msgstr "Elle vous montre très rapidement."
+msgstr "Elle te montre très rapidement."
 
 msgid "Heh!"
 msgstr "Héhé !"
 
 #: game/script Scenes.rpy:4379
-#, fuzzy
 msgid "Well, I should probably get going. . ."
 msgstr "Bon, je devrais probablement y aller..."
 
 #: game/script Scenes.rpy:4381
-#, fuzzy
 msgid "I'm done here, see you later?"
 msgstr "J'ai fini ici, à plus tard ?"
 
 #: game/script Scenes.rpy:4383
-#, fuzzy
 msgid "I should probably be leaving. . ."
 msgstr "Je devrais probablement partir..."
 
 #: game/script Scenes.rpy:4385
-#, fuzzy
 msgid "I should get going. . ."
 msgstr "Je devrais y aller..."
 
 #: game/script Scenes.rpy:4386
-#, fuzzy
 msgid "Sure, see you later then."
 msgstr "Bien sûr, à plus tard alors."
 
 #: game/script Scenes.rpy:4386
-#, fuzzy
 msgid "Actually, could you stick around a minute?"
 msgstr "En fait, pourrais-tu rester une minute ?"
 
@@ -89020,52 +88775,42 @@ msgid "Yeah?"
 msgstr "Ouais ?"
 
 #: game/script Scenes.rpy:4397
-#, fuzzy
 msgid "Very well, what did you need?"
-msgstr "Très bien, de quoi aviez-vous besoin ?"
+msgstr "Très bien, de quoi avais-vous besoin ?"
 
 #: game/script Scenes.rpy:4400
-#, fuzzy
 msgid "Huh? Ok, what's up?"
 msgstr "Hein ? Ok, qu'est-ce qu'il y a ?"
 
 #: game/script Scenes.rpy:4404
-#, fuzzy
 msgid "Um, actually, I'm not really comfortable being so. . . exposed?"
 msgstr "Hum, en fait, je ne suis pas vraiment à l'aise d'être ainsi.... exposée ?"
 
 #: game/script Scenes.rpy:4405
-#, fuzzy
 msgid "I'll just see you around later."
-msgstr "Je vous verrai plus tard."
+msgstr "Je te verrai plus tard."
 
 #: game/script Scenes.rpy:4407
-#, fuzzy
 msgid "I'm[KittyX.like]totally exposed here?"
-msgstr "Je suis [KittyX.like]totalement exposée ici ?"
+msgstr "Je suis[KittyX.like]totalement exposée ici ?"
 
 #: game/script Scenes.rpy:4408
-#, fuzzy
 msgid "I'm just going to head out."
 msgstr "Je vais juste partir."
 
 #: game/script Scenes.rpy:4410
-#, fuzzy
 msgid "I really shouldn't be \"hanging out\" in such a state."
 msgstr "Je ne devrais vraiment pas \"traîner\" dans un tel état."
 
 #: game/script Scenes.rpy:4411
-#, fuzzy
 msgid "We can talk later."
-msgstr "Nous pourrons en parler plus tard."
+msgstr "Nous pourrons parler plus tard."
 
 #: game/script Scenes.rpy:4413
-#, fuzzy
 msgid "I probably shouldn't hang out like this."
 msgstr "Je ne devrais probablement pas traîner comme ça."
 
 #: game/script Scenes.rpy:4414
-#, fuzzy
 msgid "We'll talk later."
 msgstr "Nous en parlerons plus tard."
 
@@ -89074,7 +88819,6 @@ msgid "leaving"
 msgstr "leaving"
 
 #: game/script Scenes.rpy:4432
-#, fuzzy
 msgid "With who?"
 msgstr "Avec qui ?"
 
@@ -89099,7 +88843,6 @@ msgid "Are you sure you don't want to. . ."
 msgstr "Tu es sûr de ne pas vouloir..."
 
 #: game/script Scenes.rpy:4476
-#, fuzzy
 msgctxt "Pool_Sunbathe_f2cf5624"
 msgid "That would be entirely inappropriate."
 msgstr "Ce serait tout à fait inapproprié."
@@ -89135,14 +88878,12 @@ msgid "Yup."
 msgstr "Ouais."
 
 #: game/script Scenes.rpy:4507
-#, fuzzy
 msgid "take it all off?"
 msgstr "tout enlever ?"
 
 #: game/script Scenes.rpy:4507
-#, fuzzy
 msgid "lose the top?"
-msgstr "perdre le sommet ?"
+msgstr "enlever le haut ?"
 
 #: game/script Scenes.rpy:4507
 #, fuzzy
@@ -89173,7 +88914,6 @@ msgid "And?"
 msgstr "Et ?"
 
 #: game/script Scenes.rpy:4581
-#, fuzzy
 msgid "Take it off anyway."
 msgstr "Enlevez-le quand même."
 
@@ -89182,7 +88922,6 @@ msgid "Hot."
 msgstr "Chaud."
 
 #: game/script Scenes.rpy:4590
-#, fuzzy
 msgid "Hmm, good point. . ."
 msgstr "Hmm, bon point..."
 
@@ -89211,14 +88950,12 @@ msgid "\"And\". . . AND!"
 msgstr "\"Et\"... ET !"
 
 #: game/script Scenes.rpy:4608
-#, fuzzy
 msgid "\"And\". . . you shouldn't push your luck. . ."
-msgstr "\"Et\".... vous ne devez pas pousser ton chance..."
+msgstr "\"Et\".... tu ne devrais pas abuser..."
 
 #: game/script Scenes.rpy:4610
-#, fuzzy
 msgid "\"And\" that's all you get."
-msgstr "\"Et\" c'est tout ce que vous obtenez."
+msgstr "\"Et\" c'est tout ce que tu auras."
 
 #: game/script Scenes.rpy:4621
 msgctxt "Pool_Sunbathe_401149a2"
@@ -89241,7 +88978,6 @@ msgid "Affirmative."
 msgstr "Affirmatif."
 
 #: game/script Scenes.rpy:4638
-#, fuzzy
 msgid "I don't like that tone on you. . ."
 msgstr "Je n'aime pas ce ton sur toi..."
 
@@ -89249,7 +88985,6 @@ msgid "How about \"no\". . ."
 msgstr "Que dirais-tu de \"non\"..."
 
 #: game/script Scenes.rpy:4642
-#, fuzzy
 msgid "Not with that tone. . ."
 msgstr "Pas avec ce ton.."
 
@@ -89267,22 +89002,18 @@ msgid "Hehe. . ."
 msgstr "Héhé..."
 
 #: game/script Scenes.rpy:4661
-#, fuzzy
 msgid "How sweet. . ."
 msgstr "Comme c'est mignon..."
 
 #: game/script Scenes.rpy:4663
-#, fuzzy
 msgid "True."
 msgstr "C'est vrai."
 
 #: game/script Scenes.rpy:4675
-#, fuzzy
 msgid "Ready for a nice surprise? . ."
-msgstr "Prêts pour une belle surprise ?.."
+msgstr "Prêt pour une belle surprise ?.."
 
 #: game/script Scenes.rpy:4677
-#, fuzzy
 msgid "Oh, you bet it is. . ."
 msgstr "Oh, c'est sûr..."
 
@@ -89292,12 +89023,10 @@ msgid "More than you know. . ."
 msgstr "Plus que vous ne le pensez..."
 
 #: game/script Scenes.rpy:4681
-#, fuzzy
 msgid "But I can be generous. . ."
-msgstr "Mais je peux être généreux.."
+msgstr "Mais je peux être généreuse.."
 
 #: game/script Scenes.rpy:4690
-#, fuzzy
 msgid "Thanks, [RogueX.Petname]. . ."
 msgstr "Merci, [RogueX.Petname]..."
 
@@ -89402,18 +89131,15 @@ msgid "Anything else?"
 msgstr "Autre chose ?"
 
 #: game/script Scenes.rpy:4837
-#, fuzzy
 msgid "Hey, [Girl.Name], why don't we skinny dip?"
-msgstr "Hé, [Girl.Petname], pourquoi ne pas faire une petite baignade ?"
+msgstr "Hé, [Girl.Petname], pourquoi ne pas faire une petite baignade nue ?"
 
 #: game/script Scenes.rpy:4861
-#, fuzzy
 msgctxt "Pool_Skinnydip_f2cf5624"
 msgid "That would be entirely inappropriate."
 msgstr "Ce serait tout à fait inapproprié."
 
 #: game/script Scenes.rpy:4865
-#, fuzzy
 msgid "[EmmaX.Petname], I couldn't risk us getting caught. . ."
 msgstr ""
 "[EmmaX.Petname], je ne pouvais pas prendre le risque qu'on se fasse prendre..."
@@ -89424,14 +89150,12 @@ msgid "Not with this sort of company. . ."
 msgstr "Pas avec ce genre de compagnie..."
 
 #: game/script Scenes.rpy:4877
-#, fuzzy
 msgid "Sure, let's get wet."
 msgstr "Bien sûr, mouillons-nous."
 
 #: game/script Scenes.rpy:4879
-#, fuzzy
 msgid "Cannonball!"
-msgstr "Cannonball !"
+msgstr "Boulet de canon !"
 
 #: game/script Scenes.rpy:4881
 msgctxt "Pool_Skinnydip_944d6830"
@@ -89462,17 +89186,14 @@ msgid "Sure."
 msgstr "Bien sûr."
 
 #: game/script Scenes.rpy:4943
-#, fuzzy
 msgid "Couldn't we just take a normal swim?"
 msgstr "Ne pourrait-on pas se baigner normalement ?"
 
 #: game/script Scenes.rpy:4945
-#, fuzzy
 msgid "I don't think so. . ."
 msgstr "Je ne pense vraiment pas."
 
 #: game/script Scenes.rpy:4947
-#, fuzzy
 msgid "Perhaps in a tub. . ."
 msgstr "Peut-être dans une baignoire.."
 
@@ -89482,12 +89203,10 @@ msgid "Nah. . ."
 msgstr "Nan..."
 
 #: game/script Scenes.rpy:4950
-#, fuzzy
 msgid "Ok, we can just use swimsuits."
 msgstr "Ok, on peut juste utiliser des maillots de bain."
 
 #: game/script Scenes.rpy:4961
-#, fuzzy
 msgid "Thanks, [RogueX.Petname]."
 msgstr "Merci, [RogueX.Petname]."
 
@@ -89497,7 +89216,6 @@ msgid "Cool."
 msgstr "Cool."
 
 #: game/script Scenes.rpy:4965
-#, fuzzy
 msgid "That would be nice."
 msgstr "Ce serait bien."
 
@@ -89507,17 +89225,14 @@ msgid "Whatever."
 msgstr "Peu importe."
 
 #: game/script Scenes.rpy:4970
-#, fuzzy
 msgid "She goes and changes into her suit. . ."
-msgstr "Elle va se changer pour enfiler son costume..."
+msgstr "Elle va se changer pour enfiler son maillot..."
 
 #: game/script Scenes.rpy:4980
-#, fuzzy
 msgid "Then what about your undies?"
 msgstr "Et tes sous-vêtements ?"
 
 #: game/script Scenes.rpy:4980
-#, fuzzy
 msgid "Ok then, never mind."
 msgstr "Ok, alors, peu importe."
 
@@ -89536,7 +89251,6 @@ msgid "I suppose. . ."
 msgstr "Je suppose..."
 
 #: game/script Scenes.rpy:5002
-#, fuzzy
 msgid "Sure, whatever. . ."
 msgstr "Bien sûr, peu importe..."
 
@@ -92981,9 +92695,8 @@ msgid ". She doesn't seem to enjoy it."
 msgstr ". Elle ne semble pas l'apprécier."
 
 #: game/script Sex.rpy:1520
-#, fuzzy
 msgid ". She doesn't seem comfortable with this."
-msgstr "Je ne me sens pas à l'aise avec cela..."
+msgstr ". Elle ne semble pas à l'aise avec cela."
 
 #: game/script Sex.rpy:1520
 msgid ". She lets out a small tsk of irritation."
@@ -93003,17 +92716,14 @@ msgid "I'm enjoying this"
 msgstr "J'aime ça"
 
 #: game/script Sex.rpy:1533
-#, fuzzy
 msgid "You pull your hands back."
 msgstr "Tu tires tes mains en arrière."
 
 #: game/script Sex.rpy:1542
-#, fuzzy
 msgid "[Line]. She stiffens and sits up."
 msgstr "[Line]. Elle se raidit et s'assoit."
 
 #: game/script Sex.rpy:1550
-#, fuzzy
 msgid ""
 "You feel like you're on to something here, whatever you're doing seems to be "
 "working."
@@ -93022,12 +92732,10 @@ msgstr ""
 "fonctionner."
 
 #: game/script Sex.rpy:1552
-#, fuzzy
 msgid "She really seems to be getting into it, she's practically vibrating."
 msgstr "Elle semble vraiment s'y mettre, elle vibre pratiquement."
 
 #: game/script Sex.rpy:1571
-#, fuzzy
 msgid "Hnnnng, that was ama-zing, [Girl.Petname]!"
 msgstr "Hnnnng, c'était étonnant, [Girl.Petname] !"
 
@@ -93037,14 +92745,12 @@ msgid "Did you have anything else in mind?"
 msgstr "As-tu autre chose en tête ?"
 
 #: game/script Sex.rpy:1574
-#, fuzzy
 msgid "Wowwww, [Girl.Petname], that was fantastic!"
 msgstr "Wowwww, [Girl.Petname], c'était fantastique !"
 
 #: game/script Sex.rpy:1575
-#, fuzzy
 msgid "What do you have for round two?"
-msgstr "Qu'avez-vous pour le deuxième tour ?"
+msgstr "Qu'est-ce que tu as pour le deuxième tour ?"
 
 #: game/script Sex.rpy:1577
 msgctxt "Massage_After_a2055316"
@@ -93052,7 +92758,6 @@ msgid ". . ."
 msgstr "..."
 
 #: game/script Sex.rpy:1578
-#, fuzzy
 msgid "Incredible, [Girl.Petname]."
 msgstr "Incroyable, [Girl.Petname]."
 
@@ -93065,19 +92770,16 @@ msgid "Nnnnn, [Girl.Petname], that was great!"
 msgstr "Nnnnn, [Girl.Petname], c'était génial !"
 
 #: game/script Sex.rpy:1582
-#, fuzzy
 msgid "That felt amazing, did you have anything else in mind?"
 msgstr "C'était incroyable, tu avais autre chose en tête ?"
 
 #: game/script Sex.rpy:1586
-#, fuzzy
 msgid "That was very relaxing, [Girl.Petname]."
 msgstr "C'était très relaxant, [Girl.Petname]."
 
 #: game/script Sex.rpy:1588
-#, fuzzy
 msgid "That was niiiiice, [Girl.Petname]."
-msgstr "C'était niiiiice, [Girl.Petname]."
+msgstr "C'était bieeen, [Girl.Petname]."
 
 #: game/script Sex.rpy:1590
 msgctxt "Massage_After_2097e2f0"
@@ -93085,19 +92787,16 @@ msgid "That was very. . . pleasant, [Girl.Petname]."
 msgstr "C'était très... agréable, [Girl.Petname]."
 
 #: game/script Sex.rpy:1592
-#, fuzzy
 msgid "Think that worked out some. . . kinks, [Girl.Petname]."
-msgstr "Je crois que ça a marché.... des coudes, [Girl.Petname]."
+msgstr "Je crois que ça m'a enlevé du.... stress, [Girl.Petname]."
 
 #: game/script Sex.rpy:1596
-#, fuzzy
 msgid "I do enjoy a nice massage, [Girl.Petname]."
 msgstr "J'aime bien les massages, [Girl.Petname]."
 
 #: game/script Sex.rpy:1598
-#, fuzzy
 msgid "Hmm, I enjoyed that one, [Girl.Petname]."
-msgstr "Hmm, j'ai bien aimé celle-là, [Girl.Petname]."
+msgstr "Hmm, j'ai bien aimé ça, [Girl.Petname]."
 
 #: game/script Sex.rpy:1600
 msgctxt "Massage_After_2097e2f0_1"
@@ -93105,19 +92804,16 @@ msgid "That was very. . . pleasant, [Girl.Petname]."
 msgstr "C'était très... agréable, [Girl.Petname]."
 
 #: game/script Sex.rpy:1602
-#, fuzzy
 msgid "Thanks for that one, [Girl.Petname]."
-msgstr "Merci pour celle-là, [Girl.Petname]."
+msgstr "Merci pour ça, [Girl.Petname]."
 
 #: game/script Sex.rpy:1618
-#, fuzzy
 msgid "Ok, enough out of you, [Girl.Petname]."
 msgstr "Ok, ça suffit, [Girl.Petname]."
 
 #: game/script Sex.rpy:1620
-#, fuzzy
 msgid "Bad touch!"
-msgstr "Mauvaise touche !"
+msgstr "Attouchement !"
 
 #: game/script Sex.rpy:1622
 msgctxt "Massage_BadEnd_66fa9f25"
@@ -93125,9 +92821,8 @@ msgid "That will be enough of that."
 msgstr "Ca suffit."
 
 #: game/script Sex.rpy:1624
-#, fuzzy
 msgid "Ok, you're benched."
-msgstr "Ok, tu es sur le banc."
+msgstr "Ok, tu vas sur le banc."
 
 #: game/script Sex.rpy:1629
 msgctxt "Massage_BadEnd_01e61315"
@@ -93136,61 +92831,49 @@ msgstr ""
 "Je pense que tu devrais faire attention où tu mets tes mains, [Girl.Petname]."
 
 #: game/script Sex.rpy:1631
-#, fuzzy
 msgid "Hey! Um, stay away from my. . . breasts."
-msgstr "Hé ! Euh, ne vous approchez pas de mon.... seins."
+msgstr "Hé ! Euh, ne t'approche pas de mes... seins."
 
 #: game/script Sex.rpy:1633
-#, fuzzy
 msgid "[Girl.Petname]! I contain your enthusiasm!"
 msgstr "[Girl.Petname] ! Je renferme ton enthousiasme !"
 
 #: game/script Sex.rpy:1635
-#, fuzzy
 msgid "Hey. I thought this was about me, not you."
 msgstr "Hé. Je pensais que c'était à propos de moi, pas de toi."
 
 #: game/script Sex.rpy:1638
-#, fuzzy
 msgid "You might want to keep things above the belt, [Girl.Petname]."
 msgstr ""
 "Tu pourrais vouloir garder les choses au-dessus de la ceinture, [Girl.Petname]."
 
 #: game/script Sex.rpy:1640
-#, fuzzy
 msgid "Hey[Girl.like]keep your hands off my butt!"
-msgstr "Hey [Girl.like]ne me touchez pas les fesses !"
+msgstr "Hey [Girl.like]ne me touche pas les fesses !"
 
 #: game/script Sex.rpy:1642
-#, fuzzy
 msgid "[Girl.Petname]! I'd appreciate you not fondling my rear?"
-msgstr "[Girl.Petname] ! J'apprécierais que vous ne me caressiez pas les fesses ?"
+msgstr "[Girl.Petname] ! J'apprécierais que tu ne me caresses pas les fesses ?"
 
 #: game/script Sex.rpy:1644
-#, fuzzy
 msgid "I don't really need my ass worked on right now."
 msgstr "Je n'ai pas vraiment besoin qu'on me travaille le cul en ce moment."
 
 #: game/script Sex.rpy:1647
-#, fuzzy
 msgid "Whoa there, [Girl.Petname]! Keep your hands out of there!"
-msgstr "Whoa là, [Girl.Petname] ! Gardez tes mains hors de là !"
+msgstr "Whoa là, [Girl.Petname] ! Garde tes mains hors de là !"
 
 #: game/script Sex.rpy:1649
-#, fuzzy
 msgid "Whoa! I know my name is \"Kitty\" and all, but that's not an invitation!"
 msgstr ""
 "Whoa ! Je sais que mon nom est \"Kitty\" et tout, mais ce n'est pas une "
 "invitation !"
 
 #: game/script Sex.rpy:1651
-#, fuzzy
 msgid "[Girl.Petname]! Buy a girl a drink first. Or another, at least."
-msgstr ""
-"[Girl.Petname] ! Offrez d'abord un verre à une fille. Ou un autre, au moins."
+msgstr "[Girl.Petname] ! Offre d'abord un verre. Ou un autre, au moins."
 
 #: game/script Sex.rpy:1653
-#, fuzzy
 msgid "I'll let you know when I need -that- massaged."
 msgstr "Je te ferai savoir quand j'aurai besoin d'un massage."
 
@@ -93201,18 +92884,15 @@ msgstr ""
 "Je pense que tu devrais faire attention où tu mets tes mains, [Girl.Petname]."
 
 #: game/script Sex.rpy:1658
-#, fuzzy
 msgid "Ooh, not there."
 msgstr "Ooh, pas là."
 
 #: game/script Sex.rpy:1660
-#, fuzzy
 msgid "[Girl.Petname]! I expect you to remain more professional than that."
 msgstr ""
-"[Girl.Petname] ! J'attends de vous que vous restiez plus professionnel que cela."
+"[Girl.Petname] ! J'attends de toi que tu sois plus professionnel que cela."
 
 #: game/script Sex.rpy:1662
-#, fuzzy
 msgid "You should probably avoid that area right now."
 msgstr "Tu devrais probablement éviter cette zone pour le moment."
 
@@ -93221,37 +92901,30 @@ msgid "Nobody's here."
 msgstr "Il n'y a personne ici."
 
 #: game/script Sex.rpy:1686
-#, fuzzy
 msgid "You dance alone."
-msgstr "Vous dansez seul."
+msgstr "Tu danses seul."
 
 #: game/script Sex.rpy:1723
-#, fuzzy
 msgid "I'm just some sort'a gogo dancer now?"
 msgstr "Je suis juste une sorte de gogo danseuse maintenant ?"
 
 #: game/script Sex.rpy:1725
-#, fuzzy
 msgid "Like I would just dance for you?"
 msgstr "Comme si je voulais juste danser pour toi ?"
 
 #: game/script Sex.rpy:1727
-#, fuzzy
 msgid "Oh, you think I'll dance to your tune?"
 msgstr "Oh, tu crois que je vais danser sur ton air ?"
 
 #: game/script Sex.rpy:1729
-#, fuzzy
 msgid "I don't dance."
 msgstr "Je ne danse pas."
 
 #: game/script Sex.rpy:1732
-#, fuzzy
 msgid "I don't think this is the best place for dance'n."
 msgstr "Je ne pense pas que ce soit le meilleur endroit pour danser."
 
 #: game/script Sex.rpy:1734
-#, fuzzy
 msgid "I don't know, this really isn't a good place for it?"
 msgstr "Je ne sais pas, ce n'est vraiment pas un bon endroit pour ça ?"
 
@@ -93264,17 +92937,14 @@ msgid "I don't feel like it."
 msgstr "Je n'en ai pas envie."
 
 #: game/script Sex.rpy:1744
-#, fuzzy
 msgid "I dont feel it right now."
-msgstr "Je ne le ressens pas en ce moment."
+msgstr "Je n'ai pas envie en ce moment."
 
 #: game/script Sex.rpy:1746
-#, fuzzy
 msgid "I don't know, I don't really feel like dancing right now."
 msgstr "Je ne sais pas, je n'ai pas vraiment envie de danser en ce moment."
 
 #: game/script Sex.rpy:1748
-#, fuzzy
 msgid "I don't really feel like dancing at the moment."
 msgstr "Je n'ai pas vraiment envie de danser en ce moment."
 
@@ -93284,9 +92954,8 @@ msgid "I don't feel like it."
 msgstr "Je n'en ai pas envie."
 
 #: game/script Sex.rpy:1761
-#, fuzzy
 msgid "If the two of you would like to dance, please do it elsewhere."
-msgstr "Si tu veux danser, faites-le ailleurs."
+msgstr "Si vous deux voulez danser, faites-le ailleurs."
 
 #: game/script Sex.rpy:1765
 msgctxt "Group_Strip_e808cbfc"
@@ -93294,19 +92963,16 @@ msgid "I should really be going."
 msgstr "Je devrais vraiment y aller."
 
 #: game/script Sex.rpy:1769
-#, fuzzy
 msgid "You liked the show earlier?"
-msgstr "Tu as apprécié le spectacle plus tôt ?"
+msgstr "Tu as apprécié la vue tout à l'heure ?"
 
 #: game/script Sex.rpy:1773
-#, fuzzy
 msgid "Ok, that sounds fun."
 msgstr "Super, ça a l'air amusant."
 
 #: game/script Sex.rpy:1773
-#, fuzzy
 msgid "I could get into that."
-msgstr "Oh, je pourrais avoir tellement d'ennuis pour ça..."
+msgstr "Ca pourrait me plaire."
 
 #: game/script Sex.rpy:1773
 msgctxt "game/script Sex.rpy:1773"
@@ -93314,9 +92980,8 @@ msgid "Yeah, ok."
 msgstr "Ouais, ok."
 
 #: game/script Sex.rpy:1815
-#, fuzzy
 msgid "They start to dance."
-msgstr "Ils se mettent à danser."
+msgstr "Elles se mettent à danser."
 
 #: game/script Sex.rpy:1819
 msgid "She starts to dance."
@@ -93327,9 +92992,8 @@ msgid "Would you kindly take off some clothes?"
 msgstr "Tu veux bien enlever quelques vêtements ?"
 
 #: game/script Sex.rpy:1864
-#, fuzzy
 msgid "If the two of you would like to get indecent, please do it elsewhere."
-msgstr "Si tu veux être indécents tous les deux, faites-le ailleurs."
+msgstr "Si vous voulez faire des cochonneries tous les deux, faites-les ailleurs."
 
 #: game/script Sex.rpy:1868
 msgctxt "Group_Strip_e808cbfc_1"
@@ -93337,13 +93001,11 @@ msgid "I should really be going."
 msgstr "Je devrais vraiment y aller."
 
 #: game/script Sex.rpy:1967
-#, fuzzy
 msgctxt "Girl_Stripping_088dfb87"
 msgid "She drops her shoulders and her [Line] falls to the floor."
 msgstr "Elle baisse ses épaules et sa [Line] tombe par terre."
 
 #: game/script Sex.rpy:1969
-#, fuzzy
 msgid "She pulls her [Line] over her head and throws it behind her."
 msgstr "Elle tire sa [Line] au-dessus de sa tête et la jette derrière elle."
 
@@ -93355,7 +93017,6 @@ msgstr ""
 "ses orteils, avant de les jeter par terre."
 
 #: game/script Sex.rpy:1985
-#, fuzzy
 msgctxt "Girl_Stripping_55340f9e"
 msgid "She unzips and pulls down her [Line], dropping them to the floor."
 msgstr ""
@@ -93366,12 +93027,10 @@ msgid "Her [Line] slide down off her legs, leaving them in a small pile."
 msgstr "Sa [Line] glisse sur ses jambes, les laissant en petit tas."
 
 #: game/script Sex.rpy:2017
-#, fuzzy
 msgid "She rolls the [Line] down off her legs, leaving them in a small pile."
 msgstr "Elle fait rouler la [Line] sur ses jambes, les laissant en petit tas."
 
 #: game/script Sex.rpy:2036
-#, fuzzy
 msgid ""
 "She hesitantly glances your way, and then with tug her [Line] passes through "
 "her, tossing it to the ground."
@@ -93380,7 +93039,6 @@ msgstr ""
 "elle la traverse et la jette au sol."
 
 #: game/script Sex.rpy:2038
-#, fuzzy
 msgctxt "Girl_Stripping_0c1b897a"
 msgid ""
 "She hesitantly glances your way, and then with a shrug pulls her [Line] over "
@@ -93390,19 +93048,16 @@ msgstr ""
 "d'épaules, elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2042
-#, fuzzy
 msgctxt "Girl_Stripping_088dfb87_1"
 msgid "She drops her shoulders and her [Line] falls to the floor."
 msgstr "Elle baisse ses épaules et sa [Line] tombe par terre."
 
 #: game/script Sex.rpy:2044
-#, fuzzy
 msgctxt "Girl_Stripping_ed9fb03c"
 msgid "She pulls her [Line] over her head, tossing it to the ground."
 msgstr "Elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2060
-#, fuzzy
 msgid ""
 "She hesitantly glances your way, and then with a shrug pulls her [Line] through "
 "herself, tossing it to the ground."
@@ -93411,7 +93066,6 @@ msgstr ""
 "d'épaules, elle se tire une [Line] à travers elle-même, la jetant au sol."
 
 #: game/script Sex.rpy:2062
-#, fuzzy
 msgctxt "Girl_Stripping_0c1b897a_1"
 msgid ""
 "She hesitantly glances your way, and then with a shrug pulls her [Line] over "
@@ -93421,25 +93075,21 @@ msgstr ""
 "d'épaules, elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2071
-#, fuzzy
 msgid "She pulls her [Line] through herself, tossing it to the ground."
 msgstr "Elle tire sa [Line] à travers elle-même, la jetant au sol."
 
 #: game/script Sex.rpy:2073
-#, fuzzy
 msgctxt "Girl_Stripping_ed9fb03c_1"
 msgid "She pulls her [Line] over her head, tossing it to the ground."
 msgstr "Elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2089
-#, fuzzy
 msgid ""
 "She shyly looks up at you, and then slowly lets her [Line] slide to the floor."
 msgstr ""
 "Elle te regarde timidement, puis laisse lentement glisser sa [Line] vers le sol."
 
 #: game/script Sex.rpy:2091
-#, fuzzy
 msgid ""
 "She hesitantly looks up at you, and then slowly unzips and pulls down her "
 "[Line], dropping them to the floor."
@@ -93448,7 +93098,6 @@ msgstr ""
 "et tire sur sa [Line], les faisant tomber par terre."
 
 #: game/script Sex.rpy:2093
-#, fuzzy
 msgid ""
 "She shyly looks up at you, and then slowly unzips and pulls down her [Line], "
 "dropping them to the floor."
@@ -93457,13 +93106,11 @@ msgstr ""
 "tire sa [Line] vers le bas, les faisant tomber par terre."
 
 #: game/script Sex.rpy:2099
-#, fuzzy
 msgid "She lets her [Line] pass through her legs, dropping them to the floor."
 msgstr ""
 "Elle laisse passer sa [Line] entre ses jambes, les faisant tomber par terre."
 
 #: game/script Sex.rpy:2101
-#, fuzzy
 msgctxt "Girl_Stripping_55340f9e_1"
 msgid "She unzips and pulls down her [Line], dropping them to the floor."
 msgstr ""
@@ -93471,7 +93118,6 @@ msgstr ""
 "terre."
 
 #: game/script Sex.rpy:2118
-#, fuzzy
 msgctxt "Girl_Stripping_862366db"
 msgid ""
 "She hesitantly glances your way, and then with a tug pulls her [Line] through "
@@ -93481,7 +93127,6 @@ msgstr ""
 "transperce elle-même et la jette au sol."
 
 #: game/script Sex.rpy:2120
-#, fuzzy
 msgctxt "Girl_Stripping_0c1b897a_2"
 msgid ""
 "She hesitantly glances your way, and then with a shrug pulls her [Line] over "
@@ -93491,19 +93136,16 @@ msgstr ""
 "d'épaules, elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2124
-#, fuzzy
 msgctxt "Girl_Stripping_088dfb87_2"
 msgid "She drops her shoulders and her [Line] falls to the floor."
 msgstr "Elle baisse ses épaules et sa [Line] tombe par terre."
 
 #: game/script Sex.rpy:2126
-#, fuzzy
 msgctxt "Girl_Stripping_ed9fb03c_2"
 msgid "She pulls her [Line] over her head, tossing it to the ground."
 msgstr "Elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2159
-#, fuzzy
 msgctxt "Girl_Stripping_862366db_1"
 msgid ""
 "She hesitantly glances your way, and then with a tug pulls her [Line] through "
@@ -93513,7 +93155,6 @@ msgstr ""
 "transperce elle-même et la jette au sol."
 
 #: game/script Sex.rpy:2161
-#, fuzzy
 msgctxt "Girl_Stripping_0c1b897a_3"
 msgid ""
 "She hesitantly glances your way, and then with a shrug pulls her [Line] over "
@@ -93523,19 +93164,16 @@ msgstr ""
 "d'épaules, elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2166
-#, fuzzy
 msgctxt "Girl_Stripping_088dfb87_3"
 msgid "She drops her shoulders and her [Line] falls to the floor."
 msgstr "Elle baisse ses épaules et sa [Line] tombe par terre."
 
 #: game/script Sex.rpy:2168
-#, fuzzy
 msgctxt "Girl_Stripping_ed9fb03c_3"
 msgid "She pulls her [Line] over her head, tossing it to the ground."
 msgstr "Elle tire sa [Line] au-dessus de sa tête, la jetant au sol."
 
 #: game/script Sex.rpy:2186
-#, fuzzy
 msgid ""
 "She shyly looks up at you, and then slowly tugs her [Line] off, flinging them "
 "to the side."
@@ -93544,7 +93182,6 @@ msgstr ""
 "le côté."
 
 #: game/script Sex.rpy:2188
-#, fuzzy
 msgid ""
 "She hesitantly looks up at you, and then slowly pulls her [Line] down, kicking "
 "them off to the side."
@@ -93553,7 +93190,6 @@ msgstr ""
 "poussant sur le côté."
 
 #: game/script Sex.rpy:2190
-#, fuzzy
 msgid ""
 "She shyly looks up at you, and then slowly pulls her [Line] down, kicking them "
 "off to the side."
@@ -93562,7 +93198,6 @@ msgstr ""
 "poussant sur le côté."
 
 #: game/script Sex.rpy:2196
-#, fuzzy
 msgid ""
 "She looks up at you, and then gently pulls her [Line] off, flicking them to the "
 "side."
@@ -93571,31 +93206,26 @@ msgstr ""
 "côté."
 
 #: game/script Sex.rpy:2198
-#, fuzzy
 msgid ""
 "She looks up at you, and then gently pulls her [Line] down, kicking them off to "
 "the side."
 msgstr ""
-"Elle te regarde, puis tire doucement sa [Line] vers le bas, en les frappant sur "
+"Elle te regarde, puis tire doucement sa [Line] vers le bas, en les lançant sur "
 "le côté."
 
 #: game/script Sex.rpy:2207
-#, fuzzy
 msgid "I'm afraid that's all I have on, [Girl.Petname]. . ."
 msgstr "J'ai bien peur que ce soit tout ce que j'ai sur moi, [Girl.Petname]..."
 
 #: game/script Sex.rpy:2209
-#, fuzzy
 msgid "It looks like I've run out of clothes. . ."
 msgstr "On dirait que je n'ai plus de vêtements..."
 
 #: game/script Sex.rpy:2211
-#, fuzzy
 msgid "Well, it appears I've run out of clothes, [Girl.Petname]. . ."
 msgstr "Eh bien, il semble que je n'ai plus de vêtements, [Girl.Petname]..."
 
 #: game/script Sex.rpy:2213
-#, fuzzy
 msgid "Well, that's all I've got, [Girl.Petname]. . ."
 msgstr "Eh bien, c'est tout ce que j'ai, [Girl.Petname]..."
 
@@ -93608,11 +93238,9 @@ msgid "Keep on dancing"
 msgstr "Continue de danser"
 
 #: game/script Sex.rpy:2244
-#, fuzzy
 msgid "You're spitting dust here, maybe just watch quietly for a while."
 msgstr ""
-"Vous crachez de la poussière ici, regardez peut-être tranquillement pendant un "
-"moment."
+"Tu manques d'excitation, regarde peut-être tranquillement pendant un moment."
 
 #: game/script Sex.rpy:2267
 msgctxt "Girl_Stripping_95449e0e"
@@ -93653,17 +93281,14 @@ msgid "Ok. . ."
 msgstr "Ok..."
 
 #: game/script Sex.rpy:2295
-#, fuzzy
 msgid "K. . ."
 msgstr "K..."
 
 #: game/script Sex.rpy:2297
-#, fuzzy
 msgid "Oh? Very well."
 msgstr "Oh ? Très bien."
 
 #: game/script Sex.rpy:2299
-#, fuzzy
 msgid "Huh? I guess. . ."
 msgstr "Hein ? Je suppose..."
 
@@ -93678,7 +93303,6 @@ msgid "Huh?"
 msgstr "Hein ?"
 
 #: game/script Sex.rpy:2340
-#, fuzzy
 msgid "Ok, [Girl.Petname]. . . "
 msgstr "Ok, [Girl.Petname].. "
 
@@ -93688,46 +93312,38 @@ msgid "Ok. . ."
 msgstr "Ok..."
 
 #: game/script Sex.rpy:2361
-#, fuzzy
 msgid "That's as far as I care to go, [Girl.Petname]."
 msgstr "Je n'irai pas plus loin, [Girl.Petname]."
 
 #: game/script Sex.rpy:2363
-#, fuzzy
 msgid "That's all you get."
-msgstr "C'est tout ce que vous obtenez."
+msgstr "Ca sera tout."
 
 #: game/script Sex.rpy:2365
-#, fuzzy
 msgid "I think that's plenty, [Girl.Petname]."
 msgstr "Je pense que c'est beaucoup, [Girl.Petname]."
 
 #: game/script Sex.rpy:2367
-#, fuzzy
 msgid "Last call, [Girl.Petname]."
 msgstr "Dernier appel, [Girl.Petname]."
 
 #: game/script Sex.rpy:2370
-#, fuzzy
 msgid "I'm sorry, [Girl.Petname], I'm not ready to show you more. . . Yet."
 msgstr ""
-"Je suis désolée, [Girl.Petname], je ne suis pas prêt à toi en montrer plus... "
+"Je suis désolée, [Girl.Petname], je ne suis pas prête à t'en montrer plus... "
 "Pour l'instant."
 
 #: game/script Sex.rpy:2372
-#, fuzzy
 msgid "I don't know, [Girl.Petname], that's as far as I'll go for now."
 msgstr "Je ne sais pas, [Girl.Petname], je n'irai pas plus loin pour l'instant."
 
 #: game/script Sex.rpy:2374
-#, fuzzy
 msgid "I'm afraid that's as far as I'm ready to go, [Girl.Petname]. . . for now."
 msgstr ""
-"Je crains que je ne sois pas plus prêt à aller plus loin, [Girl.Petname]... "
-"pour l'instant."
+"Je crains que je ne sois pas prête à aller plus loin, [Girl.Petname]... pour "
+"l'instant."
 
 #: game/script Sex.rpy:2376
-#, fuzzy
 msgid "Ok, that's enough, [Girl.Petname]. . . for now."
 msgstr "Ok, ça suffit, [Girl.Petname]... pour l'instant."
 
@@ -93755,27 +93371,23 @@ msgid "Heh, alright."
 msgstr "Héhé, d'accord."
 
 #: game/script Sex.rpy:2402
-#, fuzzy
 msgid "Oh, if I must, [Girl.Petname]."
 msgstr "Oh, s'il le faut, [Girl.Petname]."
 
 #: game/script Sex.rpy:2404
-#, fuzzy
 msgid "Eh? Fine."
-msgstr "Hein ? Bien."
+msgstr "Hein ? Okay."
 
 #: game/script Sex.rpy:2409
-#, fuzzy
 msgctxt "Strip_Ultimatum_8c4c7b60"
 msgid ""
 "I don't know who you think I am, but I ain't gonna just jump when you say \"toad"
 "\"."
 msgstr ""
-"Je ne sais pas pour qui vous me prenez, mais je ne vais pas sauter quand vous "
-"dites \"crapaud\"."
+"Je ne sais pas pour qui tu me prends, mais je ne vais pas sauter quand tu dis "
+"\"crapaud\"."
 
 #: game/script Sex.rpy:2410
-#, fuzzy
 msgctxt "Strip_Ultimatum_47a38dbc"
 msgid "I think we're done here for now."
 msgstr "Je pense que nous en avons terminé pour l'instant."
@@ -93791,7 +93403,6 @@ msgid "I'm done with this."
 msgstr "J'en ai fini avec ça."
 
 #: game/script Sex.rpy:2415
-#, fuzzy
 msgctxt "Strip_Ultimatum_9f55619f"
 msgid "I think you're overstepping your bounds here, [Girl.Petname]."
 msgstr "Je pense que tu dépasses les limites, [Girl.Petname]."
@@ -93807,19 +93418,16 @@ msgid "I don't like that tone, [Girl.Petname]."
 msgstr "Je n'aime pas ce ton, [Girl.Petname]."
 
 #: game/script Sex.rpy:2431
-#, fuzzy
 msgid "I. . . guess I could. . ."
-msgstr "I.... je suppose que je pourrais..."
+msgstr "Je.... je suppose que je pourrais..."
 
 #: game/script Sex.rpy:2433
-#, fuzzy
 msgid "I. . . could show a bit more. . ."
-msgstr "I.... pourrais en montrer un peu plus..."
+msgstr "Je.... pourrais en montrer un peu plus..."
 
 #: game/script Sex.rpy:2435
-#, fuzzy
 msgid "Hmm, forceful. . ."
-msgstr "Hmm, fort..."
+msgstr "Hmm, forceur..."
 
 #: game/script Sex.rpy:2437
 msgctxt "Strip_Ultimatum_79038b44"
@@ -93827,17 +93435,15 @@ msgid "Grrrr. . ."
 msgstr "Grrrr..."
 
 #: game/script Sex.rpy:2444
-#, fuzzy
 msgctxt "Strip_Ultimatum_8c4c7b60_1"
 msgid ""
 "I don't know who you think I am, but I ain't gonna just jump when you say \"toad"
 "\"."
 msgstr ""
-"Je ne sais pas pour qui vous me prenez, mais je ne vais pas sauter quand vous "
-"dites \"crapaud\"."
+"Je ne sais pas pour qui tu me prends, mais je ne vais pas sauter quand tu dis "
+"\"crapaud\"."
 
 #: game/script Sex.rpy:2445
-#, fuzzy
 msgctxt "Strip_Ultimatum_47a38dbc_1"
 msgid "I think we're done here for now."
 msgstr "Je pense que nous en avons terminé pour l'instant."
@@ -93852,7 +93458,6 @@ msgid "I'm done with this."
 msgstr "J'en ai fini avec ça."
 
 #: game/script Sex.rpy:2450
-#, fuzzy
 msgctxt "Strip_Ultimatum_9f55619f_1"
 msgid "I think you're overstepping your bounds here, [Girl.Petname]."
 msgstr "Je pense que tu dépasses les limites, [Girl.Petname]."
@@ -93868,22 +93473,18 @@ msgid "I don't like that tone, [Girl.Petname]."
 msgstr "Je n'aime pas ce ton, [Girl.Petname]."
 
 #: game/script Sex.rpy:2465
-#, fuzzy
 msgid "Well, if you insist. . ."
 msgstr "Eh bien, si tu insistes..."
 
 #: game/script Sex.rpy:2467
-#, fuzzy
 msgid "I mean, maybe. . ."
 msgstr "Je veux dire, peut-être..."
 
 #: game/script Sex.rpy:2469
-#, fuzzy
 msgid "I can't imagine doing better than \"perfection\". . ."
 msgstr "Je ne peux pas imaginer faire mieux que la \"perfection\"..."
 
 #: game/script Sex.rpy:2471
-#, fuzzy
 msgid ". . . Right. . ."
 msgstr "... Bon...."
 
@@ -93905,7 +93506,6 @@ msgid "Ahhh, that hit the spot. . ."
 msgstr "Ahhh, c'était parfait..."
 
 #: game/script Sex.rpy:2550
-#, fuzzy
 msgid ""
 "Suddenly, [Girl.Name] jerks up from what she was doing with a start, and gives "
 "[Partner.Name] a nudge."
